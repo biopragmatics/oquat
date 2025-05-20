@@ -2,6 +2,31 @@
   "results": {
     "http://purl.obolibrary.org/obo/idomal.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/idomal.owl",
+      "prop_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/IDOMAL_000092": [
+            "IDOMAL:000092"
+          ],
+          "http://purl.obolibrary.org/obo/IDOMAL_002049": [
+            "IDOMAL:002049"
+          ],
+          "http://purl.obolibrary.org/obo/IDOMAL_002158": [
+            "IDOMAL:002158"
+          ],
+          "http://purl.obolibrary.org/obo/IDOMAL_002362": [
+            "IDOMAL:002362"
+          ]
+        },
+        "known_prefixes": {},
+        "label": "Node Properties",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "MOSBP": {
+            "http://purl.obolibrary.org/obo/IDOMAL_0002198": "MOSBP:0000237"
+          }
+        }
+      },
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/IDOMAL_0000002": [
@@ -978,7 +1003,7 @@
           }
         }
       },
-      "version": "http://purl.obolibrary.org/obo/idomal/2015-03-16/idomal.owl",
+      "version_iri": "http://purl.obolibrary.org/obo/idomal/2015-03-16/idomal.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/IDOMAL_0002461": [

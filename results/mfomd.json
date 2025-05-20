@@ -14,15 +14,8 @@
           }
         }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/MFOMD/2020-04-26/MFOMD.owl",
+      "version": "2020-04-26",
+      "version_iri": "http://purl.obolibrary.org/obo/MFOMD/2020-04-26/MFOMD.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/MFOMD_0000004": [

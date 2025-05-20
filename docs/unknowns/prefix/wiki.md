@@ -45,3 +45,9 @@
 | wiki:http\://en.wikipedia.org/wiki/Volcanic_arc           |        1 | [ENVO:00000352](http://purl.obolibrary.org/obo/ENVO_00000352) |
 | wiki:http://www.webref.org/geology/g/geothermal_field.htm |        1 | [ENVO:00000373](http://purl.obolibrary.org/obo/ENVO_00000373) |
 
+## clm
+
+| curie                           |   usages | nodes                                                   |
+|---------------------------------|----------|---------------------------------------------------------|
+| Wiki:Mural_cell&oldid=930603194 |        1 | [CL:0008034](http://purl.obolibrary.org/obo/CL_0008034) |
+

@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `mgi`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 10 resources,
+`^\d+$`. Of the 11 resources,
 2 variants on the standard prefix were found: ['MGD', 'MGI'].
 
 ## `bto`: BRENDA Tissue Ontology
@@ -13399,6 +13399,22 @@ Identifiers for this prefix are given incorrectly in `cco`.
 | `MGI:MGI:1923195` |              1 | [NCBIGene:99887](http://purl.obolibrary.org/obo/NCBIGene_99887)         |
 | `MGI:MGI:2443016` |              1 | [NCBIGene:99899](http://purl.obolibrary.org/obo/NCBIGene_99899)         |
 | `MGI:MGI:1196256` |              1 | [NCBIGene:99982](http://purl.obolibrary.org/obo/NCBIGene_99982)         |
+
+## `clm`: Cell Markers Ontology
+
+Identifiers for this prefix are given incorrectly in `clm`. See the [GitHub repository](https://github.com/Cellular-Semantics/CellMark).
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                                   |
+|-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `MGI:csmith`    |             19 | [UBERON:0001166](http://purl.obolibrary.org/obo/UBERON_0001166), [UBERON:0001167](http://purl.obolibrary.org/obo/UBERON_0001167), [UBERON:0001174](http://purl.obolibrary.org/obo/UBERON_0001174), [UBERON:0001200](http://purl.obolibrary.org/obo/UBERON_0001200), [UBERON:0001201](http://purl.obolibrary.org/obo/UBERON_0001201), ... |
+| `MGI:anna`      |             12 | [UBERON:0000076](http://purl.obolibrary.org/obo/UBERON_0000076), [UBERON:0000114](http://purl.obolibrary.org/obo/UBERON_0000114), [UBERON:0000325](http://purl.obolibrary.org/obo/UBERON_0000325), [UBERON:0001070](http://purl.obolibrary.org/obo/UBERON_0001070), [UBERON:0001532](http://purl.obolibrary.org/obo/UBERON_0001532), ... |
+| `MGI:cwg`       |              9 | [UBERON:0001013](http://purl.obolibrary.org/obo/UBERON_0001013), [UBERON:0001901](http://purl.obolibrary.org/obo/UBERON_0001901), [UBERON:0002173](http://purl.obolibrary.org/obo/UBERON_0002173), [UBERON:0002185](http://purl.obolibrary.org/obo/UBERON_0002185), [UBERON:0002186](http://purl.obolibrary.org/obo/UBERON_0002186), ... |
+| `MGI:smb`       |              4 | [UBERON:0001772](http://purl.obolibrary.org/obo/UBERON_0001772), [UBERON:0001804](http://purl.obolibrary.org/obo/UBERON_0001804), [UBERON:0003604](http://purl.obolibrary.org/obo/UBERON_0003604), [UBERON:0014389](http://purl.obolibrary.org/obo/UBERON_0014389)                                                                       |
+| `MGI:pvb`       |              1 | [UBERON:0000087](http://purl.obolibrary.org/obo/UBERON_0000087)                                                                                                                                                                                                                                                                          |
+| `MGI:rbabiuk`   |              1 | [UBERON:0001213](http://purl.obolibrary.org/obo/UBERON_0001213)                                                                                                                                                                                                                                                                          |
+| `MGI:monikat`   |              1 | [UBERON:0002511](http://purl.obolibrary.org/obo/UBERON_0002511)                                                                                                                                                                                                                                                                          |
+| `MGI:Anna`      |              1 | [UBERON:0005203](http://purl.obolibrary.org/obo/UBERON_0005203)                                                                                                                                                                                                                                                                          |
+| `MGI:cs`        |              1 | [UBERON:0034932](http://purl.obolibrary.org/obo/UBERON_0034932)                                                                                                                                                                                                                                                                          |
 
 ## `enm`: eNanoMapper ontology
 

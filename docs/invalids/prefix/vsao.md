@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `vsao`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 7 resources,
+`^\d{7}$`. Of the 8 resources,
 1 variants on the standard prefix were found: ['VSAO'].
 
 ## `cl`: Cell Ontology
@@ -12,6 +12,16 @@ Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repos
 | external_xref   |   usages_count | usages                                                                                                           |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------|
 | `VSAO:curator`  |              2 | [CL:0001039](http://purl.obolibrary.org/obo/CL_0001039), [CL:0001040](http://purl.obolibrary.org/obo/CL_0001040) |
+
+## `clm`: Cell Markers Ontology
+
+Identifiers for this prefix are given incorrectly in `clm`. See the [GitHub repository](https://github.com/Cellular-Semantics/CellMark).
+
+| external_xref           |   usages_count | usages                                                          |
+|-------------------------|----------------|-----------------------------------------------------------------|
+| `VSAO:curator`          |              1 | [UBERON:0002204](http://purl.obolibrary.org/obo/UBERON_0002204) |
+| `VSAO:0000150-modified` |              1 | [UBERON:0004710](http://purl.obolibrary.org/obo/UBERON_0004710) |
+| `VSAO:NI`               |              1 | [UBERON:0007272](http://purl.obolibrary.org/obo/UBERON_0007272) |
 
 ## `nif`
 

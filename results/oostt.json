@@ -2,31 +2,27 @@
   "results": {
     "http://purl.obolibrary.org/obo/oostt.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/oostt.owl",
-      "prov_pack": {
-        "invalid_luids": {},
+      "prop_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/OOSTT_00000294": [
+            "PMID: 16531850"
+          ],
+          "http://purl.obolibrary.org/obo/OOSTT_00000295": [
+            "PMID: 16531850"
+          ]
+        },
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "government (http": {
+            "http://purl.obolibrary.org/obo/OOSTT_00000112": "government (http://www.ontologyrepository.com/CommonCoreOntologies/Government)"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/oostt/release/2025-01-24/oostt.owl",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "release version - 2025-01-24",
+      "version_iri": "http://purl.obolibrary.org/obo/oostt/release/2025-01-24/oostt.owl"
     }
   }
 }

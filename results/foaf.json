@@ -2,29 +2,17 @@
   "results": {
     "http://vivoweb.org/ontology/core/vivo-foaf-public-1.5.owl": {
       "graph_id": "http://vivoweb.org/ontology/core/vivo-foaf-public-1.5.owl",
-      "prov_pack": {
+      "prop_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "see": {
+            "http://xmlns.com/foaf/0.1/Agent": "see: http://xmlns.com/foaf/spec/#term_Agent"
+          }
+        }
       }
     }
   }

@@ -2,6 +2,21 @@
   "results": {
     "http://purl.obolibrary.org/obo/mondo.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/mondo.owl",
+      "prop_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/MONDO_0006728": [
+            "MONDO:800000"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_0010107": [
+            "MONDO:800012"
+          ]
+        },
+        "known_prefixes": {},
+        "label": "Node Properties",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/MONDO_0000062": [
@@ -43637,6 +43652,9 @@
           "http://purl.obolibrary.org/obo/MONDO_0018257": [
             "MONDO:patterns/hereditary"
           ],
+          "http://purl.obolibrary.org/obo/MONDO_0018273": [
+            "MEDGEN:C4750849"
+          ],
           "http://purl.obolibrary.org/obo/MONDO_0018274": [
             "MONDO:design_pattern",
             "MONDO:patterns/basis_in_disruption_of_process"
@@ -52863,18 +52881,9 @@
           }
         }
       },
-      "version": "http://purl.obolibrary.org/obo/mondo/releases/2025-05-06/mondo.owl",
+      "version_iri": "http://purl.obolibrary.org/obo/mondo/releases/2025-05-06/mondo.owl",
       "xref_pack": {
         "invalid_luids": {
-          "http://purl.obolibrary.org/obo/MONDO_0000009": [
-            "MEDGEN:610"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0000437": [
-            "MEDGEN:849"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0000661": [
-            "MEDGEN:194"
-          ],
           "http://purl.obolibrary.org/obo/MONDO_0000890": [
             "MESH:1622152"
           ],
@@ -52884,81 +52893,14 @@
           "http://purl.obolibrary.org/obo/MONDO_0000922": [
             "ICD9:614-616.99"
           ],
-          "http://purl.obolibrary.org/obo/MONDO_0001122": [
-            "MEDGEN:966"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0001531": [
-            "MEDGEN:604"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0001564": [
-            "MEDGEN:571"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0001612": [
-            "MEDGEN:785"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0001751": [
-            "MEDGEN:925"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0001797": [
-            "MEDGEN:872"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0001882": [
-            "MEDGEN:491"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0001909": [
-            "MEDGEN:90"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0001939": [
-            "MEDGEN:297"
-          ],
           "http://purl.obolibrary.org/obo/MONDO_0002041": [
             "ICD9:110-118.99"
           ],
-          "http://purl.obolibrary.org/obo/MONDO_0002123": [
-            "MEDGEN:709"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0002155": [
-            "MEDGEN:920"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0002278": [
-            "MEDGEN:525"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0002443": [
-            "MEDGEN:676"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0002471": [
-            "MEDGEN:691"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0002476": [
-            "MEDGEN:358"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0002512": [
-            "MEDGEN:123"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0002519": [
-            "MEDGEN:359"
-          ],
           "http://purl.obolibrary.org/obo/MONDO_0002657": [
-            "ICD9:610-612.99",
-            "MEDGEN:652"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0002816": [
-            "MEDGEN:154"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0002901": [
-            "MEDGEN:609"
+            "ICD9:610-612.99"
           ],
           "http://purl.obolibrary.org/obo/MONDO_0003011": [
             "ICDO:0000/0"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0003039": [
-            "MEDGEN:312"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0003040": [
-            "MEDGEN:264"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0003046": [
-            "MEDGEN:360"
           ],
           "http://purl.obolibrary.org/obo/MONDO_0003150": [
             "ICD9:600-608.99"
@@ -52969,61 +52911,26 @@
           "http://purl.obolibrary.org/obo/MONDO_0003620": [
             "ICD9:350-359.99"
           ],
-          "http://purl.obolibrary.org/obo/MONDO_0003709": [
-            "MEDGEN:175"
-          ],
           "http://purl.obolibrary.org/obo/MONDO_0004309": [
             "ICDO:8800/9"
           ],
           "http://purl.obolibrary.org/obo/MONDO_0004335": [
             "ICD9:520-579.99"
           ],
-          "http://purl.obolibrary.org/obo/MONDO_0004575": [
-            "MEDGEN:930"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0004613": [
-            "MEDGEN:116"
-          ],
           "http://purl.obolibrary.org/obo/MONDO_0004647": [
-            "ICD9:230-234.99",
-            "MEDGEN:763"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0004652": [
-            "MEDGEN:484"
+            "ICD9:230-234.99"
           ],
           "http://purl.obolibrary.org/obo/MONDO_0004664": [
             "ICD9:120-129.99"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0004674": [
-            "MEDGEN:942"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0004785": [
-            "MEDGEN:598"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0004846": [
-            "MEDGEN:49"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0004970": [
-            "MEDGEN:122"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0004972": [
-            "MEDGEN:125"
           ],
           "http://purl.obolibrary.org/obo/MONDO_0004975": [
             "NIFSTD:birnlex_2092"
           ],
           "http://purl.obolibrary.org/obo/MONDO_0004976": [
-            "MEDGEN:274",
             "NIFSTD:birnlex_12566"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0004981": [
-            "MEDGEN:445"
           ],
           "http://purl.obolibrary.org/obo/MONDO_0004985": [
             "NIFSTD:birnlex_12754"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0004987": [
-            "MEDGEN:594"
           ],
           "http://purl.obolibrary.org/obo/MONDO_0004992": [
             "NIFSTD:birnlex_406"
@@ -53046,9 +52953,6 @@
             "ICD9:560-569.99",
             "ICD9:570-579.99"
           ],
-          "http://purl.obolibrary.org/obo/MONDO_0005023": [
-            "MEDGEN:765"
-          ],
           "http://purl.obolibrary.org/obo/MONDO_0005027": [
             "NIFSTD:birnlex_12718"
           ],
@@ -53067,15 +52971,9 @@
           "http://purl.obolibrary.org/obo/MONDO_0005072": [
             "NIFSTD:birnlex_12631"
           ],
-          "http://purl.obolibrary.org/obo/MONDO_0005082": [
-            "MEDGEN:764"
-          ],
           "http://purl.obolibrary.org/obo/MONDO_0005084": [
             "ICD9:290-299.99",
             "NIFSTD:birnlex_12669"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0005086": [
-            "MEDGEN:766"
           ],
           "http://purl.obolibrary.org/obo/MONDO_0005087": [
             "ICD9:460-519.99",
@@ -53106,77 +53004,20 @@
           "http://purl.obolibrary.org/obo/MONDO_0005150": [
             "NIFSTD:birnlex_12812"
           ],
-          "http://purl.obolibrary.org/obo/MONDO_0005160": [
-            "MEDGEN:362"
-          ],
           "http://purl.obolibrary.org/obo/MONDO_0005165": [
             "ICD9:210-229.99"
           ],
           "http://purl.obolibrary.org/obo/MONDO_0005180": [
             "NIFSTD:birnlex_2098"
           ],
-          "http://purl.obolibrary.org/obo/MONDO_0005229": [
-            "MEDGEN:482"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0005264": [
-            "MEDGEN:853"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0005340": [
-            "MEDGEN:213"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0005351": [
-            "MEDGEN:316"
-          ],
           "http://purl.obolibrary.org/obo/MONDO_0005402": [
             "ICDO:981-983"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0005491": [
-            "MEDGEN:868"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0005557": [
-            "MEDGEN:714"
           ],
           "http://purl.obolibrary.org/obo/MONDO_0005570": [
             "ICD9:280-289.99"
           ],
-          "http://purl.obolibrary.org/obo/MONDO_0005618": [
-            "MEDGEN:361"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0005636": [
-            "MEDGEN:126"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0005638": [
-            "MEDGEN:174"
-          ],
           "http://purl.obolibrary.org/obo/MONDO_0005649": [
             "ICD9:540-543.99"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0005664": [
-            "MEDGEN:504"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0005668": [
-            "MEDGEN:586"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0005672": [
-            "MEDGEN:597"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0005673": [
-            "MEDGEN:600"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0005683": [
-            "MEDGEN:674"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0005690": [
-            "MEDGEN:743"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0005844": [
-            "MEDGEN:869"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0006021": [
-            "MEDGEN:295"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0006108": [
-            "MEDGEN:918"
           ],
           "http://purl.obolibrary.org/obo/MONDO_0006131": [
             "ICDO:0000/0"
@@ -53184,90 +53025,14 @@
           "http://purl.obolibrary.org/obo/MONDO_0006397": [
             "ICDO:0000/0"
           ],
-          "http://purl.obolibrary.org/obo/MONDO_0006493": [
-            "MEDGEN:124"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0006497": [
-            "MEDGEN:854"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0006506": [
-            "MEDGEN:284"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0006625": [
-            "MEDGEN:229"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0006641": [
-            "MEDGEN:161"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0006676": [
-            "MEDGEN:543"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0006805": [
-            "MEDGEN:296"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0006944": [
-            "MEDGEN:254"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0006992": [
-            "MEDGEN:364"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0007035": [
-            "MEDGEN:54"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0007254": [
-            "MEDGEN:651"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0007416": [
-            "MEDGEN:495"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0008207": [
-            "MEDGEN:939"
-          ],
           "http://purl.obolibrary.org/obo/MONDO_0008608": [
             "NIFSTD:nlx_dys_20090502"
           ],
-          "http://purl.obolibrary.org/obo/MONDO_0008829": [
-            "MEDGEN:969"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0008840": [
-            "MEDGEN:439"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0009280": [
-            "MEDGEN:891"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0010557": [
-            "MEDGEN:944"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0010604": [
-            "MEDGEN:945"
-          ],
           "http://purl.obolibrary.org/obo/MONDO_0011057": [
-            "ICD9:430-438.99",
-            "MEDGEN:858"
+            "ICD9:430-438.99"
           ],
           "http://purl.obolibrary.org/obo/MONDO_0011122": [
             "NIFSTD:nlx_dys_20090302"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0011382": [
-            "MEDGEN:287"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0012268": [
-            "MEDGEN:99"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0015265": [
-            "MEDGEN:665"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0015977": [
-            "MEDGEN:168"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0016430": [
-            "MEDGEN:498"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0016486": [
-            "MEDGEN:283"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0016523": [
-            "MEDGEN:668"
           ],
           "http://purl.obolibrary.org/obo/MONDO_0017048": [
             "ICDO:8480/6"
@@ -53275,71 +53040,14 @@
           "http://purl.obolibrary.org/obo/MONDO_0017767": [
             "ICD9:390-392.99"
           ],
-          "http://purl.obolibrary.org/obo/MONDO_0018690": [
-            "MEDGEN:138"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0019065": [
-            "MEDGEN:272"
-          ],
           "http://purl.obolibrary.org/obo/MONDO_0019496": [
             "ICD9:209-209.99"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0019507": [
-            "MEDGEN:240"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0019648": [
-            "MEDGEN:84"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0019781": [
-            "MEDGEN:438"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0020599": [
-            "MEDGEN:98"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0020600": [
-            "MEDGEN:114"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0020680": [
-            "MEDGEN:113"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0020689": [
-            "MEDGEN:177"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0020731": [
-            "MEDGEN:389"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0020779": [
-            "MEDGEN:935"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0020782": [
-            "MEDGEN:965"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0021902": [
-            "MEDGEN:365"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0024613": [
-            "MEDGEN:585"
           ],
           "http://purl.obolibrary.org/obo/MONDO_0024879": [
             "ICDO:8010/6"
           ],
           "http://purl.obolibrary.org/obo/MONDO_0024883": [
             "ICDO:8000/6"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0037872": [
-            "MEDGEN:637"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0043209": [
-            "MEDGEN:182"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0043472": [
-            "MEDGEN:103"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0043529": [
-            "MEDGEN:762"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0700064": [
-            "MEDGEN:294"
           ],
           "http://purl.obolibrary.org/obo/MONDO_0700092": [
             "MedDRA:C1535926"

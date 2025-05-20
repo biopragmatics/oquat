@@ -2,6 +2,34 @@
   "results": {
     "http://purl.unep.org/sdg/sdgio.owl": {
       "graph_id": "http://purl.unep.org/sdg/sdgio.owl",
+      "prop_pack": {
+        "invalid_luids": {},
+        "known_prefixes": {},
+        "label": "Node Properties",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "GOC": {
+            "http://purl.obolibrary.org/obo/RO_0002297": "GOC:mtg_berkeley_2013"
+          },
+          "GROUP": {
+            "http://purl.obolibrary.org/obo/IAO_0000078": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>"
+          },
+          "PERSON": {
+            "http://purl.obolibrary.org/obo/IAO_0000078": "PERSON:Bill Bug",
+            "http://purl.obolibrary.org/obo/IAO_0000224": "PERSON: Melanie Courtot",
+            "http://purl.obolibrary.org/obo/IAO_0000225": "PERSON: Melanie Courtot"
+          },
+          "Person": {
+            "http://purl.obolibrary.org/obo/IAO_0000102": "Person:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/IAO_0000103": "Person:Alan Ruttenberg"
+          },
+          "group": {
+            "http://purl.obolibrary.org/obo/IAO_0000423": "group:OBI",
+            "http://purl.obolibrary.org/obo/IAO_0000428": "group:OBI"
+          }
+        }
+      },
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/ENVO_00000070": [
@@ -67,15 +95,7 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "http://purl.unep.org/sdg/releases/2018-08-10/sdgio.owl",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version_iri": "http://purl.unep.org/sdg/releases/2018-08-10/sdgio.owl"
     }
   }
 }

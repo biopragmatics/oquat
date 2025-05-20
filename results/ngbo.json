@@ -2,31 +2,28 @@
   "results": {
     "http://purl.obolibrary.org/obo/ngbo.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/ngbo.owl",
-      "prov_pack": {
+      "prop_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "inferred from https": {
+            "http://purl.obolibrary.org/obo/NGBO_6000004": "inferred from https://en.wikipedia.org/wiki/Variant_Call_Format",
+            "http://purl.obolibrary.org/obo/NGBO_6000123": "inferred from https://www.thermofisher.com/ca/en/home/life-science/gene-expression-analysis-genotyping/gene-expression-profiling.html",
+            "http://purl.obolibrary.org/obo/NGBO_6000198": "inferred from https://en.wikipedia.org/wiki/Single-molecule_real-time_sequencing",
+            "http://purl.obolibrary.org/obo/NGBO_6000201": "inferred from https://sequencing.roche.com/en/",
+            "http://purl.obolibrary.org/obo/NGBO_6000259": "inferred from https://support.microsoft.com/en-us/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5",
+            "http://purl.obolibrary.org/obo/NGBO_6000269": "inferred from https://www.genome.gov/genetics-glossary/Copy-Number-Variation",
+            "http://purl.obolibrary.org/obo/NGBO_6000377": "inferred from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2705234/",
+            "http://purl.obolibrary.org/obo/NGBO_6000394": "inferred from https://www.cytivalifesciences.com/en/us/solutions/genomics/knowledge-center/glossary/adapter-ligation",
+            "http://purl.obolibrary.org/obo/NGBO_6000397": "inferred from https://www.bgi.com/us/sequencing-services/dna-sequencing/target-region-sequencing/"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/ngbo/2024-08-27/ngbo.owl",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "2024-08-27",
+      "version_iri": "http://purl.obolibrary.org/obo/ngbo/2024-08-27/ngbo.owl"
     }
   }
 }

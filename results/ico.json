@@ -2,31 +2,64 @@
   "results": {
     "http://purl.obolibrary.org/obo/ico.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/ico.owl",
-      "prov_pack": {
-        "invalid_luids": {},
+      "prop_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/ICO_0000065": [
+            "UMLS: C0008976"
+          ],
+          "http://purl.obolibrary.org/obo/ICO_0000076": [
+            "UMLS CUI: C2921556"
+          ],
+          "http://purl.obolibrary.org/obo/ICO_0000078": [
+            "NCIt: C17102"
+          ],
+          "http://purl.obolibrary.org/obo/ICO_0000118": [
+            "UMLS: C0003738"
+          ]
+        },
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "noncanonical_prefixes": {
+          "UMLS CUI": {
+            "http://purl.obolibrary.org/obo/ICO_0000076": "UMLS CUI: C2921556"
+          }
+        },
+        "unknown_prefixes": {
+          "Adapted from http": {
+            "http://purl.obolibrary.org/obo/ICO_0000262": "Adapted from http://purl.obolibrary.org/obo/HP_0100543"
+          },
+          "Could reuse": {
+            "http://purl.obolibrary.org/obo/ICO_0000288": "Could reuse: http://purl.obolibrary.org/obo/ontoneo/ONTONEO_00000197"
+          },
+          "JV": {
+            "http://purl.obolibrary.org/obo/ICO_0000075": "JV: This probably belongs in D-Acts"
+          },
+          "This term was adapted from": {
+            "http://purl.obolibrary.org/obo/ICO_0000292": "This term was adapted from: http://purl.obolibrary.org/obo/NCIT_C70817"
+          },
+          "WEB": {
+            "http://purl.obolibrary.org/obo/ICO_0000013": "WEB: http://www.who.int/rpc/research_ethics/informed_consent/en/",
+            "http://purl.obolibrary.org/obo/ICO_0000029": "WEB: http://www.who.int/rpc/research_ethics/informed_consent/en/",
+            "http://purl.obolibrary.org/obo/ICO_0000030": "WEB: http://www.who.int/rpc/research_ethics/informed_consent/en/",
+            "http://purl.obolibrary.org/obo/ICO_0000031": "WEB: http://www.who.int/rpc/research_ethics/informed_consent/en/",
+            "http://purl.obolibrary.org/obo/ICO_0000032": "WEB: http://www.who.int/rpc/research_ethics/informed_consent/en/",
+            "http://purl.obolibrary.org/obo/ICO_0000033": "WEB: http://www.who.int/rpc/research_ethics/informed_consent/en/",
+            "http://purl.obolibrary.org/obo/ICO_0000034": "WEB: http://www.who.int/rpc/research_ethics/informed_consent/en/",
+            "http://purl.obolibrary.org/obo/ICO_0000122": "WEB: http://www.hhs.gov/ohrp/humansubjects/commonrule/",
+            "http://purl.obolibrary.org/obo/ICO_0000126": "WEB: http://answers.hhs.gov/ohrp/questions/7223",
+            "http://purl.obolibrary.org/obo/ICO_0000129": "WEB: http://www.irb.umich.edu/policies/consent/samples/Sample_SalivaCollection.pdf"
+          },
+          "adapted from": {
+            "http://purl.obolibrary.org/obo/ICO_0000308": "adapted from: http://purl.obolibrary.org/obo/NCIT_C113777"
+          },
+          "web": {
+            "http://purl.obolibrary.org/obo/ICO_0000062": "web: http://en.wikipedia.org/wiki/informed_consent"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/ico/releases/2025-03-15/ico.owl",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "2025-03-15",
+      "version_iri": "http://purl.obolibrary.org/obo/ico/releases/2025-03-15/ico.owl"
     }
   }
 }

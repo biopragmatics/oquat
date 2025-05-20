@@ -2,31 +2,67 @@
   "results": {
     "http://purl.obolibrary.org/obo/HEPRO.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/HEPRO.owl",
-      "prov_pack": {
+      "prop_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "2014-03-31": {
+            "http://purl.obolibrary.org/obo/IAO_0000027": "2014-03-31: See discussion at http://odontomachus.wordpress.com/2014/03/30/aboutness-objects-propositions/"
+          },
+          "GROUP": {
+            "http://purl.obolibrary.org/obo/OBI_0000245": "GROUP: OBI",
+            "http://purl.obolibrary.org/obo/OBI_0100026": "GROUP: OBI Biomaterial Branch"
+          },
+          "PERSON": {
+            "http://purl.obolibrary.org/obo/IAO_0000005": "PERSON: Jennifer Fostel",
+            "http://purl.obolibrary.org/obo/IAO_0000027": "PERSON: Jonathan Rees",
+            "http://purl.obolibrary.org/obo/IAO_0000028": "PERSON: Jonathan Rees",
+            "http://purl.obolibrary.org/obo/IAO_0000030": "PERSON: Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/IAO_0000033": "PERSON: Bjoern Peters",
+            "http://purl.obolibrary.org/obo/IAO_0000142": "PERSON: Jonathan Rees",
+            "http://purl.obolibrary.org/obo/IAO_0000300": "PERSON: Lawrence Hunter",
+            "http://purl.obolibrary.org/obo/IAO_0000310": "PERSON: Lawrence Hunter",
+            "http://purl.obolibrary.org/obo/IAO_0000577": "PERSON: Melanie Courtot",
+            "http://purl.obolibrary.org/obo/IAO_0000578": "PERSON: Melanie Courtot",
+            "http://purl.obolibrary.org/obo/IAO_0000579": "PERSON: Melanie Courtot",
+            "http://purl.obolibrary.org/obo/OBI_0000245": "PERSON: Susanna Sansone",
+            "http://purl.obolibrary.org/obo/OBI_0000293": "PERSON: Melanie Coutot",
+            "http://purl.obolibrary.org/obo/OBI_0000295": "PERSON:Bjoern Peters",
+            "http://purl.obolibrary.org/obo/OBI_0000299": "PERSON: Melanie Courtot",
+            "http://purl.obolibrary.org/obo/OBI_0000312": "PERSON:Bjoern Peters"
+          },
+          "Person": {
+            "http://purl.obolibrary.org/obo/BFO_0000180": "Person:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/IAO_0000142": "Person: Alan Ruttenberg"
+          },
+          "WEB": {
+            "http://purl.obolibrary.org/obo/OBI_0100026": "WEB: http://en.wikipedia.org/wiki/Organism"
+          },
+          "creation date": {
+            "http://purl.obolibrary.org/obo/OGMS_0000031": "creation date: 2009-06-23T11:21:20Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000045": "creation date: 2009-06-23T11:39:44Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000060": "creation date: 2009-06-23T11:53:49Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000061": "creation date: 2009-06-23T11:54:29Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000086": "creation date: 2009-11-24T04:51:11Z"
+          },
+          "group": {
+            "http://purl.obolibrary.org/obo/IAO_0000109": "group:OBI"
+          },
+          "note": {
+            "http://purl.obolibrary.org/obo/OGMS_0000020": "note: defined class"
+          },
+          "person": {
+            "http://purl.obolibrary.org/obo/IAO_0000109": "person:Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/IAO_0000136": "person:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/IAO_0000219": "person:Alan Ruttenberg"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/HEPRO/releases/2024-08-07/HEPRO.owl",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "2024-08-07",
+      "version_iri": "http://purl.obolibrary.org/obo/HEPRO/releases/2024-08-07/HEPRO.owl"
     }
   }
 }

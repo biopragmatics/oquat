@@ -4872,15 +4872,7 @@
           }
         }
       },
-      "version": "http://purl.obolibrary.org/obo/tao/2012-08-10/tao.owl",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version_iri": "http://purl.obolibrary.org/obo/tao/2012-08-10/tao.owl"
     }
   }
 }

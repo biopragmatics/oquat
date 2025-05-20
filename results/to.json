@@ -2,6 +2,18 @@
   "results": {
     "http://purl.obolibrary.org/obo/to.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/to.owl",
+      "prop_pack": {
+        "invalid_luids": {},
+        "known_prefixes": {},
+        "label": "Node Properties",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "'TO": {
+            "http://purl.obolibrary.org/obo/TO_0012003": "'TO:0000495'"
+          }
+        }
+      },
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/TO_0000003": [
@@ -3994,7 +4006,7 @@
           }
         }
       },
-      "version": "http://purl.obolibrary.org/obo/to/releases/2023-07-17/to.owl",
+      "version_iri": "http://purl.obolibrary.org/obo/to/releases/2023-07-17/to.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/TO_0000486": [

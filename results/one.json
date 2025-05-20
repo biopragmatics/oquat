@@ -2,29 +2,50 @@
   "results": {
     "http://purl.obolibrary.org/obo/ONE": {
       "graph_id": "http://purl.obolibrary.org/obo/ONE",
-      "prov_pack": {
+      "prop_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "PERSON": {
+            "http://purl.obolibrary.org/obo/ONE_0000001": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0000002": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0000003": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0000004": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0000005": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0000006": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0000007": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0000008": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0000009": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0000010": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0000011": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0000012": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0000013": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0000014": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0000015": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0000016": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0001001": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0001002": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0001003": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0001004": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0001005": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0001006": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0001007": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0001008": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0001009": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0001013": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0001014": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0001015": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0001016": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0001017": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0001018": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0001019": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0001020": "PERSON: Chen Yang",
+            "http://purl.obolibrary.org/obo/ONE_0001021": "PERSON: Chen Yang"
+          }
+        }
       }
     }
   }

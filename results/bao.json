@@ -2,23 +2,2034 @@
   "results": {
     "http://www.bioassayontology.org/bao/bao_complete.owl": {
       "graph_id": "http://www.bioassayontology.org/bao/bao_complete.owl",
-      "prov_pack": {
-        "invalid_luids": {},
+      "prop_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/CLO_0001008": [
+            "CHEMBL: CHEMBL3308147",
+            "CVCL: CVCL_0079",
+            "HyperCLDB: cl117"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0001230": [
+            "ATCC: CRL-1573",
+            "BTO: BTO_0000007",
+            "EFO: EFO_0001182)",
+            "RRID: CVCL_0045"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0001235": [
+            "ATCC: CRL-11268"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0001601": [
+            "ATCC: CCL-185",
+            "CHEMBL: CHEMBL3307651",
+            "CVCL: CVCL_0023",
+            "EFO: EFO_0001086",
+            "HyperCLDB: cl207"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0001654": [
+            "ATCC: CRL-1611",
+            "CHEMBL: CHEMBL3307633",
+            "CVCL: CVCL_1067",
+            "EFO: EFO_0002108"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0001716": [
+            "ATCC: CRL-2254"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0001842": [
+            "HyperCLDB: cl5028"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0002044": [
+            "ATCC: HTB-122",
+            "CHEMBL: CHEMBL3308490",
+            "CVCL: CVCL_1092",
+            "EFO: EFO_0001096"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0002115": [
+            "ATCC: HTB-31"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0002172": [
+            "ATCC: HTB-37",
+            "CHEMBL: CHEMBL3307519",
+            "CVCL: CVCL_0025",
+            "EFO: EFO_0001099",
+            "HyperCLDB: cl618",
+            "MeSH: D018938"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0002175": [
+            "HyperCLDB: cl623"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0002176": [
+            "ATCC: HTB-46",
+            "CHEMBL: CHEMBL3307522",
+            "CVCL: CVCL_0234",
+            "EFO: EFO_0002149"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0002191": [
+            "ATCC: HTB-54",
+            "CHEMBL: CHEMBL3308031",
+            "CVCL: CVCL_0608",
+            "EFO: EFO_0002151",
+            "HyperCLDB: cl631",
+            "HyperCLDB: cl632"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0002334": [
+            "ATCC: CCL-119",
+            "CHEMBL: CHEMBL3307641",
+            "CVCL: CVCL_0207",
+            "EFO: EFO_0002128"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0002420": [
+            "ATCC: CRL-9446"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0002421": [
+            "HyperCLDB: cl721",
+            "MeSH: D016466"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0002462": [
+            "ATCC: CCL-61"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0002544": [
+            "ATCC: CCL-222",
+            "CHEMBL: CHEMBL3308348",
+            "CVCL: CVCL_0218",
+            "ECACC: 87061208",
+            "EFO: EFO_0003082"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0002597": [
+            "ATCC: CRL-1651",
+            "MeSH: D019556"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0002785": [
+            "ATCC: CCL-221",
+            "CHEMBL: CHEMBL3307580",
+            "CVCL: CVCL_0248"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0002840": [
+            "ATCC: HTB-81"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0003603": [
+            "ATCC: CRL-1548"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0003610": [
+            "ATCC: CRL-11351"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0003665": [
+            "ATCC: CCL-247",
+            "ECACC: 91091005",
+            "HyperCLDB: cl1575",
+            "MeSH: D045325"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0003679": [
+            "CHEMBL: CHEMBL3308090",
+            "CVCL: CVCL_0001",
+            "DSMZ: ACC 11",
+            "HyperCLDB: cl1585"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0003684": [
+            "ATCC: CCL-2",
+            "CHEMBL: CHEMBL3308376",
+            "EFO: EFO_0001185",
+            "HyperCLDB: cl1601",
+            "MeSH: D006367"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0003704": [
+            "ATCC: HB-8065",
+            "HyperCLDB: cl1644"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0003775": [
+            "ATCC: CCL-240",
+            "CHEMBL: CHEMBL3307654",
+            "CVCL: CVCL_0002",
+            "EFO: EFO_0002793",
+            "HyperCLDB: cl1684",
+            "HyperCLDB: cl1689",
+            "MeSH: D018922"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0004009": [
+            "ATCC: HTB-126"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0004276": [
+            "ATCC: CCL-121"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0004283": [
+            "ATCC: HTB-38",
+            "CHEMBL: CHEMBL3307768",
+            "CVCL: CVCL_0320",
+            "EFO: EFO_0001193",
+            "HyperCLDB: cl1752",
+            "MeSH: D019073"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0004307": [
+            "ATCC: CRL-1730"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0004342": [
+            "ATCC: CRL-1592",
+            "HyperCLDB: cl1802"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0007043": [
+            "HyperCLDB: cl5296",
+            "MeSH: D019169",
+            "RRID: CVCL_0065"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0007203": [
+            "ATCC: CRL-1458"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0007606": [
+            "ATCC: HTB-22",
+            "CHEMBL: CHEMBL3308403",
+            "EFO: EFO_0002082",
+            "HyperCLDB: cl3366",
+            "HyperCLDB: cl3372",
+            "RRID: CVCL_0031"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0007634": [
+            "ATCC: HTB-26",
+            "CHEMBL: CHEMBL3307960",
+            "EFO: EFO_0001209",
+            "RRID: CVCL_0062"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0007646": [
+            "HyperCLDB: cl5078"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0007657": [
+            "ATCC: HTB-33",
+            "CHEMBL: CHEMBL3308114",
+            "CVCL: CVCL_1401"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0007865": [
+            "ATCC: CCL-171",
+            "HyperCLDB: cl3564"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0007904": [
+            "HyperCLDB: cl3604",
+            "HyperCLDB: cl3608",
+            "HyperCLDB: cl3609"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0008172": [
+            "ATCC: CRL-1658",
+            "HyperCLDB: cl3710",
+            "HyperCLDB: cl3711",
+            "MeSH: D041681"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0009015": [
+            "ATCC: CRL-2266"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0009047": [
+            "ATCC: HTB-70",
+            "CHEMBL: CHEMBL3307744",
+            "CVCL: CVCL_0527",
+            "EFO: EFO_0002080",
+            "PubChem AID: 488899"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0009059": [
+            "ATCC: HTB-11",
+            "CHEMBL: CHEMBL3307745",
+            "CVCL: CVCL_0531",
+            "EFO: EFO_0003072"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0009215": [
+            "ATCC: CCL-230",
+            "PubChem AID: 504653",
+            "RRID: CVCL_0545"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0009348": [
+            "ATCC: TIB-202",
+            "CHEMBL: CHEMBL3307574",
+            "CVCL: CVCL_0006",
+            "EFO: EFO_0001253",
+            "HyperCLDB: cl4514"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0009454": [
+            "ATCC: HTB-96",
+            "CHEMBL: CHEMBL3307757",
+            "CVCL: CVCL_0042",
+            "EFO: EFO_0002869"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0009463": [
+            "HyperCLDB: cl5280"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0009524": [
+            "ATCC: CCL-81",
+            "HyperCLDB: cl4644",
+            "MeSH: D014709"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0009526": [
+            "ATCC: CRL-1587",
+            "HyperCLDB: cl4655"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0009527": [
+            "ATCC: CRL-1586",
+            "HyperCLDB: cl4656",
+            "HyperCLDB: cl4657"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0009905": [
+            "PubChem AID: 652144"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037059": [
+            "DSMZ: ACC 576"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037063": [
+            "DSMZ: ACC 572"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037212": [
+            "PubChem AID: 2635",
+            "PubMed:  http://www.ncbi.nlm.nih.gov/pubmed/18355723"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037213": [
+            "PUbChem AID: 493051",
+            "PubMed:  http://www.ncbi.nlm.nih.gov/pubmed/18355723"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037214": [
+            "PubChem AID: 743410",
+            "RRID: CVCL_E048"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037216": [
+            "PubChem AID: 624379"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037217": [
+            "PubChem AID: 2633"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037218": [
+            "PubChem AID: 504574"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037219": [
+            "PubChem AID: 504341",
+            "RRID: CVCL_D260"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037220": [
+            "PubChem AID: 504341"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037221": [
+            "PubChem AID: 624467"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037222": [
+            "PubChem AID: 588413"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037223": [
+            "PubChem AID: 463185"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037228": [
+            "BAO: BAO_0030043",
+            "ThermoFisher: R79507"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037243": [
+            "BAO: BAO_0030042"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037246": [
+            "BAO: BAO_0030044"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037247": [
+            "BAO: BAO_0030045"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037249": [
+            "BAO: BAO_0030052"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037251": [
+            "BAO: BAO_0030046"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037253": [
+            "BAO: BAO_0030049"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037254": [
+            "BAO: BAO_0030035"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037255": [
+            "BAO: BAO_0030036"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037256": [
+            "BAO: BAO_0030037",
+            "BTO: BTO_0002522"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037257": [
+            "BAO: BAO_0030037"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037258": [
+            "BAO: BAO_0030038"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037259": [
+            "BAO: BAO_0030039"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037260": [
+            "BAO: BAO_0030040"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037262": [
+            "BAO: BAO_0030031"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037263": [
+            "BAO: BAO_0030053"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037264": [
+            "BAO: BAO_0030048"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037265": [
+            "BAO: BAO_0030056"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037266": [
+            "BAO: BAO_0030057"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037268": [
+            "BAO: BAO_0030060"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037269": [
+            "BAO: BAO_0030061",
+            "BTO: BTO_0002937"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037270": [
+            "BAO: BAO_0030062"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037271": [
+            "BTO: BAO_0030063"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037272": [
+            "BAO: BAO_0030064"
+          ],
+          "http://purl.obolibrary.org/obo/CLO_0037276": [
+            "BAO: BAO_0030059"
+          ],
+          "http://purl.obolibrary.org/obo/DOID_1829": [
+            "MESH:D14525"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0000298": [
+            "PubChem AID: "
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0000299": [
+            "PubChem AID: "
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0000310": [
+            "PubChem AID: "
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0000311": [
+            "PubChem AID: "
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0000333": [
+            "PubChem AID: "
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0000670": [
+            "PubChem AID: "
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0000674": [
+            "PubChem AID: "
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0000675": [
+            "PubChem AID: "
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0000678": [
+            "PubChem AID: "
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0000679": [
+            "PubChem AID: "
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0000680": [
+            "PubChem AID: "
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0000681": [
+            "PubChem AID: "
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0000682": [
+            "PubChem AID: "
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0000683": [
+            "PubChem AID: "
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0000685": [
+            "PubChem AID: "
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0000687": [
+            "PubChem AID: "
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0000688": [
+            "PubChem AID: "
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0000690": [
+            "PubChem AID: "
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0010006": [
+            "PubChem AID: 504610"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0010007": [
+            "PubChem AID: 504605"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0010008": [
+            "PubChem AID: 504629"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0010009": [
+            "PubChem AID: 504606"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0010010": [
+            "PubChem AID: 504606"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0010011": [
+            "PubChem AID: 687012"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0010012": [
+            "PubChem AID: 485336"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0010013": [
+            "PubChem AID: 2545"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0010014": [
+            "PubChem AID: 588412"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0010015": [
+            "PubChem AID: 588370"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0010016": [
+            "PubChem AID: 623915"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0010017": [
+            "PubChem AID: 623915"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0010018": [
+            "PubChem AID: 449751"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0010019": [
+            "PubChem AID: 449751"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0010020": [
+            "PubChem AID: "
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0010021": [
+            "PubChem AID: 1219"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0010022": [
+            "PubChem AID: 602291"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0010023": [
+            "PubChem AID: 651876"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0010024": [
+            "PubChem AID: 651876"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0010025": [
+            "PubChem AID: 687012"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0013053": [
+            "doi: 10.4062/biomolther.2012.20.3.268"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0020002": [
+            "PubChem AID: 602155"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0020003": [
+            "PubChem AID: 623907"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0020004": [
+            "PubChem AID: "
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0040011": [
+            "PubChem AID: "
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0040012": [
+            "PubChem AID: 651719"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0040013": [
+            "PubChem AID: 1656"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0040014": [
+            "PubChem AID: "
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0040015": [
+            "PubChem AID: 775"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0040016": [
+            "PubChem AID: 652176"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0040017": [
+            "PubChem AID: 463235"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0040018": [
+            "PubChem AID: 504605"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0040019": [
+            "PubChem AID: 463200"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0040020": [
+            "PubChem AID: 463200"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0040021": [
+            "PubChem AID: 687012"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0040022": [
+            "PubChem AID: 687012"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0040023": [
+            "PubChem AID: 687012"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0040024": [
+            "PubChem AID: 651658"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0050002": [
+            "PubChem AID: 687012"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0050003": [
+            "PubChem AID: 687012"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0080016": [
+            "PubChem AID: 2649"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0080017": [
+            "PubChem AID: 2024"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0080018": [
+            "PubChem AID: 588831"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0080019": [
+            "PubChem AID: "
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0080020": [
+            "PubChem AID: 602462"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0080021": [
+            "PubChem AID: 652113"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0080022": [
+            "PubChem AID: 2024"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0080023": [
+            "PubChem AID: 449752"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0080024": [
+            "PubChem AID: 449752"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140009": [
+            "PubChem AID: 435031"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140010": [
+            "PubChem AID: 624301"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140011": [
+            "PubChem AID: 651719"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140012": [
+            "PubChem AID: 1063"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140013": [
+            "PubChem AID: 2788"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140014": [
+            "PubChem AID: 504907"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140015": [
+            "PubChem AID: 720492"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140016": [
+            "PubChem AID: 488901"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140017": [
+            "PubChem AID: 624307"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140018": [
+            "PubChem AID: 602337"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140019": [
+            "PubChem AID: 540282"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140020": [
+            "PubChem AID: 2444"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140022": [
+            "PubChem AID: 504407"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140023": [
+            "PubChem AID: 1271"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140024": [
+            "PubChem AID: 1795"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140025": [
+            "PubChem AID: 504453"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140026": [
+            "PubChem AID: 1369"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140027": [
+            "PubChem AID: 651654"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140028": [
+            "PubChem AID: 1295"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140029": [
+            "PubChem AID: 651607"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140030": [
+            "PubChem AID: 652277"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140031": [
+            "PubChem AID: 518"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140032": [
+            "PubChem AID: 623964"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140033": [
+            "PubChem AID: 743184"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140034": [
+            "PubChem AID: 623952"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140035": [
+            "PubChem AID: 624053"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140036": [
+            "PubChem AID: 624076"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140037": [
+            "PubChem AID: 488951"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140038": [
+            "PubChem AID: 2658"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140039": [
+            "PubChem AID: 588664"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140040": [
+            "PubChem AID: 651833"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140041": [
+            "PubChem AID: 623968"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140042": [
+            "PubChem AID: 624133"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0140043": [
+            "PubChem AID: 652174"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150052": [
+            "PubChem AID: 2581"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150053": [
+            "PubChem AID: 463184"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150054": [
+            "PubChem AID: 504828"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150055": [
+            "PubChem AID: 652043"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150056": [
+            "PubChem AID: 652216"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150057": [
+            "PubChem AID: 435018"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150058": [
+            "PubChem AID: 588370"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150059": [
+            "PubChem AID: 1758"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150060": [
+            "PubChem AID: 2649"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150061": [
+            "PubChem AID: 504388"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150062": [
+            "PubChem AID: 623915"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150063": [
+            "PubChem AID: 651770, 720492"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150064": [
+            "PubChem AID: 2427"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150065": [
+            "PubChem AID: 504653"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150066": [
+            "PubChem AID: 624302"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150067": [
+            "PubChem AID: 602339"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150068": [
+            "PubChem AID: 540282"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150069": [
+            "PubChem AID: 602415"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150070": [
+            "PubChem AID: 2692"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150071": [
+            "PubChem AID: 624061"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150072": [
+            "PubChem AID: 651896"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150073": [
+            "PubChem AID: 602172"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150074": [
+            "PubChem AID: 720723"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150075": [
+            "PubChem AID: 2719"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150076": [
+            "PubChem AID: 602457"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150077": [
+            "PubChem AID: 720722"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150078": [
+            "PubChem AID: 1061"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150079": [
+            "PubChem AID: 1745"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150080": [
+            "PubChem AID: 602143"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150081": [
+            "PubChem AID: 623937"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150082": [
+            "PubChem AID: 456"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150083": [
+            "PubChem AID: 602291"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150084": [
+            "PubChem AID: 720665"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150085": [
+            "PubChem AID: 651876"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150086": [
+            "PubChem AID: 652251"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150087": [
+            "PubChem AID: 720663"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150088": [
+            "PubChem AID: 623961"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150089": [
+            "PubChem AID: 623974"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150090": [
+            "PubChem AID: 2704"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0150091": [
+            "PubChem AID: 623970"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0700003": [
+            "PubChem AID: 451462"
+          ],
+          "http://www.bioassayontology.org/bao#BAO_0700004": [
+            "PubChem AID: 1117303"
+          ]
+        },
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "noncanonical_prefixes": {
+          "CVCL": {
+            "http://purl.obolibrary.org/obo/CLO_0001008": "CVCL: CVCL_0079",
+            "http://purl.obolibrary.org/obo/CLO_0001601": "CVCL: CVCL_0023",
+            "http://purl.obolibrary.org/obo/CLO_0001654": "CVCL: CVCL_1067",
+            "http://purl.obolibrary.org/obo/CLO_0002044": "CVCL: CVCL_1092",
+            "http://purl.obolibrary.org/obo/CLO_0002172": "CVCL: CVCL_0025",
+            "http://purl.obolibrary.org/obo/CLO_0002176": "CVCL: CVCL_0234",
+            "http://purl.obolibrary.org/obo/CLO_0002191": "CVCL: CVCL_0608",
+            "http://purl.obolibrary.org/obo/CLO_0002334": "CVCL: CVCL_0207",
+            "http://purl.obolibrary.org/obo/CLO_0002544": "CVCL: CVCL_0218",
+            "http://purl.obolibrary.org/obo/CLO_0002785": "CVCL: CVCL_0248",
+            "http://purl.obolibrary.org/obo/CLO_0003679": "CVCL: CVCL_0001",
+            "http://purl.obolibrary.org/obo/CLO_0003775": "CVCL: CVCL_0002",
+            "http://purl.obolibrary.org/obo/CLO_0004283": "CVCL: CVCL_0320",
+            "http://purl.obolibrary.org/obo/CLO_0007657": "CVCL: CVCL_1401",
+            "http://purl.obolibrary.org/obo/CLO_0009047": "CVCL: CVCL_0527",
+            "http://purl.obolibrary.org/obo/CLO_0009059": "CVCL: CVCL_0531",
+            "http://purl.obolibrary.org/obo/CLO_0009348": "CVCL: CVCL_0006",
+            "http://purl.obolibrary.org/obo/CLO_0009454": "CVCL: CVCL_0042"
+          },
+          "HyperCLDB": {
+            "http://purl.obolibrary.org/obo/CLO_0001008": "HyperCLDB: cl117",
+            "http://purl.obolibrary.org/obo/CLO_0001601": "HyperCLDB: cl207",
+            "http://purl.obolibrary.org/obo/CLO_0001842": "HyperCLDB: cl5028",
+            "http://purl.obolibrary.org/obo/CLO_0002172": "HyperCLDB: cl618",
+            "http://purl.obolibrary.org/obo/CLO_0002175": "HyperCLDB: cl623",
+            "http://purl.obolibrary.org/obo/CLO_0002191": "HyperCLDB: cl632",
+            "http://purl.obolibrary.org/obo/CLO_0002421": "HyperCLDB: cl721",
+            "http://purl.obolibrary.org/obo/CLO_0003665": "HyperCLDB: cl1575",
+            "http://purl.obolibrary.org/obo/CLO_0003679": "HyperCLDB: cl1585",
+            "http://purl.obolibrary.org/obo/CLO_0003684": "HyperCLDB: cl1601",
+            "http://purl.obolibrary.org/obo/CLO_0003704": "HyperCLDB: cl1644",
+            "http://purl.obolibrary.org/obo/CLO_0003775": "HyperCLDB: cl1689",
+            "http://purl.obolibrary.org/obo/CLO_0004283": "HyperCLDB: cl1752",
+            "http://purl.obolibrary.org/obo/CLO_0004342": "HyperCLDB: cl1802",
+            "http://purl.obolibrary.org/obo/CLO_0007043": "HyperCLDB: cl5296",
+            "http://purl.obolibrary.org/obo/CLO_0007606": "HyperCLDB: cl3372",
+            "http://purl.obolibrary.org/obo/CLO_0007646": "HyperCLDB: cl5078",
+            "http://purl.obolibrary.org/obo/CLO_0007865": "HyperCLDB: cl3564",
+            "http://purl.obolibrary.org/obo/CLO_0007904": "HyperCLDB: cl3609",
+            "http://purl.obolibrary.org/obo/CLO_0008172": "HyperCLDB: cl3711",
+            "http://purl.obolibrary.org/obo/CLO_0009348": "HyperCLDB: cl4514",
+            "http://purl.obolibrary.org/obo/CLO_0009463": "HyperCLDB: cl5280",
+            "http://purl.obolibrary.org/obo/CLO_0009524": "HyperCLDB: cl4644",
+            "http://purl.obolibrary.org/obo/CLO_0009526": "HyperCLDB: cl4655",
+            "http://purl.obolibrary.org/obo/CLO_0009527": "HyperCLDB: cl4657"
+          },
+          "NCI": {
+            "http://purl.obolibrary.org/obo/DOID_0060162": "NCI:C122653",
+            "http://purl.obolibrary.org/obo/DOID_0080016": "NCI:C101214",
+            "http://purl.obolibrary.org/obo/DOID_1089": "NCI:C99080",
+            "http://purl.obolibrary.org/obo/DOID_8567": "NCI:C9357",
+            "http://purl.obolibrary.org/obo/DOID_891": "NCI:C7636"
+          },
+          "PUbChem AID": {
+            "http://purl.obolibrary.org/obo/CLO_0037213": "PUbChem AID: 493051"
+          },
+          "PubChem AID": {
+            "http://purl.obolibrary.org/obo/CLO_0009047": "PubChem AID: 488899",
+            "http://purl.obolibrary.org/obo/CLO_0009215": "PubChem AID: 504653",
+            "http://purl.obolibrary.org/obo/CLO_0009905": "PubChem AID: 652144",
+            "http://purl.obolibrary.org/obo/CLO_0037212": "PubChem AID: 2635",
+            "http://purl.obolibrary.org/obo/CLO_0037214": "PubChem AID: 743410",
+            "http://purl.obolibrary.org/obo/CLO_0037216": "PubChem AID: 624379",
+            "http://purl.obolibrary.org/obo/CLO_0037217": "PubChem AID: 2633",
+            "http://purl.obolibrary.org/obo/CLO_0037218": "PubChem AID: 504574",
+            "http://purl.obolibrary.org/obo/CLO_0037219": "PubChem AID: 504341",
+            "http://purl.obolibrary.org/obo/CLO_0037220": "PubChem AID: 504341",
+            "http://purl.obolibrary.org/obo/CLO_0037221": "PubChem AID: 624467",
+            "http://purl.obolibrary.org/obo/CLO_0037222": "PubChem AID: 588413",
+            "http://purl.obolibrary.org/obo/CLO_0037223": "PubChem AID: 463185",
+            "http://www.bioassayontology.org/bao#BAO_0000298": "PubChem AID: ",
+            "http://www.bioassayontology.org/bao#BAO_0000299": "PubChem AID: ",
+            "http://www.bioassayontology.org/bao#BAO_0000310": "PubChem AID: ",
+            "http://www.bioassayontology.org/bao#BAO_0000311": "PubChem AID: ",
+            "http://www.bioassayontology.org/bao#BAO_0000333": "PubChem AID: ",
+            "http://www.bioassayontology.org/bao#BAO_0000670": "PubChem AID: ",
+            "http://www.bioassayontology.org/bao#BAO_0000674": "PubChem AID: ",
+            "http://www.bioassayontology.org/bao#BAO_0000675": "PubChem AID: ",
+            "http://www.bioassayontology.org/bao#BAO_0000678": "PubChem AID: ",
+            "http://www.bioassayontology.org/bao#BAO_0000679": "PubChem AID: ",
+            "http://www.bioassayontology.org/bao#BAO_0000680": "PubChem AID: ",
+            "http://www.bioassayontology.org/bao#BAO_0000681": "PubChem AID: ",
+            "http://www.bioassayontology.org/bao#BAO_0000682": "PubChem AID: ",
+            "http://www.bioassayontology.org/bao#BAO_0000683": "PubChem AID: ",
+            "http://www.bioassayontology.org/bao#BAO_0000685": "PubChem AID: ",
+            "http://www.bioassayontology.org/bao#BAO_0000687": "PubChem AID: ",
+            "http://www.bioassayontology.org/bao#BAO_0000688": "PubChem AID: ",
+            "http://www.bioassayontology.org/bao#BAO_0000690": "PubChem AID: ",
+            "http://www.bioassayontology.org/bao#BAO_0010006": "PubChem AID: 504610",
+            "http://www.bioassayontology.org/bao#BAO_0010007": "PubChem AID: 504605",
+            "http://www.bioassayontology.org/bao#BAO_0010008": "PubChem AID: 504629",
+            "http://www.bioassayontology.org/bao#BAO_0010009": "PubChem AID: 504606",
+            "http://www.bioassayontology.org/bao#BAO_0010010": "PubChem AID: 504606",
+            "http://www.bioassayontology.org/bao#BAO_0010011": "PubChem AID: 687012",
+            "http://www.bioassayontology.org/bao#BAO_0010012": "PubChem AID: 485336",
+            "http://www.bioassayontology.org/bao#BAO_0010013": "PubChem AID: 2545",
+            "http://www.bioassayontology.org/bao#BAO_0010014": "PubChem AID: 588412",
+            "http://www.bioassayontology.org/bao#BAO_0010015": "PubChem AID: 588370",
+            "http://www.bioassayontology.org/bao#BAO_0010016": "PubChem AID: 623915",
+            "http://www.bioassayontology.org/bao#BAO_0010017": "PubChem AID: 623915",
+            "http://www.bioassayontology.org/bao#BAO_0010018": "PubChem AID: 449751",
+            "http://www.bioassayontology.org/bao#BAO_0010019": "PubChem AID: 449751",
+            "http://www.bioassayontology.org/bao#BAO_0010020": "PubChem AID: ",
+            "http://www.bioassayontology.org/bao#BAO_0010021": "PubChem AID: 1219",
+            "http://www.bioassayontology.org/bao#BAO_0010022": "PubChem AID: 602291",
+            "http://www.bioassayontology.org/bao#BAO_0010023": "PubChem AID: 651876",
+            "http://www.bioassayontology.org/bao#BAO_0010024": "PubChem AID: 651876",
+            "http://www.bioassayontology.org/bao#BAO_0010025": "PubChem AID: 687012",
+            "http://www.bioassayontology.org/bao#BAO_0020002": "PubChem AID: 602155",
+            "http://www.bioassayontology.org/bao#BAO_0020003": "PubChem AID: 623907",
+            "http://www.bioassayontology.org/bao#BAO_0020004": "PubChem AID: ",
+            "http://www.bioassayontology.org/bao#BAO_0040011": "PubChem AID: ",
+            "http://www.bioassayontology.org/bao#BAO_0040012": "PubChem AID: 651719",
+            "http://www.bioassayontology.org/bao#BAO_0040013": "PubChem AID: 1656",
+            "http://www.bioassayontology.org/bao#BAO_0040014": "PubChem AID: ",
+            "http://www.bioassayontology.org/bao#BAO_0040015": "PubChem AID: 775",
+            "http://www.bioassayontology.org/bao#BAO_0040016": "PubChem AID: 652176",
+            "http://www.bioassayontology.org/bao#BAO_0040017": "PubChem AID: 463235",
+            "http://www.bioassayontology.org/bao#BAO_0040018": "PubChem AID: 504605",
+            "http://www.bioassayontology.org/bao#BAO_0040019": "PubChem AID: 463200",
+            "http://www.bioassayontology.org/bao#BAO_0040020": "PubChem AID: 463200",
+            "http://www.bioassayontology.org/bao#BAO_0040021": "PubChem AID: 687012",
+            "http://www.bioassayontology.org/bao#BAO_0040022": "PubChem AID: 687012",
+            "http://www.bioassayontology.org/bao#BAO_0040023": "PubChem AID: 687012",
+            "http://www.bioassayontology.org/bao#BAO_0040024": "PubChem AID: 651658",
+            "http://www.bioassayontology.org/bao#BAO_0050002": "PubChem AID: 687012",
+            "http://www.bioassayontology.org/bao#BAO_0050003": "PubChem AID: 687012",
+            "http://www.bioassayontology.org/bao#BAO_0080016": "PubChem AID: 2649",
+            "http://www.bioassayontology.org/bao#BAO_0080017": "PubChem AID: 2024",
+            "http://www.bioassayontology.org/bao#BAO_0080018": "PubChem AID: 588831",
+            "http://www.bioassayontology.org/bao#BAO_0080019": "PubChem AID: ",
+            "http://www.bioassayontology.org/bao#BAO_0080020": "PubChem AID: 602462",
+            "http://www.bioassayontology.org/bao#BAO_0080021": "PubChem AID: 652113",
+            "http://www.bioassayontology.org/bao#BAO_0080022": "PubChem AID: 2024",
+            "http://www.bioassayontology.org/bao#BAO_0080023": "PubChem AID: 449752",
+            "http://www.bioassayontology.org/bao#BAO_0080024": "PubChem AID: 449752",
+            "http://www.bioassayontology.org/bao#BAO_0140009": "PubChem AID: 435031",
+            "http://www.bioassayontology.org/bao#BAO_0140010": "PubChem AID: 624301",
+            "http://www.bioassayontology.org/bao#BAO_0140011": "PubChem AID: 651719",
+            "http://www.bioassayontology.org/bao#BAO_0140012": "PubChem AID: 1063",
+            "http://www.bioassayontology.org/bao#BAO_0140013": "PubChem AID: 2788",
+            "http://www.bioassayontology.org/bao#BAO_0140014": "PubChem AID: 504907",
+            "http://www.bioassayontology.org/bao#BAO_0140015": "PubChem AID: 720492",
+            "http://www.bioassayontology.org/bao#BAO_0140016": "PubChem AID: 488901",
+            "http://www.bioassayontology.org/bao#BAO_0140017": "PubChem AID: 624307",
+            "http://www.bioassayontology.org/bao#BAO_0140018": "PubChem AID: 602337",
+            "http://www.bioassayontology.org/bao#BAO_0140019": "PubChem AID: 540282",
+            "http://www.bioassayontology.org/bao#BAO_0140020": "PubChem AID: 2444",
+            "http://www.bioassayontology.org/bao#BAO_0140022": "PubChem AID: 504407",
+            "http://www.bioassayontology.org/bao#BAO_0140023": "PubChem AID: 1271",
+            "http://www.bioassayontology.org/bao#BAO_0140024": "PubChem AID: 1795",
+            "http://www.bioassayontology.org/bao#BAO_0140025": "PubChem AID: 504453",
+            "http://www.bioassayontology.org/bao#BAO_0140026": "PubChem AID: 1369",
+            "http://www.bioassayontology.org/bao#BAO_0140027": "PubChem AID: 651654",
+            "http://www.bioassayontology.org/bao#BAO_0140028": "PubChem AID: 1295",
+            "http://www.bioassayontology.org/bao#BAO_0140029": "PubChem AID: 651607",
+            "http://www.bioassayontology.org/bao#BAO_0140030": "PubChem AID: 652277",
+            "http://www.bioassayontology.org/bao#BAO_0140031": "PubChem AID: 518",
+            "http://www.bioassayontology.org/bao#BAO_0140032": "PubChem AID: 623964",
+            "http://www.bioassayontology.org/bao#BAO_0140033": "PubChem AID: 743184",
+            "http://www.bioassayontology.org/bao#BAO_0140034": "PubChem AID: 623952",
+            "http://www.bioassayontology.org/bao#BAO_0140035": "PubChem AID: 624053",
+            "http://www.bioassayontology.org/bao#BAO_0140036": "PubChem AID: 624076",
+            "http://www.bioassayontology.org/bao#BAO_0140037": "PubChem AID: 488951",
+            "http://www.bioassayontology.org/bao#BAO_0140038": "PubChem AID: 2658",
+            "http://www.bioassayontology.org/bao#BAO_0140039": "PubChem AID: 588664",
+            "http://www.bioassayontology.org/bao#BAO_0140040": "PubChem AID: 651833",
+            "http://www.bioassayontology.org/bao#BAO_0140041": "PubChem AID: 623968",
+            "http://www.bioassayontology.org/bao#BAO_0140042": "PubChem AID: 624133",
+            "http://www.bioassayontology.org/bao#BAO_0140043": "PubChem AID: 652174",
+            "http://www.bioassayontology.org/bao#BAO_0150052": "PubChem AID: 2581",
+            "http://www.bioassayontology.org/bao#BAO_0150053": "PubChem AID: 463184",
+            "http://www.bioassayontology.org/bao#BAO_0150054": "PubChem AID: 504828",
+            "http://www.bioassayontology.org/bao#BAO_0150055": "PubChem AID: 652043",
+            "http://www.bioassayontology.org/bao#BAO_0150056": "PubChem AID: 652216",
+            "http://www.bioassayontology.org/bao#BAO_0150057": "PubChem AID: 435018",
+            "http://www.bioassayontology.org/bao#BAO_0150058": "PubChem AID: 588370",
+            "http://www.bioassayontology.org/bao#BAO_0150059": "PubChem AID: 1758",
+            "http://www.bioassayontology.org/bao#BAO_0150060": "PubChem AID: 2649",
+            "http://www.bioassayontology.org/bao#BAO_0150061": "PubChem AID: 504388",
+            "http://www.bioassayontology.org/bao#BAO_0150062": "PubChem AID: 623915",
+            "http://www.bioassayontology.org/bao#BAO_0150063": "PubChem AID: 651770, 720492",
+            "http://www.bioassayontology.org/bao#BAO_0150064": "PubChem AID: 2427",
+            "http://www.bioassayontology.org/bao#BAO_0150065": "PubChem AID: 504653",
+            "http://www.bioassayontology.org/bao#BAO_0150066": "PubChem AID: 624302",
+            "http://www.bioassayontology.org/bao#BAO_0150067": "PubChem AID: 602339",
+            "http://www.bioassayontology.org/bao#BAO_0150068": "PubChem AID: 540282",
+            "http://www.bioassayontology.org/bao#BAO_0150069": "PubChem AID: 602415",
+            "http://www.bioassayontology.org/bao#BAO_0150070": "PubChem AID: 2692",
+            "http://www.bioassayontology.org/bao#BAO_0150071": "PubChem AID: 624061",
+            "http://www.bioassayontology.org/bao#BAO_0150072": "PubChem AID: 651896",
+            "http://www.bioassayontology.org/bao#BAO_0150073": "PubChem AID: 602172",
+            "http://www.bioassayontology.org/bao#BAO_0150074": "PubChem AID: 720723",
+            "http://www.bioassayontology.org/bao#BAO_0150075": "PubChem AID: 2719",
+            "http://www.bioassayontology.org/bao#BAO_0150076": "PubChem AID: 602457",
+            "http://www.bioassayontology.org/bao#BAO_0150077": "PubChem AID: 720722",
+            "http://www.bioassayontology.org/bao#BAO_0150078": "PubChem AID: 1061",
+            "http://www.bioassayontology.org/bao#BAO_0150079": "PubChem AID: 1745",
+            "http://www.bioassayontology.org/bao#BAO_0150080": "PubChem AID: 602143",
+            "http://www.bioassayontology.org/bao#BAO_0150081": "PubChem AID: 623937",
+            "http://www.bioassayontology.org/bao#BAO_0150082": "PubChem AID: 456",
+            "http://www.bioassayontology.org/bao#BAO_0150083": "PubChem AID: 602291",
+            "http://www.bioassayontology.org/bao#BAO_0150084": "PubChem AID: 720665",
+            "http://www.bioassayontology.org/bao#BAO_0150085": "PubChem AID: 651876",
+            "http://www.bioassayontology.org/bao#BAO_0150086": "PubChem AID: 652251",
+            "http://www.bioassayontology.org/bao#BAO_0150087": "PubChem AID: 720663",
+            "http://www.bioassayontology.org/bao#BAO_0150088": "PubChem AID: 623961",
+            "http://www.bioassayontology.org/bao#BAO_0150089": "PubChem AID: 623974",
+            "http://www.bioassayontology.org/bao#BAO_0150090": "PubChem AID: 2704",
+            "http://www.bioassayontology.org/bao#BAO_0150091": "PubChem AID: 623970",
+            "http://www.bioassayontology.org/bao#BAO_0700003": "PubChem AID: 451462",
+            "http://www.bioassayontology.org/bao#BAO_0700004": "PubChem AID: 1117303"
+          },
+          "UMLS_CUI": {
+            "http://purl.obolibrary.org/obo/DOID_0060162": "UMLS_CUI:C0751781"
+          }
+        },
+        "unknown_prefixes": {
+          "(1->4)-alpha-D-glucan": {
+            "http://purl.obolibrary.org/obo/CHEBI_84800": "(1->4)-alpha-D-glucan:phosphate alpha-D-glucosyltransferase inhibitors"
+          },
+          "(2-amino-4-hydroxy-7,8-dihydropteridin-6-yl)methyl-diphosphate": {
+            "http://purl.obolibrary.org/obo/CHEBI_50502": "(2-amino-4-hydroxy-7,8-dihydropteridin-6-yl)methyl-diphosphate:4-aminobenzoate 2-amino-4-hydroxydihydropteridine-6-methenyltransferase inhibitors"
+          },
+          "(2E,6E)-farnesyl-diphosphate": {
+            "http://purl.obolibrary.org/obo/CHEBI_64411": "(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase inhibitors"
+          },
+          "(5-L-glutamyl)-peptide": {
+            "http://purl.obolibrary.org/obo/CHEBI_74570": "(5-L-glutamyl)-peptide:amino-acid 5-glutamyltransferase inhibitors"
+          },
+          "(5Z,13E)-(15S)-11alpha,15-dihydroxy-9-oxoprost-13-enoate": {
+            "http://purl.obolibrary.org/obo/CHEBI_77108": "(5Z,13E)-(15S)-11alpha,15-dihydroxy-9-oxoprost-13-enoate:NAD(+) 15-oxidoreductase inhibitors"
+          },
+          "(5Z,13E)-(15S)-9alpha,11alpha,15-trihydroxyprosta-5,13-dienoate": {
+            "http://purl.obolibrary.org/obo/CHEBI_77119": "(5Z,13E)-(15S)-9alpha,11alpha,15-trihydroxyprosta-5,13-dienoate:NADP(+) 9-oxidoreductase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_77425": "(5Z,13E)-(15S)-9alpha,11alpha,15-trihydroxyprosta-5,13-dienoate:NADP(+) 11-oxidoreductase inhibitors"
+          },
+          "(5Z,13E,15S)-11alpha,15-dihydroxy-9-oxoprost-5,13-dienoate": {
+            "http://purl.obolibrary.org/obo/CHEBI_77108": "(5Z,13E,15S)-11alpha,15-dihydroxy-9-oxoprost-5,13-dienoate:NAD(+) 15-oxidoreductase inhibitors"
+          },
+          "(5Z,8Z,11Z,14Z)-icosa-5,8,11,14-tetraenoate,hydrogen-donor": {
+            "http://purl.obolibrary.org/obo/CHEBI_35544": "(5Z,8Z,11Z,14Z)-icosa-5,8,11,14-tetraenoate,hydrogen-donor:oxygen oxidoreductase inhibitors"
+          },
+          "(6Z,8E,10E,14Z)-(5S,12R)-5,12-dihydroxyicosa-6,8,10,14-tetraenoate,[reduced NADPH-hemoprotein reductase]": {
+            "http://purl.obolibrary.org/obo/CHEBI_142480": "(6Z,8E,10E,14Z)-(5S,12R)-5,12-dihydroxyicosa-6,8,10,14-tetraenoate,[reduced NADPH-hemoprotein reductase]:oxygen oxidoreductase (20-hydroxylating) inhibitors"
+          },
+          "(R)-3-amino-2-methylpropanoate": {
+            "http://purl.obolibrary.org/obo/CHEBI_102368": "(R)-3-amino-2-methylpropanoate:pyruvate aminotransferase inhibitors"
+          },
+          "(S)-dihydroorotate": {
+            "http://purl.obolibrary.org/obo/CHEBI_68542": "(S)-dihydroorotate:fumarate oxidoreductase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_77103": "(S)-dihydroorotate:quinone oxidoreductase inhibitors"
+          },
+          "(S)-malate": {
+            "http://purl.obolibrary.org/obo/CHEBI_140378": "(S)-malate:NAD(+) oxidoreductase inhibitors"
+          },
+          "(S)-reticuline": {
+            "http://purl.obolibrary.org/obo/CHEBI_77110": "(S)-reticuline:oxygen oxidoreductase (methylene-bridge-forming) inhibitors"
+          },
+          "1,2-benzenediol": {
+            "http://purl.obolibrary.org/obo/CHEBI_85049": "1,2-benzenediol:oxygen oxidoreductase inhibitors"
+          },
+          "1,4-alpha-D-glucan": {
+            "http://purl.obolibrary.org/obo/CHEBI_84800": "1,4-alpha-D-glucan:phosphate alpha-D-glucosyltransferase inhibitors"
+          },
+          "1-(beta-D-ribofuranosyl)-1,4-dihydronicotinamide": {
+            "http://purl.obolibrary.org/obo/CHEBI_77020": "1-(beta-D-ribofuranosyl)-1,4-dihydronicotinamide:quinone oxidoreductase inhibitors"
+          },
+          "1-pyrroline-5-carboxylate": {
+            "http://purl.obolibrary.org/obo/CHEBI_77763": "1-pyrroline-5-carboxylate:NAD(+) oxidoreductase inhibitors"
+          },
+          "10-formyltetrahydrofolate": {
+            "http://purl.obolibrary.org/obo/CHEBI_63721": "10-formyltetrahydrofolate:5'-phosphoribosylglycinamide N-formyltransferase inhibitors"
+          },
+          "11alpha,15-dihydroxy-9-oxoprost-13-enoate": {
+            "http://purl.obolibrary.org/obo/CHEBI_77108": "11alpha,15-dihydroxy-9-oxoprost-13-enoate:NAD(+) 15-oxidoreductase inhibitors"
+          },
+          "11beta-hydroxysteroid": {
+            "http://purl.obolibrary.org/obo/CHEBI_137626": "11beta-hydroxysteroid:NADP(+) 11-oxidoreductase inhibitors"
+          },
+          "13-deoxydaunorubicin,NADPH": {
+            "http://purl.obolibrary.org/obo/CHEBI_77781": "13-deoxydaunorubicin,NADPH:oxygen oxidoreductase (13-hydroxylating) inhibitors"
+          },
+          "15-cis-phytoene": {
+            "http://purl.obolibrary.org/obo/CHEBI_72774": "15-cis-phytoene:acceptor oxidoreductase (zeta-carotene-forming) inhibitors"
+          },
+          "2'-deoxyribonucleoside-diphosphate": {
+            "http://purl.obolibrary.org/obo/CHEBI_74213": "2'-deoxyribonucleoside-diphosphate:thioredoxin-disulfide 2'-oxidoreductase inhibitors"
+          },
+          "2-C-methyl-D-erythritol-4-phosphate": {
+            "http://purl.obolibrary.org/obo/CHEBI_77654": "2-C-methyl-D-erythritol-4-phosphate:NADP(+) oxidoreductase (isomerizing) inhibitors"
+          },
+          "2-N-acetyl-L-ornithine": {
+            "http://purl.obolibrary.org/obo/CHEBI_172919": "2-N-acetyl-L-ornithine:2-oxoglutarate 5-aminotransferase inhibitors"
+          },
+          "2-N-formyl-1-N-(5-phospho-D-ribosyl)glycinamide": {
+            "http://purl.obolibrary.org/obo/CHEBI_138927": "2-N-formyl-1-N-(5-phospho-D-ribosyl)glycinamide:L-glutamine amido-ligase (ADP-forming) inhibitors"
+          },
+          "2-amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine-diphosphate": {
+            "http://purl.obolibrary.org/obo/CHEBI_50502": "2-amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine-diphosphate:4-aminobenzoate 2-amino-4-hydroxydihydropteridine-6-methenyltransferase inhibitors"
+          },
+          "3'": {
+            "http://purl.obolibrary.org/obo/CHEBI_50568": "3':5'-cyclic nucleotide 5'-nucleotidohydrolase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_85113": "3':5'-cyclic GMP-dependent protein kinase inhibitors"
+          },
+          "3,4-dihydroxyphenethylamine,ascorbate": {
+            "http://purl.obolibrary.org/obo/CHEBI_139339": "3,4-dihydroxyphenethylamine,ascorbate:oxygen oxidoreductase (beta-hydroxylating) inhibitors"
+          },
+          "3-oxo-5alpha-steroid": {
+            "http://purl.obolibrary.org/obo/CHEBI_50781": "3-oxo-5alpha-steroid:NADP+ Delta(4)-oxidoreductase inhibitors"
+          },
+          "3beta(or 20alpha)-hydroxysteroid": {
+            "http://purl.obolibrary.org/obo/CHEBI_50788": "3beta(or 20alpha)-hydroxysteroid:NADP(+) oxidoreductase inhibitors"
+          },
+          "3beta-hydroxysteroid-4alpha-carboxylate": {
+            "http://purl.obolibrary.org/obo/CHEBI_90113": "3beta-hydroxysteroid-4alpha-carboxylate:NAD(P)(+) 3-oxidoreductase (decarboxylating) inhibitors"
+          },
+          "4,4-dimethyl-5alpha-cholest-7-en-3beta-ol,NAD(P)H": {
+            "http://purl.obolibrary.org/obo/CHEBI_83316": "4,4-dimethyl-5alpha-cholest-7-en-3beta-ol,NAD(P)H:oxygen oxidoreductase (hydroxylating) inhibitors"
+          },
+          "4,4-dimethyl-5alpha-cholest-7-en-3beta-ol,hydrogen-donor": {
+            "http://purl.obolibrary.org/obo/CHEBI_83316": "4,4-dimethyl-5alpha-cholest-7-en-3beta-ol,hydrogen-donor:oxygen oxidoreductase (hydroxylating) inhibitors"
+          },
+          "4,4-dimethyl-5alpha-cholesta-8,24-dien-3beta-ol": {
+            "http://purl.obolibrary.org/obo/CHEBI_83319": "4,4-dimethyl-5alpha-cholesta-8,24-dien-3beta-ol:NADP(+) Delta(14)-oxidoreductase inhibitors"
+          },
+          "4-O-succinyl-L-homoserine": {
+            "http://purl.obolibrary.org/obo/CHEBI_137566": "4-O-succinyl-L-homoserine:L-cysteine S-(3-amino-3-carboxypropyl)transferase inhibitors"
+          },
+          "4-aminobutanoate": {
+            "http://purl.obolibrary.org/obo/CHEBI_63674": "4-aminobutanoate:2-oxoglutarate aminotransferase inhibitors"
+          },
+          "4-hydroxyphenylpyruvate": {
+            "http://purl.obolibrary.org/obo/CHEBI_38317": "4-hydroxyphenylpyruvate:oxygen oxidoreductase (hydroxylating, decarboxylating) inhibitors"
+          },
+          "4-trimethylammoniobutanoate,2-oxoglutarate": {
+            "http://purl.obolibrary.org/obo/CHEBI_131844": "4-trimethylammoniobutanoate,2-oxoglutarate:oxygen oxidoreductase (3-hydroxylating) inhibitors"
+          },
+          "5'-phosphoribosylformylglycinamide": {
+            "http://purl.obolibrary.org/obo/CHEBI_138927": "5'-phosphoribosylformylglycinamide:L-glutamine amido-ligase (ADP-forming) inhibitors"
+          },
+          "5,10-methenyltetrahydrofolate": {
+            "http://purl.obolibrary.org/obo/CHEBI_63721": "5,10-methenyltetrahydrofolate:2-amino-N-ribosylacetamide ribonucleotide transformylase inhibitors"
+          },
+          "5,10-methylenetetrahydrofolate": {
+            "http://purl.obolibrary.org/obo/CHEBI_63720": "5,10-methylenetetrahydrofolate:dUMP C-methyltransferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_64570": "5,10-methylenetetrahydrofolate:glycine hydroxymethyltransferase inhibitors"
+          },
+          "5-phospho-beta-D-ribosylamine": {
+            "http://purl.obolibrary.org/obo/CHEBI_138952": "5-phospho-beta-D-ribosylamine:diphosphate phospho-alpha-D-ribosyltransferase (glutamate-amidating) inhibitors"
+          },
+          "5-phosphoribosylamine": {
+            "http://purl.obolibrary.org/obo/CHEBI_138952": "5-phosphoribosylamine:diphosphate phospho-alpha-D-ribosyltransferase (glutamate-amidating) inhibitors"
+          },
+          "6,7-dimethyl-8-(1-D-ribityl)lumazine": {
+            "http://purl.obolibrary.org/obo/CHEBI_60901": "6,7-dimethyl-8-(1-D-ribityl)lumazine:6,7-dimethyl-8-(1-D-ribityl)lumazine 2,3-butanediyltransferase inhibitors"
+          },
+          "6-phospho-D-gluconate": {
+            "http://purl.obolibrary.org/obo/CHEBI_74520": "6-phospho-D-gluconate:NADP+ 2-oxidoreductase (decarboxylating) inhibitors"
+          },
+          "7,8-dihydrobiopterin": {
+            "http://purl.obolibrary.org/obo/CHEBI_74234": "7,8-dihydrobiopterin:NADP(+) oxidoreductases"
+          },
+          "7alpha-hydroxysteroid": {
+            "http://purl.obolibrary.org/obo/CHEBI_138390": "7alpha-hydroxysteroid:NAD+ 7-oxidoreductase inhibitors"
+          },
+          "9Date from BAE": {
+            "http://www.bioassayontology.org/bao#BAO_0150087": "9Date from BAE: /30/2016"
+          },
+          "ATP": {
+            "http://purl.obolibrary.org/obo/CHEBI_131734": "ATP:[elongation factor 2] phosphotransferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_131794": "ATP:protein phosphotransferase ((2+)/calmodulin-dependent) inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_137123": "ATP:[receptor-protein] phosphotransferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_149598": "ATP:citrate oxaloacetate-lyase [(pro-S)-CH2COO(-)->acetyl-CoA] (ATP-dephosphorylating) inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_37700": "ATP:protein phosphotransferase (diacylglycerol-dependent) inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_50914": "ATP:1-phosphatidyl-1D-myo-inositol 3-phosphotransferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_50925": "ATP:protein phosphotransferase (non-specific) inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_62434": "ATP:[protein]-L-tyrosine O-phosphotransferase (receptor-type) inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_76617": "ATP:[protein]-L-tyrosine O-phosphotransferase (non-specific) inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_77113": "ATP:[IkappaB protein] phosphotransferase inhibitor",
+            "http://purl.obolibrary.org/obo/CHEBI_77194": "ATP:pantothenate 4'-phosphotransferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_78366": "ATP:D-hexose 6-phosphotransferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_78622": "ATP:[hydroxymethylglutaryl-CoA reductase (NADPH)] phosphotransferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_78756": "ATP:L-methionine S-adenosyltransferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_78760": "ATP:sphinganine 1-phosphotransferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_78763": "ATP:myosin-light-chain O-phosphotransferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_79091": "ATP:protein phosphotransferase (MAPKK-activated) inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_82665": "ATP:cyclin phosphotransferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_84801": "ATP:1D-myo-inositol-1,4,5-trisphosphate 3-phosphotransferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_84802": "ATP:1D-myo-inositol-1,4,5-trisphosphate 6-phosphotransferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_84804": "ATP:nucleoside-diphosphate phosphotransferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_85053": "ATP:[hydroxymethylglutaryl-CoA reductase (NADPH)] phosphotransferase activators",
+            "http://purl.obolibrary.org/obo/CHEBI_85094": "ATP:protein phosphotransferase (cAMP-dependent) inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_85113": "ATP:protein phosphotransferase (cGMP-dependent) inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_88286": "ATP:protein phosphotransferase (MAPKKK-activated) inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_91092": "ATP:tau-protein O-phosphotransferase inhibitors"
+          },
+          "D-alanine": {
+            "http://purl.obolibrary.org/obo/CHEBI_75598": "D-alanine:D-alanine ligase (ADP-forming) inhibitors"
+          },
+          "D-amino-acid": {
+            "http://purl.obolibrary.org/obo/CHEBI_85052": "D-amino-acid:oxygen oxidoreductase (deaminating) inhibitors"
+          },
+          "D-beta-aminoisobutyrate": {
+            "http://purl.obolibrary.org/obo/CHEBI_102368": "D-beta-aminoisobutyrate:pyruvate aminotransferase inhibitors"
+          },
+          "D-galactose": {
+            "http://purl.obolibrary.org/obo/CHEBI_76920": "D-galactose:oxygen 6-oxidoreductase inhibitors"
+          },
+          "D-glyceraldehyde-3-phosphate": {
+            "http://purl.obolibrary.org/obo/CHEBI_70817": "D-glyceraldehyde-3-phosphate:NAD(+) oxidoreductase (phosphorylating) inhibitors"
+          },
+          "D-tryptophan": {
+            "http://purl.obolibrary.org/obo/CHEBI_72854": "D-tryptophan:oxygen 2,3-oxidoreductase (decyclizing) inhibitors"
+          },
+          "DMAPP": {
+            "http://purl.obolibrary.org/obo/CHEBI_50643": "DMAPP:IPP-dimethylallyltransferase inhibitors"
+          },
+          "DNA-directed nucleoside-triphosphate": {
+            "http://purl.obolibrary.org/obo/CHEBI_37416": "DNA-directed nucleoside-triphosphate:RNA nucleotidyltransferase inhibitors"
+          },
+          "Date from BAE": {
+            "http://www.bioassayontology.org/bao#BAO_0000298": "Date from BAE: 6/1/2016",
+            "http://www.bioassayontology.org/bao#BAO_0000299": "Date from BAE: 6/1/2016",
+            "http://www.bioassayontology.org/bao#BAO_0000310": "Date from BAE: 6/1/2016",
+            "http://www.bioassayontology.org/bao#BAO_0000311": "Date from BAE: 6/1/2016",
+            "http://www.bioassayontology.org/bao#BAO_0000333": "Date from BAE: 6/1/2016",
+            "http://www.bioassayontology.org/bao#BAO_0000670": "Date from BAE: 6/1/2016",
+            "http://www.bioassayontology.org/bao#BAO_0000674": "Date from BAE: 6/1/2016",
+            "http://www.bioassayontology.org/bao#BAO_0000675": "Date from BAE: 6/1/2016",
+            "http://www.bioassayontology.org/bao#BAO_0000678": "Date from BAE: 6/1/2016",
+            "http://www.bioassayontology.org/bao#BAO_0000679": "Date from BAE: 6/1/2016",
+            "http://www.bioassayontology.org/bao#BAO_0000680": "Date from BAE: 6/1/2016",
+            "http://www.bioassayontology.org/bao#BAO_0000681": "Date from BAE: 6/1/2016",
+            "http://www.bioassayontology.org/bao#BAO_0000682": "Date from BAE: 6/1/2016",
+            "http://www.bioassayontology.org/bao#BAO_0000683": "Date from BAE: 6/1/2016",
+            "http://www.bioassayontology.org/bao#BAO_0000685": "Date from BAE: 6/1/2016",
+            "http://www.bioassayontology.org/bao#BAO_0000687": "Date from BAE: 6/1/2016",
+            "http://www.bioassayontology.org/bao#BAO_0000688": "Date from BAE: 6/1/2016",
+            "http://www.bioassayontology.org/bao#BAO_0000690": "Date from BAE: 6/1/2016",
+            "http://www.bioassayontology.org/bao#BAO_0010006": "Date from BAE: 6/6/2016",
+            "http://www.bioassayontology.org/bao#BAO_0010007": "Date from BAE: 6/6/2016",
+            "http://www.bioassayontology.org/bao#BAO_0010008": "Date from BAE: 6/6/2016",
+            "http://www.bioassayontology.org/bao#BAO_0010009": "Date from BAE: 6/6/2016",
+            "http://www.bioassayontology.org/bao#BAO_0010010": "Date from BAE: 6/6/2016",
+            "http://www.bioassayontology.org/bao#BAO_0010011": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0010012": "Date from BAE: 6/21/2016",
+            "http://www.bioassayontology.org/bao#BAO_0010013": "Date from BAE: 6/26/2016",
+            "http://www.bioassayontology.org/bao#BAO_0010014": "Date from BAE: 5/31/2016",
+            "http://www.bioassayontology.org/bao#BAO_0010015": "Date from BAE: 6/1/2016",
+            "http://www.bioassayontology.org/bao#BAO_0010016": "Date from BAE: 5/13/2016",
+            "http://www.bioassayontology.org/bao#BAO_0010017": "Date from BAE: 5/13/2016",
+            "http://www.bioassayontology.org/bao#BAO_0010018": "Date from BAE: 6/2/2016",
+            "http://www.bioassayontology.org/bao#BAO_0010019": "Date from BAE: 6/2/2016",
+            "http://www.bioassayontology.org/bao#BAO_0010020": "Date from BAE: 9/24/2016",
+            "http://www.bioassayontology.org/bao#BAO_0010021": "Date from BAE: 7/2/2016",
+            "http://www.bioassayontology.org/bao#BAO_0010022": "Date from BAE: 7/22/2016",
+            "http://www.bioassayontology.org/bao#BAO_0010023": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0010024": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0010025": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0020002": "Date from BAE: 7/19/2016",
+            "http://www.bioassayontology.org/bao#BAO_0020003": "Date from BAE: 7/6/2016",
+            "http://www.bioassayontology.org/bao#BAO_0020004": "Date from BAE: 7/6/2016",
+            "http://www.bioassayontology.org/bao#BAO_0040011": "Date from BAE: 6/28/2016",
+            "http://www.bioassayontology.org/bao#BAO_0040012": "Date from BAE: 6/7/2016",
+            "http://www.bioassayontology.org/bao#BAO_0040013": "Date from BAE: 5/21/2016",
+            "http://www.bioassayontology.org/bao#BAO_0040014": "Date from BAE: 6/28/2016",
+            "http://www.bioassayontology.org/bao#BAO_0040015": "Date from BAE: 6/15/2016",
+            "http://www.bioassayontology.org/bao#BAO_0040016": "Date from BAE: 5/23/2016",
+            "http://www.bioassayontology.org/bao#BAO_0040017": "Date from BAE: 5/11/2016",
+            "http://www.bioassayontology.org/bao#BAO_0040018": "Date from BAE: 6/6/2016",
+            "http://www.bioassayontology.org/bao#BAO_0040019": "Date from BAE: 6/6/2016",
+            "http://www.bioassayontology.org/bao#BAO_0040020": "Date from BAE: 6/6/2016",
+            "http://www.bioassayontology.org/bao#BAO_0040021": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0040022": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0040023": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0040024": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0050002": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0050003": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0080016": "Date from BAE: 6/22/2016",
+            "http://www.bioassayontology.org/bao#BAO_0080017": "Date from BAE: 7/21/2016",
+            "http://www.bioassayontology.org/bao#BAO_0080018": "Date from BAE: 7/19/2016",
+            "http://www.bioassayontology.org/bao#BAO_0080019": "Date from BAE: 7/19/2016",
+            "http://www.bioassayontology.org/bao#BAO_0080020": "Date from BAE: 7/6/2016",
+            "http://www.bioassayontology.org/bao#BAO_0080021": "Date from BAE: 7/19/2016",
+            "http://www.bioassayontology.org/bao#BAO_0080022": "Date from BAE: 7/21/2016",
+            "http://www.bioassayontology.org/bao#BAO_0080023": "Date from BAE: 5/30/16",
+            "http://www.bioassayontology.org/bao#BAO_0080024": "Date from BAE: 5/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140009": "Date from BAE: 6/22/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140010": "Date from BAE: 6/1/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140011": "Date from BAE: 6/7/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140012": "Date from BAE: 5/27/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140013": "Date from BAE: 6/22/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140014": "Date from BAE: 6/26/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140015": "Date from BAE: 6/13/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140016": "Date from BAE: 6/26/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140017": "Date from BAE: 6/1/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140018": "Date from BAE: 6/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140019": "Date from BAE: 7/22/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140020": "Date from BAE: 7/6/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140022": "Date from BAE: 7/3/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140023": "Date from BAE: 7/14/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140024": "Date from BAE: 7/6/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140025": "Date from BAE: 7/22/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140026": "Date from BAE: 7/14/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140027": "Date from BAE: 7/9/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140028": "Date from BAE: 7/14/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140029": "Date from BAE: 7/6/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140030": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140031": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140032": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140033": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140034": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140035": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140036": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140037": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140038": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140039": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140040": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140041": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140042": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0140043": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150052": "Date from BAE: 6/26/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150053": "Date from BAE: 6/25/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150054": "Date from BAE: 6/26/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150055": "Date from BAE: 5/11/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150056": "Date from BAE: 6/18/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150057": "Date from BAE: 6/2/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150058": "Date from BAE: 6/1/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150059": "Date from BAE: 6/24/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150060": "Date from BAE: 6/22/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150061": "Date from BAE: 6/22/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150062": "Date from BAE: 5/13/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150063": "Date from BAE: 6/15/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150064": "Date from BAE: 6/7/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150065": "Date from BAE: 6/25/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150066": "Date from BAE: 6/1/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150067": "Date from BAE: 6/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150068": "Date from BAE: 7/22/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150069": "Date from BAE: 6/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150070": "Date from BAE: 7/4/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150071": "Date from BAE: 7/10/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150072": "Date from BAE: 7/11/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150073": "Date from BAE: 7/1/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150074": "Date from BAE: 7/12/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150075": "Date from BAE: 7/4/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150076": "Date from BAE: 7/2/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150077": "Date from BAE: 7/12/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150078": "Date from BAE: 7/18/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150079": "Date from BAE: 7/20/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150080": "Date from BAE: 7/8/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150081": "Date from BAE: 7/19/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150082": "Date from BAE: 7/15/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150083": "Date from BAE: 7/22/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150084": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150085": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150086": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150088": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150089": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150090": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0150091": "Date from BAE: 9/30/2016",
+            "http://www.bioassayontology.org/bao#BAO_0700003": "Date from BAE: 5/5/2016",
+            "http://www.bioassayontology.org/bao#BAO_0700004": "Date from BAE: 9/30/2016"
+          },
+          "Discussion on obo-discuss mailing-list, see http": {
+            "http://purl.obolibrary.org/obo/IAO_0000119": "Discussion on obo-discuss mailing-list, see http://bit.ly/hgm99w"
+          },
+          "EC 1.6.5.3 (NADH": {
+            "http://purl.obolibrary.org/obo/CHEBI_38503": "EC 1.6.5.3 (NADH:ubiquinone reductase (H(+)-translocating)) inhibitors"
+          },
+          "EC 1.6.5.3 [NADH": {
+            "http://purl.obolibrary.org/obo/CHEBI_38503": "EC 1.6.5.3 [NADH:ubiquinone reductase (H(+)-translocating)] inhibitors"
+          },
+          "EC 1.8.5.4 (sulfide": {
+            "http://purl.obolibrary.org/obo/CHEBI_90921": "EC 1.8.5.4 (sulfide:quinone reductase) inhibitors"
+          },
+          "FDA RPS Pharmacokinetics": {
+            "http://www.bioassayontology.org/bao#BAO_0002188": "FDA RPS Pharmacokinetics: Drug Interactions",
+            "http://www.bioassayontology.org/bao#BAO_0002532": "FDA RPS Pharmacokinetics: Distribution",
+            "http://www.bioassayontology.org/bao#BAO_0010090": "FDA RPS Pharmacokinetics: Metabolism",
+            "http://www.bioassayontology.org/bao#BAO_0010139": "FDA RPS Pharmacokinetics: Excretion"
+          },
+          "GROUP": {
+            "http://purl.obolibrary.org/obo/IAO_0000111": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000112": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000115": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000116": "GROUP:OBI:<http://purl.obfoundry.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000117": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000118": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000119": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000412": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>"
+          },
+          "HCO3(-)": {
+            "http://purl.obolibrary.org/obo/CHEBI_138921": "HCO3(-):L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating) inhibitors"
+          },
+          "IMP": {
+            "http://purl.obolibrary.org/obo/CHEBI_136537": "IMP:diphosphate phospho-D-ribosyltransferase inhibitor",
+            "http://purl.obolibrary.org/obo/CHEBI_53746": "IMP:NAD(+) oxidoreductase inhibitors"
+          },
+          "L-amino acid": {
+            "http://purl.obolibrary.org/obo/CHEBI_85052": "L-amino acid:O2 oxidoreductase inhibitors"
+          },
+          "L-amino-acid": {
+            "http://purl.obolibrary.org/obo/CHEBI_144097": "L-amino-acid:oxygen oxidoreductase (deaminating) inhibitors"
+          },
+          "L-arogenate": {
+            "http://purl.obolibrary.org/obo/CHEBI_64416": "L-arogenate:NAD+ oxidoreductase inhibitors"
+          },
+          "L-ascorbate": {
+            "http://purl.obolibrary.org/obo/CHEBI_73181": "L-ascorbate:hydrogen-peroxide oxidoreductase inhibitors"
+          },
+          "L-aspartate": {
+            "http://purl.obolibrary.org/obo/CHEBI_138956": "L-aspartate:L-glutamine amido-ligase (AMP-forming) inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_82756": "L-aspartate:tRNA(Asp) ligase (AMP-forming) inhibitors"
+          },
+          "L-aspartate-4-semialdehyde": {
+            "http://purl.obolibrary.org/obo/CHEBI_145814": "L-aspartate-4-semialdehyde:NADP+ oxidoreductase (phosphorylating) inhibitors"
+          },
+          "L-aspartate-beta-semialdehyde": {
+            "http://purl.obolibrary.org/obo/CHEBI_145814": "L-aspartate-beta-semialdehyde:NADP oxidoreductase (phosporylating) inhibitors"
+          },
+          "L-erythro-7,8-dihydrobiopterin": {
+            "http://purl.obolibrary.org/obo/CHEBI_74234": "L-erythro-7,8-dihydrobiopterin:NADP(+) oxidoreductase inhibitors"
+          },
+          "L-glutamate": {
+            "http://purl.obolibrary.org/obo/CHEBI_24319": "L-glutamate:ammonia ligase (ADP-forming) inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_62089": "L-glutamate:ferredoxin oxidoreductase (transaminating) inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_86010": "L-glutamate:NAD(P)(+) oxidoreductase (deaminating) inhibitors"
+          },
+          "L-glutamate gamma-semialdehyde": {
+            "http://purl.obolibrary.org/obo/CHEBI_77763": "L-glutamate gamma-semialdehyde:NAD(+) oxidoreductase inhibitors"
+          },
+          "L-glutamine": {
+            "http://purl.obolibrary.org/obo/CHEBI_85011": "L-glutamine:D-fructose-6-phosphate isomerase (deaminating) inhibitors"
+          },
+          "L-leucine": {
+            "http://purl.obolibrary.org/obo/CHEBI_77953": "L-leucine:tRNA(Leu) ligase (AMP-forming) inhibitors"
+          },
+          "L-lysine": {
+            "http://purl.obolibrary.org/obo/CHEBI_167677": "L-lysine:tRNA(Lys) ligase (AMP-forming) inhibitors"
+          },
+          "L-ornithine": {
+            "http://purl.obolibrary.org/obo/CHEBI_195331": "L-ornithine:alpha-ketoglutarate -aminotransferase inhibitors"
+          },
+          "L-serine": {
+            "http://purl.obolibrary.org/obo/CHEBI_75495": "L-serine:tRNA(Ser) ligase (AMP-forming) inhibitors"
+          },
+          "L-tryptophan": {
+            "http://purl.obolibrary.org/obo/CHEBI_131961": "L-tryptophan:oxygen 2,3-oxidoreductase (ring-opening) inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_79392": "L-tryptophan:tRNA(Trp) ligase (AMP-forming) inhibitors"
+          },
+          "L-tyrosine,L-dopa": {
+            "http://purl.obolibrary.org/obo/CHEBI_59997": "L-tyrosine,L-dopa:oxygen oxidoreductase inhibitors"
+          },
+          "L-tyrosine,tetrahydrobiopterin": {
+            "http://purl.obolibrary.org/obo/CHEBI_63932": "L-tyrosine,tetrahydrobiopterin:oxygen oxidoreductase (3-hydroxylating) inhibitors"
+          },
+          "N(2)-acetyl-L-ornithine": {
+            "http://purl.obolibrary.org/obo/CHEBI_172919": "N(2)-acetyl-L-ornithine:2-oxoglutarate aminotransferase inhibitors"
+          },
+          "N(2)-formyl-N(1)-(5-phospho-D-ribosyl)glycinamide": {
+            "http://purl.obolibrary.org/obo/CHEBI_138927": "N(2)-formyl-N(1)-(5-phospho-D-ribosyl)glycinamide:L-glutamine amido-ligase (ADP-forming) inhibitors"
+          },
+          "NAD(+)": {
+            "http://purl.obolibrary.org/obo/CHEBI_62913": "NAD(+):poly(adenosine-diphosphate-D-ribosyl)-acceptor ADP-D-ribosyl-transferase inhibitors"
+          },
+          "NAD(P)H": {
+            "http://purl.obolibrary.org/obo/CHEBI_50390": "NAD(P)H:quinone oxidoreductase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_50423": "NAD(P)H:oxygen oxidoreductase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_77020": "NAD(P)H:quinone oxidoreductase2 inhibitors"
+          },
+          "NADH": {
+            "http://purl.obolibrary.org/obo/CHEBI_38503": "NADH:ubiquinone reductase inhibitor"
+          },
+          "NADPH": {
+            "http://purl.obolibrary.org/obo/CHEBI_77402": "NADPH:trypanothione oxidoreductase inhibitors"
+          },
+          "NADPH2": {
+            "http://purl.obolibrary.org/obo/CHEBI_64670": "NADPH2:oxidized thioredoxin oxidoreductase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_77402": "NADPH2:trypanothione oxidoreductase inhibitors"
+          },
+          "NRH": {
+            "http://purl.obolibrary.org/obo/CHEBI_77020": "NRH:quinone oxidoreductase 2 inhibitors"
+          },
+          "O(4)-succinyl-L-homoserine": {
+            "http://purl.obolibrary.org/obo/CHEBI_137566": "O(4)-succinyl-L-homoserine:L-cysteine S-(3-amino-3-carboxypropyl)transferase inhibitors"
+          },
+          "O-acetyl-L-homoserine": {
+            "http://purl.obolibrary.org/obo/CHEBI_77089": "O-acetyl-L-homoserine:methanethiol 3-amino-3-carboxypropyltransferase inhibitors"
+          },
+          "O-diphenol": {
+            "http://purl.obolibrary.org/obo/CHEBI_59997": "O-diphenol:O2 oxidoreductase inhibitors"
+          },
+          "OntologyMappingImporter following MAT": {
+            "http://www.ebi.ac.uk/efo/EFO_0001272": "OntologyMappingImporter following MAT:0000403"
+          },
+          "PERSON": {
+            "http://purl.obolibrary.org/obo/ERO_0001500": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0002176": "PERSON:Tenille Johnson",
+            "http://purl.obolibrary.org/obo/IAO_0000111": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000112": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000114": "PERSON:Melanie Courtot",
+            "http://purl.obolibrary.org/obo/IAO_0000115": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000116": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000117": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000118": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000119": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000412": "PERSON:Melanie Courtot"
+          },
+          "Person": {
+            "http://purl.obolibrary.org/obo/IAO_0100001": "Person:Alan Ruttenberg"
+          },
+          "Pharmacokinetics": {
+            "http://www.bioassayontology.org/bao#BAO_0010090": "Pharmacokinetics: Metabolism In Vitro"
+          },
+          "PubChem probe report": {
+            "http://purl.obolibrary.org/obo/CLO_0037212": "PubChem probe report: http://www.ncbi.nlm.nih.gov/books/NBK98919/",
+            "http://purl.obolibrary.org/obo/CLO_0037213": "PubChem probe report: http://www.ncbi.nlm.nih.gov/books/NBK98919/"
+          },
+          "R-glutaminyl-peptide": {
+            "http://purl.obolibrary.org/obo/CHEBI_72716": "R-glutaminyl-peptide:amine gamma-glutamyl transferase inhibitor"
+          },
+          "RX": {
+            "http://purl.obolibrary.org/obo/CHEBI_76797": "RX:glutathione R-transferase inhibitors"
+          },
+          "S-adenosyl-L-methionine": {
+            "http://purl.obolibrary.org/obo/CHEBI_110725": "S-adenosyl-L-methionine:histamine N-tele-methyltransferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_48406": "S-adenosyl-L-methionine:catechol O-methyltransferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_65064": "S-adenosyl-L-methionine:unsaturated-phospholipid methyltransferase (cyclizing) inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_71178": "S-adenosyl-L-methionine:N-acetylserotonin O-methyltransferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_77111": "S-adenosyl-L-methionine:3'-hydroxy-N-methyl-(S)-coclaurine 4'-O-methyltransferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_77115": "S-adenosyl-L-methionine:(S)-7,8,13,14-tetrahydroprotoberberine cis-N-methyltransferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_90190": "S-adenosyl-L-methionine:DNA (cytosine-5-)-methyltransferase inhibitors"
+          },
+          "Salmonella enterica 1,4,[5],12,": {
+            "http://purl.obolibrary.org/obo/NCBITaxon_90371": "Salmonella enterica 1,4,[5],12,:i:1,2"
+          },
+          "Salmonella enterica subsp. enterica serovar 1,4,[5],12": {
+            "http://purl.obolibrary.org/obo/NCBITaxon_90371": "Salmonella enterica subsp. enterica serovar 1,4,[5],12:i:1,2"
+          },
+          "Sanger": {
+            "http://purl.obolibrary.org/obo/CLO_0001008": "Sanger: COSMIC ID:906800",
+            "http://purl.obolibrary.org/obo/CLO_0009047": "Sanger: COSMIC ID:905956",
+            "http://purl.obolibrary.org/obo/CLO_0009215": "Sanger: COSMIC ID:910908",
+            "http://purl.obolibrary.org/obo/CLO_0009905": "Sanger: COSMIC ID:905982"
+          },
+          "UDP-GlcNAc": {
+            "http://purl.obolibrary.org/obo/CHEBI_64237": "UDP-GlcNAc:dolichyl-phosphate GlcNAc-1-phosphate transferase inhibitors"
+          },
+          "UDP-N-acetyl-D-glucosamine": {
+            "http://purl.obolibrary.org/obo/CHEBI_139153": "UDP-N-acetyl-D-glucosamine:protein-O-beta-N-acetyl-D-glucosaminyl transferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_59672": "UDP-N-acetyl-D-glucosamine:chitin 4-beta-N-acetylglucosaminyl-transferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_64237": "UDP-N-acetyl-D-glucosamine:dolichyl-phosphate N-acetyl-D-glucosaminephosphotransferase inhibitors"
+          },
+          "UDP-glucose": {
+            "http://purl.obolibrary.org/obo/CHEBI_50382": "UDP-glucose:ceramide glucosyltransferase inhibitors"
+          },
+          "UTP": {
+            "http://purl.obolibrary.org/obo/CHEBI_138925": "UTP:L-glutamine amido-ligase (ADP-forming) inhibitors"
+          },
+          "WEB": {
+            "http://purl.obolibrary.org/obo/CLO_0001230": "WEB: https://www.atcc.org/Products/All/CRL-1573.aspx",
+            "http://purl.obolibrary.org/obo/CLO_0001235": "WEB: https://www.atcc.org/Products/All/CRL-11268.aspx",
+            "http://purl.obolibrary.org/obo/CLO_0003665": "WEB: https://www.atcc.org/products/all/CCL-247.aspx",
+            "http://purl.obolibrary.org/obo/CLO_0003684": "WEB: https://www.ncbi.nlm.nih.gov/pubmed/12001993",
+            "http://purl.obolibrary.org/obo/CLO_0003704": "WEB: https://www.atcc.org/products/all/HB-8065.aspx",
+            "http://purl.obolibrary.org/obo/CLO_0004307": "WEB: https://www.atcc.org/Products/All/CRL-1730.aspx",
+            "http://purl.obolibrary.org/obo/CLO_0007043": "WEB: https://en.wikipedia.org/wiki/Jurkat_cells",
+            "http://purl.obolibrary.org/obo/CLO_0007606": "WEB: https://en.wikipedia.org/wiki/MCF-7",
+            "http://purl.obolibrary.org/obo/CLO_0009047": "WEB: https://strap.nci.nih.gov/celline_detail.php?sample_id=56",
+            "http://purl.obolibrary.org/obo/CLO_0009454": "WEB: https://www.atcc.org/Products/All/HTB-96.aspx",
+            "http://purl.obolibrary.org/obo/CLO_0009905": "WEB: https://strap.nci.nih.gov/celline_detail.php?sample_id=56",
+            "http://purl.obolibrary.org/obo/CLO_0037214": "WEB: http://cellfinder.org/ontology?id=CELDA_00012667",
+            "http://purl.obolibrary.org/obo/CLO_0037216": "WEB: https://www.thermofisher.com/order/catalog/product/R80007",
+            "http://purl.obolibrary.org/obo/CLO_0037217": "WEB: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2683762/",
+            "http://purl.obolibrary.org/obo/CLO_0037218": "WEB: https://www.ncbi.nlm.nih.gov/pubmed/?term=2078409",
+            "http://purl.obolibrary.org/obo/CLO_0037219": "WEB: http://web.expasy.org/cellosaurus/CVCL_D260",
+            "http://purl.obolibrary.org/obo/CLO_0037220": "WEB: http://www.ncbi.nlm.nih.gov/pubmed/?term=16314403",
+            "http://purl.obolibrary.org/obo/CLO_0037221": "WEB: http://go.pardot.com/l/83942/2015-06-17/njr/83942/4464/Data_Sheet__FLIPR_LiveWare_G_protein_Cells_and_Plasmids.pdf",
+            "http://purl.obolibrary.org/obo/CLO_0037222": "WEB: https://www.google.com/patents/WO2013192301A1?cl=en"
+          },
+          "[EdgeRewiring": {
+            "http://www.bioassayontology.org/bao#BAO_0000017": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0000061": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0000401": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0000408": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0002527": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0002528": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0002993": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030012": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030015": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030016": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030017": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030018": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030019": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030020": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030021": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030022": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030023": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030024": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030025": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030026": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030028": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030029": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030030": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030037": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030048": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030049": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030050": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030051": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030052": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030053": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030054": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030055": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030056": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030057": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030058": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030059": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030060": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030062": "[EdgeRewiring: BAO v 2.8.14 (April 2025)]"
+          },
+          "[NodeCreation": {
+            "http://www.bioassayontology.org/bao#BAO_0013021": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013022": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013023": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013024": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013025": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013026": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013027": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013028": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013029": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013030": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013031": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013032": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013033": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013034": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013035": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013036": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013037": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013038": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013039": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013040": "[NodeCreation: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013041": "[NodeCreation: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013042": "[NodeCreation: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013043": "[NodeCreation: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013044": "[NodeCreation: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013045": "[NodeCreation: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013046": "[NodeCreation: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013047": "[NodeCreation: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013048": "[NodeCreation: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013049": "[NodeCreation: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013050": "[NodeCreation: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013051": "[NodeCreation: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013052": "[NodeCreation: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013053": "[NodeCreation: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013054": "[NodeCreation: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013055": "[NodeCreation: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0013056": "[NodeCreation: BAO v 2.8.14 (April 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0020012": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0020013": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0020014": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0030063": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0050004": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0050005": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0050006": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0050007": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0050008": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0050009": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0050010": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0050011": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0050012": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0050013": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0050014": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0050015": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0050016": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0050017": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0080051": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0080052": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0080053": "[NodeCreation: BAO v 2.8.13 (March 2025)]",
+            "http://www.bioassayontology.org/bao#BAO_0080054": "[NodeCreation: BAO v 2.8.13 (March 2025)]"
+          },
+          "[eIF5A-precursor]-lysine": {
+            "http://purl.obolibrary.org/obo/CHEBI_133895": "[eIF5A-precursor]-lysine:spermidine 4-aminobutyltransferase (propane-1,3-diamine-forming) inhibitors"
+          },
+          "[poly-N-acetyl-D-glucosaminyl-(1->4)-(N-acetyl-D-muramoylpentapeptide)]-diphosphoundecaprenol": {
+            "http://purl.obolibrary.org/obo/CHEBI_50696": "[poly-N-acetyl-D-glucosaminyl-(1->4)-(N-acetyl-D-muramoylpentapeptide)]-diphosphoundecaprenol:[N-acetyl-D-glucosaminyl-(1->4)-N-acetyl-D-muramoylpentapeptide]-diphosphoundecaprenol disaccharidetransferase inhibitors"
+          },
+          "_": {
+            "http://purl.org/obo/owl/UO#UO_0000001": "_:genid2147485089",
+            "http://purl.org/obo/owl/UO#UO_0000003": "_:genid2147485104",
+            "http://purl.org/obo/owl/UO#UO_0000005": "_:genid2147485110",
+            "http://purl.org/obo/owl/UO#UO_0000008": "_:genid2147485098",
+            "http://purl.org/obo/owl/UO#UO_0000010": "_:genid2147485143",
+            "http://purl.org/obo/owl/UO#UO_0000012": "_:genid2147485149",
+            "http://purl.org/obo/owl/UO#UO_0000015": "_:genid2147485194",
+            "http://purl.org/obo/owl/UO#UO_0000016": "_:genid2147485185",
+            "http://purl.org/obo/owl/UO#UO_0000017": "_:genid2147485170",
+            "http://purl.org/obo/owl/UO#UO_0000018": "_:genid2147485158",
+            "http://purl.org/obo/owl/UO#UO_0000019": "_:genid2147485176",
+            "http://purl.org/obo/owl/UO#UO_0000020": "_:genid2147485119",
+            "http://purl.org/obo/owl/UO#UO_0000027": "_:genid2147485137",
+            "http://purl.org/obo/owl/UO#UO_0000028": "_:genid2147485131",
+            "http://purl.org/obo/owl/UO#UO_0000029": "_:genid2147485125",
+            "http://purl.org/obo/owl/UO#UO_0000030": "_:genid2147485041",
+            "http://purl.org/obo/owl/UO#UO_0000031": "_:genid2147485029",
+            "http://purl.org/obo/owl/UO#UO_0000032": "_:genid2147485023",
+            "http://purl.org/obo/owl/UO#UO_0000033": "_:genid2147485035",
+            "http://purl.org/obo/owl/UO#UO_0000034": "_:genid2147485032",
+            "http://purl.org/obo/owl/UO#UO_0000035": "_:genid2147485047",
+            "http://purl.org/obo/owl/UO#UO_0000036": "_:genid2147485044",
+            "http://purl.org/obo/owl/UO#UO_0000051": "_:genid2147485083",
+            "http://purl.org/obo/owl/UO#UO_0000058": "_:genid2147485086",
+            "http://purl.org/obo/owl/UO#UO_0000061": "_:genid2147485068",
+            "http://purl.org/obo/owl/UO#UO_0000062": "_:genid2147485080",
+            "http://purl.org/obo/owl/UO#UO_0000063": "_:genid2147485074",
+            "http://purl.org/obo/owl/UO#UO_0000064": "_:genid2147485059",
+            "http://purl.org/obo/owl/UO#UO_0000065": "_:genid2147485053",
+            "http://purl.org/obo/owl/UO#UO_0000066": "_:genid2147485065",
+            "http://purl.org/obo/owl/UO#UO_0000073": "_:genid2147485008",
+            "http://purl.org/obo/owl/UO#UO_0000092": "_:genid2147485014",
+            "http://purl.org/obo/owl/UO#UO_0000105": "_:genid2147485251",
+            "http://purl.org/obo/owl/UO#UO_0000106": "_:genid2147485248",
+            "http://purl.org/obo/owl/UO#UO_0000150": "_:genid2147485227",
+            "http://purl.org/obo/owl/UO#UO_0000151": "_:genid2147485221",
+            "http://purl.org/obo/owl/UO#UO_0000152": "_:genid2147485218",
+            "http://purl.org/obo/owl/UO#UO_0000163": "_:genid2147485215",
+            "http://purl.org/obo/owl/UO#UO_0000180": "_:genid2147485239",
+            "http://purl.org/obo/owl/UO#UO_0000186": "_:genid2147485230",
+            "http://purl.org/obo/owl/UO#UO_0000187": "_:genid2147485236",
+            "http://purl.org/obo/owl/UO#UO_0000190": "_:genid2147485206",
+            "http://purl.org/obo/owl/UO#UO_0000195": "_:genid2147485203",
+            "http://purl.org/obo/owl/UO#UO_0000196": "_:genid2147485197",
+            "http://purl.org/obo/owl/UO#UO_0000200": "_:genid2147484990",
+            "http://purl.org/obo/owl/UO#UO_0000201": "_:genid2147484987",
+            "http://purl.org/obo/owl/UO#UO_0000202": "_:genid2147485002",
+            "http://purl.org/obo/owl/UO#UO_0000203": "_:genid2147484999",
+            "http://purl.org/obo/owl/UO#UO_0000204": "_:genid2147484978"
+          },
+          "acetyl-CoA": {
+            "http://purl.obolibrary.org/obo/CHEBI_149598": "acetyl-CoA:oxaloacetate acetyltransferase (isomerizing, ADP-phosphorylating) inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_70722": "acetyl-CoA:carbon-dioxide ligase (ADP-forming) inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_76395": "acetyl-CoA:histone acetyltransferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_77023": "acetyl-CoA:oxaloacetate C-acetyltransferase [thioester-hydrolysing, (pro-S)-carboxymethyl forming] inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_84799": "acetyl-CoA:arylamine N-acetyltransferase inhibitors"
+          },
+          "acyl-CoA": {
+            "http://purl.obolibrary.org/obo/CHEBI_59647": "acyl-CoA:serine C-2 acyltransferase (decarboxylating) inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_62530": "acyl-CoA:sphingosine N-acyltransferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_64696": "acyl-CoA:cholesterol acyltransferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_64697": "acyl-CoA:cholesterol acyltransferase 2 inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_64919": "acyl-CoA:1,2-diacylglycerol O-acyltransferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_78377": "acyl-CoA:NADP(+) 2-oxidoreductase inhibitors"
+          },
+          "acyl-[acyl-carrier-protein]": {
+            "http://purl.obolibrary.org/obo/CHEBI_139512": "acyl-[acyl-carrier-protein]:NAD+ oxidoreductase inhibitors"
+          },
+          "acylcoenzyme A": {
+            "http://purl.obolibrary.org/obo/CHEBI_64696": "acylcoenzyme A:cholesterol O-acyltransferase inhibitors"
+          },
+          "alanine": {
+            "http://purl.obolibrary.org/obo/CHEBI_75598": "alanine:alanine ligase (ADP-forming) inhibitors"
+          },
+          "alcohol": {
+            "http://purl.obolibrary.org/obo/CHEBI_50269": "alcohol:NAD+ oxidoreductase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_63156": "alcohol:oxygen oxidoreductase inhibitors"
+          },
+          "aldehyde": {
+            "http://purl.obolibrary.org/obo/CHEBI_62872": "aldehyde:oxygen oxidoreductase inhibitors"
+          },
+          "alditol": {
+            "http://purl.obolibrary.org/obo/CHEBI_48550": "alditol:NADP(+) 1-oxidoreductase inhibitors"
+          },
+          "alkane,reduced-rubredoxin": {
+            "http://purl.obolibrary.org/obo/CHEBI_142481": "alkane,reduced-rubredoxin:oxygen 1-oxidoreductase inhibitors"
+          },
+          "all-trans-retinol isomerase": {
+            "http://purl.obolibrary.org/obo/CHEBI_144455": "all-trans-retinol isomerase:hydrolase inhibitors"
+          },
+          "alpha,alpha-trehalose": {
+            "http://purl.obolibrary.org/obo/CHEBI_83757": "alpha,alpha-trehalose:phosphate alpha-D-glucosyltransferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_83760": "alpha,alpha-trehalose:phosphate beta-D-glucosyltransferase inhibitors"
+          },
+          "amine": {
+            "http://purl.obolibrary.org/obo/CHEBI_38623": "amine:oxygen oxidoreductase (deaminating) inhibitors"
+          },
+          "arachidonate": {
+            "http://purl.obolibrary.org/obo/CHEBI_64996": "arachidonate:oxygen 15-oxidoreductase inhibitors"
+          },
+          "bactoprenyldiphospho-N-acetylmuramoyl-(N-acetyl-D-glucosaminyl)-pentapeptide": {
+            "http://purl.obolibrary.org/obo/CHEBI_50696": "bactoprenyldiphospho-N-acetylmuramoyl-(N-acetyl-D-glucosaminyl)-pentapeptide:peptidoglycan N-acetylmuramoyl-N-acetyl-D-glucosaminyltransferase inhibitors"
+          },
+          "benzenediol": {
+            "http://purl.obolibrary.org/obo/CHEBI_85050": "benzenediol:oxygen oxidoreductase inhibitors"
+          },
+          "carbamoyl-phosphate": {
+            "http://purl.obolibrary.org/obo/CHEBI_143003": "carbamoyl-phosphate:L-ornithine carbamoyltransferase inhibitors"
+          },
+          "carbon-dioxide": {
+            "http://purl.obolibrary.org/obo/CHEBI_138921": "carbon-dioxide:L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating) inhibitors"
+          },
+          "ceramide": {
+            "http://purl.obolibrary.org/obo/CHEBI_50382": "ceramide:UDPGlc glucosyltransferase inhibitors"
+          },
+          "chloride": {
+            "http://purl.obolibrary.org/obo/CHEBI_79093": "chloride:hydrogen-peroxide oxidoreductase (hypochlorite-forming) inhibitors"
+          },
+          "complex I (NADH": {
+            "http://purl.obolibrary.org/obo/CHEBI_38503": "complex I (NADH:Q1 oxidoreductase) inhibitors"
+          },
+          "cytidine 3'": {
+            "http://purl.obolibrary.org/obo/CHEBI_50568": "cytidine 3':5'-monophosphate phosphodiesterase (cyclic CMP) inhibitors"
+          },
+          "deamido-NAD(+)": {
+            "http://purl.obolibrary.org/obo/CHEBI_138953": "deamido-NAD(+):L-glutamine amido-ligase (AMP-forming) inhibitors"
+          },
+          "deoxynucleoside-triphosphate": {
+            "http://purl.obolibrary.org/obo/CHEBI_131699": "deoxynucleoside-triphosphate:DNA deoxynucleotidyltransferase (DNA-directed) inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_59897": "deoxynucleoside-triphosphate:DNA deoxynucleotidyltransferase (RNA-directed) inhibitors"
+          },
+          "dihydrolipoamide": {
+            "http://purl.obolibrary.org/obo/CHEBI_134545": "dihydrolipoamide:NAD(+) oxidoreductase inhibitors"
+          },
+          "dihydroorotate": {
+            "http://purl.obolibrary.org/obo/CHEBI_77103": "dihydroorotate:ubiquinone oxidoreductase inhibitors"
+          },
+          "dimethylallyl-diphosphate": {
+            "http://purl.obolibrary.org/obo/CHEBI_50643": "dimethylallyl-diphosphate:isopentenyl-diphosphate dimethylallyltranstransferase inhibitors"
+          },
+          "dolichyl-D-mannosyl-phosphate": {
+            "http://purl.obolibrary.org/obo/CHEBI_156527": "dolichyl-D-mannosyl-phosphate:protein O-D-mannosyltransferase inhibitors"
+          },
+          "dolichyl-phosphate-D-mannose": {
+            "http://purl.obolibrary.org/obo/CHEBI_156527": "dolichyl-phosphate-D-mannose:protein O-D-mannosyltransferase inhibitors"
+          },
+          "farnesyl-diphosphate": {
+            "http://purl.obolibrary.org/obo/CHEBI_64133": "farnesyl-diphosphate:protein-cysteine farnesyltransferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_75174": "farnesyl-diphosphate:farnesyl-diphosphate farnesyltransferase inhibitors"
+          },
+          "ferrocytochrome-c": {
+            "http://purl.obolibrary.org/obo/CHEBI_38500": "ferrocytochrome-c:oxygen oxidoreductase inhibitors"
+          },
+          "flavin-containing monooxygenase (fmo3)": {
+            "http://www.bioassayontology.org/bao#BAO_0010116": "flavin-containing monooxygenase (fmo3): screening for substrates"
+          },
+          "gamma-aminobutyrate": {
+            "http://purl.obolibrary.org/obo/CHEBI_63674": "gamma-aminobutyrate:alpha-oxoglutarate aminotransferase inhibitors"
+          },
+          "geranylgeranyl-diphosphate": {
+            "http://purl.obolibrary.org/obo/CHEBI_67267": "geranylgeranyl-diphosphate:protein-cysteine geranyltransferase inhibitors"
+          },
+          "glycine": {
+            "http://purl.obolibrary.org/obo/CHEBI_75429": "glycine:lipoylprotein oxidoreductase (decarboxylating and acceptor-aminomethylating) inhibitors"
+          },
+          "guanosine 3'": {
+            "http://purl.obolibrary.org/obo/CHEBI_85113": "guanosine 3':5'-cyclic monophosphate-dependent protein kinase inhibitors"
+          },
+          "histamine": {
+            "http://purl.obolibrary.org/obo/CHEBI_53659": "histamine:oxygen oxidoreductase (deaminating) inhibitors"
+          },
+          "hydrogen-carbonate": {
+            "http://purl.obolibrary.org/obo/CHEBI_138921": "hydrogen-carbonate:L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating)  inhibitors"
+          },
+          "hydrogen-peroxide": {
+            "http://purl.obolibrary.org/obo/CHEBI_75380": "hydrogen-peroxide:hydrogen-peroxide oxidoreductase inhibitors"
+          },
+          "hypoxanthine": {
+            "http://purl.obolibrary.org/obo/CHEBI_35634": "hypoxanthine:oxygen oxidoreductase inhibitors"
+          },
+          "hypoxia-inducible factor-L-proline, 2-oxoglutarate": {
+            "http://purl.obolibrary.org/obo/CHEBI_102248": "hypoxia-inducible factor-L-proline, 2-oxoglutarate:oxygen oxidoreductase (4-hydroxylating) inhibitors"
+          },
+          "long-chain fatty acid": {
+            "http://purl.obolibrary.org/obo/CHEBI_83157": "long-chain fatty acid:CoA ligase (AMP-forming) inhibitors"
+          },
+          "methylenetetrahydrofolate": {
+            "http://purl.obolibrary.org/obo/CHEBI_63720": "methylenetetrahydrofolate:dUMP C-methyltransferase inhibitors"
+          },
+          "mitochondrial NADH": {
+            "http://purl.obolibrary.org/obo/CHEBI_38498": "mitochondrial NADH:ubiquinone reductase inhibitor"
+          },
+          "monoamine": {
+            "http://purl.obolibrary.org/obo/CHEBI_38623": "monoamine:O2 oxidoreductase (deaminating) inhibitors"
+          },
+          "monophenol dihydroxyphenylalanine": {
+            "http://purl.obolibrary.org/obo/CHEBI_59997": "monophenol dihydroxyphenylalanine:oxygen oxidoreductase inhibitors"
+          },
+          "myristoyl-coenzyme A": {
+            "http://purl.obolibrary.org/obo/CHEBI_78691": "myristoyl-coenzyme A:protein N-myristoyl transferase inhibitors"
+          },
+          "nucleoside-triphosphate": {
+            "http://purl.obolibrary.org/obo/CHEBI_37416": "nucleoside-triphosphate:RNA nucleotidyltransferase (DNA-directed) inhibitors"
+          },
+          "o-diphenol": {
+            "http://purl.obolibrary.org/obo/CHEBI_85049": "o-diphenol:oxygen oxidoreductase inhibitors"
+          },
+          "ornithine": {
+            "http://purl.obolibrary.org/obo/CHEBI_195331": "ornithine:alpha-oxoglutarate transaminase inhibitors"
+          },
+          "palmitoyl-CoA": {
+            "http://purl.obolibrary.org/obo/CHEBI_59647": "palmitoyl-CoA:L-serine C-palmitoyltransferase (decarboxylating) inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_63158": "palmitoyl-CoA:L-carnitine O-palmitoyltransferase inhibitors"
+          },
+          "phenolic donor": {
+            "http://purl.obolibrary.org/obo/CHEBI_136558": "phenolic donor:hydrogen-peroxide oxidoreductase inhibitors"
+          },
+          "phosphoenolpyruvate": {
+            "http://purl.obolibrary.org/obo/CHEBI_20569": "phosphoenolpyruvate:3-phosphoshikimate 5-O-(1-carboxyvinyl)-transferase inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_78379": "phosphoenolpyruvate:uridine-5'-diphospho-N-acetyl-2-amino-2-deoxyglucose 3-enolpyruvyltransferase inhibitors"
+          },
+          "procollagen-L-proline,2-oxoglutarate": {
+            "http://purl.obolibrary.org/obo/CHEBI_132365": "procollagen-L-proline,2-oxoglutarate:oxygen oxidoreductase (4-hydroxylating) inhibitors"
+          },
+          "prolyl-glycyl-peptide, 2-oxoglutarate": {
+            "http://purl.obolibrary.org/obo/CHEBI_132365": "prolyl-glycyl-peptide, 2-oxoglutarate:oxygen oxidoreductase, 4-hydroxylating inhibitors"
+          },
+          "protein-6-N-(dihydrolipoyl)lysine": {
+            "http://purl.obolibrary.org/obo/CHEBI_134545": "protein-6-N-(dihydrolipoyl)lysine:NAD(+) oxidoreductase inhibitors"
+          },
+          "protein-N(6)-(dihydrolipoyl)lysine": {
+            "http://purl.obolibrary.org/obo/CHEBI_134545": "protein-N(6)-(dihydrolipoyl)lysine:NAD(+) oxidoreductase inhibitors"
+          },
+          "protein-glutamine": {
+            "http://purl.obolibrary.org/obo/CHEBI_72716": "protein-glutamine:amine gamma-glutamyltransferase inhibitors"
+          },
+          "protoporphyrinogen-IX": {
+            "http://purl.obolibrary.org/obo/CHEBI_73192": "protoporphyrinogen-IX:oxygen oxidoreductase inhibitors"
+          },
+          "purine-nucleoside": {
+            "http://purl.obolibrary.org/obo/CHEBI_63090": "purine-nucleoside:phosphate ribosyltransferase inhibitors"
+          },
+          "pyruvate": {
+            "http://purl.obolibrary.org/obo/CHEBI_22180": "pyruvate:pyruvate acetaldehydetransferase (decarboxylating) inhibitors",
+            "http://purl.obolibrary.org/obo/CHEBI_90318": "pyruvate:carbon-dioxide ligase (ADP-forming) inhibitors"
+          },
+          "quercetin": {
+            "http://purl.obolibrary.org/obo/CHEBI_85051": "quercetin:oxygen 2,3-oxidoreductase (ring-opening) inhibitors"
+          },
+          "quinine,NADPH": {
+            "http://purl.obolibrary.org/obo/CHEBI_77783": "quinine,NADPH:oxygen oxidoreductase inhibitors"
+          },
+          "secondary-alcohol": {
+            "http://purl.obolibrary.org/obo/CHEBI_73136": "secondary-alcohol:NADP+ oxidoreductase inhibitors"
+          },
+          "shikimate": {
+            "http://purl.obolibrary.org/obo/CHEBI_77484": "shikimate:NADP(+) oxidoreductase inhibitors"
+          },
+          "spermidine": {
+            "http://purl.obolibrary.org/obo/CHEBI_133895": "spermidine:eIF5A-lysine 4-aminobutyltransferase (propane-1,3-diamine-forming) inhibitors"
+          },
+          "steroid,NADPH--hemoprotein reductase": {
+            "http://purl.obolibrary.org/obo/CHEBI_68640": "steroid,NADPH--hemoprotein reductase:oxygen oxidoreductase (17alpha-hydroxylating) inhibitors"
+          },
+          "steroid,reduced-adrenodoxin": {
+            "http://purl.obolibrary.org/obo/CHEBI_76798": "steroid,reduced-adrenodoxin:oxygen oxidoreductase (11beta-hydroxylating) inhibitors"
+          },
+          "sterol": {
+            "http://purl.obolibrary.org/obo/CHEBI_78728": "sterol:NADP(+) Delta(24)-oxidoreductase"
+          },
+          "sterol,NADPH": {
+            "http://purl.obolibrary.org/obo/CHEBI_77884": "sterol,NADPH:oxygen oxidoreductase (14-methyl cleaving) inhibitors"
+          },
+          "sterol,[reduced NADPH--hemoprotein reductase]": {
+            "http://purl.obolibrary.org/obo/CHEBI_143828": "sterol,[reduced NADPH--hemoprotein reductase]:oxygen inhibitor"
+          },
+          "substrate,reduced-flavoprotein": {
+            "http://purl.obolibrary.org/obo/CHEBI_76898": "substrate,reduced-flavoprotein:oxygen oxidoreductase (RH-hydroxylating or -epoxidising) inhibitors"
+          },
+          "succinate": {
+            "http://purl.obolibrary.org/obo/CHEBI_83072": "succinate:ubiquinone oxidoreductase inhibitors"
+          },
+          "sulfide": {
+            "http://purl.obolibrary.org/obo/CHEBI_90921": "sulfide:quinone reductase inhibitors"
+          },
+          "taurochenodeoxycholate,NADPH": {
+            "http://purl.obolibrary.org/obo/CHEBI_86501": "taurochenodeoxycholate,NADPH:oxygen oxidoreductase (6alpha-hydroxylating) inhibitors"
+          },
+          "tetradecanoyl-CoA": {
+            "http://purl.obolibrary.org/obo/CHEBI_78691": "tetradecanoyl-CoA:glycylpeptide N-tetradecanoyltransferase inhibitors"
+          },
+          "thioredoxin": {
+            "http://purl.obolibrary.org/obo/CHEBI_64670": "thioredoxin:NADP+ oxidoreductase inhibitors"
+          },
+          "thymidine": {
+            "http://purl.obolibrary.org/obo/CHEBI_90878": "thymidine:phosphate deoxy-alpha-D-ribosyltransferase inhibitors"
+          },
+          "trypanothione": {
+            "http://purl.obolibrary.org/obo/CHEBI_77402": "trypanothione:NADP(+) oxidoreductase inhibitors"
+          },
+          "ubiquitin": {
+            "http://purl.obolibrary.org/obo/CHEBI_75968": "ubiquitin:protein-lysine N-ligase (AMP-forming) inhibitors"
+          },
+          "undecaprenyldiphospho-(N-acetyl-D-glucosaminyl-(1->4)-N-acetyl-D-muramoylpentapeptide)": {
+            "http://purl.obolibrary.org/obo/CHEBI_50696": "undecaprenyldiphospho-(N-acetyl-D-glucosaminyl-(1->4)-N-acetyl-D-muramoylpentapeptide):undecaprenyldiphospho-(N-acetyl-D-glucosaminyl-(1->4)-N-acetyl-D-muramoylpentapeptide) disaccharidetransferase inhibitors"
+          },
+          "uridine diphospho-N-acetylglucosamine": {
+            "http://purl.obolibrary.org/obo/CHEBI_139153": "uridine diphospho-N-acetylglucosamine:polypeptide beta-N-acetylglucosaminyltransferase inhibitors"
+          },
+          "xanthine": {
+            "http://purl.obolibrary.org/obo/CHEBI_35634": "xanthine:xanthine oxidase inhibitors"
+          },
+          "xanthosine-5'-phosphate": {
+            "http://purl.obolibrary.org/obo/CHEBI_138928": "xanthosine-5'-phosphate:L-glutamine amido-ligase (AMP-forming) inhibitors"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://www.bioassayontology.org/bao/bao_complete.owl",
+      "version": "2.8.14",
+      "version_iri": "http://www.bioassayontology.org/bao/bao_complete.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/DOID_0050120": [

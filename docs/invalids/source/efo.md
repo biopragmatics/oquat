@@ -385,71 +385,45 @@ did not match the standard pattern `^\d+$`.
 | `MedDRA:1001MedDRA:1009` |              1 | [EFO:1000879](http://www.ebi.ac.uk/efo/EFO_1000879) |
 | `MedDRA:10049MedDRA:100` |              1 | [EFO:1001835](http://www.ebi.ac.uk/efo/EFO_1001835) |
 
+## `MedGen`: Human Medical Genetics
+
+Overall, there were 6 invalid
+xrefs to external prefixed with `MedGen` (standardized to Bioregistry
+prefix [`medgen`](https://bioregistry.io/medgen)) that
+did not match the standard pattern `^(CN)?\d{2,7}$`.
+
+| external_xref     |   usages_count | usages                                              |
+|-------------------|----------------|-----------------------------------------------------|
+| `MedGen:C1535926` |              1 | [EFO:0010642](http://www.ebi.ac.uk/efo/EFO_0010642) |
+| `MedGen:C4748701` |              1 | [EFO:0010643](http://www.ebi.ac.uk/efo/EFO_0010643) |
+| `MedGen:C4288261` |              1 | [EFO:0010647](http://www.ebi.ac.uk/efo/EFO_0010647) |
+| `MedGen:C1864399` |              1 | [EFO:0010956](http://www.ebi.ac.uk/efo/EFO_0010956) |
+| `MedGen:C1333600` |              1 | [EFO:0022911](http://www.ebi.ac.uk/efo/EFO_0022911) |
+| `MedGen:C3502105` |              1 | [EFO:0022913](http://www.ebi.ac.uk/efo/EFO_0022913) |
+
+## `Medgen`: Human Medical Genetics
+
+Overall, there were 3 invalid
+xrefs to external prefixed with `Medgen` (standardized to Bioregistry
+prefix [`medgen`](https://bioregistry.io/medgen)) that
+did not match the standard pattern `^(CN)?\d{2,7}$`.
+
+| external_xref     |   usages_count | usages                                              |
+|-------------------|----------------|-----------------------------------------------------|
+| `Medgen:C0339526` |              1 | [EFO:0020026](http://www.ebi.ac.uk/efo/EFO_0020026) |
+| `Medgen:C3887501` |              1 | [EFO:0020027](http://www.ebi.ac.uk/efo/EFO_0020027) |
+| `Medgen:C3150597` |              1 | [EFO:0020031](http://www.ebi.ac.uk/efo/EFO_0020031) |
+
 ## `MEDGEN`: Human Medical Genetics
 
-Overall, there were 56 invalid
+Overall, there were 1 invalid
 xrefs to external prefixed with `MEDGEN` (standardized to Bioregistry
 prefix [`medgen`](https://bioregistry.io/medgen)) that
-did not match the standard pattern `^[CN]*\d{4,7}$`.
+did not match the standard pattern `^(CN)?\d{2,7}$`.
 
-| external_xref   |   usages_count | usages                                              |
-|-----------------|----------------|-----------------------------------------------------|
-| `MEDGEN:122`    |              1 | [EFO:0000228](http://www.ebi.ac.uk/efo/EFO_0000228) |
-| `MEDGEN:125`    |              1 | [EFO:0000232](http://www.ebi.ac.uk/efo/EFO_0000232) |
-| `MEDGEN:438`    |              1 | [EFO:0000272](http://www.ebi.ac.uk/efo/EFO_0000272) |
-| `MEDGEN:445`    |              1 | [EFO:0000275](http://www.ebi.ac.uk/efo/EFO_0000275) |
-| `MEDGEN:594`    |              1 | [EFO:0000294](http://www.ebi.ac.uk/efo/EFO_0000294) |
-| `MEDGEN:765`    |              1 | [EFO:0000432](http://www.ebi.ac.uk/efo/EFO_0000432) |
-| `MEDGEN:764`    |              1 | [EFO:0000673](http://www.ebi.ac.uk/efo/EFO_0000673) |
-| `MEDGEN:766`    |              1 | [EFO:0000681](http://www.ebi.ac.uk/efo/EFO_0000681) |
-| `MEDGEN:99`     |              1 | [EFO:0000765](http://www.ebi.ac.uk/efo/EFO_0000765) |
-| `MEDGEN:362`    |              1 | [EFO:0001666](http://www.ebi.ac.uk/efo/EFO_0001666) |
-| `MEDGEN:177`    |              1 | [EFO:0002608](http://www.ebi.ac.uk/efo/EFO_0002608) |
-| `MEDGEN:482`    |              1 | [EFO:0003033](http://www.ebi.ac.uk/efo/EFO_0003033) |
-| `MEDGEN:858`    |              1 | [EFO:0003763](http://www.ebi.ac.uk/efo/EFO_0003763) |
-| `MEDGEN:853`    |              1 | [EFO:0003764](http://www.ebi.ac.uk/efo/EFO_0003764) |
-| `MEDGEN:360`    |              1 | [EFO:0003835](http://www.ebi.ac.uk/efo/EFO_0003835) |
-| `MEDGEN:138`    |              1 | [EFO:0004126](http://www.ebi.ac.uk/efo/EFO_0004126) |
-| `MEDGEN:213`    |              1 | [EFO:0004192](http://www.ebi.ac.uk/efo/EFO_0004192) |
-| `MEDGEN:868`    |              1 | [EFO:0005529](http://www.ebi.ac.uk/efo/EFO_0005529) |
-| `MEDGEN:714`    |              1 | [EFO:0005769](http://www.ebi.ac.uk/efo/EFO_0005769) |
-| `MEDGEN:361`    |              1 | [EFO:0006788](http://www.ebi.ac.uk/efo/EFO_0006788) |
-| `MEDGEN:126`    |              1 | [EFO:0007134](http://www.ebi.ac.uk/efo/EFO_0007134) |
-| `MEDGEN:174`    |              1 | [EFO:0007136](http://www.ebi.ac.uk/efo/EFO_0007136) |
-| `MEDGEN:495`    |              1 | [EFO:0007164](http://www.ebi.ac.uk/efo/EFO_0007164) |
-| `MEDGEN:504`    |              1 | [EFO:0007166](http://www.ebi.ac.uk/efo/EFO_0007166) |
-| `MEDGEN:586`    |              1 | [EFO:0007170](http://www.ebi.ac.uk/efo/EFO_0007170) |
-| `MEDGEN:597`    |              1 | [EFO:0007174](http://www.ebi.ac.uk/efo/EFO_0007174) |
-| `MEDGEN:600`    |              1 | [EFO:0007175](http://www.ebi.ac.uk/efo/EFO_0007175) |
-| `MEDGEN:665`    |              1 | [EFO:0007183](http://www.ebi.ac.uk/efo/EFO_0007183) |
-| `MEDGEN:674`    |              1 | [EFO:0007185](http://www.ebi.ac.uk/efo/EFO_0007185) |
-| `MEDGEN:743`    |              1 | [EFO:0007192](http://www.ebi.ac.uk/efo/EFO_0007192) |
-| `MEDGEN:869`    |              1 | [EFO:0007363](http://www.ebi.ac.uk/efo/EFO_0007363) |
-| `MEDGEN:604`    |              1 | [EFO:0009314](http://www.ebi.ac.uk/efo/EFO_0009314) |
-| `MEDGEN:652`    |              1 | [EFO:0009483](http://www.ebi.ac.uk/efo/EFO_0009483) |
-| `MEDGEN:358`    |              1 | [EFO:0009530](http://www.ebi.ac.uk/efo/EFO_0009530) |
-| `MEDGEN:571`    |              1 | [EFO:0009535](http://www.ebi.ac.uk/efo/EFO_0009535) |
-| `MEDGEN:598`    |              1 | [EFO:0009536](http://www.ebi.ac.uk/efo/EFO_0009536) |
-| `MEDGEN:114`    |              1 | [EFO:0009657](http://www.ebi.ac.uk/efo/EFO_0009657) |
-| `MEDGEN:359`    |              1 | [EFO:0009660](http://www.ebi.ac.uk/efo/EFO_0009660) |
-| `MEDGEN:295`    |              1 | [EFO:1000013](http://www.ebi.ac.uk/efo/EFO_1000013) |
-| `MEDGEN:918`    |              1 | [EFO:1000123](http://www.ebi.ac.uk/efo/EFO_1000123) |
-| `MEDGEN:124`    |              1 | [EFO:1000625](http://www.ebi.ac.uk/efo/EFO_1000625) |
-| `MEDGEN:854`    |              1 | [EFO:1000632](http://www.ebi.ac.uk/efo/EFO_1000632) |
-| `MEDGEN:284`    |              1 | [EFO:1000641](http://www.ebi.ac.uk/efo/EFO_1000641) |
-| `MEDGEN:54`     |              1 | [EFO:1000660](http://www.ebi.ac.uk/efo/EFO_1000660) |
-| `MEDGEN:229`    |              1 | [EFO:1000782](http://www.ebi.ac.uk/efo/EFO_1000782) |
-| `MEDGEN:161`    |              1 | [EFO:1000799](http://www.ebi.ac.uk/efo/EFO_1000799) |
-| `MEDGEN:543`    |              1 | [EFO:1000837](http://www.ebi.ac.uk/efo/EFO_1000837) |
-| `MEDGEN:296`    |              1 | [EFO:1000985](http://www.ebi.ac.uk/efo/EFO_1000985) |
-| `MEDGEN:254`    |              1 | [EFO:1001149](http://www.ebi.ac.uk/efo/EFO_1001149) |
-| `MEDGEN:364`    |              1 | [EFO:1001206](http://www.ebi.ac.uk/efo/EFO_1001206) |
-| `MEDGEN:389`    |              1 | [EFO:1001269](http://www.ebi.ac.uk/efo/EFO_1001269) |
-| `MEDGEN:484`    |              1 | [EFO:1001272](http://www.ebi.ac.uk/efo/EFO_1001272) |
-| `MEDGEN:297`    |              1 | [EFO:1001424](http://www.ebi.ac.uk/efo/EFO_1001424) |
-| `MEDGEN:49`     |              1 | [EFO:1001754](http://www.ebi.ac.uk/efo/EFO_1001754) |
-| `MEDGEN:175`    |              1 | [EFO:1001872](http://www.ebi.ac.uk/efo/EFO_1001872) |
-| `MEDGEN:272`    |              1 | [EFO:1001875](http://www.ebi.ac.uk/efo/EFO_1001875) |
+| external_xref     |   usages_count | usages                                              |
+|-------------------|----------------|-----------------------------------------------------|
+| `MEDGEN:C0002768` |              1 | [EFO:0022837](http://www.ebi.ac.uk/efo/EFO_0022837) |
 
 ## `MedlinePlus`: MedlinePlus Health Topics
 

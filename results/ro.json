@@ -2,6 +2,38 @@
   "results": {
     "http://purl.obolibrary.org/obo/ro.json": {
       "graph_id": "http://purl.obolibrary.org/obo/ro.json",
+      "prop_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/RO_0002570": [
+            "UBERON:cjm"
+          ]
+        },
+        "known_prefixes": {},
+        "label": "Node Properties",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "GOC": {
+            "http://purl.obolibrary.org/obo/RO_0002297": "GOC:mtg_berkeley_2013",
+            "http://purl.obolibrary.org/obo/RO_0002298": "GOC:mtg_berkeley_2013",
+            "http://purl.obolibrary.org/obo/RO_0002299": "GOC:mtg_berkeley_2013",
+            "http://purl.obolibrary.org/obo/RO_0002315": "GOC:mtg_berkeley_2013"
+          },
+          "May be obsoleted, see https": {
+            "http://purl.obolibrary.org/obo/RO_0002001": "May be obsoleted, see https://github.com/oborel/obo-relations/issues/260"
+          },
+          "See github ticket https": {
+            "http://purl.obolibrary.org/obo/RO_0017001": "See github ticket https://github.com/oborel/obo-relations/issues/497"
+          },
+          "TODO": {
+            "http://purl.obolibrary.org/obo/RO_0002214": "TODO: add homeomorphy axiom",
+            "http://purl.obolibrary.org/obo/RO_HOM0000000": "TODO: Add homeomorphy axiom"
+          },
+          "bone maturation (GO": {
+            "http://purl.obolibrary.org/obo/RO_0002299": "bone maturation (GO:0070977) results_in_maturation_of bone (UBERON:0001474)"
+          }
+        }
+      },
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/RO_HOM0000010": [
@@ -27,15 +59,8 @@
           }
         }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/ro/releases/2025-03-05/ro.json",
+      "version": "2025-03-05",
+      "version_iri": "http://purl.obolibrary.org/obo/ro/releases/2025-03-05/ro.json",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/RO_HOM0000000": [

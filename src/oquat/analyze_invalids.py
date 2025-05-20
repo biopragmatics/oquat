@@ -41,7 +41,9 @@ def main() -> None:
         analysis_results = AnalysisResults.model_validate_json(path.read_text())
         for results in analysis_results.results.values():
             for key in KEYS:
-                pack: ResultPack = getattr(results, key)
+                pack: ResultPack | None = getattr(results, key)
+                if not pack:
+                    continue
                 for node, invalid_xrefs in pack.invalid_luids.items():
                     # node_curie = node.removeprefix(OBO_PREFIX).replace("_", ":")
                     for xref in invalid_xrefs:

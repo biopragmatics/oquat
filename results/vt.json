@@ -3104,15 +3104,8 @@
           }
         }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/vt/releases/2025-05-05/vt.owl",
+      "version": "2025-05-05",
+      "version_iri": "http://purl.obolibrary.org/obo/vt/releases/2025-05-05/vt.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/VT_0000188": [

@@ -2,29 +2,21 @@
   "results": {
     "http://bhi.washington.edu/OPB": {
       "graph_id": "http://bhi.washington.edu/OPB",
-      "prov_pack": {
-        "invalid_luids": {},
+      "prop_pack": {
+        "invalid_luids": {
+          "http://bhi.washington.edu/OPB#OPB_01366": [
+            "Wikipedia: Liquid junction potential http://en.wikipedia.org/w/index.php?title=Liquid_junction_potential&redirect=no"
+          ]
+        },
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "synonyms": {
+            "http://bhi.washington.edu/OPB#OPB_01107": "synonyms: mass, inertia, inertial mass"
+          }
+        }
       }
     }
   }

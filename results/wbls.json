@@ -3025,15 +3025,8 @@
         },
         "unknown_prefixes": {}
       },
-      "version": "http://purl.obolibrary.org/obo/wbls/releases/2025-04-01/wbls.owl",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "2025-04-01",
+      "version_iri": "http://purl.obolibrary.org/obo/wbls/releases/2025-04-01/wbls.owl"
     }
   }
 }

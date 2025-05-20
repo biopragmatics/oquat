@@ -1,7 +1,1 @@
-{
-  "created": "2023-12-07T09:27:06.731822",
-  "messages": [
-    "[edam.topic] could not parse OBO from https://github.com/edamontology/edamontology/raw/main/releases/EDAM.obo"
-  ],
-  "results": {}
-}
+{}

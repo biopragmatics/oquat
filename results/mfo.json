@@ -1,28 +1,150 @@
 {
-  "created": "2023-12-07T09:44:22.845688",
-  "messages": [
-    "[mfo] could not parse OWL from http://purl.obolibrary.org/obo/mfo.owl"
-  ],
   "results": {
     "http://purl.obolibrary.org/obo/TEMP": {
       "graph_id": "http://purl.obolibrary.org/obo/TEMP",
       "prov_pack": {
-        "invalid_luids": {},
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/MFO_0000020": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000030": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000040": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000050": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000060": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000070": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000080": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000090": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000100": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000110": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000120": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000130": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000140": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000150": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000160": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000170": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000180": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000190": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000200": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000210": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000220": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000230": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000240": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000250": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000260": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000270": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000280": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000290": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000300": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000310": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000320": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000330": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000340": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000350": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000360": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000370": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000380": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000390": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000400": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000410": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000420": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000430": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000440": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000450": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000460": [
+            "MFO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/MFO_0000470": [
+            "MFO:curators"
+          ]
+        },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "xref_pack": {
-        "invalid_luids": {},
-        "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}

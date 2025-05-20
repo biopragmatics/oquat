@@ -2,30 +2,7 @@
   "results": {
     "http://semanticchemistry.github.io/semanticchemistry/ontology/cheminf.owl": {
       "graph_id": "http://semanticchemistry.github.io/semanticchemistry/ontology/cheminf.owl",
-      "prov_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Provenance Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "2.1.0"
     }
   }
 }

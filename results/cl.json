@@ -2590,7 +2590,8 @@
           }
         }
       },
-      "version": "http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.json",
+      "version": "2025-04-10",
+      "version_iri": "http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.json",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/CL_0000015": [

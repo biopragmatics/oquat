@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `uberon`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 8 resources,
+`^\d+$`. Of the 9 resources,
 1 variants on the standard prefix were found: ['UBERON'].
 
 ## `bspo`: Biological Spatial Ontology
@@ -12,6 +12,19 @@ Identifiers for this prefix are given incorrectly in `bspo`. See the [GitHub rep
 | external_xref   |   usages_count | usages                                                      |
 |-----------------|----------------|-------------------------------------------------------------|
 | `UBERON:cjm`    |              1 | [BSPO:0000126](http://purl.obolibrary.org/obo/BSPO_0000126) |
+
+## `clm`: Cell Markers Ontology
+
+Identifiers for this prefix are given incorrectly in `clm`. See the [GitHub repository](https://github.com/Cellular-Semantics/CellMark).
+
+| external_xref      |   usages_count | usages                                                                                                                                                                                                                                                                                                                                   |
+|--------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `UBERON:cjm`       |             38 | [UBERON:0000004](http://purl.obolibrary.org/obo/UBERON_0000004), [UBERON:0000977](http://purl.obolibrary.org/obo/UBERON_0000977), [UBERON:0001027](http://purl.obolibrary.org/obo/UBERON_0001027), [UBERON:0001242](http://purl.obolibrary.org/obo/UBERON_0001242), [UBERON:0001277](http://purl.obolibrary.org/obo/UBERON_0001277), ... |
+| `UBERON:xp`        |              2 | [UBERON:0003133](http://purl.obolibrary.org/obo/UBERON_0003133), [UBERON:0003134](http://purl.obolibrary.org/obo/UBERON_0003134)                                                                                                                                                                                                         |
+| `UBERON:md`        |              2 | [UBERON:0013739](http://purl.obolibrary.org/obo/UBERON_0013739), [UBERON:0013740](http://purl.obolibrary.org/obo/UBERON_0013740)                                                                                                                                                                                                         |
+| `UBERON:automatic` |              1 | [UBERON:0004766](http://purl.obolibrary.org/obo/UBERON_0004766)                                                                                                                                                                                                                                                                          |
+| `UBERON:drseb`     |              1 | [UBERON:0019207](http://purl.obolibrary.org/obo/UBERON_0019207)                                                                                                                                                                                                                                                                          |
+| `UBERON:EJS`       |              1 | [UBERON:1000021](http://purl.obolibrary.org/obo/UBERON_1000021)                                                                                                                                                                                                                                                                          |
 
 ## `enm`: eNanoMapper ontology
 

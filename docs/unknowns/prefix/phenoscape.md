@@ -64,3 +64,9 @@
 | PhenoScape:IPTS |        1 | [ECO:0000057](http://purl.obolibrary.org/obo/ECO_0000057) |
 | PhenoScape:IP   |        1 | [ECO:0000080](http://purl.obolibrary.org/obo/ECO_0000080) |
 
+## clm
+
+| curie           |   usages | nodes                                                           |
+|-----------------|----------|-----------------------------------------------------------------|
+| PHENOSCAPE:alex |        1 | [UBERON:0018321](http://purl.obolibrary.org/obo/UBERON_0018321) |
+

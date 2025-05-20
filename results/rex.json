@@ -46,15 +46,7 @@
           }
         }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/rex/releases/2017-11-19/rex.owl",
+      "version_iri": "http://purl.obolibrary.org/obo/rex/releases/2017-11-19/rex.owl",
       "xref_pack": {
         "invalid_luids": {},
         "known_prefixes": {},

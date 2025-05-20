@@ -2,31 +2,33 @@
   "results": {
     "http://w3id.org/nfdi4ing/metadata4ing#": {
       "graph_id": "http://w3id.org/nfdi4ing/metadata4ing#",
-      "prov_pack": {
+      "prop_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "": {
+            "https://schema.org/affiliation": ":Person schema:affiliation :Organization .",
+            "https://schema.org/funder": ":Project schema:funder :DFG"
+          },
+          "changed by m4i": {
+            "http://purl.obolibrary.org/obo/RO_0002090": "changed by m4i: added skos:prefLabel",
+            "http://purl.obolibrary.org/obo/RO_0002233": "changed by m4i: added skos:prefLabel",
+            "http://purl.obolibrary.org/obo/RO_0002234": "changed by m4i: added skos:prefLabel",
+            "http://purl.obolibrary.org/obo/RO_0002352": "changed by m4i: added skos:prefLabel",
+            "http://purl.obolibrary.org/obo/RO_0002353": "changed by m4i: added skos:prefLabel",
+            "http://purl.org/dc/terms/description": "changed by m4i: added skos:prefLabel",
+            "http://purl.org/dc/terms/title": "changed by m4i: added skos:prefLabel",
+            "http://www.w3.org/ns/prov#agent": "changed by m4i: simplified definition",
+            "https://schema.org/affiliation": "changed by m4i: added application example",
+            "https://schema.org/funder": "changed by m4i: added application example"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://w3id.org/nfdi4ing/metadata4ing/1.3.1",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "v1.3.1",
+      "version_iri": "http://w3id.org/nfdi4ing/metadata4ing/1.3.1"
     }
   }
 }

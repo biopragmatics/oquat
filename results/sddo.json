@@ -1,0 +1,283 @@
+{
+  "results": {
+    "http://purl.obolibrary.org/obo/sddo.json": {
+      "graph_id": "http://purl.obolibrary.org/obo/sddo.json",
+      "prop_pack": {
+        "invalid_luids": {},
+        "known_prefixes": {},
+        "label": "Node Properties",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "0": {
+            "http://purl.obolibrary.org/obo/OBI_0002361": "0: asymptomatic"
+          },
+          "1": {
+            "http://purl.obolibrary.org/obo/OBI_0002362": "1: symptomatic but fully ambulatory"
+          },
+          "100": {
+            "http://purl.obolibrary.org/obo/OBI_0002364": "100: asymptomatic"
+          },
+          "2009-11-10. Tracker": {
+            "http://purl.obolibrary.org/obo/OBI_0200033": "2009-11-10. Tracker: https://sourceforge.net/tracker/?func=detail&aid=2893049&group_id=177891&atid=886178"
+          },
+          "2014-03-31": {
+            "http://purl.obolibrary.org/obo/IAO_0000027": "2014-03-31: See discussion at http://odontomachus.wordpress.com/2014/03/30/aboutness-objects-propositions/"
+          },
+          "4": {
+            "http://purl.obolibrary.org/obo/OBI_0002360": "4: bed ridden"
+          },
+          "6/9/09": {
+            "http://purl.obolibrary.org/obo/OBI_0000659": "6/9/09: used at workshop"
+          },
+          "80-90": {
+            "http://purl.obolibrary.org/obo/OBI_0002365": "80-90: symptomatic but fully ambulatory"
+          },
+          "A broadened version of http": {
+            "http://purl.obolibrary.org/obo/SDDO_3000089": "A broadened version of http://purl.obolibrary.org/obo/NCIT_C25294"
+          },
+          "Adapted from http": {
+            "http://purl.obolibrary.org/obo/SDDO_3000044": "Adapted from http://purl.obolibrary.org/obo/NCIT_C25499"
+          },
+          "Adapted from pds": {
+            "http://purl.obolibrary.org/obo/SDDO_3000092": "Adapted from pds:Instrument"
+          },
+          "Details see tracker": {
+            "http://purl.obolibrary.org/obo/OBI_0002076": "Details see tracker: https://sourceforge.net/p/obi/obi-terms/778/"
+          },
+          "Discussion on obo-discuss mailing-list, see http": {
+            "http://purl.obolibrary.org/obo/IAO_0000119": "Discussion on obo-discuss mailing-list, see http://bit.ly/hgm99w"
+          },
+          "G1": {
+            "http://purl.obolibrary.org/obo/OBI_0002205": "G1:Well differentiated",
+            "http://purl.obolibrary.org/obo/OBI_0002206": "G1: Well differentiated"
+          },
+          "G2": {
+            "http://purl.obolibrary.org/obo/OBI_0002207": "G2: Moderately differentiated"
+          },
+          "G3": {
+            "http://purl.obolibrary.org/obo/OBI_0002208": "G3: Poorly differentiated"
+          },
+          "G4": {
+            "http://purl.obolibrary.org/obo/OBI_0002205": "G4: Undifferentiated",
+            "http://purl.obolibrary.org/obo/OBI_0002209": "G4: Undifferentiated"
+          },
+          "GROUP": {
+            "http://purl.obolibrary.org/obo/IAO_0000009": "GROUP: IAO",
+            "http://purl.obolibrary.org/obo/IAO_0000010": "GROUP: OBI",
+            "http://purl.obolibrary.org/obo/IAO_0000078": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000111": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000112": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000115": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000116": "GROUP:OBI:<http://purl.obofoundry.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000117": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000118": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000119": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000178": "GROUP: IAO",
+            "http://purl.obolibrary.org/obo/IAO_0000179": "GROUP:OBI",
+            "http://purl.obolibrary.org/obo/IAO_0000180": "GROUP:OBI",
+            "http://purl.obolibrary.org/obo/OBI_0000017": "GROUP:  Role branch",
+            "http://purl.obolibrary.org/obo/OBI_0000112": "GROUP:  Role Branch",
+            "http://purl.obolibrary.org/obo/OBI_0000202": "GROUP:  Role Branch",
+            "http://purl.obolibrary.org/obo/OBI_0000245": "GROUP: OBI",
+            "http://purl.obolibrary.org/obo/OBI_0000450": "GROUP: OBI Biomaterial Branch",
+            "http://purl.obolibrary.org/obo/OBI_0000456": "GROUP: OBI PlanAndPlannedProcess Branch",
+            "http://purl.obolibrary.org/obo/OBI_0000457": "GROUP: OBI PlanAndPlannedProcess Branch",
+            "http://purl.obolibrary.org/obo/OBI_0000458": "GROUP: OBI PlanAndPlannedProcess Branch",
+            "http://purl.obolibrary.org/obo/OBI_0000571": "GROUP:  Role Branch",
+            "http://purl.obolibrary.org/obo/OBI_0100026": "GROUP: OBI Biomaterial Branch",
+            "http://purl.obolibrary.org/obo/OBI_0100051": "GROUP: OBI Biomaterial Branch"
+          },
+          "Group": {
+            "http://purl.obolibrary.org/obo/OBI_0001909": "Group:2013 Philly Workshop group"
+          },
+          "Modified from http": {
+            "http://www.ebi.ac.uk/swo/SWO_0000002": "Modified from http://en.wikipedia.org/wiki/Software_license"
+          },
+          "Modified in parts from https": {
+            "http://www.ebi.ac.uk/swo/SWO_0000001": "Modified in parts from https://en.wikipedia.org/wiki/Software"
+          },
+          "OBI branch derived + wikipedia (http": {
+            "http://purl.obolibrary.org/obo/OBI_0000272": "OBI branch derived + wikipedia (http://en.wikipedia.org/wiki/Protocol_%28natural_sciences%29)"
+          },
+          "PERSON": {
+            "http://purl.obolibrary.org/obo/IAO_0000003": "PERSON: Melanie Courtot",
+            "http://purl.obolibrary.org/obo/IAO_0000005": "PERSON: Jennifer Fostel",
+            "http://purl.obolibrary.org/obo/IAO_0000010": "PERSON: Melanie Courtot",
+            "http://purl.obolibrary.org/obo/IAO_0000027": "PERSON: Jonathan Rees",
+            "http://purl.obolibrary.org/obo/IAO_0000030": "PERSON: Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/IAO_0000033": "PERSON: Bjoern Peters",
+            "http://purl.obolibrary.org/obo/IAO_0000038": "PERSON: Lawrence Hunter",
+            "http://purl.obolibrary.org/obo/IAO_0000078": "PERSON:Bill Bug",
+            "http://purl.obolibrary.org/obo/IAO_0000098": "PERSON: Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/IAO_0000111": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000112": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000115": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000116": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000117": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000118": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000119": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000121": "PERSON:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/IAO_0000179": "PERSON:Melanie Courtot",
+            "http://purl.obolibrary.org/obo/IAO_0000180": "PERSON:Melanie Courtot",
+            "http://purl.obolibrary.org/obo/IAO_0000183": "PERSON:Melanie Courtot",
+            "http://purl.obolibrary.org/obo/IAO_0000184": "PERSON:Melanie Courtot",
+            "http://purl.obolibrary.org/obo/IAO_0000225": "PERSON: Melanie Courtot",
+            "http://purl.obolibrary.org/obo/IAO_0000308": "PERSON: Lawrence Hunter",
+            "http://purl.obolibrary.org/obo/IAO_0000309": "PERSON: Lawrence Hunter",
+            "http://purl.obolibrary.org/obo/IAO_0000310": "PERSON: Lawrence Hunter",
+            "http://purl.obolibrary.org/obo/OBI_0000018": "PERSON:Jennifer Fostel",
+            "http://purl.obolibrary.org/obo/OBI_0000023": "PERSON: Monnie McGee",
+            "http://purl.obolibrary.org/obo/OBI_0000047": "PERSON: Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/OBI_0000094": "PERSON: Philippe Rocca Serra",
+            "http://purl.obolibrary.org/obo/OBI_0000245": "PERSON: Susanna Sansone",
+            "http://purl.obolibrary.org/obo/OBI_0000293": "PERSON: Melanie Coutot",
+            "http://purl.obolibrary.org/obo/OBI_0000295": "PERSON:Bjoern Peters",
+            "http://purl.obolibrary.org/obo/OBI_0000299": "PERSON: Melanie Courtot",
+            "http://purl.obolibrary.org/obo/OBI_0000312": "PERSON:Bjoern Peters",
+            "http://purl.obolibrary.org/obo/OBI_0000338": "PERSON: Jennifer Fostel",
+            "http://purl.obolibrary.org/obo/OBI_0000456": "PERSON: Philippe Rocca-Serra",
+            "http://purl.obolibrary.org/obo/OBI_0000457": "PERSON: Philippe Rocca-Serra",
+            "http://purl.obolibrary.org/obo/OBI_0000458": "PERSON: Philippe Rocca-Serra",
+            "http://purl.obolibrary.org/obo/OBI_0000648": "PERSON: Monnie McGee",
+            "http://purl.obolibrary.org/obo/OBI_0000663": "PERSON: James Malone",
+            "http://purl.obolibrary.org/obo/OBI_0000700": "PERSON: Ryan Brinkman",
+            "http://purl.obolibrary.org/obo/OBI_0000707": "PERSON: James Malone",
+            "http://purl.obolibrary.org/obo/OBI_0000726": "PERSON: Ryan Brinkman",
+            "http://purl.obolibrary.org/obo/OBI_0000727": "PERSON: James Malone",
+            "http://purl.obolibrary.org/obo/OBI_0000766": "PERSON: James Malone",
+            "http://purl.obolibrary.org/obo/OBI_0000771": "PERSON: James Malone",
+            "http://purl.obolibrary.org/obo/OBI_0000774": "PERSON: James Malone",
+            "http://purl.obolibrary.org/obo/OBI_0000777": "PERSON: James Malone",
+            "http://purl.obolibrary.org/obo/OBI_0000947": "PERSON:Helen Parkinson",
+            "http://purl.obolibrary.org/obo/OBI_0000968": "PERSON: Helen Parkinson",
+            "http://purl.obolibrary.org/obo/OBI_0001000": "PERSON: Jessica Turner",
+            "http://purl.obolibrary.org/obo/OBI_0001004": "PERSON:Jessica Turner",
+            "http://purl.obolibrary.org/obo/OBI_0001479": "PERSON: Chris Stoeckert, Jie Zheng",
+            "http://purl.obolibrary.org/obo/OBI_0001930": "PERSON:Bjoern Peters",
+            "http://purl.obolibrary.org/obo/OBI_0001933": "PERSON:Bjoern Peters",
+            "http://purl.obolibrary.org/obo/OBI_0100051": "PERSON: Philippe Rocca-Serra",
+            "http://purl.obolibrary.org/obo/OBI_0200050": "PERSON: Melanie Courtot",
+            "http://purl.obolibrary.org/obo/OBI_0200051": "PERSON: Melanie Courtot",
+            "http://purl.obolibrary.org/obo/OBI_0200111": "PERSON: Tina Boussard",
+            "http://purl.obolibrary.org/obo/OBI_0200166": "PERSON: James Malone",
+            "http://purl.obolibrary.org/obo/OBI_0200171": "PERSON: James Malone",
+            "http://purl.obolibrary.org/obo/OBI_0200172": "PERSON: Elisabetta Manduchi",
+            "http://purl.obolibrary.org/obo/OBI_0200175": "PERSON: James Malone",
+            "http://purl.obolibrary.org/obo/OBI_0200178": "PERSON: James Malone",
+            "http://purl.obolibrary.org/obo/OBI_0200179": "PERSON: James Malone",
+            "http://purl.obolibrary.org/obo/OBI_0500000": "PERSON: Chris Stoeckert"
+          },
+          "Person": {
+            "http://purl.obolibrary.org/obo/IAO_0000102": "Person:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/IAO_0000103": "Person:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/OBI_0000014": "Person:Jennifer Fostel",
+            "http://purl.obolibrary.org/obo/OBI_0000713": "Person:Helen Parkinson",
+            "http://purl.obolibrary.org/obo/OBI_0001855": "Person: Jie Zheng",
+            "http://purl.obolibrary.org/obo/OBI_0001856": "Person: Jie Zheng",
+            "http://purl.obolibrary.org/obo/OBI_0002076": "Person: Chris Stoeckert, Jie Zheng",
+            "http://purl.obolibrary.org/obo/OBI_0200033": "Person:Helen Parkinson"
+          },
+          "See github ticket https": {
+            "http://purl.obolibrary.org/obo/RO_0017001": "See github ticket https://github.com/oborel/obo-relations/issues/497"
+          },
+          "WEB": {
+            "http://purl.obolibrary.org/obo/IAO_0000183": "WEB: http://en.wikipedia.org/wiki/Dendrogram",
+            "http://purl.obolibrary.org/obo/IAO_0000184": "WEB: http://en.wikipedia.org/wiki/Scatterplot",
+            "http://purl.obolibrary.org/obo/OBI_0000450": "WEB: en.wikipedia.org/wiki/Regulator",
+            "http://purl.obolibrary.org/obo/OBI_0000713": "WEB: http://www.broadinstitute.org/cancer/software/genepattern/",
+            "http://purl.obolibrary.org/obo/OBI_0000829": "WEB:http://www.sysmex.com/@2009/08/06",
+            "http://purl.obolibrary.org/obo/OBI_0001004": "WEB:http://www.cse.yorku.ca/course_archive/2006-07/W/4441/EdinburghInventory.html",
+            "http://purl.obolibrary.org/obo/OBI_0001213": "WEB:http://www.ebioscience.com/@2011/04/11",
+            "http://purl.obolibrary.org/obo/OBI_0001224": "WEB:http://www.cytopeia.com/@2011/04/11",
+            "http://purl.obolibrary.org/obo/OBI_0001287": "WEB:http://www.exalpha.com/@2011/04/11",
+            "http://purl.obolibrary.org/obo/OBI_0001312": "WEB:http://www.apogeeflow.com/@2011/04/11",
+            "http://purl.obolibrary.org/obo/OBI_0001320": "WEB:http://www.exbio.cz/@2011/04/11",
+            "http://purl.obolibrary.org/obo/OBI_0001321": "WEB:http://www.bdbiosciences.com/@2011/04/11",
+            "http://purl.obolibrary.org/obo/OBI_0001338": "WEB:http://www.dakousa.com/@2011/04/11",
+            "http://purl.obolibrary.org/obo/OBI_0001340": "WEB:http://www.guavatechnologies.com/@2011/04/11",
+            "http://purl.obolibrary.org/obo/OBI_0001347": "WEB:http://www.antigenix.com/@2011/04/11",
+            "http://purl.obolibrary.org/obo/OBI_0001355": "WEB:http://www.partec.de/@2011/04/11",
+            "http://purl.obolibrary.org/obo/OBI_0001372": "WEB:http://www.beckmancoulter.com/@2011/04/11",
+            "http://purl.obolibrary.org/obo/OBI_0001375": "WEB:http://www.aicompanies.com/@2011/04/11",
+            "http://purl.obolibrary.org/obo/OBI_0001424": "WEB:http://www.miltenyibiotec.com/@2011/04/11",
+            "http://purl.obolibrary.org/obo/OBI_0001428": "WEB:http://www.aeschemunex.com/@2011/04/11",
+            "http://purl.obolibrary.org/obo/OBI_0001431": "WEB:http://bentleyinstruments.com/@2011/04/11",
+            "http://purl.obolibrary.org/obo/OBI_0001434": "WEB:http://www.invitrogen.com/@2011/04/11",
+            "http://purl.obolibrary.org/obo/OBI_0001443": "WEB:http://www.luminexcorp.com/@2011/04/11",
+            "http://purl.obolibrary.org/obo/OBI_0001458": "WEB:http://www.cytobuoy.com/@2011/04/11",
+            "http://purl.obolibrary.org/obo/OBI_0002903": "WEB:https://eu.biogents.com/about-biogents/",
+            "http://purl.obolibrary.org/obo/OBI_0100026": "WEB: http://en.wikipedia.org/wiki/Organism",
+            "http://purl.obolibrary.org/obo/OBI_0200041": "WEB: http://en.wikipedia.org/wiki/K-means",
+            "http://purl.obolibrary.org/obo/OBI_0200042": "WEB: http://en.wikipedia.org/wiki/Data_clustering#Hierarchical_clustering",
+            "http://purl.obolibrary.org/obo/OBI_0200188": "WEB: http://en.wikipedia.org/wiki/Cross_validation"
+          },
+          "adapted from http": {
+            "http://purl.obolibrary.org/obo/SDDO_3000094": "adapted from http://purl.obolibrary.org/obo/NCIT_C42790"
+          },
+          "group": {
+            "http://purl.obolibrary.org/obo/IAO_0000037": "group:OBI",
+            "http://purl.obolibrary.org/obo/IAO_0000038": "group:OBI",
+            "http://purl.obolibrary.org/obo/IAO_0000096": "group:OBI",
+            "http://purl.obolibrary.org/obo/IAO_0000100": "group:OBI",
+            "http://purl.obolibrary.org/obo/IAO_0000101": "group:OBI",
+            "http://purl.obolibrary.org/obo/IAO_0000423": "group:OBI",
+            "http://purl.obolibrary.org/obo/IAO_0000428": "group:OBI"
+          },
+          "person": {
+            "http://purl.obolibrary.org/obo/IAO_0000037": "person:Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/IAO_0000038": "person:Allyson Lister",
+            "http://purl.obolibrary.org/obo/IAO_0000096": "person:Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/IAO_0000100": "person:Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/IAO_0000101": "person:Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/IAO_0000136": "person:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/OBI_0000317": "person:Jennifer Fostel",
+            "http://purl.obolibrary.org/obo/OBI_0000321": "person:Jennifer Fostel",
+            "http://purl.obolibrary.org/obo/OBI_0000322": "person:Jennifer Fostel",
+            "http://purl.obolibrary.org/obo/OBI_0000324": "person:Jennifer Fostel",
+            "http://purl.obolibrary.org/obo/OBI_0000325": "person:Jennifer Fostel",
+            "http://purl.obolibrary.org/obo/OBI_0000326": "person:Jennifer Fostel",
+            "http://purl.obolibrary.org/obo/OBI_0000327": "person:Jennifer Fostel",
+            "http://purl.obolibrary.org/obo/OBI_0000329": "person:Jennifer Fostel",
+            "http://purl.obolibrary.org/obo/OBI_0000330": "person:Jennifer Fostel",
+            "http://purl.obolibrary.org/obo/OBI_0000332": "person:Jennifer Fostel"
+          },
+          "see sourceforge tracker discussion at http": {
+            "http://purl.obolibrary.org/obo/IAO_0000010": "see sourceforge tracker discussion at http://sourceforge.net/tracker/index.php?func=detail&aid=1958818&group_id=177891&atid=886178"
+          },
+          "web-page": {
+            "http://purl.obolibrary.org/obo/OBI_0000317": "web-page:http://wiki.ficcs.org/ficcs/Transformation-ML?action=AttachFile&do=get&target=Transformation-ML_v1.0.26.pdf",
+            "http://purl.obolibrary.org/obo/OBI_0000321": "web-page:http://www.isac-net.org/content/view/607/150/",
+            "http://purl.obolibrary.org/obo/OBI_0000322": "web-page:http://www.w3.org/XML/",
+            "http://purl.obolibrary.org/obo/OBI_0000324": "web-page:http://www.w3.org/RDF/",
+            "http://purl.obolibrary.org/obo/OBI_0000325": "web-page:http://www.pkware.com/index.php?option=com_content&task=view&id=59&Itemid=103/",
+            "http://purl.obolibrary.org/obo/OBI_0000326": "web-page:http://www.gnu.org/software/tar/manual/",
+            "http://purl.obolibrary.org/obo/OBI_0000327": "web-page:http://www.fcspress.com/",
+            "http://purl.obolibrary.org/obo/OBI_0000329": "web-page:http://wiki.ficcs.org/ficcs/Compensation-ML?action=AttachFile&do=get&target=Compensation-ML_v1.0.24.pdf",
+            "http://purl.obolibrary.org/obo/OBI_0000330": "web-page:http://www.flowcyt.org/gating/",
+            "http://purl.obolibrary.org/obo/OBI_0000332": "web-page:http://www.w3.org/2004/OWL/"
+          },
+          "wikipedia http": {
+            "http://purl.obolibrary.org/obo/IAO_0000572": "wikipedia http://en.wikipedia.org/wiki/Documenting"
+          }
+        }
+      },
+      "prov_pack": {
+        "invalid_luids": {},
+        "known_prefixes": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "GOC": {
+            "http://purl.obolibrary.org/obo/RO_0002023": "GOC:dos",
+            "http://purl.obolibrary.org/obo/RO_0002024": "GOC:dos",
+            "http://purl.obolibrary.org/obo/RO_0002025": "GOC:dos"
+          }
+        }
+      },
+      "version": "2023-01-31",
+      "version_iri": "http://purl.obolibrary.org/obo/sddo/releases/2023-01-31/sddo.json"
+    }
+  }
+}

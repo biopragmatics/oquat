@@ -2,30 +2,77 @@
   "results": {
     "http://dicom.nema.org/resources/ontology/DCM/": {
       "graph_id": "http://dicom.nema.org/resources/ontology/DCM/",
-      "prov_pack": {
-        "invalid_luids": {},
+      "prop_pack": {
+        "invalid_luids": {
+          "http://dicom.nema.org/resources/ontology/DCM/131011": [
+            "doi:10.​1159/​000263589 (1990)doi:10.​1002/​uog.​142"
+          ],
+          "http://dicom.nema.org/resources/ontology/DCM/131013": [
+            "doi:10.​1002/​uog.​902"
+          ],
+          "http://dicom.nema.org/resources/ontology/DCM/131021": [
+            "doi:10.​1002/​j.​2205-​0140.​2013.​tb00243.​x"
+          ]
+        },
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "Audit event": {
+            "http://dicom.nema.org/resources/ontology/DCM/110112": "Audit event: Query has been made.",
+            "http://dicom.nema.org/resources/ontology/DCM/110120": "Audit event: Application Entity has started.",
+            "http://dicom.nema.org/resources/ontology/DCM/110121": "Audit event: Application Entity has stopped.",
+            "http://dicom.nema.org/resources/ontology/DCM/110124": "Audit event: Node has been attached.",
+            "http://dicom.nema.org/resources/ontology/DCM/110125": "Audit event: Node has been detached.",
+            "http://dicom.nema.org/resources/ontology/DCM/110127": "Audit event: Emergency Override has started.",
+            "http://dicom.nema.org/resources/ontology/DCM/110138": "Audit event: Emergency Override has Stopped.",
+            "http://dicom.nema.org/resources/ontology/DCM/110142": "Audit event: Local Service Operation Stopped."
+          },
+          "Derived from https": {
+            "http://dicom.nema.org/resources/ontology/DCM/121227": "Derived from https://​en.wikipedia.org/​wiki/​Line_(geometry)#​Line_segment."
+          },
+          "Large": {
+            "http://dicom.nema.org/resources/ontology/DCM/113603": "Large: > 38.0 cm lateral thickness"
+          },
+          "Measurement not available": {
+            "http://dicom.nema.org/resources/ontology/DCM/114006": "Measurement not available: Measurement failure.",
+            "http://dicom.nema.org/resources/ontology/DCM/114007": "Measurement not available: Measurement not attempted.",
+            "http://dicom.nema.org/resources/ontology/DCM/114008": "Measurement not available: Calculation failure.",
+            "http://dicom.nema.org/resources/ontology/DCM/114010": "Measurement not available: Value unknown.",
+            "http://dicom.nema.org/resources/ontology/DCM/114011": "Measurement not available: Value indeterminate."
+          },
+          "Medium": {
+            "http://dicom.nema.org/resources/ontology/DCM/113602": "Medium: 32.0-38.0 cm lateral thickness"
+          },
+          "ParticipantObjectID type": {
+            "http://dicom.nema.org/resources/ontology/DCM/110180": "ParticipantObjectID type: Study Instance UID.",
+            "http://dicom.nema.org/resources/ontology/DCM/110181": "ParticipantObjectID type: SOP Class UID."
+          },
+          "Persistent delayed phase": {
+            "http://dicom.nema.org/resources/ontology/DCM/130597": "Persistent delayed phase: Type 1 curve"
+          },
+          "Plateau delayed phase": {
+            "http://dicom.nema.org/resources/ontology/DCM/130598": "Plateau delayed phase: Type 2 curve"
+          },
+          "Presentation Optional": {
+            "http://dicom.nema.org/resources/ontology/DCM/111151": "Presentation Optional: Rendering device may present"
+          },
+          "Replaces the incorrect use of LN": {
+            "http://dicom.nema.org/resources/ontology/DCM/128041": "Replaces the incorrect use of LN:33183-5."
+          },
+          "Replaces the use of LN": {
+            "http://dicom.nema.org/resources/ontology/DCM/128040": "Replaces the use of LN:33183-5."
+          },
+          "Small": {
+            "http://dicom.nema.org/resources/ontology/DCM/113601": "Small: < 32.0 cm lateral thickness"
+          },
+          "Washout delayed phase": {
+            "http://dicom.nema.org/resources/ontology/DCM/130599": "Washout delayed phase: Type 3 curve"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "2025b_20250411"
     }
   }
 }

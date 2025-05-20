@@ -2,6 +2,25 @@
   "results": {
     "http://purl.obolibrary.org/obo/mod.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/mod.owl",
+      "prop_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/MOD_01465": [
+            "MOD:001464"
+          ],
+          "http://purl.obolibrary.org/obo/MOD_01907": [
+            "MOD:001464"
+          ]
+        },
+        "known_prefixes": {},
+        "label": "Node Properties",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "H, MOD": {
+            "http://purl.obolibrary.org/obo/MOD_01890": "H, MOD:00030"
+          }
+        }
+      },
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/MOD_00030": [
@@ -2281,23 +2300,7 @@
           }
         }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/mod/1.031.6/mod.owl",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version_iri": "http://purl.obolibrary.org/obo/mod/1.031.6/mod.owl"
     }
   }
 }

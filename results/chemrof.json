@@ -2,29 +2,19 @@
   "results": {
     "https://w3id.org/chemrof": {
       "graph_id": "https://w3id.org/chemrof",
-      "prov_pack": {
+      "prop_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "Example": {
+            "https://w3id.org/chemrof/AtomGroupingByPeriodicTableBlock": "Example: group 13 atom",
+            "https://w3id.org/chemrof/AtomGroupingByPeriodicTableGroup": "Example: p-block atom",
+            "https://w3id.org/chemrof/AtomGroupingByProperty": "Example: metal atom"
+          }
+        }
       }
     }
   }

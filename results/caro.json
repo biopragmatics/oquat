@@ -2,6 +2,34 @@
   "results": {
     "http://purl.obolibrary.org/obo/caro.json": {
       "graph_id": "http://purl.obolibrary.org/obo/caro.json",
+      "prop_pack": {
+        "invalid_luids": {},
+        "known_prefixes": {},
+        "label": "Node Properties",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "Fri Mar 04 07": {
+            "http://purl.obolibrary.org/obo/CARO_0010003": "Fri Mar 04 07:09:17 GMT 2011",
+            "http://purl.obolibrary.org/obo/CARO_0010005": "Fri Mar 04 07:13:46 GMT 2011",
+            "http://purl.obolibrary.org/obo/CARO_0010006": "Fri Mar 04 07:14:57 GMT 2011",
+            "http://purl.obolibrary.org/obo/CARO_0010007": "Fri Mar 04 07:16:21 GMT 2011"
+          },
+          "Sun Feb 27 10": {
+            "http://purl.obolibrary.org/obo/CARO_0010000": "Sun Feb 27 10:53:00 GMT 2011"
+          },
+          "Sun Feb 27 11": {
+            "http://purl.obolibrary.org/obo/CARO_0010001": "Sun Feb 27 11:00:35 GMT 2011",
+            "http://purl.obolibrary.org/obo/CARO_0010002": "Sun Feb 27 11:13:17 GMT 2011"
+          },
+          "Wed Mar 09 06": {
+            "http://purl.obolibrary.org/obo/CARO_0010009": "Wed Mar 09 06:22:07 GMT 2011"
+          },
+          "Wed Mar 09 08": {
+            "http://purl.obolibrary.org/obo/CARO_0010010": "Wed Mar 09 08:02:50 GMT 2011"
+          }
+        }
+      },
       "prov_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
@@ -14,23 +42,8 @@
           }
         }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/caro/releases/2023-03-15/caro.json",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "2023-03-15",
+      "version_iri": "http://purl.obolibrary.org/obo/caro/releases/2023-03-15/caro.json"
     }
   }
 }

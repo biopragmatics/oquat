@@ -2,6 +2,29 @@
   "results": {
     "http://purl.obolibrary.org/obo/pw.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/pw.owl",
+      "prop_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/PW_0000136": [
+            "KEGG:00730",
+            "SMP:00076"
+          ],
+          "http://purl.obolibrary.org/obo/PW_0000490": [
+            "PID:200227"
+          ]
+        },
+        "known_prefixes": {},
+        "label": "Node Properties",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {
+          "PID": {
+            "http://purl.obolibrary.org/obo/PW_0000490": "PID:200227"
+          },
+          "SMP": {
+            "http://purl.obolibrary.org/obo/PW_0000136": "SMP:00076"
+          }
+        },
+        "unknown_prefixes": {}
+      },
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/PW_0000008": [
@@ -1295,15 +1318,7 @@
           }
         }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/pw/7.92/pw.owl",
+      "version_iri": "http://purl.obolibrary.org/obo/pw/7.92/pw.owl",
       "xref_pack": {
         "invalid_luids": {},
         "known_prefixes": {},

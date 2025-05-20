@@ -2,14 +2,13 @@
 
 ## ``
 
-There are 2 usages of `` in `zea`.
+There are 1 usages of `` in `zea`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20).
 
-| curie                                                     |   usages | nodes                                                     |
-|-----------------------------------------------------------|----------|-----------------------------------------------------------|
-| :http //cancerweb.ncl.ac.uk/cgi-bin/omd?query=organ       |        1 | [ZEA:0015050](http://purl.obolibrary.org/obo/ZEA_0015050) |
-| :Gibbs Russel et al. , (1990). Grasses of southern Africa |        1 | [ZEA:0015137](http://purl.obolibrary.org/obo/ZEA_0015137) |
+| curie                                               |   usages | nodes                                                     |
+|-----------------------------------------------------|----------|-----------------------------------------------------------|
+| :http //cancerweb.ncl.ac.uk/cgi-bin/omd?query=organ |        1 | [ZEA:0015050](http://purl.obolibrary.org/obo/ZEA_0015050) |
 
 ## `***`
 
@@ -44,14 +43,13 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 ## `Chapman`
 
-There are 2 usages of `Chapman` in `zea`.
+There are 1 usages of `Chapman` in `zea`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Chapman).
 
-| curie                                               |   usages | nodes                                                     |
-|-----------------------------------------------------|----------|-----------------------------------------------------------|
-| Chapman:ISBN 0851991114                             |        1 | [ZEA:0015052](http://purl.obolibrary.org/obo/ZEA_0015052) |
-| Chapman:The Biology of Grasses - ISBN 0 85199 111 4 |        1 | [ZEA:0015170](http://purl.obolibrary.org/obo/ZEA_0015170) |
+| curie                   |   usages | nodes                                                     |
+|-------------------------|----------|-----------------------------------------------------------|
+| Chapman:ISBN 0851991114 |        1 | [ZEA:0015052](http://purl.obolibrary.org/obo/ZEA_0015052) |
 
 ## `DELTA`
 

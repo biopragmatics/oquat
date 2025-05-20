@@ -64,14 +64,6 @@
             "http://purl.obolibrary.org/obo/PdumDv_0001600": "PLATY:A.H.L.Fischer"
           }
         }
-      },
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
       }
     }
   }

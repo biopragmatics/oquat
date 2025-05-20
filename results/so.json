@@ -4697,7 +4697,7 @@
           }
         }
       },
-      "version": "http://purl.obolibrary.org/obo/so/2024-11-18/so.owl",
+      "version_iri": "http://purl.obolibrary.org/obo/so/2024-11-18/so.owl",
       "xref_pack": {
         "invalid_luids": {},
         "known_prefixes": {},

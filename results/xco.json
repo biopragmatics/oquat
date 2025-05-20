@@ -805,7 +805,7 @@
         },
         "unknown_prefixes": {}
       },
-      "version": "http://purl.obolibrary.org/obo/xco/4.201/xco.owl",
+      "version_iri": "http://purl.obolibrary.org/obo/xco/4.201/xco.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/XCO_0000322": [

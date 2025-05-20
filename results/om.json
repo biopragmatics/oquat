@@ -2,30 +2,21 @@
   "results": {
     "http://www.ontology-of-units-of-measure.org/resource/om-2": {
       "graph_id": "http://www.ontology-of-units-of-measure.org/resource/om-2",
-      "prov_pack": {
+      "prop_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "_": {
+            "http://www.wurvoc.org/bibliography/om-2/Crawford1958": "_:genid2147485592",
+            "http://www.wurvoc.org/bibliography/om-2/IntroAstronomicalPhotometry": "_:genid2147485593",
+            "http://www.wurvoc.org/bibliography/om-2/Stroemgren1956": "_:genid2147485594"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "2.0.59"
     }
   }
 }

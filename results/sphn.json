@@ -1,7 +1,1 @@
-{
-  "created": "2023-12-07T09:59:40.279045",
-  "messages": [
-    "[sphn] could not parse OWL from https://git.dcc.sib.swiss/sphn-semantic-framework/sphn-ontology/-/raw/master/rdf_schema/sphn_rdf_schema.owl"
-  ],
-  "results": {}
-}
+{}

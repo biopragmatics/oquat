@@ -2,8 +2,18 @@
 
 This page summarize the different resources that reference `zfa`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 4 resources,
+`^\d{7}$`. Of the 5 resources,
 1 variants on the standard prefix were found: ['ZFA'].
+
+## `clm`: Cell Markers Ontology
+
+Identifiers for this prefix are given incorrectly in `clm`. See the [GitHub repository](https://github.com/Cellular-Semantics/CellMark).
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                            |
+|-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `ZFA:curator`   |              3 | [UBERON:0008229](http://purl.obolibrary.org/obo/UBERON_0008229), [UBERON:0014371](http://purl.obolibrary.org/obo/UBERON_0014371), [UBERON:0014903](http://purl.obolibrary.org/obo/UBERON_0014903) |
+| `ZFA:yb`        |              1 | [UBERON:0002539](http://purl.obolibrary.org/obo/UBERON_0002539)                                                                                                                                   |
+| `ZFA:CVS`       |              1 | [UBERON:0018674](http://purl.obolibrary.org/obo/UBERON_0018674)                                                                                                                                   |
 
 ## `go`: Gene Ontology
 

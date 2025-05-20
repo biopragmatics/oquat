@@ -5070,7 +5070,7 @@
           }
         }
       },
-      "version": "http://purl.obolibrary.org/obo/miro/releases/2014-05-14/miro.owl",
+      "version_iri": "http://purl.obolibrary.org/obo/miro/releases/2014-05-14/miro.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/MIRO_10000108": [

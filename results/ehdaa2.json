@@ -2,31 +2,7 @@
   "results": {
     "http://purl.obolibrary.org/obo/ehdaa2.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/ehdaa2.owl",
-      "prov_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Provenance Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/ehdaa2/releases/2013-07-04/ehdaa2.owl",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version_iri": "http://purl.obolibrary.org/obo/ehdaa2/releases/2013-07-04/ehdaa2.owl"
     }
   }
 }

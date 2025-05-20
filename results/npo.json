@@ -2,30 +2,553 @@
   "results": {
     "http://purl.bioontology.org/ontology/npo": {
       "graph_id": "http://purl.bioontology.org/ontology/npo",
-      "prov_pack": {
-        "invalid_luids": {},
+      "prop_pack": {
+        "invalid_luids": {
+          "http://purl.bioontology.org/ontology/npo#NPO_122": [
+            "NCIT: C62373"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_126": [
+            "NCIT: C73455"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_136": [
+            "MESH: D050256",
+            "NCIT: C273"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_1441": [
+            "NCIT: C78813"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_1468": [
+            "NCIT: C17155"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_1577": [
+            "MeSH: D007424"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_1578": [
+            "MeSH: D045604"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_1765": [
+            "NCIT: C78807"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_1768": [
+            "NCIT: C78860"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_1769": [
+            "NCIT: C78806"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_1770": [
+            "NCIT: C80370"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_1771": [
+            "NCIT: C62330"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_1773": [
+            "NCIT: C62333"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_1777": [
+            "NCIT: C78805"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_239": [
+            "NCIT: C62367"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_256": [
+            "NCIT: C1748"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_312": [
+            "NCIT: C1909"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_325": [
+            "NCIT: C390"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_338": [
+            "MESH: D008051"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_383": [
+            "NCIT: C62376"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_390": [
+            "NCIT: C1557"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_393": [
+            "NCIT: C62369"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_409": [
+            "NCIT: C2167"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_434": [
+            "NCIT: C870"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_442": [
+            "MESH: D004791",
+            "NCIT: C471"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_457": [
+            "NCIT: C62386"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_460": [
+            "NCIT: C511"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_476": [
+            "NCIT: C582"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_510": [
+            "NCIT: C2050"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_552": [
+            "NCIT: C16295"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_596": [
+            "MESH: D017319",
+            "NCIT: C1420"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_616": [
+            "NCIT: C2144"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_669": [
+            "NCIT: C66829"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_684": [
+            "NCIT: C62372"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_737": [
+            "NCIT: C259"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_778": [
+            "NCIT: C26044"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_779": [
+            "NCIT: C62374"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_784": [
+            "NCIT: C1968"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_802": [
+            "NCIT: C63848"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_870": [
+            "NCIT: C62387"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_914": [
+            "NCIT: C29895"
+          ],
+          "http://purl.bioontology.org/ontology/npo#NPO_939": [
+            "NCIT: C2842"
+          ],
+          "http://purl.org/obo/owl/CHEBI#CHEBI_23008": [
+            "MESH: D002241",
+            "NCIT: C344"
+          ],
+          "http://purl.org/obo/owl/CHEBI#CHEBI_31355": [
+            "NCIT: C1282"
+          ],
+          "http://purl.org/obo/owl/CHEBI#CHEBI_33694": [
+            "MESH: D001704"
+          ],
+          "http://purl.org/obo/owl/CHEBI#CHEBI_35610": [
+            "NCIT: C274"
+          ],
+          "http://purl.org/obo/owl/CHEBI#CHEBI_37699": [
+            "NCIT: C1404"
+          ],
+          "http://purl.org/obo/owl/CHEBI#CHEBI_45863": [
+            "MESH:  D017239"
+          ],
+          "http://purl.org/obo/owl/CHEBI#CHEBI_48422": [
+            "MESH: D020533",
+            "NCIT: C1742"
+          ],
+          "http://purl.org/obo/owl/FIX#FIX_0000630": [
+            "NCIT: C16434"
+          ],
+          "http://purl.org/obo/owl/GO#GO_0006897": [
+            "NCIT: C16544"
+          ]
+        },
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "&lt;ncicp": {
+            "http://purl.bioontology.org/ontology/npo#NPO_103": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 13.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_107": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 38.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_108": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 107.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_111": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 87.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1201": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;pH of value equal to 7.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1220": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;Weight inhering in a tumor.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1235": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;Area of an object&apos;s surface.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_129": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 17.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_133": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 106.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1370": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A nanoparticle which has magnetic property.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1377": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A nanoparticle which has fluorescence property.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1379": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;The surface of a nanoparticle.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1403": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;Chemiluminescence produced by living systems.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1413": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;Characterization of nanoparticles or nanoparticle formulations.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_144": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 53.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_150": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 77.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_151": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 98.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1537": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A nanoparticle which has superparamagnetic properties.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1539": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;Diameter which inheres in a particle.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_154": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 45.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1540": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An oxide of metal.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1543": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An oxide of zinc.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1545": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An oxide of copper.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1551": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A nanoparticle which has spherical shape.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1570": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An ion of gadolinium.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1575": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;The pH inhering in a tumor.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1577": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;The fluid inside cells.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1579": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;pH of the extracellular fluid.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1585": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;Intracellular fluid inside tumor cells.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1586": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;Extracellular fluid inside a tumor.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_164": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 32.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_167": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 101.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_169": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 53.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_171": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 25.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_173": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 7.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_178": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 109.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_180": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A fiat part of a dendrimer.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_182": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 103.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_184": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 99.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_187": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 11.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_189": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 57.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1911": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;defintion&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1916": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition to be added&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1917": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition to be added&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1918": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition to be added.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1919": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition to be added.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1920": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition to be entered.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1927": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition [to do]&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1928": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition [to do]&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1946": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition: To Do&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1948": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition: To Do&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1949": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition: To Do&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1950": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition: To Do&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1951": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition: To Do&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1952": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition: To Do&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1953": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition: To Do&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1954": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition: To Do&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1955": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition: To Do&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1956": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition: To Do&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1957": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition: To Do&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1958": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition: To Do&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1959": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition: To Do&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1960": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition: To Do&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1961": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition: To Do&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1963": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition: To Do&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1966": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition: To Do&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1967": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition: To Do&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1968": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition: To Do&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1969": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition: To Do&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_197": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A nanocage composed of gold element.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1970": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;definition: To Do&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_198": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 4.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1983": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;journal article [to be defined]&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1984": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;datatye [definition to be added]&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1985": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;string datatype&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1986": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;integer datatype&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1987": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;floating point datatype&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1990": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;[definition to be entered]&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1991": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;[definition to be entered]&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1992": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;[definition to be entered]&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1994": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;[definition to be entered]&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1995": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;[definition to be entered]&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_1996": "&lt;ncicp:ComplexDefinition xmlns:ncicp=&quot;http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#&quot;&gt;&lt;ncicp:def-definition&gt;[definition to be entered]&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_205": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 87.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_209": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 55.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_213": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 28.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_216": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 80.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_222": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 9.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_225": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 41.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_233": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 5.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_235": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;DNA crosslinking agent, which alkylates DNA.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_242": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An aminoacid which can become ionized.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_243": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 66.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_244": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 86.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_246": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 10.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_248": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 61.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_249": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 12.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_251": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 20.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_253": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 91.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_257": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 9.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_267": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 60.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_273": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An oxide of iron.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_275": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 55.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_277": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 80.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_282": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 105.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_287": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 31.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_288": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 73.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_298": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 30.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_300": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 19.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_304": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 93.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_305": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 17.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_314": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 13.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_318": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 84.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_323": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 105.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_324": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 25.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_327": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;Antineoplastic agent,which regulates DNA-dependent transcription.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_328": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 10.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_333": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 88.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_334": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 24.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_335": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 92.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_341": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 40.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_347": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 37.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_348": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 62.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_349": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 76.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_350": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 37.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_353": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 101.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_359": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 97.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_366": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 59.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_367": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 72.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_368": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 107.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_369": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 83.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_371": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 15.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_374": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 38.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_377": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 50.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_378": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 45.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_380": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 64.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_382": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 44.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_385": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 67.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_396": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 103.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_400": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 3.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_403": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 5.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_404": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 39.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_407": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;The central part of a nanocell.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_413": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 56.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_418": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 1.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_419": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 29.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_424": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 51.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_425": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 75.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_432": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 49.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_438": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 2.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_439": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 14.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_441": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An aryl halide derived from fluorobenzene.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_443": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 36.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_455": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 46.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_458": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 70.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_467": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 62.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_472": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;The hollow core of a nanoshell&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_474": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 60.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_480": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 109.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_483": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 31.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_486": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 23.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_488": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 110.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_492": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 74.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_495": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 81.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_497": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 73.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_501": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 51.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_513": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 96.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_516": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 63.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_518": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 79.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_520": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 1.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_521": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 84.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_522": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 51.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_524": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;The shell of a nanocapsule.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_525": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 77.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_531": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 86.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_533": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 111.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_534": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 85.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_535": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 34.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_538": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 66.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_541": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 14.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_554": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 100.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_557": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 49.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_558": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 41.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_561": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 78.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_568": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 26.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_570": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 111.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_571": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 23.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_579": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 59.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_586": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 108.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_587": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 71.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_591": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 79.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_592": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 65.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_604": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 75.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_609": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 32.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_610": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 18.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_613": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 51.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_615": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 8.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_622": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 108.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_623": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 7.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_651": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 88.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_652": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 90.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_658": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 16.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_663": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 85.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_668": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 52.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_673": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 33.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_678": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 78.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_679": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 43.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_688": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 83.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_690": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 26.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_697": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 58.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_699": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A nanoparticle loaded with tamoxifen.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_704": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 95.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_706": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 20.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_708": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 19.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_709": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 89.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_710": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 15.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_716": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 90.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_722": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 46.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_726": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 43.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_727": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 93.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_736": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 47.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_739": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 39.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_742": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 50.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_746": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 54.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_753": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 64.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_754": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 76.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_757": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 58.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_759": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A thin layer of nanostructured material.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_761": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 48.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_765": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 40.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_770": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 47.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_772": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 42.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_773": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 61.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_775": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 65.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_781": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 89.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_782": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 3.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_787": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 21.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_795": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 27.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_796": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 16.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_799": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 74.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_804": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 28.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_806": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 69.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_808": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 33.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_809": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 104.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_810": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 22.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_812": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 35.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_813": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 52.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_816": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 44.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_818": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 30.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_819": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 110.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_833": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;The porous shell of a nanocage.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_841": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 18.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_842": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 95.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_847": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 94.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_851": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 100.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_856": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 97.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_857": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 6.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_862": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 54.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_863": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 67.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_865": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 29.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_869": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 4.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_872": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 98.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_874": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An L-phenylalanine nitrogen mustard.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_877": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 6.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_880": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 42.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_885": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 106.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_897": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 56.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_901": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 2.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_907": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 11.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_924": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 22.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_928": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 68.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_929": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 21.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_932": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 70.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_933": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 36.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_934": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 24.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_935": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 27.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_936": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 57.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_942": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 102.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_946": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 91.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_948": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 34.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_952": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 92.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_955": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 81.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_960": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 102.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_966": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 94.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_967": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 68.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_968": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 8.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_970": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 96.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_972": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 69.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_976": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 48.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_977": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 12.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_978": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 63.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_980": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An atom with atomic number 104.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_981": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 71.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_989": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 35.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.bioontology.org/ontology/npo#NPO_991": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An element with atomic number 72.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_15356": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An alpha-aminoacid with chemical formula NH2-CH(CH2-SH)-C(OH)=OH.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_15428": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An alpha-aminoacid with chemical formula NH2-CH2-C(OH)=OH.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_15858": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An anion of bromine.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_16042": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An anion of halogen element.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_16382": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An anion of iodine.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_16449": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An alpha-aminoacid with chemical formula NH2-CH(CH3)-C(OH)=OH.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_16811": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An alpha-aminoacid with chemical formula NH2-CH(CH2-CH2-S-CH3)-C(OH)=OH.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_17051": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An anion of fluorine.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_17822": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An alpha-aminoacid with chemical formula NH2-CH(CH2-OH)-C(OH)=OH.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_17996": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An anion of chlorine.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_18186": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An alpha-aminoacid with chemical formula NH2-CH(Cc1ccc(O)cc1)-C(OH)=OH.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_18237": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An alpha-aminoacid with chemical formula NH2-CH(CH2CH2C(OH)=O)-C(OH)=OH.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_18420": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A monoatomic dication of magnesium.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_22563": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An ion which is negatively charged.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_22653": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An alpha-aminoacid with chemical formula NH2-CH(CH2CH(NH)=O)-C(OH)=OH.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_22660": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An alpha-aminoacid with chemical formula NH2-CH(CH2CH(OH)=O)-C(OH)=OH&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_24834": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An anion which is inorganic.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_24898": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An alpha-aminoacid with chemical formula NH2-CH(CH(CH3)-CH2-CH3)-C(OH)=OH.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_25017": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An alpha-aminoacid with chemical formula NH2-CH(CH2-CH(CH3)-CH3)-C(OH)=OH.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_25094": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An alpha-aminoacid with chemical formula NH2-CH(CH2-CH2-CH2-CH2-NH2)-C(OH)=OH.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_25213": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A monoatomic cation of a metal.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_25696": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An anion which is organic.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_25697": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A cation which is organic.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_25699": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An ion which is organic.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_26986": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An alpha-aminoacid with chemical formula NH2-CH(CH(OH)-CH3)-C(OH)=OH.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_27266": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An alpha-aminoacid with chemical formula NH2-CH(CH2(CH3)-CH3)-C(OH)=OH.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_27570": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An alpha-aminoacid with chemical formula NH2-CH(CH2c1c[nH]cn1)-C(OH)=OH.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_27897": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An alpha-aminoacid with chemical formula NH2-CH(Cc1c[nH]c2ccccc12)-C(OH)=OH.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_28044": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An alpha-aminoacid with chemical formula NH2-CH(CH2-c1ccccc1)-C(OH)=OH.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_28300": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An alpha-aminoacid with chemical formula NH2-CH(CH2CH2C(NH2)=O)-C(OH)=OH.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_29016": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An alpha-aminoacid with chemical formula NH2-CH(CH2-CH2-CH2-NH-C(NH2)=NH)-C(OH)=OH&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_29033": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A monoatomic dication of iron.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_29034": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A monoatomic trication of iron.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_29105": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A monoatomic dication of zinc.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_30417": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An anion of astatine.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_30511": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A monoatomic pentacation of molybdenum.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_30584": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A monoatomic tetracation of silicon.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_33003": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A monoatomic pentacation of vanadium.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_33327": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An oxide of silicon.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_33496": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A monoatomic monanion of rubidide.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_33504": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A monoatomic cation of alkali metal.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_33694": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A polymer formed by living organisms.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_36914": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An ion which is inorganic.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_36915": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A cation which is inorganic.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_36916": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An ion which is positively charged.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_37286": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A monoatomic dication of gadolinium.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_37294": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A monoatomic tetracation of gadolinium.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_4027": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A type of nitrogen mustard.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_42068": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;An anthracycline which is (1S,3S)-3-acetyl-3,5,12-trihydroxy-6,11-dioxo-1,2,3,4,6,11-hexahydrotetracen-1-yl 3-amino-2,3,6-trideoxy-?-L-lyxo-hexopyranoside.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_46723": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A mineral which contains phosphate anions.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_48828": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A monoatomic dication of cobalt.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_49446": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A monoatomic hexacation of molybdenum.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_49468": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A monatomic monocation of silver.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_49482": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A monoatomic monocation of gold.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_49588": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A monoatomic dication of europium.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_49618": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A monoatomic trication of gadolinium.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_49668": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A type of quinazoline compound.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/CHEBI#CHEBI_49955": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;A monoatomic hexacation of tungsten.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/GO#GO_0030331": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;Interacting selectively with an estrogen receptor.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/PATO#PATO_0001520": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;The frequency of transmitted vibrations.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/REX#REX_0000038": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;Luminescence arising from photoexcitation.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;",
+            "http://purl.org/obo/owl/REX#REX_0000294": "&lt;ncicp:ComplexDefinition&gt;&lt;ncicp:def-definition&gt;Luminescence resulting from a chemical reaction.&lt;/ncicp:def-definition&gt;&lt;/ncicp:ComplexDefinition&gt;"
+          },
+          "(5S,5aR,8aR,9R)-9-(4-hydroxy-3,5-dimethoxyphenyl)-8-oxo-5,5a,6,8,8a,9-hexahydrofuro[3',4'": {
+            "http://purl.org/obo/owl/CHEBI#CHEBI_4911": "(5S,5aR,8aR,9R)-9-(4-hydroxy-3,5-dimethoxyphenyl)-8-oxo-5,5a,6,8,8a,9-hexahydrofuro[3',4':6,7]naphtho[2,3-d][1,3]dioxol-5-yl 4,6-O-[(1R)-ethylidene]-?-D-glucopyranoside"
+          },
+          "2-(2,6-dioxopiperidin-3-yl) isoindoline-1,3-dione [source": {
+            "http://purl.bioontology.org/ontology/npo#NPO_434": "2-(2,6-dioxopiperidin-3-yl) isoindoline-1,3-dione [source: IUPAC]"
+          },
+          "5,10-methylenetetrahydrofolate": {
+            "http://purl.org/obo/owl/GO#GO_0004799": "5,10-methylenetetrahydrofolate:dUMP C-methyltransferase activity"
+          },
+          "<ncicp": {
+            "http://purl.bioontology.org/ontology/npo#NPO_1693": "<ncicp:ComplexDefinition xmlns:ncicp=\"http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#\"><ncicp:def-definition>Size of a tumor.</ncicp:def-definition><ncicp:Definition_Review_Date>100428</ncicp:Definition_Review_Date><ncicp:def-source>NPO</ncicp:def-source><ncicp:Definition_Reviewer_Name>Dennis Thomas</ncicp:Definition_Reviewer_Name></ncicp:ComplexDefinition>",
+            "http://purl.bioontology.org/ontology/npo#NPO_1694": "<ncicp:ComplexDefinition xmlns:ncicp=\"http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#\"><ncicp:def-definition>Size of a particle.</ncicp:def-definition><ncicp:Definition_Review_Date>100428</ncicp:Definition_Review_Date><ncicp:def-source>NPO</ncicp:def-source><ncicp:Definition_Reviewer_Name>Dennis Thomas</ncicp:Definition_Reviewer_Name></ncicp:ComplexDefinition>"
+          },
+          "Example": {
+            "http://www.ifomis.org/bfo/1.1/snap#ZeroDimensionalRegion": "Example: A point."
+          },
+          "methylenetetrahydrofolate": {
+            "http://purl.org/obo/owl/GO#GO_0004799": "methylenetetrahydrofolate:dUMP C-methyltransferase activity"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "2011-12-08 (yyyy-mm-dd)"
     }
   }
 }

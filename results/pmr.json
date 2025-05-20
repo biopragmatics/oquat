@@ -2,29 +2,23 @@
   "results": {
     "http://purl.bioontology.org/ontology/PMR.owl": {
       "graph_id": "http://purl.bioontology.org/ontology/PMR.owl",
-      "prov_pack": {
+      "prop_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "Excl": {
+            "http://purl.bioontology.org/ontology/PMR.owl#Disorders_of_lipoprotein_metabolism_and_other_lipidaemias": "Excl: sphingolipidosis (E75.0-E75.3)"
+          },
+          "Excl.": {
+            "http://purl.bioontology.org/ontology/PMR.owl#Congenital_malformations_of_cardiac_septa": "Excl.: acquired cardiac septal defect (I51.0)"
+          },
+          "pH sangre arterial": {
+            "http://purl.bioontology.org/ontology/Blood_gas_analysis": "pH sangre arterial: 7.4"
+          }
+        }
       }
     }
   }

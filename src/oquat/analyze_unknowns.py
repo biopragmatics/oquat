@@ -39,7 +39,9 @@ def main() -> None:
         analysis_results = AnalysisResults.model_validate_json(path.read_text())
         for results in analysis_results.results.values():
             for key in KEYS:
-                pack: ResultPack = getattr(results, key)
+                pack: ResultPack | None = getattr(results, key)
+                if not pack:
+                    continue
                 for unknown_prefix, node_to_curie in pack.unknown_prefixes.items():
                     if (
                         " " in unknown_prefix

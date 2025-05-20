@@ -2,6 +2,18 @@
   "results": {
     "http://purl.obolibrary.org/obo/hp.json": {
       "graph_id": "http://purl.obolibrary.org/obo/hp.json",
+      "prop_pack": {
+        "invalid_luids": {},
+        "known_prefixes": {},
+        "label": "Node Properties",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "HPO_CONTRIBUTOR": {
+            "http://purl.obolibrary.org/obo/HP_0030675": "HPO_CONTRIBUTOR:NIH_jdavis"
+          }
+        }
+      },
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/HP_0009659": [
@@ -743,7 +755,8 @@
         },
         "unknown_prefixes": {}
       },
-      "version": "http://purl.obolibrary.org/obo/hp/releases/2025-05-06/hp.json",
+      "version": "2025-05-06",
+      "version_iri": "http://purl.obolibrary.org/obo/hp/releases/2025-05-06/hp.json",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/HP_0002893": [

@@ -2,31 +2,8 @@
   "results": {
     "http://purl.obolibrary.org/obo/fideo.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/fideo.owl",
-      "prov_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Provenance Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/fideo/releases/2023-12-18/fideo.owl",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "2023-12-18",
+      "version_iri": "http://purl.obolibrary.org/obo/fideo/releases/2023-12-18/fideo.owl"
     }
   }
 }

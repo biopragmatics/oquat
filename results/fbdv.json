@@ -2,6 +2,18 @@
   "results": {
     "http://purl.obolibrary.org/obo/fbdv.json": {
       "graph_id": "http://purl.obolibrary.org/obo/fbdv.json",
+      "prop_pack": {
+        "invalid_luids": {},
+        "known_prefixes": {},
+        "label": "Node Properties",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "FBdv_root": {
+            "http://purl.obolibrary.org/obo/FBdv_00000000": "FBdv_root:00000000"
+          }
+        }
+      },
       "prov_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
@@ -119,15 +131,8 @@
           }
         }
       },
-      "version": "http://purl.obolibrary.org/obo/fbdv/releases/2025-03-26/fbdv.json",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "2025-03-26",
+      "version_iri": "http://purl.obolibrary.org/obo/fbdv/releases/2025-03-26/fbdv.json"
     }
   }
 }

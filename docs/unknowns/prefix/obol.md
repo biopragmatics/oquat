@@ -18,3 +18,9 @@
 | Obol:obol      |        1 | [UBERON:0003281](http://purl.obolibrary.org/obo/UBERON_0003281)                                                                                                                                                                                                                                                                          |
 | Obol:cjm       |        1 | [UBERON:0004673](http://purl.obolibrary.org/obo/UBERON_0004673)                                                                                                                                                                                                                                                                          |
 
+## clm
+
+| curie          |   usages | nodes                                                                                                                                                                                                                                                                                                                                    |
+|----------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| OBOL:automatic |      707 | [UBERON:0000031](http://purl.obolibrary.org/obo/UBERON_0000031), [UBERON:0000320](http://purl.obolibrary.org/obo/UBERON_0000320), [UBERON:0000355](http://purl.obolibrary.org/obo/UBERON_0000355), [UBERON:0000379](http://purl.obolibrary.org/obo/UBERON_0000379), [UBERON:0000397](http://purl.obolibrary.org/obo/UBERON_0000397), ... |
+

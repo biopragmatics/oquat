@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `mp`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 6 resources,
+`^\d{7}$`. Of the 7 resources,
 1 variants on the standard prefix were found: ['MP'].
 
 ## `cl`: Cell Ontology
@@ -12,6 +12,14 @@ Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repos
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|
 | `MP:19876834`   |              1 | [CL:0002488](http://purl.obolibrary.org/obo/CL_0002488) |
+
+## `clm`: Cell Markers Ontology
+
+Identifiers for this prefix are given incorrectly in `clm`. See the [GitHub repository](https://github.com/Cellular-Semantics/CellMark).
+
+| external_xref   |   usages_count | usages                                                          |
+|-----------------|----------------|-----------------------------------------------------------------|
+| `MP:MP`         |              1 | [UBERON:0008835](http://purl.obolibrary.org/obo/UBERON_0008835) |
 
 ## `dermo`: Human Dermatological Disease Ontology
 

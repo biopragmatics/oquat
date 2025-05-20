@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `wormbase`
 but use local unique identifiers that do not match the standard pattern of
-`^(CE[0-9]{5}|WB[A-Z][a-z]+\d+)$`. Of the 9 resources,
+`^(CE[0-9]{5}|WB[A-Z][a-z]+\d+)$`. Of the 10 resources,
 6 variants on the standard prefix were found: ['WB', 'WB_REF', 'Wb', 'WormBase', 'Wormbase', 'wB'].
 
 ## `bto`: BRENDA Tissue Ontology
@@ -13,6 +13,14 @@ Identifiers for this prefix are given incorrectly in `bto`. See the [GitHub repo
 |------------------------------------------------------------|----------------|-----------------------------------------------------------|
 | `WormBase:http://www.wormbase.org/`                        |              1 | [BTO:0003039](http://purl.obolibrary.org/obo/BTO_0003039) |
 | `Wormbase:https://wormbase.org//species/all/anatomy_term/` |              1 | [BTO:0006342](http://purl.obolibrary.org/obo/BTO_0006342) |
+
+## `clm`: Cell Markers Ontology
+
+Identifiers for this prefix are given incorrectly in `clm`. See the [GitHub repository](https://github.com/Cellular-Semantics/CellMark).
+
+| external_xref   |   usages_count | usages                                                          |
+|-----------------|----------------|-----------------------------------------------------------------|
+| `WB:rynl`       |              1 | [UBERON:0001016](http://purl.obolibrary.org/obo/UBERON_0001016) |
 
 ## `fbcv`: FlyBase Controlled Vocabulary
 

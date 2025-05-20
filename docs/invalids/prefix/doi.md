@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `doi`
 but use local unique identifiers that do not match the standard pattern of
-`^10.\d{2,9}/.*$`. Of the 5 resources,
+`^10.\d{2,9}/.*$`. Of the 6 resources,
 2 variants on the standard prefix were found: ['DOI', 'doi'].
 
 ## `cl`: Cell Ontology
@@ -21,6 +21,15 @@ Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repos
 | `doi:/10.1016/B978-0-12-410424-2.00003-2` |              1 | [CL:0000079](http://purl.obolibrary.org/obo/CL_0000079)                                                                                                                                                                            |
 | `doi:/10.1038/s41467-021-27901-5`         |              1 | [CL:4052006](http://purl.obolibrary.org/obo/CL_4052006)                                                                                                                                                                            |
 | `doi:/10.1101/2022.02.16.480779`          |              1 | [CL:4052040](http://purl.obolibrary.org/obo/CL_4052040)                                                                                                                                                                            |
+
+## `clm`: Cell Markers Ontology
+
+Identifiers for this prefix are given incorrectly in `clm`. See the [GitHub repository](https://github.com/Cellular-Semantics/CellMark).
+
+| external_xref                             |   usages_count | usages                                                  |
+|-------------------------------------------|----------------|---------------------------------------------------------|
+| `doi:/10.1016/B978-0-12-410424-2.00003-2` |              1 | [CL:0000079](http://purl.obolibrary.org/obo/CL_0000079) |
+| `doi:/10.1038/s41467-021-27901-5`         |              1 | [CL:4052006](http://purl.obolibrary.org/obo/CL_4052006) |
 
 ## `efo`: Experimental Factor Ontology
 

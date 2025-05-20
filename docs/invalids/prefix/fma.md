@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `fma`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 3 resources,
+`^\d+$`. Of the 4 resources,
 1 variants on the standard prefix were found: ['FMA'].
 
 ## `clao`: Collembola Anatomy Ontology
@@ -12,6 +12,14 @@ Identifiers for this prefix are given incorrectly in `clao`. See the [GitHub rep
 | external_xref   |   usages_count | usages                                                      |
 |-----------------|----------------|-------------------------------------------------------------|
 | `FMA:C34070`    |              1 | [CLAO:0001186](http://purl.obolibrary.org/obo/CLAO_0001186) |
+
+## `clm`: Cell Markers Ontology
+
+Identifiers for this prefix are given incorrectly in `clm`. See the [GitHub repository](https://github.com/Cellular-Semantics/CellMark).
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                                   |
+|-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `FMA:FMA`       |              8 | [UBERON:0000485](http://purl.obolibrary.org/obo/UBERON_0000485), [UBERON:0000486](http://purl.obolibrary.org/obo/UBERON_0000486), [UBERON:0001943](http://purl.obolibrary.org/obo/UBERON_0001943), [UBERON:0002167](http://purl.obolibrary.org/obo/UBERON_0002167), [UBERON:0002168](http://purl.obolibrary.org/obo/UBERON_0002168), ... |
 
 ## `nif`
 

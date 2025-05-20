@@ -452,7 +452,8 @@
           }
         }
       },
-      "version": "http://purl.obolibrary.org/obo/symp/releases/2024-05-17/symp.owl",
+      "version": "2024-05-17",
+      "version_iri": "http://purl.obolibrary.org/obo/symp/releases/2024-05-17/symp.owl",
       "xref_pack": {
         "invalid_luids": {},
         "known_prefixes": {},

@@ -32,3 +32,13 @@
 | LG:0012672 |        1 | [UBERON:0004900](http://purl.obolibrary.org/obo/UBERON_0004900) |
 | LG:0012681 |        1 | [UBERON:0004901](http://purl.obolibrary.org/obo/UBERON_0004901) |
 
+## clm
+
+| curie      |   usages | nodes                                                           |
+|------------|----------|-----------------------------------------------------------------|
+| LG:0012616 |        1 | [UBERON:0004889](http://purl.obolibrary.org/obo/UBERON_0004889) |
+| LG:0012625 |        1 | [UBERON:0004893](http://purl.obolibrary.org/obo/UBERON_0004893) |
+| LG:0012626 |        1 | [UBERON:0004894](http://purl.obolibrary.org/obo/UBERON_0004894) |
+| LG:0012628 |        1 | [UBERON:0004895](http://purl.obolibrary.org/obo/UBERON_0004895) |
+| LG:0012681 |        1 | [UBERON:0004901](http://purl.obolibrary.org/obo/UBERON_0004901) |
+

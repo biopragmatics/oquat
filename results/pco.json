@@ -2,31 +2,45 @@
   "results": {
     "http://purl.obolibrary.org/obo/pco.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/pco.owl",
-      "prov_pack": {
+      "prop_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "Intended to replace http": {
+            "http://purl.obolibrary.org/obo/PCO_0000034": "Intended to replace http://purl.obolibrary.org/obo/GENEPIO_0001034",
+            "http://purl.obolibrary.org/obo/PCO_0000035": "Intended to replace http://purl.obolibrary.org/obo/GENEPIO_0001030",
+            "http://purl.obolibrary.org/obo/PCO_0000037": "Intended to replace http://purl.obolibrary.org/obo/GENEPIO_0001033",
+            "http://purl.obolibrary.org/obo/PCO_0000038": "Intended to replace http://purl.obolibrary.org/obo/GENEPIO_0001031",
+            "http://purl.obolibrary.org/obo/PCO_0000039": "Intended to replace http://purl.obolibrary.org/obo/GENEPIO_0001032"
+          },
+          "Intented to replace http": {
+            "http://purl.obolibrary.org/obo/PCO_0000033": "Intented to replace http://purl.obolibrary.org/obo/GENEPIO_0001029"
+          },
+          "Matthew Brush, as part of http": {
+            "http://purl.obolibrary.org/obo/PCO_0000032": "Matthew Brush, as part of http://datamodel.clinicalgenome.org/interpretation/"
+          },
+          "TBD": {
+            "http://purl.obolibrary.org/obo/PCO_0000077": "TBD: add logical definition",
+            "http://purl.obolibrary.org/obo/PCO_0000078": "TBD: add logical definition",
+            "http://purl.obolibrary.org/obo/PCO_0000079": "TBD: add logical definition",
+            "http://purl.obolibrary.org/obo/PCO_0000080": "TBD: add logical definition",
+            "http://purl.obolibrary.org/obo/PCO_0000081": "TBD: add logical definition",
+            "http://purl.obolibrary.org/obo/PCO_0000082": "TBD: add logical definition"
+          },
+          "WEB": {
+            "http://purl.obolibrary.org/obo/PCO_0000024": "WEB: http://en.wikipedia.org/wiki/Household"
+          },
+          "adapted from http": {
+            "http://purl.obolibrary.org/obo/PCO_0000010": "adapted from http://en.wikipedia.org/wiki/Species_richness",
+            "http://purl.obolibrary.org/obo/PCO_0000019": "adapted from http://en.wikipedia.org/wiki/Species_diversity",
+            "http://purl.obolibrary.org/obo/PCO_0000023": "adapted from http://en.wikipedia.org/wiki/Species_evenness"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/pco/releases/2021-05-03/pco.owl",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version_iri": "http://purl.obolibrary.org/obo/pco/releases/2021-05-03/pco.owl"
     }
   }
 }

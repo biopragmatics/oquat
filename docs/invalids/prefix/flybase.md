@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `flybase`
 but use local unique identifiers that do not match the standard pattern of
-`^FB\w{2}\d{7}$`. Of the 7 resources,
+`^FB\w{2}\d{7}$`. Of the 8 resources,
 3 variants on the standard prefix were found: ['FB', 'FlyBase', 'Flybase'].
 
 ## `bto`: BRENDA Tissue Ontology
@@ -22,6 +22,17 @@ Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repos
 | `FB:ma`         |             25 | [CL:0000004](http://purl.obolibrary.org/obo/CL_0000004), [CL:0000063](http://purl.obolibrary.org/obo/CL_0000063), [CL:0000066](http://purl.obolibrary.org/obo/CL_0000066), [CL:0000134](http://purl.obolibrary.org/obo/CL_0000134), [CL:0000144](http://purl.obolibrary.org/obo/CL_0000144), ... |
 | `Flybase:dsj`   |              1 | [CL:0000362](http://purl.obolibrary.org/obo/CL_0000362)                                                                                                                                                                                                                                          |
 | `FlyBase:ds`    |              1 | [CL:0000463](http://purl.obolibrary.org/obo/CL_0000463)                                                                                                                                                                                                                                          |
+
+## `clm`: Cell Markers Ontology
+
+Identifiers for this prefix are given incorrectly in `clm`. See the [GitHub repository](https://github.com/Cellular-Semantics/CellMark).
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
+|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `FB:ma`         |             13 | [CL:0000066](http://purl.obolibrary.org/obo/CL_0000066), [CL:0000134](http://purl.obolibrary.org/obo/CL_0000134), [CL:0000183](http://purl.obolibrary.org/obo/CL_0000183), [CL:0000211](http://purl.obolibrary.org/obo/CL_0000211), [CL:0000219](http://purl.obolibrary.org/obo/CL_0000219), ... |
+| `FB:gg`         |              2 | [UBERON:0000018](http://purl.obolibrary.org/obo/UBERON_0000018), [UBERON:0001007](http://purl.obolibrary.org/obo/UBERON_0001007)                                                                                                                                                                 |
+| `Flybase:dsj`   |              1 | [CL:0000362](http://purl.obolibrary.org/obo/CL_0000362)                                                                                                                                                                                                                                          |
+| `FB:DJS`        |              1 | [UBERON:0001048](http://purl.obolibrary.org/obo/UBERON_0001048)                                                                                                                                                                                                                                  |
 
 ## `covoc`: CoVoc Coronavirus Vocabulary
 

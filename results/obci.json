@@ -2,6 +2,59 @@
   "results": {
     "http://purl.obolibrary.org/obo/obci.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/obci.owl",
+      "prop_pack": {
+        "invalid_luids": {},
+        "known_prefixes": {},
+        "label": "Node Properties",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {
+          "MIM": {
+            "http://purl.obolibrary.org/obo/DOID_0070541": "MIM:246450"
+          },
+          "NCI": {
+            "http://purl.obolibrary.org/obo/DOID_0070541": "NCI:C84523"
+          },
+          "ORDO": {
+            "http://purl.obolibrary.org/obo/DOID_0070541": "ORDO:20"
+          },
+          "UMLS_CUI": {
+            "http://purl.obolibrary.org/obo/DOID_0070541": "UMLS_CUI:C0268601"
+          }
+        },
+        "unknown_prefixes": {
+          "Discussion on obo-discuss mailing-list, see http": {
+            "http://purl.obolibrary.org/obo/IAO_0000119": "Discussion on obo-discuss mailing-list, see http://bit.ly/hgm99w"
+          },
+          "GROUP": {
+            "http://purl.obolibrary.org/obo/IAO_0000111": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000112": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000115": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000116": "GROUP:OBI:<http://purl.obofoundry.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000117": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000118": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000119": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000589": "GROUP:OBO Foundry <http://obofoundry.org/>"
+          },
+          "OBCIC": {
+            "http://www.genenames.org/cgi-bin/gene_symbol_report?hgnc_id=1100": "OBCIC:DNx",
+            "http://www.genenames.org/cgi-bin/gene_symbol_report?hgnc_id=485": "OBCIC:DNx",
+            "https://www.ncbi.nlm.nih.gov/snp/rs12674822": "OBCIC:DNx",
+            "https://www.ncbi.nlm.nih.gov/snp/rs567534295": "OBCIC:DNx"
+          },
+          "PERSON": {
+            "http://purl.obolibrary.org/obo/IAO_0000111": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000112": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000114": "PERSON:Melanie Courtot",
+            "http://purl.obolibrary.org/obo/IAO_0000115": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000116": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000117": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000118": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000119": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000232": "PERSON:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/IAO_0000589": "PERSON:Melanie Courtot"
+          }
+        }
+      },
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/CL_0000000": [
@@ -210,7 +263,8 @@
           }
         }
       },
-      "version": "http://purl.obolibrary.org/obo/obci/2024-10-18/obci.owl",
+      "version": "2024-10-18",
+      "version_iri": "http://purl.obolibrary.org/obo/obci/2024-10-18/obci.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/CHEBI_16643": [

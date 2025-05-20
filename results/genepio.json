@@ -2,23 +2,336 @@
   "results": {
     "http://purl.obolibrary.org/obo/genepio.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/genepio.owl",
-      "prov_pack": {
-        "invalid_luids": {},
+      "prop_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/GENEPIO_0100067": [
+            "PMID: 12465687"
+          ],
+          "http://purl.obolibrary.org/obo/GENEPIO_0100475": [
+            "PMID: 33205991"
+          ],
+          "http://purl.obolibrary.org/obo/GENEPIO_0100587": [
+            "GitHub: https://github.com/pha4ge/SARS-CoV-2-Contextual-Data-Specification "
+          ],
+          "http://purl.obolibrary.org/obo/GENEPIO_0100659": [
+            "GitHub: https://github.com/pha4ge"
+          ],
+          "http://purl.obolibrary.org/obo/GENEPIO_0100660": [
+            "GitHub: https://github.com/pha4ge/contextual_data_QC_tags"
+          ]
+        },
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          " Manuscript": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100587": " Manuscript: https://doi.org/10.1093/gigascience/giac003"
+          },
+          "/^(": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001904": "/^(:<area>(\\([0-9]{3})\\)|[0-9]{3})(:<sep>[- ])?(:<central>\\d{3})\\2(:<station>\\d{4})$/, $area $central $station"
+          },
+          "/^((": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001888": "/^((:<FSA>[ABCEGHJKLMNPRSTVXY][0-9][ABCEGHJKLMNPRSTVWXYZ])) ?(:<LDU>[0-9][ABCEGHJKLMNPRSTVWXYZ][0-9])$/i, $FSA $LDU",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001889": "/^((:<FSA>[ABCEGHJKLMNPRSTVXY][0-9][ABCEGHJKLMNPRSTVWXYZ]))$/i, $FSA"
+          },
+          "/culture_collection=\"ATCC": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100284": "/culture_collection=\"ATCC:26370"
+          },
+          "50 - 59 [GENEPIO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001394": "50 - 59 [GENEPIO:0100054]"
+          },
+          "AHA HIPPA": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001840": "AHA HIPPA: http://www.aha.org/content/00-10/overview0302.pdf"
+          },
+          "Abattoir [ENVO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100482": "Abattoir [ENVO:01000925]"
+          },
+          "Acute respiratory failure [MONDO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001402": "Acute respiratory failure [MONDO:0001208]"
+          },
+          "Amoxicillin-clavulanic [ARO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100521": "Amoxicillin-clavulanic [ARO:3003997]"
+          },
+          "Antimicrobial pre-treatment [GENEPIO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100433": "Antimicrobial pre-treatment [GENEPIO:0100537]"
+          },
+          "Asthma [HP": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001401": "Asthma [HP:0002099]"
+          },
+          "Asymptomatic [NCIT": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001388": "Asymptomatic [NCIT:C3833]"
+          },
+          "Baseline surveillance (random sampling) [GENEPIO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001445": "Baseline surveillance (random sampling) [GENEPIO:0100005]"
+          },
+          "Blood [UBERON": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001211": "Blood [UBERON:0000178]"
+          },
+          "Bronchoalveolar lavage (BAL) [GENEPIO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001241": "Bronchoalveolar lavage (BAL) [GENEPIO:0100032]"
+          },
+          "Broth dilution [ARO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100526": "Broth dilution [ARO:3004397]"
+          },
+          "COVID-19 [MONDO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001391": "COVID-19 [MONDO:0100096]"
+          },
+          "Calf [FOODON": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100452": "Calf [FOODON:03411349]"
+          },
+          "Canadian Food Inspection Agency (CFIA) [GENEPIO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100511": "Canadian Food Inspection Agency (CFIA) [GENEPIO:0100552]"
+          },
+          "Chicken [NCBITaxon": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100446": "Chicken [NCBITaxon:9031]"
+          },
+          "Diagnostic testing [GENEPIO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001198": "Diagnostic testing [GENEPIO:0100002]"
+          },
+          "Direct (human-to-human contact) [TRANS": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001418": "Direct (human-to-human contact) [TRANS:0000001]"
+          },
+          "Dorso-lateral region [BSPO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100700": "Dorso-lateral region [BSPO:0000080]"
+          },
+          "E gene (orf4) [GENEPIO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001507": "E gene (orf4) [GENEPIO:0100151]",
+            "http://purl.obolibrary.org/obo/GENEPIO_0100655": "E gene (orf4) [GENEPIO:0100151]"
+          },
+          "ENA Webin": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0002135": "ENA Webin:environmental_feature"
+          },
+          "Feces [UBERON": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001216": "Feces [UBERON:0001988]"
+          },
+          "Food (chopped) [FOODON": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100445": "Food (chopped) [FOODON:00002777]; Ready-to-eat (RTE) [FOODON:03316636]"
+          },
+          "For Eschericia coli": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001055": "For Eschericia coli: STEC, UPEC"
+          },
+          "Fully Vaccinated [GENEPIO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001404": "Fully Vaccinated [GENEPIO:0100100]"
+          },
+          "G2R_G (TNFR) [GENEPIO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100576": "G2R_G (TNFR) [GENEPIO:0100510]"
+          },
+          "GROUP": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0000021": "GROUP: IRIDA Ontology (Morag)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000022": "GROUP: IRIDA Ontology (Emma)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000025": "GROUP: MIxS",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000029": "GROUP: MIxS",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000034": "GROUP: MIxS enviro package",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000035": "GROUP: MIxS enviro package",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000037": "GROUP: MIxS enviro package",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000038": "GROUP: MIxS",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000039": "GROUP: MIxS enviro package",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000040": "GROUP: MIxS enviro package",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000041": "GROUP: MIxS enviro package",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000042": "GROUP: Environment Canada Metadata",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000043": "GROUP: Environment Canada Metadata",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000044": "GROUP: IRIDA Ontology (Emma)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000046": "GROUP: IRIDA Ontology (Emma)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000047": "GROUP: IRIDA Ontology (Emma)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000048": "GROUP: IRIDA Ontology (Emma)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000052": "GROUP: IRIDA Ontology (Emma)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000054": "GROUP: IRIDA Ontology (Emma)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000055": "GROUP: IRIDA Ontology (Emma)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000056": "GROUP: IRIDA Ontology (Emma)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000057": "GROUP: IRIDA Ontology (Emma)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000058": "GROUP: IRIDA Ontology (Emma)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000059": "GROUP: IRIDA Ontology (Emma)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000069": "GROUP: IRIDA Ontology (Emma)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000070": "GROUP: IRIDA Ontology (Emma)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000071": "GROUP: IRIDA Ontology (Emma)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000072": "GROUP: IRIDA Ontology (Emma)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000073": "GROUP: IRIDA Ontology (Emma)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000074": "GROUP: IRIDA Ontology (Emma)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000075": "GROUP: IRIDA Ontology (Emma)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000076": "GROUP: IRIDA Ontology (Emma)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000078": "GROUP: MIxS",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000079": "GROUP: IRIDA Ontology (Emma)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000080": "GROUP: IRIDA Ontology (Emma)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000081": "GROUP: IRIDA Ontology (Emma)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000082": "GROUP: IRIDA Ontology (Emma)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000083": "GROUP: MIxS",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000084": "GROUP: IRIDA Ontology (Emma)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000086": "GROUP: MIxS",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000090": "GROUP: MIxS",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000094": "GROUP: MIxS",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000095": "GROUP: IRIDA Ontology (Emma)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000096": "GROUP: MIxS",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000102": "GROUP: IRIDA Ontology (Emma)",
+            "http://purl.obolibrary.org/obo/GENEPIO_0002096": "GROUP: IRIDA Ontology (Emma)"
+          },
+          "GSCID-BRC": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001569": "GSCID-BRC:Clinical/host-associated pathogen",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001590": "GSCID-BRC:environmental/food/other"
+          },
+          "Healthcare Setting [GENEPIO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001428": "Healthcare Setting [GENEPIO:0100201]"
+          },
+          "Homo sapiens [NCBITaxon": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001387": "Homo sapiens [NCBITaxon:9606]"
+          },
+          "Hospitalized (ICU) [GENEPIO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001389": "Hospitalized (ICU) [GENEPIO:0100046]"
+          },
+          "Host role - Other": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001431": "Host role - Other: Bus Driver"
+          },
+          "Human [NCBITaxon": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001386": "Human [NCBITaxon:9606]"
+          },
+          "Illumina [GENEPIO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100473": "Illumina [GENEPIO:0001923]"
+          },
+          "In expressions like": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001001": "In expressions like: \"<= 8mg/L\""
+          },
+          "Male [NCIT": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001395": "Male [NCIT:C46109]"
+          },
+          "Mass Gathering [GENEPIO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001417": "Mass Gathering [GENEPIO:0100237]"
+          },
+          "Material entities examples": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100699": "Material entities examples: equipment, animals, locations"
+          },
+          "NCBI": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001569": "NCBI:Pathogen.cl",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001590": "NCBI:Pathogen.env"
+          },
+          "NHS Terms": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001847": "NHS Terms: https://en.wikipedia.org/wiki/Medical_state"
+          },
+          "Nasopharynx (NP) [UBERON": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001214": "Nasopharynx (NP) [UBERON:0001728]"
+          },
+          "Oxford Nanopore MinION [GENEPIO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001452": "Oxford Nanopore MinION [GENEPIO:0100142]"
+          },
+          "PCR assay [OBI": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100583": "PCR assay [OBI:0002740]"
+          },
+          "Patient [OMRSE": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001419": "Patient [OMRSE:00000030]"
+          },
+          "Person": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001724": "Person: Damion Dooley"
+          },
+          "Plastic tray or pan [FOODON": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100447": "Plastic tray or pan [FOODON:03490126]"
+          },
+          "Prior antiviral treatment [GENEPIO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001438": "Prior antiviral treatment [GENEPIO:0100037]"
+          },
+          "Prior infection [GENEPIO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001435": "Prior infection [GENEPIO:0100234]"
+          },
+          "RNA (Total) [OBI": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001266": "RNA (Total) [OBI:0000895]"
+          },
+          "RNAse P [GENEPIO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100578": "RNAse P [GENEPIO:0100508]"
+          },
+          "Rain [ENVO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100442": "Rain [ENVO:01001564]"
+          },
+          "RdRp gene (nsp12) [GENEPIO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001510": "RdRp gene (nsp12) [GENEPIO:0100168]",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001513": "RdRp gene (nsp12) [GENEPIO:0100168]"
+          },
+          "Recovered [NCIT": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001390": "Recovered [NCIT:C49498]"
+          },
+          "Samples pooled [OBI": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100435": "Samples pooled [OBI:0600016]"
+          },
+          "See editor note of http": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100603": "See editor note of http://purl.obolibrary.org/obo/IAO_0000650"
+          },
+          "Sensitire [ARO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100527": "Sensitire [ARO:3004402]"
+          },
+          "South Africa [GAZ": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001181": "South Africa [GAZ:00001094]",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001396": "South Africa [GAZ:00001094]",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001410": "South Africa [GAZ:00001094]",
+            "http://purl.obolibrary.org/obo/GENEPIO_0100438": "South Africa [GAZ:00001094]"
+          },
+          "Susceptible antimicrobial phenotype [ARO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100525": "Susceptible antimicrobial phenotype [ARO:3004302]"
+          },
+          "Swab [GENEPIO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001234": "Swab [GENEPIO:0100027]"
+          },
+          "Turkey [NCBITaxon": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100443": "Turkey [NCBITaxon:9103]"
+          },
+          "UAM": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001722": "UAM:Mamm:52179"
+          },
+          "URI": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0000032": "URI: http://en.wikipedia.org/wiki/Land_use",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000033": "URI: http://www.who.int/water_sanitation_health/dwq/iwachap13.pdf",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000049": "URI: http://en.wikipedia.org/wiki/Multilocus_sequence_typing ; http://eburst.mlst.net/3.asp",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000053": "URI: http://www.illumina.com/applications/microbiology/microbial-sequencing-methods/16S-rrna-sequencing.html",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000061": "URI: http://www.hologic.com/sites/default/files/package%20inserts/103051F-EN-RevC.pdf",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000087": "URI: http://support.illumina.com/sequencing/sequencing_instruments/miseq/questions.html",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000088": "URI: https://www.broadinstitute.org/files/shared/illuminavids/clusterGenSlides.pdf",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000089": "URI: http://en.wikipedia.org/wiki/Phred_quality_score",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000092": "URI: http://en.wikipedia.org/wiki/Shotgun_sequencing"
+          },
+          "United Kingdom [GAZ": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001413": "United Kingdom [GAZ:00002637]"
+          },
+          "United States of America [GAZ": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100437": "United States of America [GAZ:00002459]"
+          },
+          "Vaccination [NCIT": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100483": "Vaccination [NCIT:C15346]"
+          },
+          "Variant of Concern (VOC) [GENEPIO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001503": "Variant of Concern (VOC) [GENEPIO:0100083]"
+          },
+          "Vero E6 cell line [BTO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001255": "Vero E6 cell line [BTO:0004755]"
+          },
+          "Virus passage [GENEPIO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001253": "Virus passage [GENEPIO:0100039]"
+          },
+          "Yes [NCIT": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100277": "Yes [NCIT:C49488]"
+          },
+          "dateFormat": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0002083": "dateFormat:ISO 8601"
+          },
+          "depth": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0000026": "depth:1",
+            "http://purl.obolibrary.org/obo/GENEPIO_0000110": "depth:1",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001212": "depth:1",
+            "http://purl.obolibrary.org/obo/GENEPIO_0002024": "depth:1",
+            "http://purl.obolibrary.org/obo/GENEPIO_0002025": "depth:1",
+            "http://purl.obolibrary.org/obo/GENEPIO_0002103": "depth:1"
+          },
+          "lookup": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001742": "lookup:http://purl.obolibrary.org/obo/GAZ_00000448"
+          },
+          "low average genome coverage [GENEPIO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100560": "low average genome coverage [GENEPIO:0100570]"
+          },
+          "sequence failed quality control [GENEPIO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0100559": "sequence failed quality control [GENEPIO:0100564]"
+          },
+          "year [UO": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001393": "year [UO:0000036]"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/genepio/releases/2024-12-18/genepio.owl",
+      "version": "2024-12-18",
+      "version_iri": "http://purl.obolibrary.org/obo/genepio/releases/2024-12-18/genepio.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/GENEPIO_0001076": [
@@ -126,7 +439,6 @@
             "http://purl.obolibrary.org/obo/GENEPIO_0001948": "NCBI SRA: DNAse",
             "http://purl.obolibrary.org/obo/GENEPIO_0001949": "NCBI SRA: HMPR",
             "http://purl.obolibrary.org/obo/GENEPIO_0001950": "NCBI SRA: Hybrid Selection",
-            "http://purl.obolibrary.org/obo/GENEPIO_0001951": "NCBI SRA: MBD2 protein methyl-CpG binding domain",
             "http://purl.obolibrary.org/obo/GENEPIO_0001952": "NCBI SRA: MF",
             "http://purl.obolibrary.org/obo/GENEPIO_0001953": "NCBI SRA: MNase",
             "http://purl.obolibrary.org/obo/GENEPIO_0001954": "NCBI SRA: MSLL",

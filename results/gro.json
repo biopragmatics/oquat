@@ -2,30 +2,597 @@
   "results": {
     "http://www.bootstrep.eu/ontology/GRO": {
       "graph_id": "http://www.bootstrep.eu/ontology/GRO",
-      "prov_pack": {
-        "invalid_luids": {},
+      "prop_pack": {
+        "invalid_luids": {
+          "http://www.bootstrep.eu/ontology/GRO#AminoAcid": [
+            "CHEBI:33709 amino acids",
+            "IMR:0001695 amino acid"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#AntisenseRNA": [
+            "SO:0000644 antisense_RNA"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Archaebacterium": [
+            "NCBI Taxonomy ID: 2157  Archaea"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Attenuator": [
+            "SO:0000140 attenuator"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#BacterialRNAPolymerasePromoter": [
+            "SO:0000613 bacterial RNApol promoter"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Bacteriophage": [
+            "NCBI Taxonomy ID: 38018 unidentified phage"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Bacterium": [
+            "NCBI Taxonomy ID: 2 Bacteria"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Behavior": [
+            "GO:0007610 behavior"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Binding": [
+            "GO:0005488 binding"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#BindingToProtein": [
+            "GO:0005515 protein binding"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#BindingToRNA": [
+            "GO:0003723 RNA binding"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Carbohydrate": [
+            "CHEBI:23008 carbohydrate",
+            "IMR:0001657 carbohydrate"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#CatabolicPathway": [
+            "GO:0009056 catabolic process"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#CatalyticActivity": [
+            "GO:0003824 catalytic activity"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#CellAdhesion": [
+            "GO:0007155 cell adhesion"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#CellAging": [
+            "GO:0007569 cell aging"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#CellCommunication": [
+            "GO:0007154 cell communication"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#CellComponent": [
+            "GO:0005575 cellular component"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#CellCycle": [
+            "GO:0007049 cell cycle"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#CellCyclePhase": [
+            "GO:0022403 cell cycle phase"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#CellDeath": [
+            "GO:0008219 cell death"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#CellDifferentiation": [
+            "GO:0030154 cell differentiation"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#CellDivision": [
+            "GO:0051301 cell division"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#CellFateDetermination": [
+            "GO:0001709 \tcell fate determination"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#CellGrowth": [
+            "GO:0016049 cell growth"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#CellHomeostasis": [
+            "GO:0019725 cellular homeostasis"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#CellMotility": [
+            "GO:0006928 cell motility"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#CellularComponentOrganizationAndBiogenesis": [
+            "GO:0016043 cellular component organization and biogenesis"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#CellularDevelopmentalProcess": [
+            "GO:0048869 cellular developmental process"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#CellularMetabolicProcess": [
+            "GO:0044237 cellular metabolic process"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#CellularProcess": [
+            "GO:0009987 cellular process"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Chemical": [
+            "IMR:0000947 chemical"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#ChromatinSilencing": [
+            "GO:0006342 chromatin silencing"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Chromosome": [
+            "GO:0005694 chromosome"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#ChronologicalCellAging": [
+            "GO:0001300 chronological cell aging"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Circadian": [
+            "GO:0007623 circadian rhythm"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#ComplexOfProteinAndDNA": [
+            "GO:0032993 protein-DNA complex"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#CpGIsland": [
+            "SO:0000307 CpG_island"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#DNAModification": [
+            "GO:0006304 DNA modification"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#DNAPolymerase": [
+            "GO:0003887 DNA-directed DNA polymerase activity",
+            "GO:0003964 RNA-directed DNA polymerase activity"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Death": [
+            "GO:0016265 death"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Deoxyribose": [
+            "CHEBI:28816 2-deoxy-D-ribose"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#DevelopmentalProcess": [
+            "GO:0032502 developmental process"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Dimerization": [
+            "GO:0046983 protein dimerization activity"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#DosageCompensation": [
+            "GO:0007549 dosage compensation"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Enhancer": [
+            "SO:0000165 enhancer"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#EscherichiaColi": [
+            "NCBI Taxonomy ID: 562 Escherichia coli"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Eukaryote": [
+            "NCBI Taxonomy ID: 2759 Eukaryota"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Exon": [
+            "SO:0000147 exon"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#FormationOfProteinDNAComplex": [
+            "GO:0065004 protein-DNA complex assembly"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#FormationOfTranslationInitiationComplex": [
+            "GO:0001732 formation of translation initiation complex"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Function": [
+            "GO:0003674 molecular function"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Fungus": [
+            "NCBI Taxonomy ID: 4751 Fungi"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#G1Phase": [
+            "GO:0051318 G1 phase"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#G2Phase": [
+            "GO:0051319 G2 phase"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Gas": [
+            "IMR:0001720 gas"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Gene": [
+            "SO:0000704 gene"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#GeneProductFunction": [
+            "GO:0003674 molecular function"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#GeneSilencing": [
+            "GO:0016458 gene silencing"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#GeneticImprinting": [
+            "GO:0071514 genetic imprinting"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Growth": [
+            "GO:0040007 growth"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Heterodimerization": [
+            "GO:0046982 protein heterodimerization activity"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#HistoneAcetylation": [
+            "GO:0016573 histone acetylation"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Homodimerization": [
+            "GO:0042803 protein homodimerization activity"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Increase": [
+            "NCI:C25533 Increase"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#InositolPhosphate": [
+            "CHEBI:24846 inositol phosphates"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Insulator": [
+            "SO:0000627 insulator"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Interphase": [
+            "GO:0051325 interphase"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#IntraCellularTransport": [
+            "GO:0046907 intracellular transport"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Intron": [
+            "SO:0000188 intron"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Ion": [
+            "CHEBI:24870 ions",
+            "IMR:0001658 ion"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Ligand": [
+            "IMR:0000002 ligand"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Lipid": [
+            "CHEBI:18059 lipids",
+            "IMR:0000947 lipid"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Localization": [
+            "GO:0051179 localization"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#LocusControlRegion": [
+            "SO:0000037 locus control region"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Meiosis": [
+            "GO:0007126 meiosis"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#MetabolicPathway": [
+            "GO:0008152 metabolic process"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Methylation": [
+            "GO:0032259 methylation"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Mitochondrion": [
+            "GO:0005739 mitochondrion"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Mitosis": [
+            "GO:0007067 mitosis"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#MolecularFunction": [
+            "GO:0003674 molecular function"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#NegativeRegulationOfTranscription": [
+            "GO:0016481 negative regulation of transcription"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#NuclearExportOfmRNA": [
+            "GO:0006406 mRNA export from nucleus"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#NuclearReceptor": [
+            "GO:0004879 ligand-dependent nuclear receptor activity"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#NucleicAcid": [
+            "CHEBI:33696 nucleic acids"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Nucleoside": [
+            "CHEBI: 33838 nucleosides",
+            "IMR:0001697 nucleoside"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Nucleotide": [
+            "CHEBI:25608 nucleoside phosphates",
+            "IMR:0001349 nucleotide"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Nucleus": [
+            "GO:0005634 nucleus"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#OpenReadingFrame": [
+            "SO:0000236 ORF"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Operator": [
+            "SO:0000057 operator"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Operon": [
+            "SO:0000178 operon"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#OrganismalProcess": [
+            "GO:0032501multicellular organismal process"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#PhosphateGroup": [
+            "CHEBI:32958 phosphate group"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Phosphorylation": [
+            "GO:0016310 phosphorylation"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#PhysiologicalProcess": [
+            "GO:0008150 biological process"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Plant": [
+            "NCBI Taxonomy ID:3193 Embryophyta"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#PolyASignalSequence": [
+            "SO:0000551 polyA signal sequence"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#PositiveRegulationOfTranscription": [
+            "GO:0045941 positive regulation of transcription"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#PosttranslationalModification": [
+            "GO:0043687 post-translational protein modification"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Process": [
+            "GO:0008150 biological process"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Promoter": [
+            "SO:0000167 promoter"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#ProteinCatabolism": [
+            "GO:0030163 protein catabolic process"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#ProteinComplex": [
+            "GO:0043234 protein complex"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#ProteinFolding": [
+            "GO:0006457 protein folding"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#ProteinMaturation": [
+            "GO:0051604 protein maturation"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#ProteinMetabolism": [
+            "GO:0019538 protein metabolic process"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#ProteinModification": [
+            "GO:0006464 protein modification process"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#ProteinPolymerization": [
+            "GO:0051258 protein polymerization"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#ProteinTargeting": [
+            "GO:0006605 protein targeting"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#ProteinTransport": [
+            "GO:0015031 protein transport"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#RNABiosynthesis": [
+            "GO:0032774 RNA biosynthetic process"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#RNACatabolism": [
+            "GO:0006401 RNA catabolic process"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#RNAElongation": [
+            "GO:0006354 RNA elongation"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#RNAInitiatedSilencingComplex": [
+            "GO:0016442 RNA-induced silencing complex"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#RNAInterference": [
+            "GO:0016246 RNA interference"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#RNAMetabolism": [
+            "GO:0016070 RNA metabolic process"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#RNAModification": [
+            "GO:0009451 RNA modification"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#RNAPolymerase": [
+            "GO:0003899 DNA-directed RNA polymerase activity",
+            "GO:0003968 RNA-directed RNA polymerase activity"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#RNAPolymeraseIIHoloenzyme": [
+            "GO:0016591 DNA-directed RNA polymerase II, holoenzyme"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#RNAPolymerasePromoter": [
+            "SO:0001203 RNA_polymerase_promoter"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#RNAPolymerase_III_Promoter": [
+            "SO:0000171 RNApol III promoter"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#RNAPolymerase_III_PromoterType1": [
+            "SO:0000617 RNApol_III_promoter_type_1"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#RNAPolymerase_III_PromoterType2": [
+            "SO:0000618 RNApol_III_promoter_type_2"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#RNAPolymerase_II_Promoter": [
+            "SO:0000170 RNApol II promoter"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#RNAPolymerase_I_Promoter": [
+            "SO:0000169 RNApol I promoter"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#RNAProcessing": [
+            "GO:0006396 RNA processing"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#RNAProteinInteraction": [
+            "GO:0022618 protein-RNA complex assembly"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#RNASplicing": [
+            "GO:0008380 RNA splicing"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#RegulationOfGeneExpression": [
+            "GO:0010468 regulation of gene expression"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#RegulationOfTranscription": [
+            "GO:0045449 regulation of transcription"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#RegulationOfTranslation": [
+            "GO:0006417 regulation of translation"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#RegulationOfTranslationalFidelity": [
+            "GO:0006450 regulation of translational fidelity"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#RegulatoryDNARegion": [
+            "SO:0005836 regulatory region"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#RegulatoryProcess": [
+            "GO:0050789 regulation of biological process"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Regulon": [
+            "SO:1001284 regulon"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#ReplicativeCellAging": [
+            "GO:0001302 replicative cell aging"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#ResponseProcess": [
+            "GO:0050896 response to stimulus"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#ResponseToChemicalStimulus": [
+            "GO:0042221 response to chemical stimulus"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#ResponseToDrug": [
+            "GO:0042493 response to drug"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#ResponseToProtein": [
+            "GO:0051789 response to protein stimulus"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Ribose": [
+            "CHEBI:26564 riboses"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#RibosomalRNA": [
+            "SO:0000252 rRNA"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Ribosome": [
+            "GO:0005840 ribosome"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#SPhase": [
+            "GO:0051320 S phase"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#SecondMessenger": [
+            "IMR:0100022 second messenger"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#SelenocysteineIncorporation": [
+            "GO:0001514 selenocysteine incorporation"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#SigmaFactorActivity": [
+            "GO:0016987 sigma factor activity"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#SigmaFactorAntagonistActivity": [
+            "GO:0016989 sigma factor antagonist activity"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#SignalingPathway": [
+            "GO:0007165 signal transduction"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Silencer": [
+            "SO:0000625 silencer"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#SmallInterferingRNA": [
+            "SO:0000646 siRNA"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#SpliceEnhancer": [
+            "SO:0000344 splice enhancer"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Spliceosome": [
+            "IMR:0000932 spliceosome"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Terminator": [
+            "SO:0000141 terminator"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Transcript": [
+            "SO:0000673 transcript"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Transcription": [
+            "GO:0006350 transcription"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#TranscriptionActivatorActivity": [
+            "GO:0016563 transcription activator activity"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#TranscriptionCoactivator": [
+            "GO:0003713 transcription coactivator activity"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#TranscriptionCofactorActivity": [
+            "GO:0003712 transcription cofactor activity"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#TranscriptionCorepressor": [
+            "GO:0003714 transcription corepressor activity"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#TranscriptionDuringRNA-mediatedTransposition": [
+            "GO:0032199 transcription during RNA-mediated transposition"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#TranscriptionFactorActivity": [
+            "GO:0003700 transcription factor activity"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#TranscriptionInitiation": [
+            "GO:0006352 transcription initiation"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#TranscriptionOfGene": [
+            "GO:0006350 transcription"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#TranscriptionRNADependent": [
+            "GO:0006410 transcription RNA-dependent"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#TranscriptionRegulatorActivity": [
+            "GO:0030528 transcription regulator activity"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#TranscriptionRepressorActivity": [
+            "GO:0016564 transcription repressor activity"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#TranscriptionTermination": [
+            "GO:0006353 transcription termination"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#TranscriptionalAttenuation": [
+            "GO:0031555 transcriptional attenuation"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Translation": [
+            "GO:0006412 translation"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#TranslationElongation": [
+            "GO:0006414 translational elongation"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#TranslationInitiation": [
+            "GO:0006413 translational initiation"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#TranslationRegulator": [
+            "GO:0045182 translation regulator activity"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#TranslationTermination": [
+            "GO:0006415 translational termination"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#TranslationalAttenuation": [
+            "GO:0031555 translational attenuation"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#TranslationalFrameshifting": [
+            "GO:0006452 translational frameshifting"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#TranslationalReadthrough": [
+            "GO:0006451 translational readthrough"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Transport": [
+            "GO:0006810 transport"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Transposition": [
+            "GO:0032196 transposition"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Virus": [
+            "NCBI Taxonomy ID: 10239 Viruses"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Vitamin": [
+            "CHEBI:33229 vitamin",
+            "IMR:0001656 vitamin"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#X_Chromosome": [
+            "GO:0000805 X chromosome"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#Y_Chromosome": [
+            "GO:0000806 Y chromosome"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#_3_Polyadenylation": [
+            "GO:0006378 mRNA polyadenylation"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#_5_Capping": [
+            "GO:0009452 RNA capping"
+          ],
+          "http://www.bootstrep.eu/ontology/GRO#tRNA": [
+            "SO:0000253 tRNA"
+          ]
+        },
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
-        "noncanonical_prefixes": {},
+        "noncanonical_prefixes": {
+          "NCBI Taxonomy ID": {
+            "http://www.bootstrep.eu/ontology/GRO#Archaebacterium": "NCBI Taxonomy ID: 2157  Archaea",
+            "http://www.bootstrep.eu/ontology/GRO#Bacteriophage": "NCBI Taxonomy ID: 38018 unidentified phage",
+            "http://www.bootstrep.eu/ontology/GRO#Bacterium": "NCBI Taxonomy ID: 2 Bacteria",
+            "http://www.bootstrep.eu/ontology/GRO#EscherichiaColi": "NCBI Taxonomy ID: 562 Escherichia coli",
+            "http://www.bootstrep.eu/ontology/GRO#Eukaryote": "NCBI Taxonomy ID: 2759 Eukaryota",
+            "http://www.bootstrep.eu/ontology/GRO#Fungus": "NCBI Taxonomy ID: 4751 Fungi",
+            "http://www.bootstrep.eu/ontology/GRO#Plant": "NCBI Taxonomy ID:3193 Embryophyta",
+            "http://www.bootstrep.eu/ontology/GRO#Virus": "NCBI Taxonomy ID: 10239 Viruses"
+          },
+          "NCI": {
+            "http://www.bootstrep.eu/ontology/GRO#Increase": "NCI:C25533 Increase"
+          }
+        },
         "unknown_prefixes": {}
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "0.5"
     }
   }
 }

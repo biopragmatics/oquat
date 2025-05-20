@@ -2,29 +2,36 @@
   "results": {
     "http://www.geneontology.org/formats/oboInOwl": {
       "graph_id": "http://www.geneontology.org/formats/oboInOwl",
-      "prov_pack": {
+      "prop_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "_": {
+            "http://www.geneontology.org/formats/oboInOwl#Definition": "_:genid2147483649",
+            "http://www.geneontology.org/formats/oboInOwl#ObsoleteClass": "_:genid2147483655",
+            "http://www.geneontology.org/formats/oboInOwl#ObsoleteProperty": "_:genid2147483677",
+            "http://www.geneontology.org/formats/oboInOwl#Subset": "_:genid2147483659",
+            "http://www.geneontology.org/formats/oboInOwl#SubsetProperty": "_:genid2147483767",
+            "http://www.geneontology.org/formats/oboInOwl#Synonym": "_:genid2147483673",
+            "http://www.geneontology.org/formats/oboInOwl#SynonymTypeProperty": "_:genid2147483771",
+            "http://www.geneontology.org/formats/oboInOwl#consider": "_:genid2147483681",
+            "http://www.geneontology.org/formats/oboInOwl#hasAlternativeId": "_:genid2147483687",
+            "http://www.geneontology.org/formats/oboInOwl#hasBroadSynonym": "_:genid2147483693",
+            "http://www.geneontology.org/formats/oboInOwl#hasDefinition": "_:genid2147483705",
+            "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym": "_:genid2147483711",
+            "http://www.geneontology.org/formats/oboInOwl#hasNarrowSynonym": "_:genid2147483717",
+            "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace": "_:genid2147483723",
+            "http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym": "_:genid2147483735",
+            "http://www.geneontology.org/formats/oboInOwl#hasSubset": "_:genid2147483741",
+            "http://www.geneontology.org/formats/oboInOwl#hasSynonym": "_:genid2147483729",
+            "http://www.geneontology.org/formats/oboInOwl#inSubset": "_:genid2147483749",
+            "http://www.geneontology.org/formats/oboInOwl#isCyclic": "_:genid2147483763",
+            "http://www.geneontology.org/formats/oboInOwl#replacedBy": "_:genid2147483755"
+          }
+        }
       }
     }
   }

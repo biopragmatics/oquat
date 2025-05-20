@@ -2,30 +2,20 @@
   "results": {
     "http://purl.uniprot.org/core/": {
       "graph_id": "http://purl.uniprot.org/core/",
-      "prov_pack": {
+      "prop_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "ftp": {
+            "http://purl.uniprot.org/core/Reference_Proteome": "ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/reference_proteomes/README",
+            "http://purl.uniprot.org/core/panproteome": "ftp://ftp.uniprot.orftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/pan_proteomes/READMEg/pub/databases/uniprot/current_release/knowledgebase/pan_proteomes/README"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "2025_02"
     }
   }
 }

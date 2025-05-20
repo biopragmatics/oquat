@@ -2,6 +2,24 @@
   "results": {
     "http://purl.obolibrary.org/obo/envo.json": {
       "graph_id": "http://purl.obolibrary.org/obo/envo.json",
+      "prop_pack": {
+        "invalid_luids": {},
+        "known_prefixes": {},
+        "label": "Node Properties",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "Replacement for ENVO": {
+            "http://purl.obolibrary.org/obo/ENVO_03000144": "Replacement for ENVO:01000818"
+          },
+          "See also": {
+            "http://purl.obolibrary.org/obo/ENVO_01000658": "See also: http://www.ecotope.org/anthromes/v1/guide/urban/12_dense_settlements/default.aspx"
+          },
+          "could replace with http": {
+            "http://purl.obolibrary.org/obo/ENVO_01000723": "could replace with http://purl.obolibrary.org/obo/REX_0000177"
+          }
+        }
+      },
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/ENVO_00000005": [
@@ -613,9 +631,6 @@
         "malformed_curies": {
           "http://purl.obolibrary.org/obo/ENVO_01000784": [
             "unstats.un.org/unsd/publication/SeriesF/SeriesF_67E.pdf"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_01000907": [
-            "Pappa, M., Halstead, P., Kotsakis, K., & Urem-Kotsou, D. (2004). Evidence for large-scale feasting at Late Neolithic Makriyalos, N Greece. Food, cuisine and society in prehistoric Greece, 5, 16."
           ]
         },
         "noncanonical_prefixes": {
@@ -640,9 +655,6 @@
             "http://purl.obolibrary.org/obo/ENVO_01000735": "Adapated from https://en.wikipedia.org/wiki/Lopolith",
             "http://purl.obolibrary.org/obo/ENVO_01000736": "Adapated from https://en.wikipedia.org/wiki/Phacolith"
           },
-          "Adapted from EEA (1997) The concept of environmental space, Copenhagen, URL": {
-            "http://purl.obolibrary.org/obo/ENVO_01000743": "Adapted from EEA (1997) The concept of environmental space, Copenhagen, URL: http://www.eea.europa.eu/publications/92-9167-078-2/at_download/file"
-          },
           "Adapted from GEMET": {
             "http://purl.obolibrary.org/obo/ENVO_02500013": "Adapted from GEMET:http://www.eionet.europa.eu/gemet/concept/6979"
           },
@@ -657,9 +669,6 @@
           "Adpated from https": {
             "http://purl.obolibrary.org/obo/ENVO_01000635": "Adpated from https://en.wikipedia.org/wiki/Planetary_surface",
             "http://purl.obolibrary.org/obo/ENVO_01000671": "Adpated from https://en.wikipedia.org/wiki/Dike_(geology)"
-          },
-          "Barber H (1931) Traps for cave-inhabiting insects. J Elisha Mitchell Sci Soc. 46": {
-            "http://purl.obolibrary.org/obo/ENVO_01000976": "Barber H (1931) Traps for cave-inhabiting insects. J Elisha Mitchell Sci Soc. 46:259–266."
           },
           "ENVOC": {
             "http://purl.obolibrary.org/obo/ENVO_00000338": "ENVOC:nm"
@@ -678,9 +687,6 @@
           "Gemina": {
             "http://purl.obolibrary.org/obo/ENVO_02000035": "Gemina:ls"
           },
-          "Hertz M (1927) Huomioita petokuoriaisten olinpaikoista. Luonnon Ystava. 31": {
-            "http://purl.obolibrary.org/obo/ENVO_01000976": "Hertz M (1927) Huomioita petokuoriaisten olinpaikoista. Luonnon Ystava. 31:218–222."
-          },
           "INTERNAS": {
             "http://purl.obolibrary.org/obo/ENVO_01001633": "INTERNAS:WS2",
             "http://purl.obolibrary.org/obo/ENVO_01001634": "INTERNAS:WS2",
@@ -689,9 +695,6 @@
           },
           "IPCC": {
             "http://purl.obolibrary.org/obo/ENVO_00000511": "IPCC:http://www.ipcc.ie/infoblanketbogfs.html"
-          },
-          "Mitchell B (1963) Ecology of two carabid beetles, Bembidion lampros (Herbst) and Trechus quadristriatus (Shrank). J Animal Ecol. 32(3)": {
-            "http://purl.obolibrary.org/obo/ENVO_01000976": "Mitchell B (1963) Ecology of two carabid beetles, Bembidion lampros (Herbst) and Trechus quadristriatus (Shrank). J Animal Ecol. 32(3): 377-392."
           },
           "NM": {
             "http://purl.obolibrary.org/obo/ENVO_00000144": "NM:nm",
@@ -708,9 +711,6 @@
             "http://purl.obolibrary.org/obo/ENVO_00002227": "NM:nm",
             "http://purl.obolibrary.org/obo/ENVO_00002297": "NM:nm",
             "http://purl.obolibrary.org/obo/ENVO_01000320": "NM:nm"
-          },
-          "Romero, D., & Lauzon, A. (2015). The Art of Feasting": {
-            "http://purl.obolibrary.org/obo/ENVO_01000907": "Romero, D., & Lauzon, A. (2015). The Art of Feasting: Style and Identity in a Ritual Area at the Harris Site. In. In L. Ludeman (Ed.), Collected Papers from the 18th Biennial Mogollon Archaeology Conference (pp. 43-50). Las Cruces, New Mexico: Privately published by Lonnie Ludeman."
           },
           "URL": {
             "http://purl.obolibrary.org/obo/ENVO_00000546": "URL:http://www.britannica.com/EBchecked/topic/328083/lake/59070/Sediments-and-sedimentation",
@@ -1682,7 +1682,8 @@
           }
         }
       },
-      "version": "http://purl.obolibrary.org/obo/envo/releases/2025-02-05/envo.json",
+      "version": "2025-02-05",
+      "version_iri": "http://purl.obolibrary.org/obo/envo/releases/2025-02-05/envo.json",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/ENVO_00000005": [
@@ -2519,11 +2520,7 @@
         },
         "known_prefixes": {},
         "label": "Node Xrefs",
-        "malformed_curies": {
-          "http://purl.obolibrary.org/obo/ENVO_01001644": [
-            "Carbonate which is formed as the result of some biological process."
-          ]
-        },
+        "malformed_curies": {},
         "noncanonical_prefixes": {
           "WWF": {
             "http://purl.obolibrary.org/obo/ENVO_01001569": "WWF:AA1310",

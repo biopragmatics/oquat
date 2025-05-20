@@ -26,3 +26,9 @@
 | NIFSTD_RETIRED:birnlex_20081258 |        1 | [UBERON:0002817](http://purl.obolibrary.org/obo/UBERON_0002817) |
 | NIFSTD_RETIRED:birnlex_20081259 |        1 | [UBERON:0002818](http://purl.obolibrary.org/obo/UBERON_0002818) |
 
+## clm
+
+| curie                       |   usages | nodes                                                           |
+|-----------------------------|----------|-----------------------------------------------------------------|
+| NIFSTD_RETIRED:birnlex_1156 |        1 | [UBERON:0000966](http://purl.obolibrary.org/obo/UBERON_0000966) |
+

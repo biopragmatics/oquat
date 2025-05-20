@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `ncit`
 but use local unique identifiers that do not match the standard pattern of
-`^[CRPA]\d+$`. Of the 15 resources,
+`^[CRPA]\d+$`. Of the 16 resources,
 5 variants on the standard prefix were found: ['NCI', 'NCIT', 'NCI_Thesaurus', 'NCIt', 'ncithesaurus'].
 
 ## `bao`: BioAssay Ontology
@@ -24,6 +24,47 @@ Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repos
 | `ncithesaurus:Egg`                              |              1 | [CL:0000021](http://purl.obolibrary.org/obo/CL_0000021) |
 | `ncithesaurus:Beta_Cell`                        |              1 | [CL:0000169](http://purl.obolibrary.org/obo/CL_0000169) |
 | `ncithesaurus:Blastemal_Cell`                   |              1 | [CL:0000354](http://purl.obolibrary.org/obo/CL_0000354) |
+
+## `clm`: Cell Markers Ontology
+
+Identifiers for this prefix are given incorrectly in `clm`. See the [GitHub repository](https://github.com/Cellular-Semantics/CellMark).
+
+| external_xref                                        |   usages_count | usages                                                          |
+|------------------------------------------------------|----------------|-----------------------------------------------------------------|
+| `NCI_Thesaurus:Small_Intestinal_Glandular_Cell`      |              1 | [CL:1001598](http://purl.obolibrary.org/obo/CL_1001598)         |
+| `ncithesaurus:Abdominal_Wall`                        |              1 | [UBERON:0003697](http://purl.obolibrary.org/obo/UBERON_0003697) |
+| `ncithesaurus:Splenic_Vein`                          |              1 | [UBERON:0003713](http://purl.obolibrary.org/obo/UBERON_0003713) |
+| `ncithesaurus:Cortical_Cell_Layer_of_the_Cerebellum` |              1 | [UBERON:0004130](http://purl.obolibrary.org/obo/UBERON_0004130) |
+| `ncithesaurus:Bowman_s_Membrane`                     |              1 | [UBERON:0004370](http://purl.obolibrary.org/obo/UBERON_0004370) |
+| `ncithesaurus:Aortic_Segment`                        |              1 | [UBERON:0005800](http://purl.obolibrary.org/obo/UBERON_0005800) |
+| `ncithesaurus:Myelinated_Nerve_Fiber`                |              1 | [UBERON:0006135](http://purl.obolibrary.org/obo/UBERON_0006135) |
+| `ncithesaurus:Communicating_Artery`                  |              1 | [UBERON:0006347](http://purl.obolibrary.org/obo/UBERON_0006347) |
+| `ncithesaurus:Lobe`                                  |              1 | [UBERON:0009912](http://purl.obolibrary.org/obo/UBERON_0009912) |
+| `ncithesaurus:Pulmonary_Lobule`                      |              1 | [UBERON:0010368](http://purl.obolibrary.org/obo/UBERON_0010368) |
+| `NCIT:NCIT`                                          |              1 | [UBERON:0010499](http://purl.obolibrary.org/obo/UBERON_0010499) |
+| `ncithesaurus:Phrenic_Vein`                          |              1 | [UBERON:0012193](http://purl.obolibrary.org/obo/UBERON_0012193) |
+| `ncithesaurus:Systemic_Vein`                         |              1 | [UBERON:0013140](http://purl.obolibrary.org/obo/UBERON_0013140) |
+| `ncithesaurus:Choroidal_Artery`                      |              1 | [UBERON:0013151](http://purl.obolibrary.org/obo/UBERON_0013151) |
+| `ncithesaurus:Interlobular_Duct`                     |              1 | [UBERON:0014716](http://purl.obolibrary.org/obo/UBERON_0014716) |
+| `ncithesaurus:Perivascular_Space`                    |              1 | [UBERON:0014930](http://purl.obolibrary.org/obo/UBERON_0014930) |
+| `ncithesaurus:Right_Ear`                             |              1 | [UBERON:0035174](http://purl.obolibrary.org/obo/UBERON_0035174) |
+| `ncithesaurus:Left_Ear`                              |              1 | [UBERON:0035295](http://purl.obolibrary.org/obo/UBERON_0035295) |
+| `ncithesaurus:Esophageal_Artery`                     |              1 | [UBERON:0035539](http://purl.obolibrary.org/obo/UBERON_0035539) |
+| `ncithesaurus:Superficial_Vein`                      |              1 | [UBERON:0035550](http://purl.obolibrary.org/obo/UBERON_0035550) |
+| `ncithesaurus:Deep_Vein`                             |              1 | [UBERON:0035552](http://purl.obolibrary.org/obo/UBERON_0035552) |
+| `ncithesaurus:Egg`                                   |              1 | [CL:0000021](http://purl.obolibrary.org/obo/CL_0000021)         |
+| `ncithesaurus:Beta_Cell`                             |              1 | [CL:0000169](http://purl.obolibrary.org/obo/CL_0000169)         |
+| `ncithesaurus:Life`                                  |              1 | [UBERON:0000104](http://purl.obolibrary.org/obo/UBERON_0000104) |
+| `ncithesaurus:Developmental_Stage`                   |              1 | [UBERON:0000105](http://purl.obolibrary.org/obo/UBERON_0000105) |
+| `ncithesaurus:Atlanto-occipital_Joint-Atlanto`       |              1 | [UBERON:0000220](http://purl.obolibrary.org/obo/UBERON_0000220) |
+| `ncithesaurus:Whole_Organism`                        |              1 | [UBERON:0000468](http://purl.obolibrary.org/obo/UBERON_0000468) |
+| `ncithesaurus:Digestive_System`                      |              1 | [UBERON:0001007](http://purl.obolibrary.org/obo/UBERON_0001007) |
+| `ncithesaurus:Pleural_Fluid`                         |              1 | [UBERON:0001087](http://purl.obolibrary.org/obo/UBERON_0001087) |
+| `ncithesaurus:Heart_Muscle`                          |              1 | [UBERON:0001133](http://purl.obolibrary.org/obo/UBERON_0001133) |
+| `ncithesaurus:Peritoneal_Fluid`                      |              1 | [UBERON:0001268](http://purl.obolibrary.org/obo/UBERON_0001268) |
+| `ncithesaurus:Upper_Jaw`                             |              1 | [UBERON:0001709](http://purl.obolibrary.org/obo/UBERON_0001709) |
+| `ncithesaurus:Lower_Jaw`                             |              1 | [UBERON:0001710](http://purl.obolibrary.org/obo/UBERON_0001710) |
+| `ncithesaurus:Transudate`                            |              1 | [UBERON:0007779](http://purl.obolibrary.org/obo/UBERON_0007779) |
 
 ## `dto`: Drug Target Ontology
 

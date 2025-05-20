@@ -2,6 +2,174 @@
   "results": {
     "http://purl.obolibrary.org/obo/covoc.json": {
       "graph_id": "http://purl.obolibrary.org/obo/covoc.json",
+      "prop_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/COVOC_0040001": [
+            "NCT:04273321"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040002": [
+            "NCT:04287686"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040003": [
+            "NCT:04288713"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040004": [
+            "NCT:04292730"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040005": [
+            "NCT:04292899"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040006": [
+            "NCT:04295551"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040007": [
+            "NCT:04304313"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040008": [
+            "NCT:04306705"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040009": [
+            "NCT:04307693"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040010": [
+            "NCT:04307694"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040011": [
+            "NCT:04310228"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040012": [
+            "NCT:04315298"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040013": [
+            "NCT:04315896"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040014": [
+            "NCT:04291053"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040015": [
+            "NCT:04321421"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040016": [
+            "NCT:04306497"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040017": [
+            "NCT:04321421"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040018": [
+            "NCT:04317092"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040019": [
+            "NCT:04318418"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040020": [
+            "NCT:04321993"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040021": [
+            "NCT:04304053"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040022": [
+            "NCT:04313023"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040023": [
+            "NCT:04323631"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040024": [
+            "NCT:04312997"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040025": [
+            "NCT:04315987"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040026": [
+            "NCT:04273529"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040027": [
+            "NCT:04273581"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040028": [
+            "NCT:04280588"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040029": [
+            "NCT:04293692"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040030": [
+            "NCT:04317040"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040031": [
+            "NCT:04288102"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0040032": [
+            "NCT:04286503"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0025143": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0025406": [
+            "HPO:probinson"
+          ]
+        },
+        "known_prefixes": {},
+        "label": "Node Properties",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {
+          "HPO": {
+            "http://purl.obolibrary.org/obo/HP_0025143": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0025406": "HPO:probinson"
+          },
+          "NCT": {
+            "http://purl.obolibrary.org/obo/COVOC_0040001": "NCT:04273321",
+            "http://purl.obolibrary.org/obo/COVOC_0040002": "NCT:04287686",
+            "http://purl.obolibrary.org/obo/COVOC_0040003": "NCT:04288713",
+            "http://purl.obolibrary.org/obo/COVOC_0040004": "NCT:04292730",
+            "http://purl.obolibrary.org/obo/COVOC_0040005": "NCT:04292899",
+            "http://purl.obolibrary.org/obo/COVOC_0040006": "NCT:04295551",
+            "http://purl.obolibrary.org/obo/COVOC_0040007": "NCT:04304313",
+            "http://purl.obolibrary.org/obo/COVOC_0040008": "NCT:04306705",
+            "http://purl.obolibrary.org/obo/COVOC_0040009": "NCT:04307693",
+            "http://purl.obolibrary.org/obo/COVOC_0040010": "NCT:04307694",
+            "http://purl.obolibrary.org/obo/COVOC_0040011": "NCT:04310228",
+            "http://purl.obolibrary.org/obo/COVOC_0040012": "NCT:04315298",
+            "http://purl.obolibrary.org/obo/COVOC_0040013": "NCT:04315896",
+            "http://purl.obolibrary.org/obo/COVOC_0040014": "NCT:04291053",
+            "http://purl.obolibrary.org/obo/COVOC_0040015": "NCT:04321421",
+            "http://purl.obolibrary.org/obo/COVOC_0040016": "NCT:04306497",
+            "http://purl.obolibrary.org/obo/COVOC_0040017": "NCT:04321421",
+            "http://purl.obolibrary.org/obo/COVOC_0040018": "NCT:04317092",
+            "http://purl.obolibrary.org/obo/COVOC_0040019": "NCT:04318418",
+            "http://purl.obolibrary.org/obo/COVOC_0040020": "NCT:04321993",
+            "http://purl.obolibrary.org/obo/COVOC_0040021": "NCT:04304053",
+            "http://purl.obolibrary.org/obo/COVOC_0040022": "NCT:04313023",
+            "http://purl.obolibrary.org/obo/COVOC_0040023": "NCT:04323631",
+            "http://purl.obolibrary.org/obo/COVOC_0040024": "NCT:04312997",
+            "http://purl.obolibrary.org/obo/COVOC_0040025": "NCT:04315987",
+            "http://purl.obolibrary.org/obo/COVOC_0040026": "NCT:04273529",
+            "http://purl.obolibrary.org/obo/COVOC_0040027": "NCT:04273581",
+            "http://purl.obolibrary.org/obo/COVOC_0040028": "NCT:04280588",
+            "http://purl.obolibrary.org/obo/COVOC_0040029": "NCT:04293692",
+            "http://purl.obolibrary.org/obo/COVOC_0040030": "NCT:04317040",
+            "http://purl.obolibrary.org/obo/COVOC_0040031": "NCT:04288102",
+            "http://purl.obolibrary.org/obo/COVOC_0040032": "NCT:04286503"
+          }
+        },
+        "unknown_prefixes": {
+          "GROUP": {
+            "http://purl.obolibrary.org/obo/OBI_0100026": "GROUP: OBI Biomaterial Branch",
+            "http://purl.obolibrary.org/obo/OBI_0100051": "GROUP: OBI Biomaterial Branch"
+          },
+          "PERSON": {
+            "http://purl.obolibrary.org/obo/OBI_0000181": "PERSON: Philippe Rocca-Serra",
+            "http://purl.obolibrary.org/obo/OBI_0000293": "PERSON: Melanie Coutot",
+            "http://purl.obolibrary.org/obo/OBI_0000295": "PERSON:Bjoern Peters",
+            "http://purl.obolibrary.org/obo/OBI_0000299": "PERSON: Melanie Courtot",
+            "http://purl.obolibrary.org/obo/OBI_0000312": "PERSON:Bjoern Peters",
+            "http://purl.obolibrary.org/obo/OBI_0000643": "PERSON: Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/OBI_0001938": "PERSON: James A. Overton",
+            "http://purl.obolibrary.org/obo/OBI_0100051": "PERSON: Philippe Rocca-Serra"
+          },
+          "WEB": {
+            "http://purl.obolibrary.org/obo/OBI_0100026": "WEB: http://en.wikipedia.org/wiki/Organism"
+          }
+        }
+      },
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/CL_0000000": [
@@ -473,7 +641,8 @@
           }
         }
       },
-      "version": "http://purl.obolibrary.org/obo/covoc/releases/2022-10-26/covoc.json",
+      "version": "2022-10-26",
+      "version_iri": "http://purl.obolibrary.org/obo/covoc/releases/2022-10-26/covoc.json",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/CHEBI_6078": [

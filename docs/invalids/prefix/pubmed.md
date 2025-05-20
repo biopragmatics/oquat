@@ -85,8 +85,6 @@ Identifiers for this prefix are given incorrectly in `fypo`. See the [GitHub rep
 
 | external_xref   |   usages_count | usages                                                      |
 |-----------------|----------------|-------------------------------------------------------------|
-| `PMID:34805795
-PomBase:val`                 |              1 | [FYPO:0007907](http://purl.obolibrary.org/obo/FYPO_0007907) |
 | `PMID::8247131` |              1 | [FYPO:0001686](http://purl.obolibrary.org/obo/FYPO_0001686) |
 
 ## `hp`: Human Phenotype Ontology

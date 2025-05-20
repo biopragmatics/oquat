@@ -2,31 +2,24 @@
   "results": {
     "http://purl.obolibrary.org/obo/gecko.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/gecko.owl",
-      "prov_pack": {
+      "prop_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "Maelstrom": {
+            "http://purl.obolibrary.org/obo/GECKO_0000128": "Maelstrom:Act_daily_living",
+            "http://purl.obolibrary.org/obo/GECKO_0000129": "Maelstrom:Use_devices"
+          },
+          "url": {
+            "http://purl.obolibrary.org/obo/GECKO_0000130": "url:http://archive.stats.govt.nz/methods/classifications-and-standards/classification-related-stats-standards/religious-affiliation/definition.aspx",
+            "http://purl.obolibrary.org/obo/GECKO_0000136": "url:https://en.wikipedia.org/wiki/First_language"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/gecko/releases/2021-01-18/gecko.owl",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version_iri": "http://purl.obolibrary.org/obo/gecko/releases/2021-01-18/gecko.owl"
     }
   }
 }

@@ -60,3 +60,11 @@
 | ANISEED:1235297 |        1 | [UBERON:0000945](http://purl.obolibrary.org/obo/UBERON_0000945) |
 | ANISEED:1235301 |        1 | [UBERON:0001043](http://purl.obolibrary.org/obo/UBERON_0001043) |
 
+## clm
+
+| curie           |   usages | nodes                                                           |
+|-----------------|----------|-----------------------------------------------------------------|
+| ANISEED:1235303 |        1 | [UBERON:0000160](http://purl.obolibrary.org/obo/UBERON_0000160) |
+| ANISEED:1235297 |        1 | [UBERON:0000945](http://purl.obolibrary.org/obo/UBERON_0000945) |
+| ANISEED:1235301 |        1 | [UBERON:0001043](http://purl.obolibrary.org/obo/UBERON_0001043) |
+

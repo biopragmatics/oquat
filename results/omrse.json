@@ -2,31 +2,54 @@
   "results": {
     "http://purl.obolibrary.org/obo/omrse.json": {
       "graph_id": "http://purl.obolibrary.org/obo/omrse.json",
-      "prov_pack": {
-        "invalid_luids": {},
+      "prop_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/OMRSE_00000290": [
+            "ORCID: 0000-0002-5039-2052"
+          ],
+          "http://purl.obolibrary.org/obo/OMRSE_00000291": [
+            "ORCID: 0000-0002-5039-2052"
+          ],
+          "http://purl.obolibrary.org/obo/OMRSE_00000292": [
+            "ORCID: 0000-0002-5039-2052"
+          ],
+          "http://purl.obolibrary.org/obo/OMRSE_00000293": [
+            "ORCID: 0000-0002-5039-2052"
+          ],
+          "http://purl.obolibrary.org/obo/OMRSE_00000294": [
+            "ORCID: 0000-0002-5039-2052"
+          ],
+          "http://purl.obolibrary.org/obo/OMRSE_00000295": [
+            "ORCID: 0000-0002-5039-2052"
+          ],
+          "http://purl.obolibrary.org/obo/OMRSE_00000296": [
+            "ORCID: 0000-0002-5039-2052"
+          ]
+        },
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "Hasí": {
+            "http://purl.obolibrary.org/obo/OMRSE_00000562": "Hasí:nay"
+          },
+          "Na": {
+            "http://purl.obolibrary.org/obo/OMRSE_00000667": "Na:tinixwe Mixine:whe'"
+          },
+          "based on": {
+            "http://purl.obolibrary.org/obo/OMRSE_00000014": "based on: http://en.wikipedia.org/wiki/Nursing"
+          },
+          "residence function (OMRSE": {
+            "http://purl.obolibrary.org/obo/OMRSE_00000124": "residence function (OMRSE:00000075)"
+          },
+          "wá": {
+            "http://purl.obolibrary.org/obo/OMRSE_00000906": "wá:šiw ʔítlu"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/omrse/releases/2025-03-26/omrse.json",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "2025-03-26",
+      "version_iri": "http://purl.obolibrary.org/obo/omrse/releases/2025-03-26/omrse.json"
     }
   }
 }

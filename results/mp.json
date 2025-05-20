@@ -2,6 +2,42 @@
   "results": {
     "http://purl.obolibrary.org/obo/mp.json": {
       "graph_id": "http://purl.obolibrary.org/obo/mp.json",
+      "prop_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/MP_0001870": [
+            "MP:001871"
+          ],
+          "http://purl.obolibrary.org/obo/MP_0020412": [
+            "ORCID:orcid.org/0000-0003-4606-0597"
+          ],
+          "http://purl.obolibrary.org/obo/MP_0020413": [
+            "ORCID:orcid.org/0000-0003-4606-0597"
+          ],
+          "http://purl.obolibrary.org/obo/MP_0020414": [
+            "ORCID:orcid.org/0000-0003-4606-0597"
+          ],
+          "http://purl.obolibrary.org/obo/MP_0020415": [
+            "ORCID:orcid.org/0000-0003-4606-0597"
+          ],
+          "http://purl.obolibrary.org/obo/MP_0020416": [
+            "ORCID:orcid.org/0000-0003-4606-0597"
+          ],
+          "http://purl.obolibrary.org/obo/MP_0020417": [
+            "ORCID:orcid.org/0000-0003-4606-0597"
+          ],
+          "http://purl.obolibrary.org/obo/MP_0020418": [
+            "ORCID:orcid.org/0000-0003-4606-0597"
+          ],
+          "http://purl.obolibrary.org/obo/MP_0020419": [
+            "ORCID:orcid.org/0000-0003-4606-0597"
+          ]
+        },
+        "known_prefixes": {},
+        "label": "Node Properties",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/MP_0000003": [
@@ -8417,7 +8453,8 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "http://purl.obolibrary.org/obo/mp/releases/2025-04-24/mp.json",
+      "version": "2025-04-24",
+      "version_iri": "http://purl.obolibrary.org/obo/mp/releases/2025-04-24/mp.json",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/MP_0009875": [

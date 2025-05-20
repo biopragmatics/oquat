@@ -2,31 +2,71 @@
   "results": {
     "http://purl.obolibrary.org/obo/obib.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/obib.owl",
-      "prov_pack": {
+      "prop_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "Person": {
+            "http://purl.obolibrary.org/obo/OBIB_0000010": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000011": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000012": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000013": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000014": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000015": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000016": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000017": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000018": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000019": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000020": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000021": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000022": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000023": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000024": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000025": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000026": "Person: Chris Stoeckert, Jie Zheng",
+            "http://purl.obolibrary.org/obo/OBIB_0000027": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000028": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000029": "Person: Chris Stoeckert, Jie Zheng",
+            "http://purl.obolibrary.org/obo/OBIB_0000030": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000031": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000032": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000033": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000034": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000035": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000036": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000037": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000038": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000039": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000040": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000041": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000042": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000043": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000044": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000045": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000046": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000047": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000048": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000049": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000050": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000051": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000052": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000053": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000054": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000055": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000056": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000057": "Person: Jie Zheng, Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBIB_0000165": "Person: Chris Stoeckert,  Jie Zheng"
+          },
+          "amended from http": {
+            "http://purl.obolibrary.org/obo/OBIB_0000684": "amended from http://en.wikipedia.org/wiki/Comorbidity"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/obib/2023-04-05/obib.owl",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "2023-04-05",
+      "version_iri": "http://purl.obolibrary.org/obo/obib/2023-04-05/obib.owl"
     }
   }
 }

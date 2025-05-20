@@ -2,8 +2,17 @@
 
 This page summarize the different resources that reference `tao`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 9 resources,
+`^\d{7}$`. Of the 10 resources,
 1 variants on the standard prefix were found: ['TAO'].
+
+## `clm`: Cell Markers Ontology
+
+Identifiers for this prefix are given incorrectly in `clm`. See the [GitHub repository](https://github.com/Cellular-Semantics/CellMark).
+
+| external_xref   |   usages_count | usages                                                                                                                           |
+|-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------|
+| `TAO:curator`   |              2 | [UBERON:0005744](http://purl.obolibrary.org/obo/UBERON_0005744), [UBERON:0013685](http://purl.obolibrary.org/obo/UBERON_0013685) |
+| `TAO:MAH`       |              1 | [UBERON:0001703](http://purl.obolibrary.org/obo/UBERON_0001703)                                                                  |
 
 ## `hom`: Homology Ontology
 

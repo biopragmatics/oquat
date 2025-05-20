@@ -481,7 +481,8 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "http://purl.obolibrary.org/obo/bspo/releases/2023-05-27/bspo.json",
+      "version": "2023-05-27",
+      "version_iri": "http://purl.obolibrary.org/obo/bspo/releases/2023-05-27/bspo.json",
       "xref_pack": {
         "invalid_luids": {},
         "known_prefixes": {},

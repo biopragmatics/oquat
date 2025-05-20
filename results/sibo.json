@@ -31,25 +31,6 @@
             "http://purl.obolibrary.org/obo/SIBO_0000024": "Book:0674040759",
             "http://purl.obolibrary.org/obo/SIBO_0000030": "Book:0674040759"
           },
-          "El-Sayed AM": {
-            "http://purl.obolibrary.org/obo/SIBO_0000413": "El-Sayed AM:The Pherobase: Database of Insect Phermones and Semiochemicals"
-          },
-          "El-Sayed AM. The Pherobase": {
-            "http://purl.obolibrary.org/obo/SIBO_0000225": "El-Sayed AM. The Pherobase:Database of Insect Phermones and Semiochemicals",
-            "http://purl.obolibrary.org/obo/SIBO_0000227": "El-Sayed AM. The Pherobase:Database of Insect Phermones and Semiochemicals",
-            "http://purl.obolibrary.org/obo/SIBO_0000228": "El-Sayed AM. The Pherobase:Database of Insect Phermones and Semiochemicals",
-            "http://purl.obolibrary.org/obo/SIBO_0000229": "El-Sayed AM. The Pherobase:Database of Insect Phermones and Semiochemicals"
-          },
-          "The Pherobase": {
-            "http://purl.obolibrary.org/obo/SIBO_0000272": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM"
-          },
-          "The Pherobase - Database of Insect Phermones and Semiochemicals": {
-            "http://purl.obolibrary.org/obo/SIBO_0000273": "The Pherobase - Database of Insect Phermones and Semiochemicals:El-Sayed AM",
-            "http://purl.obolibrary.org/obo/SIBO_0000406": "The Pherobase - Database of Insect Phermones and Semiochemicals:El-Sayed AM"
-          },
-          "The Pherobase- Database of Insect Phermones and Semiochemicals": {
-            "http://purl.obolibrary.org/obo/SIBO_0000407": "The Pherobase- Database of Insect Phermones and Semiochemicals:El-Sayed AM"
-          },
           "XX": {
             "http://purl.obolibrary.org/obo/SIBO_0000152": "XX:0003-0147/2003/16205-20398",
             "http://purl.obolibrary.org/obo/SIBO_0000182": "XX:28842"
@@ -101,14 +82,6 @@
             "http://purl.obolibrary.org/obo/SIBO_0000193": "nist chemistry webbook:110-15-6"
           }
         },
-        "unknown_prefixes": {}
-      },
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       }
     }

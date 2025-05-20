@@ -2,23 +2,199 @@
   "results": {
     "https://bio.scai.fraunhofer.de/ontology/epilepsy": {
       "graph_id": "https://bio.scai.fraunhofer.de/ontology/epilepsy",
-      "prov_pack": {
-        "invalid_luids": {},
+      "prop_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/HP_0025015": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0025031": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0025032": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0025097": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0025142": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0025144": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0025236": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0025267": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0025357": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0025373": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0025454": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0025613": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0025615": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0040081": [
+            "HPO:skoehler"
+          ]
+        },
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "noncanonical_prefixes": {
+          "HPO": {
+            "http://purl.obolibrary.org/obo/HP_0025015": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0025031": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0025032": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0025097": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0025142": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0025144": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0025236": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0025267": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0025357": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0025373": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0025454": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0025613": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0025615": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0040081": "HPO:skoehler"
+          }
+        },
+        "unknown_prefixes": {
+          "20110707，MC：术语编辑和定义进行相应的修改。见http": {
+            "http://purl.obolibrary.org/obo/IAO_0000117": "20110707，MC：术语编辑和定义进行相应的修改。见http://code.google.com/p/information-artifact-ontology/issues/detail?id=115。"
+          },
+          "2014-03-31": {
+            "http://purl.obolibrary.org/obo/IAO_0000027": "2014-03-31: See discussion at http://odontomachus.wordpress.com/2014/03/30/aboutness-objects-propositions/"
+          },
+          "Creation data": {
+            "http://purl.obolibrary.org/obo/OGMS_0000112": "Creation data: 2018-11-27"
+          },
+          "Discussion on obo-discuss mailing-list, see http": {
+            "http://purl.obolibrary.org/obo/IAO_0000119": "Discussion on obo-discuss mailing-list, see http://bit.ly/hgm99w"
+          },
+          "GROUP": {
+            "http://purl.obolibrary.org/obo/IAO_0000111": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000112": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000115": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000116": "GROUP:OBI:<http://purl.obofoundry.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000117": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000118": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000119": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000412": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>"
+          },
+          "ISA tools project (http": {
+            "http://purl.obolibrary.org/obo/OBI_0001847": "ISA tools project (http://isa-tools.org)"
+          },
+          "PERSON": {
+            "http://purl.obolibrary.org/obo/ERO_0000007": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000347": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000598": "PERSON: Melanie Wilson",
+            "http://purl.obolibrary.org/obo/ERO_0000606": "PERSON: Melanie Wilson",
+            "http://purl.obolibrary.org/obo/ERO_0000833": "PERSON: Matthew Brush",
+            "http://purl.obolibrary.org/obo/ERO_0001071": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0001183": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0001235": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0001236": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0001285": "PERSON: Matthew Brush",
+            "http://purl.obolibrary.org/obo/ERO_0001286": "PERSON: Matthew Brush",
+            "http://purl.obolibrary.org/obo/ERO_0001292": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0001312": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0001330": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0001351": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0001508": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0001764": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0001830": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0002016": "PERSON:Matthew Brush",
+            "http://purl.obolibrary.org/obo/ERO_0002178": "PERSON:Tenille Johnson",
+            "http://purl.obolibrary.org/obo/IAO_0000027": "PERSON: Jonathan Rees",
+            "http://purl.obolibrary.org/obo/IAO_0000030": "PERSON: Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/IAO_0000111": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000112": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000114": "PERSON:Melanie Courtot",
+            "http://purl.obolibrary.org/obo/IAO_0000115": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000116": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000117": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000118": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000119": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000232": "PERSON:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/IAO_0000412": "PERSON:Melanie Courtot",
+            "http://purl.obolibrary.org/obo/OBI_0000047": "PERSON: Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/OBI_0000094": "PERSON: Philippe Rocca Serra",
+            "http://purl.obolibrary.org/obo/OBI_0000968": "PERSON: Helen Parkinson",
+            "http://purl.obolibrary.org/obo/OBI_0400147": "PERSON: Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/OBI_9991118": "PERSON:Randi Vita, Jason Greenbaum, Bjoern Peters"
+          },
+          "Person": {
+            "http://purl.obolibrary.org/obo/BFO_0000180": "Person:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/IAO_0000600": "Person:Barry Smith",
+            "http://purl.obolibrary.org/obo/IAO_0000601": "Person:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/IAO_0000602": "Person:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/OBI_0001847": "Person: Philippe Rocca-Serra"
+          },
+          "WEB": {
+            "http://purl.obolibrary.org/obo/OAE_0000001": "WEB: http://www.ncbi.nlm.nih.gov/pubmed/25093068",
+            "http://purl.obolibrary.org/obo/OAE_0000002": "WEB: http://wiki.answers.com/Q/What_is_medical_intervention",
+            "http://purl.obolibrary.org/obo/OAE_0000934": "WEB: http://en.wikipedia.org/wiki/Coagulopathy",
+            "http://purl.obolibrary.org/obo/OAE_0002430": "WEB: http://en.wikipedia.org/wiki/Acupuncture"
+          },
+          "amended from http": {
+            "http://purl.obolibrary.org/obo/OMIABIS_0001008": "amended from http://en.wikipedia.org/wiki/Comorbidity"
+          },
+          "creation": {
+            "http://purl.obolibrary.org/obo/OGMS_0000108": "creation: 16MAY2017"
+          },
+          "creation date": {
+            "http://purl.obolibrary.org/obo/OGMS_0000014": "creation date: 2010-07-19T10:18:02Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000015": "creation date: 2010-07-19T10:18:59Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000018": "creation date: 2009-06-23T10:21:58Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000024": "creation date: 2010-11-18T11:14:36Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000029": "creation date: 2009-06-23T11:19:17Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000032": "creation date: 2009-06-23T11:22:01Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000037": "creation date: 2009-06-23T11:26:44Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000045": "creation date: 2009-06-23T11:39:44Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000057": "creation date: 2010-07-19T11:50:18Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000060": "creation date: 2009-06-23T11:53:49Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000061": "creation date: 2009-06-23T11:54:29Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000073": "creation date: 2009-06-23T12:42:23Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000083": "creation date: 2009-11-24T04:51:11Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000090": "creation date: 2010-03-31T04:51:11Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000114": "creation date: 2018-11-27",
+            "http://purl.obolibrary.org/obo/OGMS_0000115": "creation date: 2018-11-27",
+            "http://purl.obolibrary.org/obo/OGMS_0000123": "creation date: 2018-11-27"
+          },
+          "do not include ABA": {
+            "http://purl.obolibrary.org/obo/UBERON_0003876": "do not include ABA:HIP"
+          },
+          "group": {
+            "http://purl.obolibrary.org/obo/IAO_0000109": "group:OBI"
+          },
+          "note": {
+            "http://purl.obolibrary.org/obo/OGMS_0000024": "note: defined class"
+          },
+          "person": {
+            "http://purl.obolibrary.org/obo/IAO_0000109": "person:Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/IAO_0000600": "person:Alan Ruttenberg"
+          },
+          "relationship loss": {
+            "http://purl.obolibrary.org/obo/UBERON_0001893": "relationship loss: develops_from presumptive telencephalon (TAO:0000571)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0002286": "relationship loss: develops_from forebrain ventricle (TAO:0001259)[TAO]"
+          },
+          "论OBO-讨论邮件-列表，请参阅http": {
+            "http://purl.obolibrary.org/obo/IAO_0000119": "论OBO-讨论邮件-列表，请参阅http://bit.ly/hgm99w"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "https://bio.scai.fraunhofer.de/ontology/epilepsy/2021-05-28/EPSO.owl",
+      "version": "2021-05-28",
+      "version_iri": "https://bio.scai.fraunhofer.de/ontology/epilepsy/2021-05-28/EPSO.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/DOID_0050425": [

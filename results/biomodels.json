@@ -2,31 +2,35 @@
   "results": {
     "http://identifiers.org/teddy/": {
       "graph_id": "http://identifiers.org/teddy/",
-      "prov_pack": {
+      "prop_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "Inverse of partOf [obo": {
+            "http://www.obofoundry.org/ro/ro.owl#has_part": "Inverse of partOf [obo:part_of]."
+          },
+          "Obsolete": {
+            "http://identifiers.org/teddy/TEDDY_0000001": "Obsolete: equivalent to TEDDY_0000083 'Temporal Behaviour'.",
+            "http://identifiers.org/teddy/TEDDY_0000011": "Obsolete: equivalent to TEDDY_0000086 'Fixed Point'.",
+            "http://identifiers.org/teddy/TEDDY_0000048": "Obsolete: equivalent to TEDDY_0000083 'Temporal Behaviour'.",
+            "http://identifiers.org/teddy/TEDDY_0000049": "Obsolete: equivalent to TEDDY_0000086 'Fixed Point'.",
+            "http://identifiers.org/teddy/TEDDY_0000052": "Obsolete: not required anymore.",
+            "http://identifiers.org/teddy/TEDDY_0000057": "Obsolete: not required anymore.",
+            "http://identifiers.org/teddy/TEDDY_0000062": "Obsolete: equivalent to TEDDY_0000051 'Limit Cycle'.",
+            "http://identifiers.org/teddy/TEDDY_0000068": "Obsolete: not required anymore.",
+            "http://identifiers.org/teddy/TEDDY_0000080": "Obsolete: only one obsolete branch required.",
+            "http://identifiers.org/teddy/TEDDY_0000081": "Obsolete: only one obsolete branch required.",
+            "http://identifiers.org/teddy/TEDDY_0000082": "Obsolete: only one obsolete branch required.",
+            "http://identifiers.org/teddy/TEDDY_0000084": "Obsolete: not required anymore.",
+            "http://identifiers.org/teddy/TEDDY_0000107": "Obsolete: equivalent to TEDDY_0000083 'Temporal Behaviour'."
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://identifiers.org/combine.specifications/teddy.rel-2014-04-24",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "rel-2014-04-24 (inferred)",
+      "version_iri": "http://identifiers.org/combine.specifications/teddy.rel-2014-04-24"
     }
   }
 }

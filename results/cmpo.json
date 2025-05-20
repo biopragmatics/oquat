@@ -2,6 +2,191 @@
   "results": {
     "http://www.ebi.ac.uk/cmpo/cmpo.owl": {
       "graph_id": "http://www.ebi.ac.uk/cmpo/cmpo.owl",
+      "prop_pack": {
+        "invalid_luids": {
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000078": [
+            "PMID:21893601; PMID:20531400"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000105": [
+            "PMID: 21893601"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000106": [
+            "PMID: 21893601"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000294": [
+            "PMID: 21893601"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000296": [
+            "PMID: 21893601"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000364": [
+            "PMID: 25373780"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000365": [
+            "PMID: 25373780"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000366": [
+            "PMID: 25373780"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000367": [
+            "PMID: 25373780"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000369": [
+            "PMID: 25373780 "
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000370": [
+            "PMID: 25373780"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000371": [
+            "PMID: 25373780"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000372": [
+            "PMID: 25373780 "
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000373": [
+            "PMID: 25373780"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000374": [
+            "PMID: 25373780"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000375": [
+            "PMID: 25373780"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000376": [
+            "PMID: 25373780"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000377": [
+            "PMID: 25373780"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000378": [
+            "PMID: 25373780"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000379": [
+            "PMID: 25373780"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000382": [
+            "PMID: 25373780"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000383": [
+            "PMID: 25373780"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000387": [
+            "PMID: 25373780"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000388": [
+            "PMID: 25373780"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000390": [
+            "PMID: 23509072"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000391": [
+            "PMID: 23509072"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000392": [
+            "PMID: 23509072"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000393": [
+            "PMID: 23509072"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000394": [
+            "PMID: 23509072"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000395": [
+            "PMID: 23509072"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000396": [
+            "PMID: 23509072"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000397": [
+            "PMID: 23509072"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000398": [
+            "PMID: 23509072"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000399": [
+            "PMID: 23509072"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000400": [
+            "PMID: 23509072"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000401": [
+            "PMID: 23509072"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000402": [
+            "PMID: 23509072"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000410": [
+            "PMID: 25373780"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000411": [
+            "PMID: 25373780"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000412": [
+            "PMID: 25373780"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000413": [
+            "PMID: 25373780"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000417": [
+            "PMID: 23547032"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000438": [
+            "PMID: 25373780 "
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000440": [
+            "PubMed: 22361696"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000441": [
+            "PubMed: 22361696"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000442": [
+            "PubMed: 22361696"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000443": [
+            "PubMed: 22361696"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000444": [
+            "PubMed: 22361696"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000445": [
+            "PubMed: 22361696"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000446": [
+            "PubMed: 22361696"
+          ],
+          "http://www.ebi.ac.uk/cmpo/CMPO_0000447": [
+            "PubMed: 22361696"
+          ]
+        },
+        "known_prefixes": {},
+        "label": "Node Properties",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {
+          "PubMed ID": {
+            "http://www.ebi.ac.uk/cmpo/CMPO_0000404": "PubMed ID:24127217",
+            "http://www.ebi.ac.uk/cmpo/CMPO_0000405": "PubMed ID:24127217",
+            "http://www.ebi.ac.uk/cmpo/CMPO_0000406": "PubMed ID:24127217",
+            "http://www.ebi.ac.uk/cmpo/CMPO_0000407": "PubMed ID:24127217",
+            "http://www.ebi.ac.uk/cmpo/CMPO_0000408": "PubMed ID:24127217",
+            "http://www.ebi.ac.uk/cmpo/CMPO_0000409": "PubMed ID:24127217"
+          },
+          "pmid": {
+            "http://www.ebi.ac.uk/cmpo/CMPO_0000136": "pmid:19667130",
+            "http://www.ebi.ac.uk/cmpo/CMPO_0000137": "pmid:19667130",
+            "http://www.ebi.ac.uk/cmpo/CMPO_0000138": "pmid:19667130",
+            "http://www.ebi.ac.uk/cmpo/CMPO_0000147": "pmid:21893601",
+            "http://www.ebi.ac.uk/cmpo/CMPO_0000156": "pmid:20360735",
+            "http://www.ebi.ac.uk/cmpo/CMPO_0000289": "pmid:21893601",
+            "http://www.ebi.ac.uk/cmpo/CMPO_0000297": "pmid:21893601",
+            "http://www.ebi.ac.uk/cmpo/CMPO_0000298": "pmid:21893601",
+            "http://www.ebi.ac.uk/cmpo/CMPO_0000299": "pmid:21893601",
+            "http://www.ebi.ac.uk/cmpo/CMPO_0000335": "pmid:22884692",
+            "http://www.ebi.ac.uk/cmpo/CMPO_0000346": "pmid:21795383",
+            "http://www.ebi.ac.uk/cmpo/CMPO_0000360": "pmid:18620859"
+          }
+        },
+        "unknown_prefixes": {}
+      },
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/GO_0000278": [
@@ -939,7 +1124,7 @@
           }
         }
       },
-      "version": "http://www.ebi.ac.uk/cmpo/releases/2017-12-19/cmpo.owl",
+      "version_iri": "http://www.ebi.ac.uk/cmpo/releases/2017-12-19/cmpo.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/BFO_0000050": [

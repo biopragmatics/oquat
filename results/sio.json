@@ -2,31 +2,88 @@
   "results": {
     "http://semanticscience.org/ontology/sio.owl": {
       "graph_id": "http://semanticscience.org/ontology/sio.owl",
-      "prov_pack": {
-        "invalid_luids": {},
+      "prop_pack": {
+        "invalid_luids": {
+          "http://semanticscience.org/resource/SIO_000061": [
+            "OBO_REL:located_in"
+          ],
+          "http://semanticscience.org/resource/SIO_000068": [
+            "OBO_REL:part_of"
+          ],
+          "http://semanticscience.org/resource/SIO_000093": [
+            "OBO_REL:proper_part_of"
+          ],
+          "http://semanticscience.org/resource/SIO_000128": [
+            "OBO_REL:contained_in"
+          ],
+          "http://semanticscience.org/resource/SIO_000132": [
+            "OBO_REL:has_participant"
+          ],
+          "http://semanticscience.org/resource/SIO_000139": [
+            "OBO_REL:has_agent"
+          ],
+          "http://semanticscience.org/resource/SIO_000204": [
+            "OBO_REL:adjacent_to"
+          ],
+          "http://semanticscience.org/resource/SIO_000244": [
+            "OBO_REL:derives_from"
+          ],
+          "http://semanticscience.org/resource/SIO_000249": [
+            "OBO_REL:preceded_by"
+          ],
+          "http://semanticscience.org/resource/SIO_000538": [
+            "PATO:0002180 [for material entities]"
+          ]
+        },
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "noncanonical_prefixes": {
+          "OBO_REL": {
+            "http://semanticscience.org/resource/SIO_000061": "OBO_REL:located_in",
+            "http://semanticscience.org/resource/SIO_000068": "OBO_REL:part_of",
+            "http://semanticscience.org/resource/SIO_000093": "OBO_REL:proper_part_of",
+            "http://semanticscience.org/resource/SIO_000128": "OBO_REL:contained_in",
+            "http://semanticscience.org/resource/SIO_000132": "OBO_REL:has_participant",
+            "http://semanticscience.org/resource/SIO_000139": "OBO_REL:has_agent",
+            "http://semanticscience.org/resource/SIO_000204": "OBO_REL:adjacent_to",
+            "http://semanticscience.org/resource/SIO_000244": "OBO_REL:derives_from",
+            "http://semanticscience.org/resource/SIO_000249": "OBO_REL:preceded_by"
+          }
+        },
+        "unknown_prefixes": {
+          "Graph 1 in http": {
+            "http://semanticscience.org/resource/SIO_000442": "Graph 1 in http://tinyurl.com/opwnvm"
+          },
+          "Graph 3 in http": {
+            "http://semanticscience.org/resource/SIO_000444": "Graph 3 in http://tinyurl.com/opwnvm"
+          },
+          "Graph 4,5 in http": {
+            "http://semanticscience.org/resource/SIO_000445": "Graph 4,5 in http://tinyurl.com/opwnvm"
+          },
+          "Graph 8 in http": {
+            "http://semanticscience.org/resource/SIO_000447": "Graph 8 in http://tinyurl.com/opwnvm"
+          },
+          "Graphs 3,4,5 in http": {
+            "http://semanticscience.org/resource/SIO_000443": "Graphs 3,4,5 in http://tinyurl.com/opwnvm"
+          },
+          "Graphs 6,7 in http": {
+            "http://semanticscience.org/resource/SIO_000446": "Graphs 6,7 in http://tinyurl.com/opwnvm"
+          },
+          "The horizontal axis in http": {
+            "http://semanticscience.org/resource/SIO_000452": "The horizontal axis in http://tinyurl.com/opwnvm"
+          },
+          "biopax": {
+            "http://semanticscience.org/resource/SIO_010013": "biopax:Interaction",
+            "http://semanticscience.org/resource/SIO_010035": "biopax:Gene",
+            "http://semanticscience.org/resource/SIO_010036": "biopax:Conversion",
+            "http://semanticscience.org/resource/SIO_010283": "biopax:Transport",
+            "http://semanticscience.org/resource/SIO_010284": "biopax:TransportWithBiochemicalReaction"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://semanticscience.org/ontology/sio/v1.59/sio-release.owl",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "1.59",
+      "version_iri": "http://semanticscience.org/ontology/sio/v1.59/sio-release.owl"
     }
   }
 }

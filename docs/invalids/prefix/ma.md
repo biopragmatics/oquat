@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `ma`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 9 resources,
+`^\d+$`. Of the 10 resources,
 1 variants on the standard prefix were found: ['MA'].
 
 ## `aeon`: Academic Event Ontology
@@ -36,6 +36,14 @@ Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repos
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                             |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `MA:ma`         |              4 | [CL:0000362](http://purl.obolibrary.org/obo/CL_0000362), [CL:0000724](http://purl.obolibrary.org/obo/CL_0000724), [CL:0000730](http://purl.obolibrary.org/obo/CL_0000730), [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) |
+
+## `clm`: Cell Markers Ontology
+
+Identifiers for this prefix are given incorrectly in `clm`. See the [GitHub repository](https://github.com/Cellular-Semantics/CellMark).
+
+| external_xref   |   usages_count | usages                                                  |
+|-----------------|----------------|---------------------------------------------------------|
+| `MA:ma`         |              1 | [CL:0000362](http://purl.obolibrary.org/obo/CL_0000362) |
 
 ## `enm`: eNanoMapper ontology
 

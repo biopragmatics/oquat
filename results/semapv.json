@@ -2,31 +2,7 @@
   "results": {
     "http://w3id.org/semapv/vocab/semapv.owl": {
       "graph_id": "http://w3id.org/semapv/vocab/semapv.owl",
-      "prov_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Provenance Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://w3id.org/semapv/vocab/releases/2025-01-06/semapv.owl",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version_iri": "http://w3id.org/semapv/vocab/releases/2025-01-06/semapv.owl"
     }
   }
 }

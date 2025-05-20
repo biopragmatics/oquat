@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `go`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 17 resources,
+`^\d{7}$`. Of the 18 resources,
 1 variants on the standard prefix were found: ['GO'].
 
 ## `aeo`: Anatomical Entity Ontology
@@ -33,6 +33,17 @@ Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repos
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `GO:tfm`        |             16 | [CL:0000478](http://purl.obolibrary.org/obo/CL_0000478), [CL:0000479](http://purl.obolibrary.org/obo/CL_0000479), [CL:0000480](http://purl.obolibrary.org/obo/CL_0000480), [CL:0000481](http://purl.obolibrary.org/obo/CL_0000481), [CL:0000482](http://purl.obolibrary.org/obo/CL_0000482), ... |
 | `GO:cvs`        |              1 | [CL:0005008](http://purl.obolibrary.org/obo/CL_0005008)                                                                                                                                                                                                                                          |
+
+## `clm`: Cell Markers Ontology
+
+Identifiers for this prefix are given incorrectly in `clm`. See the [GitHub repository](https://github.com/Cellular-Semantics/CellMark).
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                             |
+|-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `GO:jl`         |              4 | [GO:0044092](http://purl.obolibrary.org/obo/GO_0044092), [GO:0044093](http://purl.obolibrary.org/obo/GO_0044093), [GO:1902679](http://purl.obolibrary.org/obo/GO_1902679), [GO:1902680](http://purl.obolibrary.org/obo/GO_1902680) |
+| `GO:tfm`        |              3 | [CL:0000506](http://purl.obolibrary.org/obo/CL_0000506), [CL:0000507](http://purl.obolibrary.org/obo/CL_0000507), [CL:0000509](http://purl.obolibrary.org/obo/CL_0000509)                                                          |
+| `GO:GO`         |              1 | [UBERON:0000016](http://purl.obolibrary.org/obo/UBERON_0000016)                                                                                                                                                                    |
+| `GO:curator`    |              1 | [UBERON:0005863](http://purl.obolibrary.org/obo/UBERON_0005863)                                                                                                                                                                    |
 
 ## `cmpo`: Cellular Microscopy Phenotype Ontology
 

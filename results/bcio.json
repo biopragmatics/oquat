@@ -2,6 +2,159 @@
   "results": {
     "http://humanbehaviourchange.org/ontology/bcio.owl": {
       "graph_id": "http://humanbehaviourchange.org/ontology/bcio.owl",
+      "prop_pack": {
+        "invalid_luids": {},
+        "known_prefixes": {},
+        "label": "Node Properties",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "2014-03-31": {
+            "http://purl.obolibrary.org/obo/IAO_0000027": "2014-03-31: See discussion at http://odontomachus.wordpress.com/2014/03/30/aboutness-objects-propositions/"
+          },
+          "BFO2 Reference": {
+            "http://purl.obolibrary.org/obo/BFO_0000108": "BFO2 Reference: temporal region"
+          },
+          "Based on https": {
+            "http://humanbehaviourchange.org/ontology/BCIO_050374": "Based on https://www.britannica.com/topic/humor#ref126128"
+          },
+          "Discussion on obo-discuss mailing-list, see http": {
+            "http://purl.obolibrary.org/obo/IAO_0000119": "Discussion on obo-discuss mailing-list, see http://bit.ly/hgm99w"
+          },
+          "GROUP": {
+            "http://purl.obolibrary.org/obo/IAO_0000078": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000088": "GROUP: OBI",
+            "http://purl.obolibrary.org/obo/IAO_0000111": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000112": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000115": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000116": "GROUP:OBI:<http://purl.obofoundry.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000117": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000118": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000119": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000412": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000589": "GROUP:OBO Foundry <http://obofoundry.org/>",
+            "http://purl.obolibrary.org/obo/OBI_0000093": "GROUP:Role Branch",
+            "http://purl.obolibrary.org/obo/OBI_0000245": "GROUP: OBI"
+          },
+          "ISCO": {
+            "http://humanbehaviourchange.org/ontology/BCIO_010005": "ISCO: 1",
+            "http://humanbehaviourchange.org/ontology/BCIO_010006": "ISCO: 2",
+            "http://humanbehaviourchange.org/ontology/BCIO_010007": "ISCO: 21",
+            "http://humanbehaviourchange.org/ontology/BCIO_010008": "ISCO: 22",
+            "http://humanbehaviourchange.org/ontology/BCIO_010009": "ISCO: 221",
+            "http://humanbehaviourchange.org/ontology/BCIO_010010": "ISCO: 2211",
+            "http://humanbehaviourchange.org/ontology/BCIO_010011": "ISCO: 2212",
+            "http://humanbehaviourchange.org/ontology/BCIO_010012": "ISCO: 222",
+            "http://humanbehaviourchange.org/ontology/BCIO_010013": "ISCO: 2221",
+            "http://humanbehaviourchange.org/ontology/BCIO_010014": "ISCO: 2222",
+            "http://humanbehaviourchange.org/ontology/BCIO_010015": "ISCO: 223",
+            "http://humanbehaviourchange.org/ontology/BCIO_010016": "ISCO: 224",
+            "http://humanbehaviourchange.org/ontology/BCIO_010017": "ISCO: 225",
+            "http://humanbehaviourchange.org/ontology/BCIO_010018": "ISCO: 2261",
+            "http://humanbehaviourchange.org/ontology/BCIO_010019": "ISCO: 2262",
+            "http://humanbehaviourchange.org/ontology/BCIO_010020": "ISCO: 2263",
+            "http://humanbehaviourchange.org/ontology/BCIO_010021": "ISCO: 2264",
+            "http://humanbehaviourchange.org/ontology/BCIO_010022": "ISCO: 2265",
+            "http://humanbehaviourchange.org/ontology/BCIO_010023": "ISCO: 2266",
+            "http://humanbehaviourchange.org/ontology/BCIO_010024": "ISCO: 2267",
+            "http://humanbehaviourchange.org/ontology/BCIO_010025": "ISCO: 23",
+            "http://humanbehaviourchange.org/ontology/BCIO_010026": "ISCO: 231",
+            "http://humanbehaviourchange.org/ontology/BCIO_010027": "ISCO: 232",
+            "http://humanbehaviourchange.org/ontology/BCIO_010028": "ISCO: 233",
+            "http://humanbehaviourchange.org/ontology/BCIO_010029": "ISCO: 2341",
+            "http://humanbehaviourchange.org/ontology/BCIO_010030": "ISCO: 2342",
+            "http://humanbehaviourchange.org/ontology/BCIO_010031": "ISCO: 2352",
+            "http://humanbehaviourchange.org/ontology/BCIO_010032": "ISCO: 2354",
+            "http://humanbehaviourchange.org/ontology/BCIO_010033": "ISCO: 2355",
+            "http://humanbehaviourchange.org/ontology/BCIO_010034": "ISCO: 26",
+            "http://humanbehaviourchange.org/ontology/BCIO_010035": "ISCO: 261",
+            "http://humanbehaviourchange.org/ontology/BCIO_010036": "ISCO: 262",
+            "http://humanbehaviourchange.org/ontology/BCIO_010037": "ISCO: 263",
+            "http://humanbehaviourchange.org/ontology/BCIO_010038": "ISCO: 2634",
+            "http://humanbehaviourchange.org/ontology/BCIO_010039": "ISCO: 2635",
+            "http://humanbehaviourchange.org/ontology/BCIO_010040": "ISCO: 2636",
+            "http://humanbehaviourchange.org/ontology/BCIO_010041": "ISCO: 264",
+            "http://humanbehaviourchange.org/ontology/BCIO_010043": "ISCO: 265",
+            "http://humanbehaviourchange.org/ontology/BCIO_010044": "ISCO: 3",
+            "http://humanbehaviourchange.org/ontology/BCIO_010045": "ISCO: 32",
+            "http://humanbehaviourchange.org/ontology/BCIO_010046": "ISCO: 321",
+            "http://humanbehaviourchange.org/ontology/BCIO_010047": "ISCO: 322",
+            "http://humanbehaviourchange.org/ontology/BCIO_010048": "ISCO: 3221",
+            "http://humanbehaviourchange.org/ontology/BCIO_010049": "ISCO: 3222",
+            "http://humanbehaviourchange.org/ontology/BCIO_010050": "ISCO: 323",
+            "http://humanbehaviourchange.org/ontology/BCIO_010051": "ISCO: 3251",
+            "http://humanbehaviourchange.org/ontology/BCIO_010052": "ISCO: 3253",
+            "http://humanbehaviourchange.org/ontology/BCIO_010053": "ISCO: 3255",
+            "http://humanbehaviourchange.org/ontology/BCIO_010054": "ISCO: 3256",
+            "http://humanbehaviourchange.org/ontology/BCIO_010055": "ISCO: 3257",
+            "http://humanbehaviourchange.org/ontology/BCIO_010056": "ISCO: 3258",
+            "http://humanbehaviourchange.org/ontology/BCIO_010057": "ISCO: 33",
+            "http://humanbehaviourchange.org/ontology/BCIO_010058": "ISCO: 3411",
+            "http://humanbehaviourchange.org/ontology/BCIO_010059": "ISCO: 3412",
+            "http://humanbehaviourchange.org/ontology/BCIO_010060": "ISCO: 3413",
+            "http://humanbehaviourchange.org/ontology/BCIO_010061": "ISCO: 342",
+            "http://humanbehaviourchange.org/ontology/BCIO_010062": "ISCO: 3421",
+            "http://humanbehaviourchange.org/ontology/BCIO_010063": "ISCO: 3422",
+            "http://humanbehaviourchange.org/ontology/BCIO_010064": "ISCO: 3423",
+            "http://humanbehaviourchange.org/ontology/BCIO_010065": "ISCO: 343",
+            "http://humanbehaviourchange.org/ontology/BCIO_010066": "ISCO: 35",
+            "http://humanbehaviourchange.org/ontology/BCIO_010067": "ISCO: 4",
+            "http://humanbehaviourchange.org/ontology/BCIO_010068": "ISCO: 5",
+            "http://humanbehaviourchange.org/ontology/BCIO_010069": "ISCO: 51",
+            "http://humanbehaviourchange.org/ontology/BCIO_010070": "ISCO: 52",
+            "http://humanbehaviourchange.org/ontology/BCIO_010071": "ISCO: 53",
+            "http://humanbehaviourchange.org/ontology/BCIO_010072": "ISCO: 5311",
+            "http://humanbehaviourchange.org/ontology/BCIO_010073": "ISCO: 5312",
+            "http://humanbehaviourchange.org/ontology/BCIO_010074": "ISCO: 5321",
+            "http://humanbehaviourchange.org/ontology/BCIO_010075": "ISCO: 5322",
+            "http://humanbehaviourchange.org/ontology/BCIO_010076": "ISCO: 54",
+            "http://humanbehaviourchange.org/ontology/BCIO_010077": "ISCO: 6",
+            "http://humanbehaviourchange.org/ontology/BCIO_010078": "ISCO: 7",
+            "http://humanbehaviourchange.org/ontology/BCIO_010079": "ISCO: 8",
+            "http://humanbehaviourchange.org/ontology/BCIO_010080": "ISCO: 8",
+            "http://humanbehaviourchange.org/ontology/BCIO_010081": "ISCO: 9",
+            "http://humanbehaviourchange.org/ontology/BCIO_010082": "ISCO: 10"
+          },
+          "PERSON": {
+            "http://purl.obolibrary.org/obo/IAO_0000027": "PERSON: Jonathan Rees",
+            "http://purl.obolibrary.org/obo/IAO_0000030": "PERSON: Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/IAO_0000033": "PERSON: Bjoern Peters",
+            "http://purl.obolibrary.org/obo/IAO_0000078": "PERSON:Bill Bug",
+            "http://purl.obolibrary.org/obo/IAO_0000088": "PERSON: Melanie Courtot",
+            "http://purl.obolibrary.org/obo/IAO_0000111": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000112": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000114": "PERSON:Melanie Courtot",
+            "http://purl.obolibrary.org/obo/IAO_0000115": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000116": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000117": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000118": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000119": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000232": "PERSON:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/IAO_0000310": "PERSON: Lawrence Hunter",
+            "http://purl.obolibrary.org/obo/IAO_0000412": "PERSON:Melanie Courtot",
+            "http://purl.obolibrary.org/obo/IAO_0000589": "PERSON:Melanie Courtot",
+            "http://purl.obolibrary.org/obo/OBI_0000245": "PERSON: Susanna Sansone"
+          },
+          "Person": {
+            "http://purl.obolibrary.org/obo/BFO_0000180": "Person:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/IAO_0000102": "Person:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/IAO_0000600": "Person:Barry Smith",
+            "http://purl.obolibrary.org/obo/IAO_0000601": "Person:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/IAO_0000602": "Person:Alan Ruttenberg"
+          },
+          "See also OMRSE": {
+            "http://purl.obolibrary.org/obo/OBI_0000093": "See also OMRSE:00000011 'patient role'"
+          },
+          "creation date": {
+            "http://purl.obolibrary.org/obo/OGMS_0000060": "creation date: 2009-06-23T11:53:49Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000087": "creation date: 2010-01-25T04:51:11Z"
+          },
+          "person": {
+            "http://purl.obolibrary.org/obo/IAO_0000136": "person:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/IAO_0000600": "person:Alan Ruttenberg"
+          }
+        }
+      },
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/ENVO_00000010": [
@@ -84,7 +237,7 @@
           }
         }
       },
-      "version": "http://humanbehaviourchange.org/ontology/bcio.owl/2025-05-01",
+      "version_iri": "http://humanbehaviourchange.org/ontology/bcio.owl/2025-05-01",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/ENVO_00000064": [

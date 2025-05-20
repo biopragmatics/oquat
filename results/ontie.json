@@ -2,31 +2,60 @@
   "results": {
     "https://ontology.iedb.org/ontology/ontie.owl": {
       "graph_id": "https://ontology.iedb.org/ontology/ontie.owl",
-      "prov_pack": {
+      "prop_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "055": {
+            "https://ontology.iedb.org/ontology/ONTIE_0001439": "055:B5"
+          },
+          "Acyl-CoA": {
+            "https://ontology.iedb.org/ontology/ONTIE_0002452": "Acyl-CoA:diacylglycerol acyltransferase",
+            "https://ontology.iedb.org/ontology/ONTIE_0002601": "Acyl-CoA:diacylglycerol acyltransferase",
+            "https://ontology.iedb.org/ontology/ONTIE_0002604": "Acyl-CoA:diacylglycerol acyltransferase",
+            "https://ontology.iedb.org/ontology/ONTIE_0002701": "Acyl-CoA:diacylglycerol acyltransferase",
+            "https://ontology.iedb.org/ontology/ONTIE_0002731": "Acyl-CoA:diacylglycerol acyltransferase"
+          },
+          "HLA-B*40": {
+            "https://ontology.iedb.org/ontology/ONTIE_0001968": "HLA-B*40:01 Tg"
+          },
+          "O": {
+            "https://ontology.iedb.org/ontology/ONTIE_0001475": "O:2"
+          },
+          "O86": {
+            "https://ontology.iedb.org/ontology/ONTIE_0001922": "O86:B7"
+          },
+          "PEN 19": {
+            "https://ontology.iedb.org/ontology/ONTIE_0001526": "PEN 19: LIO 7"
+          },
+          "PEN 2": {
+            "https://ontology.iedb.org/ontology/ONTIE_0001525": "PEN 2: LIO 4"
+          },
+          "PREDICTED": {
+            "https://ontology.iedb.org/ontology/ONTIE_0002919": "PREDICTED: similar to filaggrin"
+          },
+          "Phosphatidylinositol": {
+            "https://ontology.iedb.org/ontology/ONTIE_0002457": "Phosphatidylinositol:ceramide phosphoinositol transferase"
+          },
+          "WEB": {
+            "http://purl.obolibrary.org/obo/OBI_0100026": "WEB: http://en.wikipedia.org/wiki/Organism"
+          },
+          "gating OBI": {
+            "https://ontology.iedb.org/ontology/ONTIE_0003644": "gating OBI:0200077"
+          },
+          "insulin B": {
+            "https://ontology.iedb.org/ontology/ONTIE_0001252": "insulin B:9-23 mutant",
+            "https://ontology.iedb.org/ontology/ONTIE_0001253": "insulin B:9-23 mutant"
+          },
+          "thiol": {
+            "https://ontology.iedb.org/ontology/ONTIE_0003302": "thiol:disulfide interchange protein"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "https://ontology.iedb.org/ontology/2024-10-01/ontie.owl",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version_iri": "https://ontology.iedb.org/ontology/2024-10-01/ontie.owl"
     }
   }
 }

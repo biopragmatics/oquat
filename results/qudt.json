@@ -2,31 +2,8 @@
   "results": {
     "http://qudt.org/schema/qudt": {
       "graph_id": "http://qudt.org/schema/qudt",
-      "prov_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Provenance Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://qudt.org/1.1/schema/qudt",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "$Id: OSG_qudt-(v1.1).ttl 4989 2011-06-01 21:56:40Z RalphHodgson $",
+      "version_iri": "http://qudt.org/1.1/schema/qudt"
     }
   }
 }

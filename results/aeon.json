@@ -2,6 +2,103 @@
   "results": {
     "http://purl.obolibrary.org/obo/aeon.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/aeon.owl",
+      "prop_pack": {
+        "invalid_luids": {},
+        "known_prefixes": {},
+        "label": "Node Properties",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "\"https": {
+            "http://purl.obolibrary.org/obo/AEON_0000021": "\"https://www.wikidata.org/wiki/\"^^ xsd:anyURI"
+          },
+          "2014-03-31": {
+            "http://purl.obolibrary.org/obo/IAO_0000027": "2014-03-31: See discussion at http://odontomachus.wordpress.com/2014/03/30/aboutness-objects-propositions/"
+          },
+          "Discussion on obo-discuss mailing-list, see http": {
+            "http://purl.obolibrary.org/obo/IAO_0000119": "Discussion on obo-discuss mailing-list, see http://bit.ly/hgm99w"
+          },
+          "GROUP": {
+            "http://purl.obolibrary.org/obo/IAO_0000078": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000111": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000112": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000115": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000116": "GROUP:OBI:<http://purl.obofoundry.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000117": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000118": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/IAO_0000119": "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>",
+            "http://purl.obolibrary.org/obo/OBI_0000245": "GROUP: OBI",
+            "http://purl.obolibrary.org/obo/OBI_0100026": "GROUP: OBI Biomaterial Branch"
+          },
+          "PERSON": {
+            "http://purl.obolibrary.org/obo/IAO_0000005": "PERSON: Jennifer Fostel",
+            "http://purl.obolibrary.org/obo/IAO_0000015": "PERSON: Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/IAO_0000027": "PERSON: Jonathan Rees",
+            "http://purl.obolibrary.org/obo/IAO_0000028": "PERSON: Jonathan Rees",
+            "http://purl.obolibrary.org/obo/IAO_0000030": "PERSON: Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/IAO_0000033": "PERSON: Bjoern Peters",
+            "http://purl.obolibrary.org/obo/IAO_0000078": "PERSON:Bill Bug",
+            "http://purl.obolibrary.org/obo/IAO_0000111": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000112": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000114": "PERSON:Melanie Courtot",
+            "http://purl.obolibrary.org/obo/IAO_0000115": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000116": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000117": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000118": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000119": "PERSON:Daniel Schober",
+            "http://purl.obolibrary.org/obo/IAO_0000225": "PERSON: Melanie Courtot",
+            "http://purl.obolibrary.org/obo/IAO_0000231": "PERSON:Melanie Courtot",
+            "http://purl.obolibrary.org/obo/IAO_0000310": "PERSON: Lawrence Hunter",
+            "http://purl.obolibrary.org/obo/IAO_0000311": "PERSON: Lawrence Hunter",
+            "http://purl.obolibrary.org/obo/IAO_0000577": "PERSON: Melanie Courtot",
+            "http://purl.obolibrary.org/obo/IAO_0000578": "PERSON: Melanie Courtot",
+            "http://purl.obolibrary.org/obo/IAO_0000579": "PERSON: Melanie Courtot",
+            "http://purl.obolibrary.org/obo/OBI_0000245": "PERSON: Susanna Sansone",
+            "http://purl.obolibrary.org/obo/OBI_0000299": "PERSON: Melanie Courtot",
+            "http://purl.obolibrary.org/obo/OBI_0000312": "PERSON:Bjoern Peters"
+          },
+          "Person": {
+            "http://purl.obolibrary.org/obo/BFO_0000180": "Person:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/IAO_0000102": "Person:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/IAO_0000103": "Person:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/IAO_0000444": "Person: Jie Zheng",
+            "http://purl.obolibrary.org/obo/IAO_0000600": "Person:Barry Smith",
+            "http://purl.obolibrary.org/obo/IAO_0100001": "Person:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/OBI_0000846": "Person:Helen Parkinson"
+          },
+          "See also": {
+            "http://purl.obolibrary.org/obo/ENVO_01000658": "See also: http://www.ecotope.org/anthromes/v1/guide/urban/12_dense_settlements/default.aspx"
+          },
+          "TODO": {
+            "http://purl.obolibrary.org/obo/AEON_0000090": "TODO: request term from IAO"
+          },
+          "WEB": {
+            "http://purl.obolibrary.org/obo/OBI_0100026": "WEB: http://en.wikipedia.org/wiki/Organism"
+          },
+          "group": {
+            "http://purl.obolibrary.org/obo/IAO_0000100": "group:OBI",
+            "http://purl.obolibrary.org/obo/IAO_0000423": "group:OBI",
+            "http://purl.obolibrary.org/obo/IAO_0000428": "group:OBI"
+          },
+          "person": {
+            "http://purl.obolibrary.org/obo/IAO_0000100": "person:Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/IAO_0000136": "person:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/IAO_0000219": "person:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/IAO_0000600": "person:Alan Ruttenberg"
+          },
+          "{\"crossref\"": {
+            "http://purl.obolibrary.org/obo/AEON_0000140": "{\"crossref\": {\"api_proceedings_endpoint_uri\": \"https://api.crossref.org/types/proceedings/works?select=event\", \"json_api_key\": {\"event\": \"number\"}}}"
+          },
+          "{\"openresearch\"": {
+            "http://purl.obolibrary.org/obo/AEON_0000159": "{\"openresearch\": {\"uri\": \"https://www.openresearch.org/wiki/Property:Attendees\", \"label\": \"Attendees\"}}"
+          },
+          "{\"wikidata\"": {
+            "http://purl.obolibrary.org/obo/AEON_0000149": "{\"wikidata\": {\"uri\": \"https://www.wikidata.org/wiki/Property:P2257\", \"label\": \"event_interval_inmonths\"}}",
+            "http://purl.obolibrary.org/obo/AEON_0000154": "{\"wikidata\": {\"uri\": \"https://www.wikidata.org/wiki/Property:P2936\", \"label\": \"language_usedLabel\"}}",
+            "http://purl.obolibrary.org/obo/AEON_0000181": "{\"wikidata\": {\"uri\": \"https://www.wikidata.org/wiki/Property:P5127\", \"label\": \"WikiCFP_conference_series_ID\"}}"
+          }
+        }
+      },
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/ENVO_00000005": [
@@ -57,7 +154,8 @@
           }
         }
       },
-      "version": "http://purl.obolibrary.org/obo/aeon/releases/2023-02-22/aeon.owl",
+      "version": "2023-02-22",
+      "version_iri": "http://purl.obolibrary.org/obo/aeon/releases/2023-02-22/aeon.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/ENVO_00000005": [

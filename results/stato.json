@@ -2,31 +2,88 @@
   "results": {
     "http://purl.obolibrary.org/obo/stato.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/stato.owl",
-      "prov_pack": {
-        "invalid_luids": {},
+      "prop_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/STATO_0000181": [
+            "STATO: adapted from wikipedia (http://en.wikipedia.org/wiki/Hardy–Weinberg_principle)"
+          ]
+        },
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "AGB,PRS adapted from wikipedia (http": {
+            "http://purl.obolibrary.org/obo/STATO_0000213": "AGB,PRS adapted from wikipedia (http://en.wikipedia.org/wiki/Discretization)"
+          },
+          "Adapted from http": {
+            "http://purl.obolibrary.org/obo/STATO_0000387": "Adapted from http://itl.nist.gov/div898/handbook/eda/section3/eda33qb.htm"
+          },
+          "Oxford Dictionary of Statistics": {
+            "http://purl.obolibrary.org/obo/STATO_0000531": "Oxford Dictionary of Statistics: 10.1093/acref/9780199541454.001.0001",
+            "http://purl.obolibrary.org/obo/STATO_0000532": "Oxford Dictionary of Statistics: 10.1093/acref/9780199541454.001.0001"
+          },
+          "PERSON": {
+            "http://purl.obolibrary.org/obo/STATO_0000192": "PERSON: Philippe Rocca-Serra"
+          },
+          "STATO adapted from wikipedia (https": {
+            "http://purl.obolibrary.org/obo/STATO_0000122": "STATO adapted from wikipedia (https://en.wikipedia.org/wiki/Pedigree_chart)"
+          },
+          "STATO, adapted from wikipedia (http": {
+            "http://purl.obolibrary.org/obo/STATO_0000039": "STATO, adapted from wikipedia (http://en.wikipedia.org/wiki/Statistic).",
+            "http://purl.obolibrary.org/obo/STATO_0000049": "STATO, adapted from wikipedia (http://en.wikipedia.org/wiki/Hardy–Weinberg_principle)",
+            "http://purl.obolibrary.org/obo/STATO_0000059": "STATO, adapted from wikipedia (http://en.wikipedia.org/wiki/Student's_t-distribution)",
+            "http://purl.obolibrary.org/obo/STATO_0000131": "STATO, adapted from wikipedia (http://en.wikipedia.org/wiki/Sphericity#Sphericity_in_statistics)",
+            "http://purl.obolibrary.org/obo/STATO_0000140": "STATO, adapted from wikipedia (http://en.wikipedia.org/wiki/Contingency_table)",
+            "http://purl.obolibrary.org/obo/STATO_0000152": "STATO, adapted from wikipedia (http://en.wikipedia.org/wiki/Quartile)",
+            "http://purl.obolibrary.org/obo/STATO_0000156": "STATO, adapted from wikipedia (http://en.wikipedia.org/wiki/Scheffé's_method)"
+          },
+          "STATO, adapted from wikipedia (https": {
+            "http://purl.obolibrary.org/obo/STATO_0000077": "STATO, adapted from wikipedia (https://en.wikipedia.org/wiki/Shapiro–Wilk_test)",
+            "http://purl.obolibrary.org/obo/STATO_0000083": "STATO, adapted from wikipedia (https://en.wikipedia.org/wiki/Kolmogorov–Smirnov_test)"
+          },
+          "adapted from": {
+            "http://purl.obolibrary.org/obo/STATO_0000412": "adapted from: https://www.health.ny.gov/diseases/chronic/basicstat.htm",
+            "http://purl.obolibrary.org/obo/STATO_0000413": "adapted from: https://www.health.ny.gov/diseases/chronic/basicstat.htm",
+            "http://purl.obolibrary.org/obo/STATO_0000414": "adapted from: https://www.health.ny.gov/diseases/chronic/basicstat.htm",
+            "http://purl.obolibrary.org/obo/STATO_0000612": "adapted from: https://stats.stackexchange.com/questions/18112/how-do-the-Goodman-Kruskal-gamma-and-the-Kendall-tau-or-Spearman-rho-correlation"
+          },
+          "adapted from https": {
+            "http://purl.obolibrary.org/obo/STATO_0000369": "adapted from https://ciser.cornell.edu/sasdoc/saspdf/analyst/chap16.pdf",
+            "http://purl.obolibrary.org/obo/STATO_0000459": "adapted from https://www.jstatsoft.org/article/view/v066i02/v66i02.pdf",
+            "http://purl.obolibrary.org/obo/STATO_0000588": "adapted from https://www.ibm.com/support/knowledgecenter/en/SSLVMB_24.0.0/spss/advanced/covariance_structures.html"
+          },
+          "adapted from math wolfram (http": {
+            "http://purl.obolibrary.org/obo/STATO_0000192": "adapted from math wolfram (http://mathworld.wolfram.com/CartesianProduct.html)"
+          },
+          "adapted from wikipedia (https": {
+            "http://purl.obolibrary.org/obo/STATO_0000037": "adapted from wikipedia (https://en.wikipedia.org/wiki/Standard_error)"
+          },
+          "adapted from wikipedia and http": {
+            "http://purl.obolibrary.org/obo/STATO_0000584": "adapted from wikipedia and http://documentation.statsoft.com/STATISTICAHelp.aspx?path=glossary/GlossaryTwo/W/WaldStatistic"
+          },
+          "adapted from wikipedia and https": {
+            "http://purl.obolibrary.org/obo/STATO_0000260": "adapted from wikipedia and https://statistics.laerd.com/statistical-guides/repeated-measures-anova-statistical-guide-3.php"
+          },
+          "average value (http": {
+            "http://purl.obolibrary.org/obo/STATO_0000573": "average value (http://purl.obolibrary.org/obo/OBI_0000679)"
+          },
+          "center value (http": {
+            "http://purl.obolibrary.org/obo/STATO_0000574": "center value (http://purl.obolibrary.org/obo/OBI_0000674)"
+          },
+          "discussion in https": {
+            "http://purl.obolibrary.org/obo/STATO_0000260": "discussion in https://github.com/ISA-tools/stato/issues/28"
+          },
+          "term request": {
+            "http://purl.obolibrary.org/obo/STATO_0000628": "term request: https://github.com/ISA-tools/stato/issues/93"
+          },
+          "term request by Hanna Cwiek, https": {
+            "http://purl.obolibrary.org/obo/STATO_0000583": "term request by Hanna Cwiek, https://github.com/ISA-tools/stato/issues/61"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/stato/releases/2025-02-23/stato.owl",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "2025-02-23",
+      "version_iri": "http://purl.obolibrary.org/obo/stato/releases/2025-02-23/stato.owl"
     }
   }
 }

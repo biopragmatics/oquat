@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `caro`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 13 resources,
+`^\d{7}$`. Of the 14 resources,
 1 variants on the standard prefix were found: ['CARO'].
 
 ## `aeo`: Anatomical Entity Ontology
@@ -28,6 +28,15 @@ Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repos
 | external_xref   |   usages_count | usages                                                                                                           |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------|
 | `CARO:mah`      |              2 | [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000), [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003) |
+
+## `clm`: Cell Markers Ontology
+
+Identifiers for this prefix are given incorrectly in `clm`. See the [GitHub repository](https://github.com/Cellular-Semantics/CellMark).
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                            |
+|-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `CARO:DOS`      |              3 | [UBERON:0000026](http://purl.obolibrary.org/obo/UBERON_0000026), [UBERON:0000475](http://purl.obolibrary.org/obo/UBERON_0000475), [UBERON:0000478](http://purl.obolibrary.org/obo/UBERON_0000478) |
+| `CARO:mah`      |              1 | [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000)                                                                                                                                           |
 
 ## `covoc`: CoVoc Coronavirus Vocabulary
 

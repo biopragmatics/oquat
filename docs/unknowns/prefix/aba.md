@@ -151,3 +151,16 @@
 |-----------|----------|-----------------------------------------------------------------|
 | ABA:Brain |        1 | [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) |
 
+## clm
+
+| curie       |   usages | nodes                                                           |
+|-------------|----------|-----------------------------------------------------------------|
+| ABA:Brain   |        1 | [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) |
+| ABA:CTX1-6b |        1 | [UBERON:0002301](http://purl.obolibrary.org/obo/UBERON_0002301) |
+| ABA:CTX1    |        1 | [UBERON:0005390](http://purl.obolibrary.org/obo/UBERON_0005390) |
+| ABA:CTX2    |        1 | [UBERON:0005391](http://purl.obolibrary.org/obo/UBERON_0005391) |
+| ABA:CTX3    |        1 | [UBERON:0005392](http://purl.obolibrary.org/obo/UBERON_0005392) |
+| ABA:CTX4    |        1 | [UBERON:0005393](http://purl.obolibrary.org/obo/UBERON_0005393) |
+| ABA:CTX5    |        1 | [UBERON:0005394](http://purl.obolibrary.org/obo/UBERON_0005394) |
+| ABA:CTX6    |        1 | [UBERON:0005395](http://purl.obolibrary.org/obo/UBERON_0005395) |
+

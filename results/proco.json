@@ -2,31 +2,20 @@
   "results": {
     "http://purl.obolibrary.org/obo/proco.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/proco.owl",
-      "prov_pack": {
+      "prop_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "similar to http": {
+            "http://purl.obolibrary.org/obo/PROCO_0000110": "similar to http://purl.enanomapper.org/onto/ENM_9000037"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/proco/releases/2022-04-11/proco.owl",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "PROCO release 20220414",
+      "version_iri": "http://purl.obolibrary.org/obo/proco/releases/2022-04-11/proco.owl"
     }
   }
 }

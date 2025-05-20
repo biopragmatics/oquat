@@ -2,8 +2,17 @@
 
 This page summarize the different resources that reference `xao`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 4 resources,
+`^\d{7}$`. Of the 5 resources,
 1 variants on the standard prefix were found: ['XAO'].
+
+## `clm`: Cell Markers Ontology
+
+Identifiers for this prefix are given incorrectly in `clm`. See the [GitHub repository](https://github.com/Cellular-Semantics/CellMark).
+
+| external_xref   |   usages_count | usages                                                          |
+|-----------------|----------------|-----------------------------------------------------------------|
+| `XAO:curators`  |              1 | [UBERON:0009500](http://purl.obolibrary.org/obo/UBERON_0009500) |
+| `XAO:EJS`       |              1 | [UBERON:0015179](http://purl.obolibrary.org/obo/UBERON_0015179) |
 
 ## `go`: Gene Ontology
 

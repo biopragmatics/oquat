@@ -133,3 +133,10 @@
 |------------------------------------------------------|----------|-----------------------------------------------------|
 | WikipediaVersioned:Exome_sequencing&oldid=1000635953 |        1 | [EFO:0005396](http://www.ebi.ac.uk/efo/EFO_0005396) |
 
+## clm
+
+| curie                                                        |   usages | nodes                                                           |
+|--------------------------------------------------------------|----------|-----------------------------------------------------------------|
+| WikipediaVersioned:Unipolar_brush_cell&oldid=1045937026      |        1 | [CL:4023161](http://purl.obolibrary.org/obo/CL_4023161)         |
+| WikipediaVersioned:Noradrenergic_cell_groups&oldid=965992184 |        1 | [UBERON:8440015](http://purl.obolibrary.org/obo/UBERON_8440015) |
+

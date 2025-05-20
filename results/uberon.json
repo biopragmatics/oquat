@@ -2,6 +2,271 @@
   "results": {
     "http://purl.obolibrary.org/obo/uberon.json": {
       "graph_id": "http://purl.obolibrary.org/obo/uberon.json",
+      "prop_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/UBERON_0000071": [
+            "ncit:Death is an outcome"
+          ],
+          "http://purl.obolibrary.org/obo/UBERON_0001338": [
+            "NCIT:C12339 paraurethral gland belongs here"
+          ],
+          "http://purl.obolibrary.org/obo/UBERON_0001913": [
+            "ncit:Milk refers specifically to cow milk"
+          ],
+          "http://purl.obolibrary.org/obo/UBERON_0004069": [
+            "NLXANAT:20090453 appears to be retired"
+          ],
+          "http://purl.obolibrary.org/obo/UBERON_7500127": [
+            "ISSN:0372-5480, Fig. 1, \"Ot\" (https://intranet.vef.hr/vetarhiv/papers/2014-84-4-6.pdf)"
+          ]
+        },
+        "known_prefixes": {},
+        "label": "Node Properties",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {
+          "NLXANAT": {
+            "http://purl.obolibrary.org/obo/UBERON_0004069": "NLXANAT:20090453 appears to be retired"
+          }
+        },
+        "unknown_prefixes": {
+          "25/03/2025 16": {
+            "http://purl.obolibrary.org/obo/UBERON_8920000": "25/03/2025 16:52:04",
+            "http://purl.obolibrary.org/obo/UBERON_8920001": "25/03/2025 16:52:04",
+            "http://purl.obolibrary.org/obo/UBERON_8920002": "25/03/2025 16:52:04",
+            "http://purl.obolibrary.org/obo/UBERON_8920003": "25/03/2025 16:52:04",
+            "http://purl.obolibrary.org/obo/UBERON_8920004": "25/03/2025 16:52:04",
+            "http://purl.obolibrary.org/obo/UBERON_8920005": "25/03/2025 16:52:04",
+            "http://purl.obolibrary.org/obo/UBERON_8920006": "25/03/2025 16:52:04",
+            "http://purl.obolibrary.org/obo/UBERON_8920007": "25/03/2025 16:52:04",
+            "http://purl.obolibrary.org/obo/UBERON_8920008": "25/03/2025 16:52:04",
+            "http://purl.obolibrary.org/obo/UBERON_8920009": "25/03/2025 16:52:04"
+          },
+          "A major contributor to neurocranium [PMID": {
+            "http://purl.obolibrary.org/obo/UBERON_0009617": "A major contributor to neurocranium [PMID:16313393]"
+          },
+          "Compare with": {
+            "http://purl.obolibrary.org/obo/UBERON_0013447": "Compare with: AAO:0000384 parasagittal crest (UBERON:0013402)"
+          },
+          "Connective tissue surrounding a fascicle[Wikipedia": {
+            "http://purl.obolibrary.org/obo/UBERON_0000121": "Connective tissue surrounding a fascicle[Wikipedia:Perineurium]."
+          },
+          "Currently being reviewed by PHENOSCAPE": {
+            "http://purl.obolibrary.org/obo/UBERON_0008201": "Currently being reviewed by PHENOSCAPE:ad"
+          },
+          "Duct that contains perilymph[ZFA": {
+            "http://purl.obolibrary.org/obo/UBERON_0011060": "Duct that contains perilymph[ZFA:0005461, ZFIN:curator]."
+          },
+          "EMAPA/MA placement unclear. See https": {
+            "http://purl.obolibrary.org/obo/UBERON_0003277": "EMAPA/MA placement unclear. See https://github.com/obophenotype/mouse-anatomy-ontology/issues/102"
+          },
+          "Homologous to mammalian gracilis [ISBN": {
+            "http://purl.obolibrary.org/obo/UBERON_4200121": "Homologous to mammalian gracilis [ISBN:0073040584]"
+          },
+          "NOT develops_from NC[https": {
+            "http://purl.obolibrary.org/obo/UBERON_0005176": "NOT develops_from NC[https://github.com/obophenotype/uberon/wiki/The-neural-crest]"
+          },
+          "Notochord rudiment[ZFIN": {
+            "http://purl.obolibrary.org/obo/UBERON_0004880": "Notochord rudiment[ZFIN:ZDB-PUB-961014-576]."
+          },
+          "Obsoleted in v2 of CARO [https": {
+            "http://purl.obolibrary.org/obo/UBERON_0000480": "Obsoleted in v2 of CARO [https://github.com/obophenotype/caro/issues/2]"
+          },
+          "Ot in Fig. 1 of https": {
+            "http://purl.obolibrary.org/obo/UBERON_7500127": "Ot in Fig. 1 of https://www.researchgate.net/profile/Stoyan-Stoyanov-16/publication/337812291_Cranial_variability_and_sexual_dimorphism_of_golden_jackal_in_Bulgaria/links/5deb763892851c836468e9cb/Cranial-variability-and-sexual-dimorphism-of-golden-jackal-in-Bulgaria.pdf"
+          },
+          "See https": {
+            "http://purl.obolibrary.org/obo/UBERON_0001785": "See https://github.com/obophenotype/mouse-anatomy-ontology/issues/6",
+            "http://purl.obolibrary.org/obo/UBERON_0002647": "See https://github.com/obophenotype/uberon/issues/2229",
+            "http://purl.obolibrary.org/obo/UBERON_0003246": "See https://github.com/obophenotype/uberon/issues/1305",
+            "http://purl.obolibrary.org/obo/UBERON_0004810": "See https://github.com/obophenotype/uberon/issues/1305",
+            "http://purl.obolibrary.org/obo/UBERON_0005215": "See https://sourceforge.net/p/geneontology/ontology-requests/10941/",
+            "http://purl.obolibrary.org/obo/UBERON_0008404": "See https://github.com/obophenotype/uberon/issues/1305",
+            "http://purl.obolibrary.org/obo/UBERON_0008408": "See https://github.com/obophenotype/uberon/issues/1305",
+            "http://purl.obolibrary.org/obo/UBERON_0012287": "See https://github.com/obophenotype/uberon/issues/1305",
+            "http://purl.obolibrary.org/obo/UBERON_0012348": "See https://github.com/obophenotype/uberon/issues/1305",
+            "http://purl.obolibrary.org/obo/UBERON_4300174": "See https://github.com/obophenotype/uberon/issues/368"
+          },
+          "See notes from https": {
+            "http://purl.obolibrary.org/obo/UBERON_0002533": "See notes from https://github.com/obophenotype/uberon/wiki/The-neural-crest"
+          },
+          "TODO": {
+            "http://purl.obolibrary.org/obo/UBERON_0002928": "TODO: add mossy cell",
+            "http://purl.obolibrary.org/obo/UBERON_0018309": "TODO: review definition"
+          },
+          "TODO - check UBERON": {
+            "http://purl.obolibrary.org/obo/UBERON_0005314": "TODO - check UBERON:0004893 interalveolar septum",
+            "http://purl.obolibrary.org/obo/UBERON_0005315": "TODO - check UBERON:0004893 interalveolar septum"
+          },
+          "TODO - compare with UBERON": {
+            "http://purl.obolibrary.org/obo/UBERON_0003217": "TODO - compare with UBERON:0002198"
+          },
+          "TODO. http": {
+            "http://purl.obolibrary.org/obo/UBERON_0004703": "TODO. http://www.ncbi.nlm.nih.gov/pubmed/8167659"
+          },
+          "The cardiovascular and lymphatic systems, collectively[ncithesaurus": {
+            "http://purl.obolibrary.org/obo/UBERON_0007798": "The cardiovascular and lymphatic systems, collectively[ncithesaurus:Vascular_System]."
+          },
+          "candidate for obsoletion. See https": {
+            "http://purl.obolibrary.org/obo/UBERON_0010932": "candidate for obsoletion. See https://github.com/obophenotype/uberon/issues/530"
+          },
+          "check": {
+            "http://purl.obolibrary.org/obo/UBERON_0001429": "check: accessory carpal"
+          },
+          "check FMA": {
+            "http://purl.obolibrary.org/obo/UBERON_0001868": "check FMA:61415"
+          },
+          "check relationship to gyrus. See https": {
+            "http://purl.obolibrary.org/obo/UBERON_0022353": "check relationship to gyrus. See https://github.com/obophenotype/uberon/issues/626"
+          },
+          "check this. See also https": {
+            "http://purl.obolibrary.org/obo/UBERON_0010212": "check this. See also https://github.com/obophenotype/uberon/wiki/The-axial-skeleton"
+          },
+          "consider FBbt": {
+            "http://purl.obolibrary.org/obo/UBERON_0007005": "consider FBbt:00005541 ! cardiogenic mesoderm"
+          },
+          "consider obsoleting - see PMID": {
+            "http://purl.obolibrary.org/obo/UBERON_0000416": "consider obsoleting - see PMID:8421539"
+          },
+          "consider placement of NCIT": {
+            "http://purl.obolibrary.org/obo/UBERON_0002371": "consider placement of NCIT:C53466 medullary bone"
+          },
+          "consider relationship": {
+            "http://purl.obolibrary.org/obo/UBERON_0002894": "consider relationship: receives_input_from UBERON:0002264 olfactory bulb"
+          },
+          "day 18 [CS08] in human[https": {
+            "http://purl.obolibrary.org/obo/UBERON_0034877": "day 18 [CS08] in human[https://embryology.med.unsw.edu.au/embryology/index.php/Intermediate_-_Primordial_Heart_Tube]"
+          },
+          "do not include ABA": {
+            "http://purl.obolibrary.org/obo/UBERON_0003876": "do not include ABA:HIP"
+          },
+          "in birds, mucoid and lipid[PMID": {
+            "http://purl.obolibrary.org/obo/UBERON_0022282": "in birds, mucoid and lipid[PMID:7559104]"
+          },
+          "in mouse has left ventricular identity[PMID": {
+            "http://purl.obolibrary.org/obo/UBERON_0009889": "in mouse has left ventricular identity[PMID:22855565]"
+          },
+          "merge with SOC? See https": {
+            "http://purl.obolibrary.org/obo/UBERON_0009053": "merge with SOC? See https://github.com/obophenotype/uberon/issues/631#issuecomment-67754754"
+          },
+          "mostly mucuous in pig[ISBN": {
+            "http://purl.obolibrary.org/obo/UBERON_0022286": "mostly mucuous in pig[ISBN:1118473523]"
+          },
+          "non-functional in monotremes[ISBN": {
+            "http://purl.obolibrary.org/obo/UBERON_0001302": "non-functional in monotremes[ISBN:978-0226870137]"
+          },
+          "present in mouse [PMID": {
+            "http://purl.obolibrary.org/obo/UBERON_0035884": "present in mouse [PMID:21538817]"
+          },
+          "relationship loss": {
+            "http://purl.obolibrary.org/obo/UBERON_0000377": "relationship loss: part_of trunk maxillary-mandibularis (AAO:0010669)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0000975": "relationship loss: part_of postzonal element (AAO:0000938)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0001076": "relationship loss: part_of mid-dorsal keel (AAO:0000735)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0001105": "relationship loss: part_of zonal element (AAO:0000936)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0001571": "relationship loss: subclass hyobranchial muscles (AAO:0000224)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0001572": "relationship loss: subclass hyobranchial muscles (AAO:0000224)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0001610": "relationship loss: part_of external carotid (AAO:0010218)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0001611": "relationship loss: part_of external carotid (AAO:0010218)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0001619": "relationship loss: part_of internal carotid (AAO:0010219)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0001681": "relationship loss: overlaps mesethmoid-nasal joint (TAO:0001677)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0001685": "relationship loss: part_of hyoid plate (AAO:0000664)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0001692": "relationship loss: overlaps parasphenoid-basioccipital joint (TAO:0001832)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0001693": "relationship loss: overlaps prootic-exoccipital joint (TAO:0002034)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0001893": "relationship loss: develops_from presumptive telencephalon (TAO:0000571)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0001905": "relationship loss: part_of pineal complex (TAO:0001359)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0001997": "relationship loss: part_of principal cavity (AAO:0000992)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0002062": "relationship loss: develops_from endocardial ring (TAO:0005072)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0002064": "relationship loss: part_of cardinal system (TAO:0000096)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0002065": "relationship loss: part_of cardinal system (TAO:0000096)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0002218": "relationship loss: part_of plectral apparatus (AAO:0000443)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0002244": "relationship loss: overlaps premaxillary-maxillary joint (TAO:0002260)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0002280": "relationship loss: develops_from immature otolith (TAO:0000139)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0002286": "relationship loss: develops_from forebrain ventricle (TAO:0001259)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0002329": "relationship loss: develops_from paraxial mesenchyme (TAO:0000942)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0002396": "relationship loss: overlaps mesethmoid-vomer joint (TAO:0001680)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0002397": "relationship loss: overlaps premaxillary-maxillary joint (TAO:0002260)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0002478": "relationship loss: overlaps pterosphenoid-orbitosphenoid joint (TAO:0001831)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0002497": "relationship loss: part_of pars acromialis (AAO:0000752)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0003084": "relationship loss: develops_from lateral mesoderm (TAO:0001065)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0003088": "relationship loss: part_of axial vasculature (TAO:0001073)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0003109": "relationship loss: develops_from basiventral (TAO:0001361)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0003125": "relationship loss: part_of zygote (AAO:0010324)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0003847": "relationship loss: part_of external carotid (AAO:0010218)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0003861": "relationship loss: develops_from basidorsal (TAO:0001060)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0003901": "relationship loss: subclass myoseptum (TAO:0001089)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0004356": "relationship loss: subclass proliferative region (TAO:0000098)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0004449": "relationship loss: part_of internal carotid (AAO:0010219)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0004637": "relationship loss: part_of occipito-petrosal (AAO:0010831)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0004740": "relationship loss: subclass basibranchial element (TAO:0001914)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0004741": "relationship loss: part_of scapular area (AAO:0000935)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0004742": "relationship loss: overlaps dentary-anguloarticular joint (TAO:0001749)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0004743": "relationship loss: part_of zonal element (AAO:0000936)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0004744": "relationship loss: overlaps dentary-anguloarticular joint (TAO:0001749)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0004745": "relationship loss: overlaps parasphenoid-pterosphenoid joint (TAO:0002217)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0004746": "relationship loss: overlaps prootic-pterosphenoid joint (TAO:0002033)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0004747": "relationship loss: overlaps supraoccipital-parietal joint (TAO:0005264)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0004753": "relationship loss: part_of scapular area (AAO:0000935)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0004865": "relationship loss: overlaps supraoccipital-parietal joint (TAO:0005264)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0004866": "relationship loss: overlaps mesethmoid-frontal joint (TAO:0001678)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0005805": "relationship loss: part_of axial vasculature (TAO:0001073)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0005928": "relationship loss: subclass nasal opening (AAO:0000316)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0006065": "relationship loss: develops_from basiventral (TAO:0001361)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0006597": "relationship loss: overlaps quadrate-metapterygoid joint (TAO:0001803)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0006657": "relationship loss: part_of scapular area (AAO:0000935)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0006845": "relationship loss: subclass cranial muscle (TAO:0001953)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0006849": "relationship loss: part_of scapular area (AAO:0000935)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0007383": "relationship loss: develops_from superficial blastomere (TAO:0001484)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0007805": "relationship loss: subclass portion of (AAO:0010428)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0010272": "relationship loss: part_of hyolaryngeal complex (AAO:0000226)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0010426": "relationship loss: subclass nasal opening (AAO:0000316)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0010930": "relationship loss: subclass hyobranchial muscles (AAO:0000224)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0010931": "relationship loss: subclass hyobranchial muscles (AAO:0000224)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0011145": "relationship loss: subclass cranial muscle (TAO:0001953)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0011151": "relationship loss: subclass hyobranchial muscles (AAO:0000224)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0011248": "relationship loss: part_of zonal element (AAO:0000936)[AAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0011606": "relationship loss: overlaps quadrate-hyomandibula joint (TAO:0001801)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0011608": "relationship loss: overlaps quadrate-hyomandibula joint (TAO:0001801)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0011610": "relationship loss: overlaps interhyal-epihyal joint (TAO:0001841)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0011611": "relationship loss: overlaps epihyal-ceratohyal joint (TAO:0001842)[TAO]",
+            "http://purl.obolibrary.org/obo/UBERON_0011768": "relationship loss: part_of pineal complex (TAO:0001359)[TAO]"
+          },
+          "requires definition see https": {
+            "http://purl.obolibrary.org/obo/UBERON_0018265": "requires definition see https://github.com/obophenotype/uberon/issues/492"
+          },
+          "response to photoperiodic signals[PMID": {
+            "http://purl.obolibrary.org/obo/UBERON_0034943": "response to photoperiodic signals[PMID:23820554]"
+          },
+          "responsible for mediating unconscious proprioception.[Wikipedia": {
+            "http://purl.obolibrary.org/obo/UBERON_0002131": "responsible for mediating unconscious proprioception.[Wikipedia:Anterior_lobe_of_cerebellum]"
+          },
+          "seasonal receptor[PMID": {
+            "http://purl.obolibrary.org/obo/UBERON_0034943": "seasonal receptor[PMID:23820554]"
+          },
+          "see UBERONREF": {
+            "http://purl.obolibrary.org/obo/UBERON_0003251": "see UBERONREF:0000007 'temporal region'"
+          },
+          "see also": {
+            "http://purl.obolibrary.org/obo/UBERON_0002049": "see also: vascular system. Consider merging?"
+          },
+          "see also MA": {
+            "http://purl.obolibrary.org/obo/UBERON_0001214": "see also MA:0002165 ! lieno-pancreatic vein"
+          },
+          "see comments for UBERON": {
+            "http://purl.obolibrary.org/obo/UBERON_0011170": "see comments for UBERON:0004744 articular/anguloarticular."
+          },
+          "see https": {
+            "http://purl.obolibrary.org/obo/UBERON_0002481": "see https://github.com/obophenotype/uberon/issues/27"
+          },
+          "serous in horse [ISBN": {
+            "http://purl.obolibrary.org/obo/UBERON_0022286": "serous in horse [ISBN:1118473523]"
+          },
+          "todo": {
+            "http://purl.obolibrary.org/obo/UBERON_0002358": "todo: check MA/EMAPA."
+          },
+          "unossified in dinosaurs[http": {
+            "http://purl.obolibrary.org/obo/UBERON_0035612": "unossified in dinosaurs[http://palaeos.com/vertebrates/bones/braincase/ethmoid.html]"
+          }
+        }
+      },
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/UBERON_0000004": [
@@ -18611,7 +18876,8 @@
           }
         }
       },
-      "version": "http://purl.obolibrary.org/obo/uberon/releases/2025-04-09/uberon.json",
+      "version": "2025-04-09",
+      "version_iri": "http://purl.obolibrary.org/obo/uberon/releases/2025-04-09/uberon.json",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/UBERON_0000104": [

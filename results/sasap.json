@@ -2,31 +2,77 @@
   "results": {
     "http://purl.dataone.org/odo/SASAP_": {
       "graph_id": "http://purl.dataone.org/odo/SASAP_",
-      "prov_pack": {
+      "prop_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "Auburn's website is accessible at": {
+            "http://purl.dataone.org/odo/SASAP_00000384": "Auburn's website is accessible at: https://www.auburn.edu/"
+          },
+          "CBT's website is accessible at": {
+            "http://purl.dataone.org/odo/SASAP_00000387": "CBT's website is accessible at: https://clayoquotbiosphere.org/about-us/overview"
+          },
+          "DESP's webpage is accessible at": {
+            "http://purl.dataone.org/odo/SASAP_00000359": "DESP's webpage is accessible at: https://desp.ucdavis.edu/"
+          },
+          "DFO's website is accessible at": {
+            "http://purl.dataone.org/odo/SASAP_00000371": "DFO's website is accessible at: https://www.dfo-mpo.gc.ca/index-eng.html"
+          },
+          "ESPM's webpage is accessible at": {
+            "http://purl.dataone.org/odo/SASAP_00000360": "ESPM's webpage is accessible at: https://ourenvironment.berkeley.edu/"
+          },
+          "KRITFC's website is accessible at": {
+            "http://purl.dataone.org/odo/SASAP_00000358": "KRITFC's website is accessible at: https://www.kuskosalmon.org/"
+          },
+          "LFD's webpage is accessible at": {
+            "http://purl.dataone.org/odo/SASAP_00000041": "LFD's webpage is accessible at: https://www.legfin.akleg.gov/"
+          },
+          "MSU's website is accessible at": {
+            "http://purl.dataone.org/odo/SASAP_00000382": "MSU's website is accessible at: https://msu.edu/"
+          },
+          "NOAA's website is accessible at": {
+            "http://purl.dataone.org/odo/SASAP_00000351": "NOAA's website is accessible at: https://www.noaa.gov/"
+          },
+          "NRC's website is accessible at": {
+            "http://purl.dataone.org/odo/SASAP_00000372": "NRC's website is accessible at: https://nrccorp.com/"
+          },
+          "OHNC's website is accessible at": {
+            "http://purl.dataone.org/odo/SASAP_00000362": "OHNC's website is accessible at: https://www.oldharbornativecorp.com/"
+          },
+          "RU's website is accessible at": {
+            "http://purl.dataone.org/odo/SASAP_00000356": "RU's website is accessible at: https://www.rutgers.edu/"
+          },
+          "SFU's website is accessible at": {
+            "http://purl.dataone.org/odo/SASAP_00000355": "SFU's website is accessible at: https://www.sfu.ca/"
+          },
+          "SVT's website is accessible at": {
+            "http://purl.dataone.org/odo/SASAP_00000376": "SVT's website is accessible at: https://svt.org/"
+          },
+          "UBC's website is accessible at": {
+            "http://purl.dataone.org/odo/SASAP_00000383": "UBC's website is accessible at: https://www.ubc.ca/"
+          },
+          "UCACE's website is accessible at": {
+            "http://purl.dataone.org/odo/SASAP_00000377": "UCACE's website is accessible at: https://www.usace.army.mil/"
+          },
+          "UCSC's website is accessible at": {
+            "http://purl.dataone.org/odo/SASAP_00000380": "UCSC's website is accessible at: https://www.ucsc.edu/"
+          },
+          "USF's website is accessible at": {
+            "http://purl.dataone.org/odo/SASAP_00000385": "USF's website is accessible at: https://www.usf.edu/"
+          },
+          "UW's website is accessible at": {
+            "http://purl.dataone.org/odo/SASAP_00000350": "UW's website is accessible at: https://www.wisc.edu/"
+          },
+          "WSG's website is accessible at": {
+            "http://purl.dataone.org/odo/SASAP_00000353": "WSG's website is accessible at: https://wsg.washington.edu/"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.dataone.org/odo/SASAP/0.3.1",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "0.3.1",
+      "version_iri": "http://purl.dataone.org/odo/SASAP/0.3.1"
     }
   }
 }

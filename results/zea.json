@@ -212,8 +212,7 @@
             "MaizeGDB:lv (ID # 165572)"
           ],
           "http://purl.obolibrary.org/obo/ZEA_0015135": [
-            "MaizeGDB:esau (ID # 139825)",
-            "MaizeGDB:lv (ID # 165572) - http //www.harcourt.com/dictionary/def/6/2/2/0/622000.html"
+            "MaizeGDB:esau (ID # 139825)"
           ],
           "http://purl.obolibrary.org/obo/ZEA_0015136": [
             "MaizeGDB:lv (ID # 165572)"
@@ -426,7 +425,7 @@
             "http://purl.obolibrary.org/obo/ZEA_0015132": "MaizeGDB:lv (ID # 165572)",
             "http://purl.obolibrary.org/obo/ZEA_0015133": "MaizeGDB:lv (ID # 165572)",
             "http://purl.obolibrary.org/obo/ZEA_0015134": "MaizeGDB:lv (ID # 165572)",
-            "http://purl.obolibrary.org/obo/ZEA_0015135": "MaizeGDB:lv (ID # 165572) - http //www.harcourt.com/dictionary/def/6/2/2/0/622000.html",
+            "http://purl.obolibrary.org/obo/ZEA_0015135": "MaizeGDB:esau (ID # 139825)",
             "http://purl.obolibrary.org/obo/ZEA_0015136": "MaizeGDB:lv (ID # 165572)",
             "http://purl.obolibrary.org/obo/ZEA_0015137": "MaizeGDB:lv (ID # 165572)",
             "http://purl.obolibrary.org/obo/ZEA_0015138": "MaizeGDB:wiedemeier (ID # 292238)",
@@ -466,8 +465,7 @@
         },
         "unknown_prefixes": {
           "": {
-            "http://purl.obolibrary.org/obo/ZEA_0015050": ":http //cancerweb.ncl.ac.uk/cgi-bin/omd?query=organ",
-            "http://purl.obolibrary.org/obo/ZEA_0015137": ":Gibbs Russel et al. , (1990). Grasses of southern Africa"
+            "http://purl.obolibrary.org/obo/ZEA_0015050": ":http //cancerweb.ncl.ac.uk/cgi-bin/omd?query=organ"
           },
           "***": {
             "http://purl.obolibrary.org/obo/ZEA_0015011": "***:*****",
@@ -484,78 +482,16 @@
             "http://purl.obolibrary.org/obo/ZEA_0015033": "2222:33333",
             "http://purl.obolibrary.org/obo/ZEA_0015039": "2222:33333"
           },
-          "A. Fahn": {
-            "http://purl.obolibrary.org/obo/ZEA_0015009": "A. Fahn:(1982). Plant Anatomy , p.244-245 , ISBN 0-08-028029-3"
-          },
-          "Allaby 1992": {
-            "http://purl.obolibrary.org/obo/ZEA_0015138": "Allaby 1992:The Concise Oxford Dictionary of Botany"
-          },
           "Chapman": {
-            "http://purl.obolibrary.org/obo/ZEA_0015052": "Chapman:ISBN 0851991114",
-            "http://purl.obolibrary.org/obo/ZEA_0015170": "Chapman:The Biology of Grasses - ISBN 0 85199 111 4"
+            "http://purl.obolibrary.org/obo/ZEA_0015052": "Chapman:ISBN 0851991114"
           },
           "DELTA": {
             "http://purl.obolibrary.org/obo/ZEA_0015058": "DELTA:Grass Character List"
           },
           "Esau 1977": {
             "http://purl.obolibrary.org/obo/ZEA_0015138": "Esau 1977:Anatomy of Seed Plants"
-          },
-          "Feldman , in Freeling & Walbot (eds) , The Maize Handbook , ID # 60920": {
-            "http://purl.obolibrary.org/obo/ZEA_0015061": "Feldman , in Freeling & Walbot (eds) , The Maize Handbook , ID # 60920:< new dbxref>"
-          },
-          "Feldman in Freeling & Walbot (eds) , 1994. The Maize Handbook , ID # 60920": {
-            "http://purl.obolibrary.org/obo/ZEA_0015062": "Feldman in Freeling & Walbot (eds) , 1994. The Maize Handbook , ID # 60920:< new dbxref>",
-            "http://purl.obolibrary.org/obo/ZEA_0015063": "Feldman in Freeling & Walbot (eds) , 1994. The Maize Handbook , ID # 60920:< new dbxref>",
-            "http://purl.obolibrary.org/obo/ZEA_0015064": "Feldman in Freeling & Walbot (eds) , 1994. The Maize Handbook , ID # 60920:< new dbxref>",
-            "http://purl.obolibrary.org/obo/ZEA_0015065": "Feldman in Freeling & Walbot (eds) , 1994. The Maize Handbook , ID # 60920:< new dbxref>",
-            "http://purl.obolibrary.org/obo/ZEA_0015067": "Feldman in Freeling & Walbot (eds) , 1994. The Maize Handbook , ID # 60920:< new dbxref>",
-            "http://purl.obolibrary.org/obo/ZEA_0015068": "Feldman in Freeling & Walbot (eds) , 1994. The Maize Handbook , ID # 60920:< new dbxref>"
-          },
-          "Freeling & Lane": {
-            "http://purl.obolibrary.org/obo/ZEA_0015059": "Freeling & Lane:The Maize Leaf. In The Maize Handbook , ISBN 0387978267",
-            "http://purl.obolibrary.org/obo/ZEA_0015060": "Freeling & Lane:The Maize Leaf. In The Maize Handbook. ISBN 0387978267"
-          },
-          "Gibbs Russell et al.": {
-            "http://purl.obolibrary.org/obo/ZEA_0015009": "Gibbs Russell et al.:(1990). Grasses of Southern Africa , ISBN 0-620-14846-2"
-          },
-          "Harris & Harris": {
-            "http://purl.obolibrary.org/obo/ZEA_0015170": "Harris & Harris:Plant Identification Terminology - An Illustrated Glossary , ISBN 0 9640221 5 X"
-          },
-          "Kiesselbach , ID # 59445": {
-            "http://purl.obolibrary.org/obo/ZEA_0015062": "Kiesselbach , ID # 59445:< new dbxref>",
-            "http://purl.obolibrary.org/obo/ZEA_0015063": "Kiesselbach , ID # 59445:< new dbxref>",
-            "http://purl.obolibrary.org/obo/ZEA_0015064": "Kiesselbach , ID # 59445:< new dbxref>",
-            "http://purl.obolibrary.org/obo/ZEA_0015067": "Kiesselbach , ID # 59445:< new dbxref>",
-            "http://purl.obolibrary.org/obo/ZEA_0015068": "Kiesselbach , ID # 59445:< new dbxref>",
-            "http://purl.obolibrary.org/obo/ZEA_0015069": "Kiesselbach , ID # 59445:< new dbxref>"
-          },
-          "M. Freeling & B. Lane": {
-            "http://purl.obolibrary.org/obo/ZEA_0015009": "M. Freeling & B. Lane:1994. The Maize Leaf. In M. Freeling & V. Walbot (eds.) (1994). The Maize Handbook. Springer-Verlag , New York , ISBN 3-540-97826-7"
-          },
-          "Poethig in Sheridan , WF (ed) , 1982. Maize for Biological Research , ID # 25744": {
-            "http://purl.obolibrary.org/obo/ZEA_0015062": "Poethig in Sheridan , WF (ed) , 1982. Maize for Biological Research , ID # 25744:< new dbxref>",
-            "http://purl.obolibrary.org/obo/ZEA_0015063": "Poethig in Sheridan , WF (ed) , 1982. Maize for Biological Research , ID # 25744:< new dbxref>",
-            "http://purl.obolibrary.org/obo/ZEA_0015064": "Poethig in Sheridan , WF (ed) , 1982. Maize for Biological Research , ID # 25744:< new dbxref>",
-            "http://purl.obolibrary.org/obo/ZEA_0015065": "Poethig in Sheridan , WF (ed) , 1982. Maize for Biological Research , ID # 25744:< new dbxref>",
-            "http://purl.obolibrary.org/obo/ZEA_0015067": "Poethig in Sheridan , WF (ed) , 1982. Maize for Biological Research , ID # 25744:< new dbxref>",
-            "http://purl.obolibrary.org/obo/ZEA_0015068": "Poethig in Sheridan , WF (ed) , 1982. Maize for Biological Research , ID # 25744:< new dbxref>"
-          },
-          "S. Poethig": {
-            "http://purl.obolibrary.org/obo/ZEA_0015027": "S. Poethig:1982. In W.F. Sheridan (ed.) , Maize for biological research , p.9-18. Plant Mol. Biol. Assn. , Charlottesville , VA."
-          },
-          "Sylvester et al.": {
-            "http://purl.obolibrary.org/obo/ZEA_0015059": "Sylvester et al.:American Journal of Botany 88(12) 2157-2167 , 2001",
-            "http://purl.obolibrary.org/obo/ZEA_0015060": "Sylvester et al.:American Journal of Botan 88(12) 2157-2167 , 2001"
           }
         }
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
       },
       "xref_pack": {
         "invalid_luids": {},

@@ -2,31 +2,12 @@
   "results": {
     "http://purl.obolibrary.org/obo/mfmo.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/mfmo.owl",
-      "prov_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Provenance Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/mfmo/2013-11-16/mfmo.owl",
+      "version_iri": "http://purl.obolibrary.org/obo/mfmo/2013-11-16/mfmo.owl",
       "xref_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {
-          "http://purl.obolibrary.org/obo/MFMO_0000056": [
-            "Term in Uberon is equivalent but the definition needs revision."
-          ],
           "http://purl.obolibrary.org/obo/MFMO_0000122": [
             "UBERON_0008596"
           ],

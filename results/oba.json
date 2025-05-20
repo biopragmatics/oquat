@@ -30798,15 +30798,8 @@
           }
         }
       },
-      "version": "http://purl.obolibrary.org/obo/oba/releases/2025-03-28/oba.json",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "2025-03-28",
+      "version_iri": "http://purl.obolibrary.org/obo/oba/releases/2025-03-28/oba.json"
     }
   }
 }

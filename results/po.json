@@ -2,6 +2,42 @@
   "results": {
     "http://purl.obolibrary.org/obo/po.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/po.owl",
+      "prop_pack": {
+        "invalid_luids": {},
+        "known_prefixes": {},
+        "label": "Node Properties",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "NYBG": {
+            "http://purl.obolibrary.org/obo/PO_0030112": "NYBG:Brandon_Sinn",
+            "http://purl.obolibrary.org/obo/PO_0030113": "NYBG:Brandon_Sinn",
+            "http://purl.obolibrary.org/obo/PO_0030114": "NYBG:Brandon_Sinn",
+            "http://purl.obolibrary.org/obo/PO_0030115": "NYBG:Brandon_Sinn",
+            "http://purl.obolibrary.org/obo/PO_0030116": "NYBG:Brandon_Sinn",
+            "http://purl.obolibrary.org/obo/PO_0030117": "NYBG:Brandon_Sinn",
+            "http://purl.obolibrary.org/obo/PO_0030118": "NYBG:Brandon_Sinn",
+            "http://purl.obolibrary.org/obo/PO_0030119": "NYBG:Brandon_Sinn",
+            "http://purl.obolibrary.org/obo/PO_0030120": "NYBG:Brandon_Sinn",
+            "http://purl.obolibrary.org/obo/PO_0030121": "NYBG:Brandon_Sinn",
+            "http://purl.obolibrary.org/obo/PO_0030122": "NYBG:Brandon_Sinn",
+            "http://purl.obolibrary.org/obo/PO_0030123": "NYBG:Brandon_Sinn",
+            "http://purl.obolibrary.org/obo/PO_0030124": "NYBG:Brandon_Sinn",
+            "http://purl.obolibrary.org/obo/PO_0030125": "NYBG:Brandon_Sinn",
+            "http://purl.obolibrary.org/obo/PO_0030126": "NYBG:Brandon_Sinn",
+            "http://purl.obolibrary.org/obo/PO_0030127": "NYBG:Brandon_Sinn",
+            "http://purl.obolibrary.org/obo/PO_0030128": "NYBG:Brandon_Sinn",
+            "http://purl.obolibrary.org/obo/PO_0030129": "NYBG:Brandon_Sinn",
+            "http://purl.obolibrary.org/obo/PO_0030130": "NYBG:Brandon_Sinn",
+            "http://purl.obolibrary.org/obo/PO_0030131": "NYBG:Brandon_Sinn",
+            "http://purl.obolibrary.org/obo/PO_0030132": "NYBG:Brandon_Sinn",
+            "http://purl.obolibrary.org/obo/PO_0030133": "NYBG:Brandon_Sinn",
+            "http://purl.obolibrary.org/obo/PO_0030134": "NYBG:Brandon_Sinn",
+            "http://purl.obolibrary.org/obo/PO_0030135": "NYBG:Brandon_Sinn",
+            "http://purl.obolibrary.org/obo/PO_0030136": "NYBG:Brandon_Sinn"
+          }
+        }
+      },
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/PO_0000027": [
@@ -5148,7 +5184,7 @@
           }
         }
       },
-      "version": "http://purl.obolibrary.org/obo/po/releases/2024-04-17/po.owl",
+      "version_iri": "http://purl.obolibrary.org/obo/po/releases/2024-04-17/po.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/PO_0009008": [

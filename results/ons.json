@@ -2,31 +2,65 @@
   "results": {
     "https://raw.githubusercontent.com/enpadasi/Ontology-for-Nutritional-Studies/master/ons.owl": {
       "graph_id": "https://raw.githubusercontent.com/enpadasi/Ontology-for-Nutritional-Studies/master/ons.owl",
-      "prov_pack": {
-        "invalid_luids": {},
+      "prop_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/ONS_1000036": [
+            " PMID:27759811 ",
+            " PMID:28701250 ",
+            "PMID:23419562 "
+          ],
+          "http://purl.obolibrary.org/obo/ONS_1000037": [
+            " PMID: 29141784",
+            "PMID: 29141784"
+          ],
+          "http://purl.obolibrary.org/obo/ONS_1000040": [
+            "PMID:18635428 "
+          ],
+          "http://purl.obolibrary.org/obo/ONS_2000040": [
+            "PMID:18635428 "
+          ]
+        },
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "noncanonical_prefixes": {
+          " PMID": {
+            "http://purl.obolibrary.org/obo/ONS_1000036": " PMID:28701250 ",
+            "http://purl.obolibrary.org/obo/ONS_1000037": " PMID: 29141784"
+          },
+          "MSH": {
+            "http://purl.obolibrary.org/obo/ONS_0000079": "MSH:D005502",
+            "http://purl.obolibrary.org/obo/ONS_0000080": "MSH:D004032",
+            "http://purl.obolibrary.org/obo/ONS_0000086": "MSH:D004326",
+            "http://purl.obolibrary.org/obo/ONS_0000087": "MSH:D004435",
+            "http://purl.obolibrary.org/obo/ONS_0000104": "MSH:D016036"
+          }
+        },
+        "unknown_prefixes": {
+          "  https": {
+            "http://purl.obolibrary.org/obo/ONS_1000061": "  https://orcid.org/0000-0001-9125-4337"
+          },
+          " http": {
+            "http://purl.obolibrary.org/obo/ONS_1000034": " http://www.fao.org/organicag/oa-faq/oa-faq1/en/"
+          },
+          " https": {
+            "http://purl.obolibrary.org/obo/ONS_1000011": " https://github.com/FoodOntology/joint-food-ontology-wg",
+            "http://purl.obolibrary.org/obo/ONS_1000012": " https://github.com/FoodOntology/joint-food-ontology-wg",
+            "http://purl.obolibrary.org/obo/ONS_1000036": " https://www.healthdirect.gov.au/ketogenic-diet",
+            "http://purl.obolibrary.org/obo/ONS_1000037": " https://github.com/FoodOntology/joint-food-ontology-wg",
+            "http://purl.obolibrary.org/obo/ONS_1000038": " https://github.com/FoodOntology/joint-food-ontology-wg",
+            "http://purl.obolibrary.org/obo/ONS_1000040": " https://en.wikipedia.org/wiki/Low-carbohydrate_diet",
+            "http://purl.obolibrary.org/obo/ONS_1000042": " https://github.com/FoodOntology/joint-food-ontology-wg",
+            "http://purl.obolibrary.org/obo/ONS_2000036": " https://github.com/FoodOntology/joint-food-ontology-wg",
+            "http://purl.obolibrary.org/obo/ONS_2000037": " https://github.com/FoodOntology/joint-food-ontology-wg",
+            "http://purl.obolibrary.org/obo/ONS_2000038": " https://github.com/FoodOntology/joint-food-ontology-wg",
+            "http://purl.obolibrary.org/obo/ONS_2000040": " https://en.wikipedia.org/wiki/Low-carbohydrate_diet",
+            "http://purl.obolibrary.org/obo/ONS_2000042": " https://github.com/FoodOntology/joint-food-ontology-wg"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "https://raw.githubusercontent.com/enpadasi/Ontology-for-Nutritional-Studies/releases/download/v2024-07-03/ons.owl",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "2024-07-03",
+      "version_iri": "https://raw.githubusercontent.com/enpadasi/Ontology-for-Nutritional-Studies/releases/download/v2024-07-03/ons.owl"
     }
   }
 }

@@ -2,29 +2,21 @@
   "results": {
     "http://gensc.org/ns/mixs/terms_od": {
       "graph_id": "http://gensc.org/ns/mixs/terms_od",
-      "prov_pack": {
+      "prop_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "Example": {
+            "http://rs.tdwg.org/dwc/terms/verbatimDepth": "Example: \"100-200 m\"",
+            "http://rs.tdwg.org/dwc/terms/verbatimElevation": "Example: \"100-200 m\""
+          },
+          "Examples": {
+            "http://rs.tdwg.org/dwc/terms/collectionCode": "Examples: \"Mammals\", \"Hildebrandt\", \"eBird\""
+          }
+        }
       }
     }
   }

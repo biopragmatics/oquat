@@ -2,31 +2,35 @@
   "results": {
     "http://purl.obolibrary.org/obo/ornaseq.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/ornaseq.owl",
-      "prov_pack": {
+      "prop_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "PERSON": {
+            "http://purl.obolibrary.org/obo/ORNASEQ_0000001": "PERSON: Stephen A. Fisher",
+            "http://purl.obolibrary.org/obo/ORNASEQ_0000002": "PERSON: Stephen A. Fisher",
+            "http://purl.obolibrary.org/obo/ORNASEQ_0000003": "PERSON: Stephen A. Fisher",
+            "http://purl.obolibrary.org/obo/ORNASEQ_0000004": "PERSON: Stephen A. Fisher",
+            "http://purl.obolibrary.org/obo/ORNASEQ_0000005": "PERSON: Stephen A. Fisher",
+            "http://purl.obolibrary.org/obo/ORNASEQ_0000006": "PERSON: Stephen A. Fisher",
+            "http://purl.obolibrary.org/obo/ORNASEQ_0000007": "PERSON: Stephen A. Fisher",
+            "http://purl.obolibrary.org/obo/ORNASEQ_0000008": "PERSON: Stephen A. Fisher",
+            "http://purl.obolibrary.org/obo/ORNASEQ_0000009": "PERSON: Stephen A. Fisher",
+            "http://purl.obolibrary.org/obo/ORNASEQ_0000010": "PERSON: Stephen A. Fisher",
+            "http://purl.obolibrary.org/obo/ORNASEQ_0000011": "PERSON: Stephen A. Fisher",
+            "http://purl.obolibrary.org/obo/ORNASEQ_0000012": "PERSON: Stephen A. Fisher",
+            "http://purl.obolibrary.org/obo/ORNASEQ_0000013": "PERSON: Stephen A. Fisher",
+            "http://purl.obolibrary.org/obo/ORNASEQ_0000014": "PERSON: Stephen A. Fisher",
+            "http://purl.obolibrary.org/obo/ORNASEQ_0000015": "PERSON: Stephen A. Fisher",
+            "http://purl.obolibrary.org/obo/ORNASEQ_0000016": "PERSON: Stephen A. Fisher",
+            "http://purl.obolibrary.org/obo/ORNASEQ_0000017": "PERSON: Stephen A. Fisher"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/ornaseq/2019-07-08/ornaseq.owl",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version_iri": "http://purl.obolibrary.org/obo/ornaseq/2019-07-08/ornaseq.owl"
     }
   }
 }

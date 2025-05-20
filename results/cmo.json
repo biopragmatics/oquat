@@ -4245,7 +4245,7 @@
         },
         "unknown_prefixes": {}
       },
-      "version": "http://purl.obolibrary.org/obo/cmo/2.244/cmo.owl",
+      "version_iri": "http://purl.obolibrary.org/obo/cmo/2.244/cmo.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/CMO_0001921": [

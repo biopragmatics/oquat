@@ -2,6 +2,73 @@
   "results": {
     "http://purl.obolibrary.org/obo/vbo.json": {
       "graph_id": "http://purl.obolibrary.org/obo/vbo.json",
+      "prop_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/VBO_0016892": [
+            "PMID: 22221025"
+          ],
+          "http://purl.obolibrary.org/obo/VBO_0017466": [
+            "PMID:9078477!https://breeds.okstate.edu/sheep/breeds-of-hair-sheep.html"
+          ]
+        },
+        "known_prefixes": {},
+        "label": "Node Properties",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          " https": {
+            "http://purl.obolibrary.org/obo/VBO_0011117": " https://github.com/monarch-initiative/vertebrate-breed-ontology/issues/107",
+            "http://purl.obolibrary.org/obo/VBO_0011118": " https://github.com/monarch-initiative/vertebrate-breed-ontology/issues/107",
+            "http://purl.obolibrary.org/obo/VBO_0011131": " https://github.com/monarch-initiative/vertebrate-breed-ontology/issues/107",
+            "http://purl.obolibrary.org/obo/VBO_0011501": " https://github.com/monarch-initiative/vertebrate-breed-ontology/issues/107",
+            "http://purl.obolibrary.org/obo/VBO_0011502": " https://github.com/monarch-initiative/vertebrate-breed-ontology/issues/107",
+            "http://purl.obolibrary.org/obo/VBO_0011503": " https://github.com/monarch-initiative/vertebrate-breed-ontology/issues/107",
+            "http://purl.obolibrary.org/obo/VBO_0011504": " https://github.com/monarch-initiative/vertebrate-breed-ontology/issues/107",
+            "http://purl.obolibrary.org/obo/VBO_0011505": " https://github.com/monarch-initiative/vertebrate-breed-ontology/issues/107"
+          },
+          "Caucasian Fat-tailed type": {
+            "http://purl.obolibrary.org/obo/VBO_0016463": "Caucasian Fat-tailed type: varieties: Gedek, Kusman"
+          },
+          "exotic origin": {
+            "http://purl.obolibrary.org/obo/VBO_0014593": "exotic origin: imported from France"
+          },
+          "gene pool": {
+            "http://purl.obolibrary.org/obo/VBO_0007723": "gene pool: Mosneni, originated in Constanza"
+          },
+          "import": {
+            "http://purl.obolibrary.org/obo/VBO_0015025": "import: 1996 (Denmark)"
+          },
+          "indigenous breed": {
+            "http://purl.obolibrary.org/obo/VBO_0016157": "indigenous breed: descended from Bergamo"
+          },
+          "indigenous breed, gene pool": {
+            "http://purl.obolibrary.org/obo/VBO_0007715": "indigenous breed, gene pool: Mosneni"
+          },
+          "local breed": {
+            "http://purl.obolibrary.org/obo/VBO_0014827": "local breed: originating from Skopelos"
+          },
+          "local varieties": {
+            "http://purl.obolibrary.org/obo/VBO_0016458": "local varieties: Minusinsk, Tuva"
+          },
+          "originated in India": {
+            "http://purl.obolibrary.org/obo/VBO_0002127": "originated in India: resembles Mediterranean"
+          },
+          "varieties": {
+            "http://purl.obolibrary.org/obo/VBO_0016539": "varieties: Iomud, Tekin"
+          },
+          "variety": {
+            "http://purl.obolibrary.org/obo/VBO_0016456": "variety: Nolinsk: origin of Romanov"
+          },
+          "variety of Urial": {
+            "http://purl.obolibrary.org/obo/VBO_0016073": "variety of Urial: Ovis vignei vignei"
+          },
+          "wild species": {
+            "http://purl.obolibrary.org/obo/VBO_0003461": "wild species: Bos bibos novibos sauveli",
+            "http://purl.obolibrary.org/obo/VBO_0003462": "wild species: Bos bibos novibos sauveli",
+            "http://purl.obolibrary.org/obo/VBO_0003463": "wild species: Bos bibos novibos sauveli"
+          }
+        }
+      },
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/VBO_0016892": [
@@ -14,15 +81,8 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/vbo/releases/2025-02-12/vbo.json",
+      "version": "2025-02-12",
+      "version_iri": "http://purl.obolibrary.org/obo/vbo/releases/2025-02-12/vbo.json",
       "xref_pack": {
         "invalid_luids": {},
         "known_prefixes": {},

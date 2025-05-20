@@ -2,31 +2,8 @@
   "results": {
     "http://www.ebi.ac.uk/swo/swo.json": {
       "graph_id": "http://www.ebi.ac.uk/swo/swo.json",
-      "prov_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Provenance Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://www.ebi.ac.uk/swo/swo/releases/2023-03-05/swo.json",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "2023-03-05",
+      "version_iri": "http://www.ebi.ac.uk/swo/swo/releases/2023-03-05/swo.json"
     }
   }
 }

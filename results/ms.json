@@ -3314,7 +3314,7 @@
           }
         }
       },
-      "version": "http://purl.obolibrary.org/obo/ms/4.1.192/ms.owl",
+      "version_iri": "http://purl.obolibrary.org/obo/ms/4.1.192/ms.owl",
       "xref_pack": {
         "invalid_luids": {},
         "known_prefixes": {},

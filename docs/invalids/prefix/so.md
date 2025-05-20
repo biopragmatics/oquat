@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `so`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 12 resources,
+`^\d{7}$`. Of the 13 resources,
 1 variants on the standard prefix were found: ['SO'].
 
 ## `bs`: Biosapiens Protein Feature Ontology
@@ -15,6 +15,17 @@ Identifiers for this prefix are given incorrectly in `bs`. See the [GitHub repos
 | `SO:ke`              |             12 | [SO:0000409](http://purl.obolibrary.org/obo/SO_0000409), [SO:0000839](http://purl.obolibrary.org/obo/SO_0000839), [SO:0001146](http://purl.obolibrary.org/obo/SO_0001146), [SO:0100020](http://purl.obolibrary.org/obo/SO_0100020), [so/subsets/biosapiens#adjacent:to](http://purl.obolibrary.org/obo/so/subsets/biosapiens#adjacent_to), ... |
 | `SO:GAR`             |              1 | [SO:0000839](http://purl.obolibrary.org/obo/SO_0000839)                                                                                                                                                                                                                                                                                        |
 | `SO:immuno_workshop` |              1 | [so/subsets/biosapiens#variant:of](http://purl.obolibrary.org/obo/so/subsets/biosapiens#variant_of)                                                                                                                                                                                                                                            |
+
+## `clm`: Cell Markers Ontology
+
+Identifiers for this prefix are given incorrectly in `clm`. See the [GitHub repository](https://github.com/Cellular-Semantics/CellMark).
+
+| external_xref        |   usages_count | usages                                                                                                                                                                    |
+|----------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `SO:ke`              |              3 | [SO:0000001](http://purl.obolibrary.org/obo/SO_0000001), [SO:0000110](http://purl.obolibrary.org/obo/SO_0000110), [SO:0001260](http://purl.obolibrary.org/obo/SO_0001260) |
+| `SO:immuno_workshop` |              1 | [SO:0000704](http://purl.obolibrary.org/obo/SO_0000704)                                                                                                                   |
+| `SO:cb`              |              1 | [SO:0001411](http://purl.obolibrary.org/obo/SO_0001411)                                                                                                                   |
+| `SO:ma`              |              1 | [SO:0005855](http://purl.obolibrary.org/obo/SO_0005855)                                                                                                                   |
 
 ## `dpbo`: DataPLANT Biology Ontology
 

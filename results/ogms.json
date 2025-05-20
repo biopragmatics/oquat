@@ -2,31 +2,106 @@
   "results": {
     "http://purl.obolibrary.org/obo/ogms.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/ogms.owl",
-      "prov_pack": {
+      "prop_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "Creation data": {
+            "http://purl.obolibrary.org/obo/OGMS_0000112": "Creation data: 2018-11-27"
+          },
+          "Creation date": {
+            "http://purl.obolibrary.org/obo/OGMS_0000111": "Creation date: 2018-11-27"
+          },
+          "creation": {
+            "http://purl.obolibrary.org/obo/OGMS_0000108": "creation: 16MAY2017",
+            "http://purl.obolibrary.org/obo/OGMS_0000109": "creation: 16MAY2017",
+            "http://purl.obolibrary.org/obo/OGMS_0000110": "creation: 16MAY2017"
+          },
+          "creation date": {
+            "http://purl.obolibrary.org/obo/OGMS_0000014": "creation date: 2010-07-19T10:18:02Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000015": "creation date: 2010-07-19T10:18:59Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000016": "creation date: 2010-07-19T10:20:20Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000017": "creation date: 2009-06-23T10:21:10Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000018": "creation date: 2009-06-23T10:21:58Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000019": "creation date: 2009-06-23T10:22:44Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000022": "creation date: 2009-06-23T11:12:33Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000023": "creation date: 2010-07-19T11:13:49Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000025": "creation date: 2009-06-23T11:15:43Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000026": "creation date: 2009-06-23T11:16:50Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000027": "creation date: 2009-06-23T11:18:05Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000028": "creation date: 2009-06-23T11:18:39Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000029": "creation date: 2009-06-23T11:19:17Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000030": "creation date: 2009-06-23T11:20:25Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000031": "creation date: 2009-06-23T11:21:20Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000032": "creation date: 2009-06-23T11:22:01Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000033": "creation date: 2009-06-23T11:23:07Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000034": "creation date: 2009-06-23T11:24:05Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000035": "creation date: 2009-06-23T11:24:59Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000037": "creation date: 2009-06-23T11:26:44Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000038": "creation date: 2009-06-23T11:27:28Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000039": "creation date: 2009-06-23T11:36:24Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000040": "creation date: 2009-06-23T11:36:58Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000045": "creation date: 2009-06-23T11:39:44Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000046": "creation date: 2009-06-23T11:40:27Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000047": "creation date: 2009-06-23T11:41:14Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000050": "creation date: 2009-06-23T11:43:09Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000051": "creation date: 2009-06-23T11:43:44Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000055": "creation date: 2009-06-23T11:49:16Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000056": "creation date: 2009-06-23T11:49:49Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000057": "creation date: 2010-07-19T11:50:18Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000059": "creation date: 2009-06-23T11:53:07Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000060": "creation date: 2009-06-23T11:53:49Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000061": "creation date: 2009-06-23T11:54:29Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000063": "creation date: 2009-06-23T11:55:44Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000065": "creation date: 2009-06-23T11:57:09Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000066": "creation date: 2009-06-23T11:57:44Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000067": "creation date: 2009-06-23T11:58:22Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000069": "creation date: 2009-06-23T11:59:24Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000070": "creation date: 2009-06-23T12:00:09Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000071": "creation date: 2009-06-23T12:00:39Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000073": "creation date: 2009-06-23T12:42:23Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000074": "creation date: 2009-06-26T10:31:34Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000077": "creation date: 2009-07-13T02:14:59Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000078": "creation date: 2009-07-13T02:14:05Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000079": "creation date: 2009-07-13T02:15:17Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000080": "creation date: 2009-07-13T02:17:07Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000081": "creation date: 2009-07-13T02:17:24Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000082": "creation date: 2009-07-13T02:17:47Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000083": "creation date: 2009-11-24T04:51:11Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000084": "creation date: 2009-11-24T04:51:11Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000085": "creation date: 2009-11-24T04:51:11Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000086": "creation date: 2009-11-24T04:51:11Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000087": "creation date: 2010-01-25T04:51:11Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000088": "creation date: 2010-01-25T04:51:11Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000089": "creation date: 2010-03-31T04:51:11Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000090": "creation date: 2010-03-31T04:51:11Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000091": "creation date: 2010-03-31T04:51:11Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000093": "creation date: 2010-03-31T12:42:23Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000097": "creation date: 2011-02-21T09:57:44Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000098": "creation date: 2011-02-21T09:57:44Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000099": "creation date: 2011-02-21T09:57:44Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000100": "creation date: 2011-02-21T09:57:44Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000101": "creation date: 2011-02-21T09:57:44Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000103": "creation date: 2011-09-20T09:57:44Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000104": "creation date: 2011-09-20T09:57:44Z",
+            "http://purl.obolibrary.org/obo/OGMS_0000113": "creation date: 2018-11-27",
+            "http://purl.obolibrary.org/obo/OGMS_0000114": "creation date: 2018-11-27",
+            "http://purl.obolibrary.org/obo/OGMS_0000115": "creation date: 2018-11-27",
+            "http://purl.obolibrary.org/obo/OGMS_0000116": "creation date: 2018-11-27",
+            "http://purl.obolibrary.org/obo/OGMS_0000117": "creation date: 2018-11-27",
+            "http://purl.obolibrary.org/obo/OGMS_0000122": "creation date: 2018-11-27",
+            "http://purl.obolibrary.org/obo/OGMS_0000123": "creation date: 2018-11-27"
+          },
+          "note": {
+            "http://purl.obolibrary.org/obo/OGMS_0000020": "note: defined class"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/ogms/2021-08-19/ogms.owl",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "2021-08-19",
+      "version_iri": "http://purl.obolibrary.org/obo/ogms/2021-08-19/ogms.owl"
     }
   }
 }

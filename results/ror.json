@@ -2,22 +2,7 @@
   "results": {
     "https://w3id.org/rorio/rorio.owl": {
       "graph_id": "https://w3id.org/rorio/rorio.owl",
-      "prov_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Provenance Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
+      "version": "1.36",
       "xref_pack": {
         "invalid_luids": {
           "https://ror.org/03capj968": [

@@ -2,22 +2,522 @@
   "results": {
     "https://identifiers.org/ito:ontology": {
       "graph_id": "https://identifiers.org/ito:ontology",
-      "prov_pack": {
+      "prop_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "\"http": {
+            "http://edamontology.org/data_0006": "\"http://purl.obolibrary.org/obo/IAO_0000030\"",
+            "http://edamontology.org/data_0842": "\"http://purl.org/dc/elements/1.1/identifier\"",
+            "http://edamontology.org/data_2099": "\"http://www.w3.org/2000/01/rdf-schema#label",
+            "http://edamontology.org/has_format": "\"http://purl.obolibrary.org/obo/OBI_0000298\"",
+            "http://edamontology.org/has_input": "\"http://purl.obolibrary.org/obo/OBI_0000293\"",
+            "http://edamontology.org/has_output": "\"http://purl.obolibrary.org/obo/OBI_0000299\"",
+            "http://edamontology.org/has_topic": "\"http://purl.obolibrary.org/obo/OBI_0000298\"",
+            "http://edamontology.org/is_input_of": "\"http://purl.obolibrary.org/obo/OBI_0000295\"",
+            "http://edamontology.org/is_output_of": "\"http://purl.obolibrary.org/obo/OBI_0000312\""
+          },
+          "1": {
+            "https://identifiers.org/ito:ITO_19998": "1:3 Accuracy property",
+            "https://identifiers.org/ito:ITO_19999": "1:1 Accuracy property"
+          },
+          "3": {
+            "https://identifiers.org/ito:ITO_20000": "3:1 Accuracy property"
+          },
+          "3D-UNet [Cicek": {
+            "https://identifiers.org/ito:ITO_30107": "3D-UNet [Cicek:2016un] software"
+          },
+          "3D-only Anomaly Detection (Source": {
+            "https://identifiers.org/ito:ITO_18430": "3D-only Anomaly Detection (Source: paperswithcode.com)"
+          },
+          "ADLIK-MO(T": {
+            "https://identifiers.org/ito:ITO_58908": "ADLIK-MO(T: ResNet101 S: ResNet50) software"
+          },
+          "ADLIK-MO-P25(T": {
+            "https://identifiers.org/ito:ITO_58905": "ADLIK-MO-P25(T:SeNet154, ResNet152b  S:ResNet-50-prune25%) software"
+          },
+          "ADLIK-MO-P375(T": {
+            "https://identifiers.org/ito:ITO_58907": "ADLIK-MO-P375(T:SeNet154, ResNet152b  S:ResNet-50-prune37.5) software"
+          },
+          "ADLIK-MO-P50(T": {
+            "https://identifiers.org/ito:ITO_58910": "ADLIK-MO-P50(T:SeNet154, ResNet152b  S:ResNet-50-half) software"
+          },
+          "AFD (T": {
+            "https://identifiers.org/ito:ITO_58930": "AFD (T: ResNet-34  S:ResNet-18) software"
+          },
+          "Acoustic echo cancellation (Source": {
+            "https://identifiers.org/ito:ITO_17705": "Acoustic echo cancellation (Source: paperswithcode.com)"
+          },
+          "Adaptive (T": {
+            "https://identifiers.org/ito:ITO_58928": "Adaptive (T:ResNet-50 S:ResNet-18) software"
+          },
+          "AlexNet [cite": {
+            "https://identifiers.org/ito:ITO_20460": "AlexNet [cite:NIPS12CNN] software"
+          },
+          "Attack": {
+            "https://identifiers.org/ito:ITO_29263": "Attack: AutoAttack property",
+            "https://identifiers.org/ito:ITO_29264": "Attack: DeepFool property",
+            "https://identifiers.org/ito:ITO_29265": "Attack: PGD20 property"
+          },
+          "Average Recall@IoU": {
+            "https://identifiers.org/ito:ITO_59933": "Average Recall@IoU:0.5-0.95 property"
+          },
+          "Avg mAP (0.3": {
+            "https://identifiers.org/ito:ITO_48763": "Avg mAP (0.3:0.7) property"
+          },
+          "BERT (Input": {
+            "https://identifiers.org/ito:ITO_55588": "BERT (Input: Body) software",
+            "https://identifiers.org/ito:ITO_55590": "BERT (Input: Abstract) software",
+            "https://identifiers.org/ito:ITO_55593": "BERT (Input: Caption) software",
+            "https://identifiers.org/ito:ITO_55594": "BERT (Input: Headline) software"
+          },
+          "BM25-HierSumm (query": {
+            "https://identifiers.org/ito:ITO_56485": "BM25-HierSumm (query: step title) software"
+          },
+          "Baseline ": {
+            "https://identifiers.org/ito:ITO_34830": "Baseline : Extractive Oracle software",
+            "https://identifiers.org/ito:ITO_34834": "Baseline : Lead-3 software",
+            "https://identifiers.org/ito:ITO_34835": "Baseline : Random software"
+          },
+          "BioScope ": {
+            "https://identifiers.org/ito:ITO_10046": "BioScope : Abstracts dataset",
+            "https://identifiers.org/ito:ITO_10048": "BioScope : Full Papers dataset"
+          },
+          "BraVe": {
+            "https://identifiers.org/ito:ITO_24793": "BraVe:V-FA (TSM-50x2) software"
+          },
+          "CES (query": {
+            "https://identifiers.org/ito:ITO_56477": "CES (query: step title) software",
+            "https://identifiers.org/ito:ITO_56497": "CES (query: method title) software"
+          },
+          "CLCNet (S": {
+            "https://identifiers.org/ito:ITO_58542": "CLCNet (S:ViT+D:EffNet-B7) software",
+            "https://identifiers.org/ito:ITO_58544": "CLCNet (S:ConvNeXt-L+D:EffNet-B7) software",
+            "https://identifiers.org/ito:ITO_58565": "CLCNet (S:D1+D:D5) software",
+            "https://identifiers.org/ito:ITO_58592": "CLCNet (S:B4+D:B7) software"
+          },
+          "CLMR (Pre-training": {
+            "https://identifiers.org/ito:ITO_53049": "CLMR (Pre-training: contrastive) software"
+          },
+          "CNN-MC [kim": {
+            "https://identifiers.org/ito:ITO_31428": "CNN-MC [kim:13] software"
+          },
+          "CRAG - Colorectal Gland Segmentation": {
+            "https://identifiers.org/ito:ITO_40665": "CRAG - Colorectal Gland Segmentation: benchmarking"
+          },
+          "CRCD (T": {
+            "https://identifiers.org/ito:ITO_58917": "CRCD (T: ResNet-34  S:ResNet-18) software"
+          },
+          "Cartoonifying images (Source": {
+            "https://identifiers.org/ito:ITO_00242": "Cartoonifying images (Source: paperswithcode.com)"
+          },
+          "City safety perception recognition (Source": {
+            "https://identifiers.org/ito:ITO_01340": "City safety perception recognition (Source: paperswithcode.com)"
+          },
+          "Classify various human activities (Source": {
+            "https://identifiers.org/ito:ITO_00548": "Classify various human activities (Source: paperswithcode.com)"
+          },
+          "Clustering with Self-Organized Maps (Source": {
+            "https://identifiers.org/ito:ITO_00978": "Clustering with Self-Organized Maps (Source: paperswithcode.com)"
+          },
+          "Colorectal Gland Segmentation": {
+            "https://identifiers.org/ito:ITO_17445": "Colorectal Gland Segmentation:"
+          },
+          "D(BERT)": {
+            "https://identifiers.org/ito:ITO_25489": "D(BERT): F1 property"
+          },
+          "D(BiDAF)": {
+            "https://identifiers.org/ito:ITO_25488": "D(BiDAF): F1 property"
+          },
+          "D(RoBERTa)": {
+            "https://identifiers.org/ito:ITO_25490": "D(RoBERTa): F1 property"
+          },
+          "DAN [cite": {
+            "https://identifiers.org/ito:ITO_20458": "DAN [cite:ICML15DAN] software"
+          },
+          "DANN [cite": {
+            "https://identifiers.org/ito:ITO_20456": "DANN [cite:JMLR16RevGrad] software"
+          },
+          "Depth-only Anomaly Detection (Source": {
+            "https://identifiers.org/ito:ITO_18492": "Depth-only Anomaly Detection (Source: paperswithcode.com)"
+          },
+          "Determining activeness via images (Source": {
+            "https://identifiers.org/ito:ITO_17280": "Determining activeness via images (Source: paperswithcode.com)"
+          },
+          "Dialectal Arabic Identification (Source": {
+            "https://identifiers.org/ito:ITO_17294": "Dialectal Arabic Identification (Source: paperswithcode.com)"
+          },
+          "Electromyographic Gesture Recognition (Source": {
+            "https://identifiers.org/ito:ITO_26158": "Electromyographic Gesture Recognition (Source: paperswithcode.com)"
+          },
+          "Ensemble": {
+            "https://identifiers.org/ito:ITO_38616": "Ensemble:USE-tuned+NCS software"
+          },
+          "Euclidean Frank-Wolfe CRFs (backbone": {
+            "https://identifiers.org/ito:ITO_52270": "Euclidean Frank-Wolfe CRFs (backbone: DeepLabv3+) software"
+          },
+          "Eye tracking research (Source": {
+            "https://identifiers.org/ito:ITO_01189": "Eye tracking research (Source: paperswithcode.com)"
+          },
+          "F-PointNet [Qi": {
+            "https://identifiers.org/ito:ITO_35931": "F-PointNet [Qi:2018fd] software"
+          },
+          "F-PointNet++ [Qi": {
+            "https://identifiers.org/ito:ITO_35930": "F-PointNet++ [Qi:2018fd] software"
+          },
+          "FF ensemble": {
+            "https://identifiers.org/ito:ITO_21318": "FF ensemble: Vote software",
+            "https://identifiers.org/ito:ITO_21323": "FF ensemble: Intersect software"
+          },
+          "Flamingo (few-shot": {
+            "https://identifiers.org/ito:ITO_61168": "Flamingo (few-shot:32) software"
+          },
+          "GCN": {
+            "https://identifiers.org/ito:ITO_27825": "GCN: Personalized Discourse Graph software"
+          },
+          "GLD (T": {
+            "https://identifiers.org/ito:ITO_58922": "GLD (T: ResNet-34  S:ResNet-18) software"
+          },
+          "G_Mans_v1 (single model)": {
+            "https://identifiers.org/ito:ITO_55783": "G_Mans_v1 (single model): software"
+          },
+          "Gaussian Process Regression (Source": {
+            "https://identifiers.org/ito:ITO_01519": "Gaussian Process Regression (Source: paperswithcode.com)"
+          },
+          "Generate referring expressions (Source": {
+            "https://identifiers.org/ito:ITO_41992": "Generate referring expressions (Source: paperswithcode.com)"
+          },
+          "GreedyRel (query": {
+            "https://identifiers.org/ito:ITO_56483": "GreedyRel (query: step title) software",
+            "https://identifiers.org/ito:ITO_56501": "GreedyRel (query: method title) software"
+          },
+          "HeadSharing": {
+            "https://identifiers.org/ito:ITO_43239": "HeadSharing: SH-KD software",
+            "https://identifiers.org/ito:ITO_43241": "HeadSharing: TH-KD software"
+          },
+          "I3D (pretraining": {
+            "https://identifiers.org/ito:ITO_60939": "I3D (pretraining: BSL-1K) software"
+          },
+          "ICKD (T": {
+            "https://identifiers.org/ito:ITO_58913": "ICKD (T: ResNet-34  S:ResNet-18) software"
+          },
+          "Image": {
+            "https://identifiers.org/ito:ITO_00121": "Image: [monodepth2](https://github.com/nianticlabs/monodepth2) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_00401": "Image: [Gwak et al](https://arxiv.org/pdf/1705.10904v2.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_00411": "Image: [Weng et al](https://arxiv.org/pdf/1907.03961v4.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_00786": "Image: [Zeng et al](https://arxiv.org/pdf/1609.09475v3.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_00789": "Image: [Zeng et al](https://arxiv.org/pdf/1609.09475v3.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_00936": "Image: [Zhang et al](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Predicting_3D_Human_Dynamics_From_Video_ICCV_2019_paper.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_01016": "Image: [Choy et al](https://arxiv.org/pdf/1604.00449v1.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_01116": "Image: [Weng et al](https://arxiv.org/pdf/1812.02246v1.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_01214": "Image: [Sedaghat et al](https://arxiv.org/pdf/1604.03351v2.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_01216": "Image: [MeshNet](https://arxiv.org/pdf/1811.11424v1.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_01217": "Image: [Mo et al](https://arxiv.org/pdf/1908.00575v1.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_01221": "Image: [Gojic et al](https://openaccess.thecvf.com/content_CVPR_2019/papers/Gojcic_The_Perfect_Match_3D_Point_Cloud_Matching_With_Smoothed_Densities_CVPR_2019_paper.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_01224": "Image: [Choy et al](https://paperswithcode.com/paper/fully-convolutional-geometric-features) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_01226": "Image: [Zhao et al](https://arxiv.org/pdf/1812.10775v2.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_01227": "Image: [Wei et al](https://arxiv.org/pdf/1908.10098v1.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_01229": "Image: [Liu et al](https://arxiv.org/pdf/1812.04072v2.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_01230": "Image: [AtlasNet](https://arxiv.org/pdf/1802.05384v3.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_01231": "Image: [Grinvald et al](https://arxiv.org/pdf/1903.00268.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_01327": "Image: [OccuSeg](https://arxiv.org/pdf/2003.06537v3.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_01329": "Image: [3D-SIS](https://github.com/Sekunde/3D-SIS) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_01413": "Image: [Cudeiro et al](https://arxiv.org/pdf/1905.03079v1.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_01417": "Image: [Choy et al](https://paperswithcode.com/paper/4d-spatio-temporal-convnets-minkowski) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_01491": "Image: [Gkioxari et al](https://arxiv.org/pdf/1906.02739v2.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_17038": "Image: [Zhang et al](https://arxiv.org/pdf/1801.09242v1.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_17103": "Image: [Zou et al](https://arxiv.org/pdf/1803.08999v1.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_17116": "Image: [Rahmani et al](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Rahmani_3D_Action_Recognition_CVPR_2016_paper.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_17262": "Image: [Zimmerman et l](https://arxiv.xsrg/pdf/1705.01389v3.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_17266": "Image: [Lin et al](https://arxiv.org/pdf/2006.01320v1.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_17336": "Image: [Fan et al](https://arxiv.org/pdf/1612.00603v2.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_17387": "Image: [Liao et al](https://arxiv.org/pdf/1811.12016v1.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_17390": "Image: [Sun et al](https://arxiv.org/pdf/1804.04610v1.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_17475": "Image: [Qi et al](https://arxiv.org/pdf/1612.00593v2.pdf) (Source: paperswithcode.com)"
+          },
+          "Image credit": {
+            "https://identifiers.org/ito:ITO_17465": "Image credit: [OpenViDial](https://github.com/ShannonAI/OpenViDial) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_33703": "Image credit: [https://arxiv.org/pdf/2012.07810v1.pdf](https://arxiv.org/pdf/2012.07810v1.pdf) (Source: paperswithcode.com)",
+            "https://identifiers.org/ito:ITO_41989": "Image credit: [https://github.com/martin-marek/parking-space-occupancy](https://github.com/martin-marek/parking-space-occupancy) (Source: paperswithcode.com)"
+          },
+          "I²R-Net (1st stage": {
+            "https://identifiers.org/ito:ITO_53705": "I²R-Net (1st stage:HRFormer-B) software",
+            "https://identifiers.org/ito:ITO_53795": "I²R-Net (1st stage: HRFormer-B) software",
+            "https://identifiers.org/ito:ITO_53816": "I²R-Net (1st stage:TransPose-H) software"
+          },
+          "JAN [cite": {
+            "https://identifiers.org/ito:ITO_20457": "JAN [cite:ICML17JAN] software"
+          },
+          "Jukebox (Pre-training": {
+            "https://identifiers.org/ito:ITO_53047": "Jukebox (Pre-training: CALM) software"
+          },
+          "KILT": {
+            "https://identifiers.org/ito:ITO_26902": "KILT: Natural Questions dataset",
+            "https://identifiers.org/ito:ITO_26916": "KILT: HotpotQA dataset",
+            "https://identifiers.org/ito:ITO_26918": "KILT: TriviaQA dataset",
+            "https://identifiers.org/ito:ITO_26920": "KILT: ELI5 dataset",
+            "https://identifiers.org/ito:ITO_31656": "KILT: AIDA-YAGO2 dataset",
+            "https://identifiers.org/ito:ITO_31657": "KILT: AIDA-YAGO2 - Entity Linking benchmarking",
+            "https://identifiers.org/ito:ITO_31678": "KILT: WNED-WIKI dataset",
+            "https://identifiers.org/ito:ITO_31679": "KILT: WNED-WIKI - Entity Linking benchmarking",
+            "https://identifiers.org/ito:ITO_31680": "KILT: WNED-CWEB dataset",
+            "https://identifiers.org/ito:ITO_31681": "KILT: WNED-CWEB - Entity Linking benchmarking",
+            "https://identifiers.org/ito:ITO_32063": "KILT: Zero Shot RE dataset",
+            "https://identifiers.org/ito:ITO_32069": "KILT: T-REx dataset",
+            "https://identifiers.org/ito:ITO_32070": "KILT: T-REx - Slot Filling benchmarking",
+            "https://identifiers.org/ito:ITO_41123": "KILT: FEVER dataset",
+            "https://identifiers.org/ito:ITO_41124": "KILT: FEVER - Fact Verification benchmarking",
+            "https://identifiers.org/ito:ITO_41428": "KILT: Wizard of Wikipedia dataset",
+            "https://identifiers.org/ito:ITO_54170": "KILT: WNED-CWEB - Entity linking benchmarking",
+            "https://identifiers.org/ito:ITO_54171": "KILT: AIDA-YAGO2 - Entity linking benchmarking",
+            "https://identifiers.org/ito:ITO_54198": "KILT: WNED-WIKI - Entity linking benchmarking",
+            "https://identifiers.org/ito:ITO_54520": "KILT: T-REx - Slot filling benchmarking",
+            "https://identifiers.org/ito:ITO_61580": "KILT: FEVER - Fact verification benchmarking"
+          },
+          "Knowledge-based": {
+            "https://identifiers.org/ito:ITO_09420": "Knowledge-based: dataset",
+            "https://identifiers.org/ito:ITO_28343": "Knowledge-based: - Word Sense Disambiguation benchmarking",
+            "https://identifiers.org/ito:ITO_51329": "Knowledge-based: - Word sense disambiguation benchmarking",
+            "https://identifiers.org/ito:ITO_60192": "Knowledge-based: - Quantization benchmarking"
+          },
+          "LDC2014T12": {
+            "https://identifiers.org/ito:ITO_13172": "LDC2014T12: dataset",
+            "https://identifiers.org/ito:ITO_30616": "LDC2014T12: - AMR Parsing benchmarking",
+            "https://identifiers.org/ito:ITO_53419": "LDC2014T12: - AMR parsing benchmarking"
+          },
+          "LDC2015E86": {
+            "https://identifiers.org/ito:ITO_15955": "LDC2015E86: dataset",
+            "https://identifiers.org/ito:ITO_38888": "LDC2015E86: - Graph-to-Sequence benchmarking",
+            "https://identifiers.org/ito:ITO_59777": "LDC2015E86: - Graph-to-sequence benchmarking"
+          },
+          "LRPCMP": {
+            "https://identifiers.org/ito:ITO_57149": "LRPCMP:a2+ software",
+            "https://identifiers.org/ito:ITO_57150": "LRPCMP:a1+ software"
+          },
+          "LSHFM (T": {
+            "https://identifiers.org/ito:ITO_58900": "LSHFM (T: ResNet101 S: ResNet50) software",
+            "https://identifiers.org/ito:ITO_58902": "LSHFM (T: ResNet101 S: MobileNetV2) software",
+            "https://identifiers.org/ito:ITO_58919": "LSHFM (T: ResNet-34 S:ResNet-18) software"
+          },
+          "LSTM (T": {
+            "https://identifiers.org/ito:ITO_28308": "LSTM (T:OMSTI) software",
+            "https://identifiers.org/ito:ITO_28312": "LSTM (T:SemCor) software"
+          },
+          "LSTMLP (T": {
+            "https://identifiers.org/ito:ITO_28305": "LSTMLP (T:SemCor, U:1K) software",
+            "https://identifiers.org/ito:ITO_28306": "LSTMLP (T:OMSTI, U:1K) software",
+            "https://identifiers.org/ito:ITO_28307": "LSTMLP (T:SemCor, U:OMSTI) software"
+          },
+          "Learning theory (Source": {
+            "https://identifiers.org/ito:ITO_17781": "Learning theory (Source: paperswithcode.com)"
+          },
+          "Learning with noisy labels (Source": {
+            "https://identifiers.org/ito:ITO_17374": "Learning with noisy labels (Source: paperswithcode.com)"
+          },
+          "LexRank (query": {
+            "https://identifiers.org/ito:ITO_56475": "LexRank (query: step title) software",
+            "https://identifiers.org/ito:ITO_56499": "LexRank (query: method title) software"
+          },
+          "Long-tailed Learning (Source": {
+            "https://identifiers.org/ito:ITO_42148": "Long-tailed Learning (Source: paperswithcode.com)"
+          },
+          "M-AVS [DBLP": {
+            "https://identifiers.org/ito:ITO_25092": "M-AVS [DBLP:journals/corr/abs-1708-09545] software"
+          },
+          "MAVS [DBLP": {
+            "https://identifiers.org/ito:ITO_25087": "MAVS [DBLP:conf/mm/FengLKZ18] software"
+          },
+          "MC-VSA [DBLP": {
+            "https://identifiers.org/ito:ITO_25090": "MC-VSA [DBLP:journals/corr/abs-2006-01410] software"
+          },
+          "MGB5 from ELDA and https": {
+            "https://identifiers.org/ito:ITO_20901": "MGB5 from ELDA and https://arabicspeech.org/ dataset"
+          },
+          "MLSUM": {
+            "https://identifiers.org/ito:ITO_34866": "MLSUM: MultiLingual SUMmarization dataset (Spanish) dataset"
+          },
+          "Mean Opinion Score (Q1": {
+            "https://identifiers.org/ito:ITO_61842": "Mean Opinion Score (Q1:Overall) property"
+          },
+          "Mean Opinion Score (Q2": {
+            "https://identifiers.org/ito:ITO_61843": "Mean Opinion Score (Q2: Content) property"
+          },
+          "Mean Opinion Score (Q3": {
+            "https://identifiers.org/ito:ITO_61844": "Mean Opinion Score (Q3: Style) property"
+          },
+          "MobileNet-v1": {
+            "https://identifiers.org/ito:ITO_40433": "MobileNet-v1: 75% Sparse software",
+            "https://identifiers.org/ito:ITO_40434": "MobileNet-v1: 90% Sparse software"
+          },
+          "Multimodal(ViT+BERT, Input": {
+            "https://identifiers.org/ito:ITO_55586": "Multimodal(ViT+BERT, Input: Image + Body) software",
+            "https://identifiers.org/ito:ITO_55589": "Multimodal(ViT+BERT, Input: Image + Abstract) software"
+          },
+          "OPD": {
+            "https://identifiers.org/ito:ITO_18381": "OPD: Single-view 3D Openable Part Detection"
+          },
+          "Ours": {
+            "https://identifiers.org/ito:ITO_21540": "Ours: cross-sentence ALB software",
+            "https://identifiers.org/ito:ITO_21668": "Ours: cross-sentence software"
+          },
+          "Outdoor Positioning (e.g. GPS) (Source": {
+            "https://identifiers.org/ito:ITO_01308": "Outdoor Positioning (e.g. GPS) (Source: paperswithcode.com)"
+          },
+          "Overall": {
+            "https://identifiers.org/ito:ITO_25487": "Overall: F1 property"
+          },
+          "Palette (QF": {
+            "https://identifiers.org/ito:ITO_62636": "Palette (QF: 20) software",
+            "https://identifiers.org/ito:ITO_62637": "Palette (QF: 10) software",
+            "https://identifiers.org/ito:ITO_62638": "Palette (QF: 5) software"
+          },
+          "Pixel-NeRF (env": {
+            "https://identifiers.org/ito:ITO_60903": "Pixel-NeRF (env: Google Scan) software",
+            "https://identifiers.org/ito:ITO_60905": "Pixel-NeRF (env: ABC) software",
+            "https://identifiers.org/ito:ITO_60906": "Pixel-NeRF (env: Bricks) software",
+            "https://identifiers.org/ito:ITO_60907": "Pixel-NeRF (env: Amz. Ber.) software"
+          },
+          "Pretraining": {
+            "https://identifiers.org/ito:ITO_61160": "Pretraining: None software",
+            "https://identifiers.org/ito:ITO_61162": "Pretraining: ShED software",
+            "https://identifiers.org/ito:ITO_61163": "Pretraining: e-Mix software"
+          },
+          "Proposed": {
+            "https://identifiers.org/ito:ITO_59568": "Proposed: LFCC+SE-ResABNet+CombLoss software",
+            "https://identifiers.org/ito:ITO_59572": "Proposed: logPowSpec+EABNet+CombLoss software"
+          },
+          "Punctuation Restoration (Source": {
+            "https://identifiers.org/ito:ITO_42143": "Punctuation Restoration (Source: paperswithcode.com)"
+          },
+          "Radar-PointGNN": {
+            "https://identifiers.org/ito:ITO_36104": "Radar-PointGNN: Graph convolutions software"
+          },
+          "Regression (QF": {
+            "https://identifiers.org/ito:ITO_62639": "Regression (QF: 20) software",
+            "https://identifiers.org/ito:ITO_62640": "Regression (QF: 10) software",
+            "https://identifiers.org/ito:ITO_62641": "Regression (QF: 5) software"
+          },
+          "ResNet-50 [cite": {
+            "https://identifiers.org/ito:ITO_20459": "ResNet-50 [cite:CVPR16DRL] software"
+          },
+          "Resnet-50": {
+            "https://identifiers.org/ito:ITO_40430": "Resnet-50: 80% Sparse software",
+            "https://identifiers.org/ito:ITO_40432": "Resnet-50: 90% Sparse software",
+            "https://identifiers.org/ito:ITO_60957": "Resnet-50: 80% Sparse 100 epochs software",
+            "https://identifiers.org/ito:ITO_60959": "Resnet-50: 90% Sparse 100 epochs software"
+          },
+          "Roberta Large GCN(dev": {
+            "https://identifiers.org/ito:ITO_25528": "Roberta Large GCN(dev: 0.63) software"
+          },
+          "S": {
+            "https://identifiers.org/ito:ITO_24594": "S:VGG-16, T:VGG-16 (ImageNet pretrained) software",
+            "https://identifiers.org/ito:ITO_24637": "S:VGG-16, T:VGG-16 (ImageNet pretrain) software"
+          },
+          "SSKD (T": {
+            "https://identifiers.org/ito:ITO_58924": "SSKD (T: ResNet-34  S:ResNet-18) software"
+          },
+          "SVBRDF Estimation (Source": {
+            "https://identifiers.org/ito:ITO_17598": "SVBRDF Estimation (Source: paperswithcode.com)"
+          },
+          "SYSCOMB": {
+            "https://identifiers.org/ito:ITO_30257": "SYSCOMB: BLSTMATT with CSA software"
+          },
+          "Segmenting 3D object parts (Source": {
+            "https://identifiers.org/ito:ITO_00724": "Segmenting 3D object parts (Source: paperswithcode.com)"
+          },
+          "Self-Supervision towards anomaly detection (Source": {
+            "https://identifiers.org/ito:ITO_17140": "Self-Supervision towards anomaly detection (Source: paperswithcode.com)"
+          },
+          "ShARe/CLEF 2014": {
+            "https://identifiers.org/ito:ITO_41607": "ShARe/CLEF 2014: Task 2 Disorders dataset"
+          },
+          "Simulating arterial pulse waves (Source": {
+            "https://identifiers.org/ito:ITO_17670": "Simulating arterial pulse waves (Source: paperswithcode.com)"
+          },
+          "Simulating photoplethysmogram (PPG) signals (Source": {
+            "https://identifiers.org/ito:ITO_17671": "Simulating photoplethysmogram (PPG) signals (Source: paperswithcode.com)"
+          },
+          "Source": {
+            "https://identifiers.org/ito:ITO_01222": "Source: [He et al](https://arxiv.org/pdf/1803.06189v1.pdf) (Source: paperswithcode.com)"
+          },
+          "SpO2 estimation (Source": {
+            "https://identifiers.org/ito:ITO_17736": "SpO2 estimation (Source: paperswithcode.com)"
+          },
+          "Supervised": {
+            "https://identifiers.org/ito:ITO_09401": "Supervised: dataset",
+            "https://identifiers.org/ito:ITO_28354": "Supervised: - Word Sense Disambiguation benchmarking",
+            "https://identifiers.org/ito:ITO_51336": "Supervised: - Word sense disambiguation benchmarking"
+          },
+          "SwinIR+ (Training": {
+            "https://identifiers.org/ito:ITO_42747": "SwinIR+ (Training: DIV2K+Flickr2K) software"
+          },
+          "Task 1 Accuracy": {
+            "https://identifiers.org/ito:ITO_28320": "Task 1 Accuracy: all property",
+            "https://identifiers.org/ito:ITO_28321": "Task 1 Accuracy: general purpose property",
+            "https://identifiers.org/ito:ITO_28322": "Task 1 Accuracy: domain specific property"
+          },
+          "Task 2 Accuracy": {
+            "https://identifiers.org/ito:ITO_28323": "Task 2 Accuracy: all property",
+            "https://identifiers.org/ito:ITO_28324": "Task 2 Accuracy: general purpose property",
+            "https://identifiers.org/ito:ITO_28325": "Task 2 Accuracy: domain specific property"
+          },
+          "Task 3 Accuracy": {
+            "https://identifiers.org/ito:ITO_28326": "Task 3 Accuracy: all property",
+            "https://identifiers.org/ito:ITO_28327": "Task 3 Accuracy: general purpose property",
+            "https://identifiers.org/ito:ITO_28328": "Task 3 Accuracy: domain specific property"
+          },
+          "Thai word segmentation (Source": {
+            "https://identifiers.org/ito:ITO_17437": "Thai word segmentation (Source: paperswithcode.com)"
+          },
+          "VASNet [DBLP": {
+            "https://identifiers.org/ito:ITO_25093": "VASNet [DBLP:conf/accv/FajtlSAMR18] software"
+          },
+          "ViT (Input": {
+            "https://identifiers.org/ito:ITO_55595": "ViT (Input: Image) software"
+          },
+          "WSL (T": {
+            "https://identifiers.org/ito:ITO_58915": "WSL (T: ResNet-34  S:ResNet-18) software"
+          },
+          "YJ&&YWW ": {
+            "https://identifiers.org/ito:ITO_33839": "YJ&&YWW :https://github.com/inisis/chexper software"
+          },
+          "YWW-YJ": {
+            "https://identifiers.org/ito:ITO_33880": "YWW-YJ:https://github.com/inisis/chexper software"
+          },
+          "avg-mAP (0.1": {
+            "https://identifiers.org/ito:ITO_48801": "avg-mAP (0.1:0.7) property"
+          },
+          "drone-based object tracking (Source": {
+            "https://identifiers.org/ito:ITO_17478": "drone-based object tracking (Source: paperswithcode.com)"
+          },
+          "ftp": {
+            "http://edamontology.org/format_3242": "ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psimitab/README",
+            "http://edamontology.org/format_3328": "ftp://selab.janelia.org/pub/software/hmmer/2.4i/Userguide.pdf",
+            "http://edamontology.org/format_3329": "ftp://selab.janelia.org/pub/software/hmmer/CURRENT/Userguide.pdf",
+            "http://edamontology.org/format_3836": "ftp://ftp.ncbi.nlm.nih.gov/blast/documents/NEWXML/xml2.pdf"
+          },
+          "mAP @0.5": {
+            "https://identifiers.org/ito:ITO_03888": "mAP @0.5:0.95 property"
+          },
+          "mAP@0.1": {
+            "https://identifiers.org/ito:ITO_25229": "mAP@0.1:0.7 property",
+            "https://identifiers.org/ito:ITO_25230": "mAP@0.1:0.5 property"
+          },
+          "mAP@0.5": {
+            "https://identifiers.org/ito:ITO_48808": "mAP@0.5:0.95 property"
+          },
+          "mAP@AVG(0.1": {
+            "https://identifiers.org/ito:ITO_25250": "mAP@AVG(0.1:0.9) property"
+          },
+          "re-SEQ2SEQ [DBLP": {
+            "https://identifiers.org/ito:ITO_25089": "re-SEQ2SEQ [DBLP:conf/eccv/ZhangGS18] software"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
+      "version": "1.12 (PWC export dated 2022-07-30) - internal, just a minor fix",
       "xref_pack": {
         "invalid_luids": {
           "http://edamontology.org/topic_3315": [
@@ -242,9 +742,6 @@
           ],
           "http://edamontology.org/topic_3473": [
             "VT 1.3.2 Data mining"
-          ],
-          "http://edamontology.org/topic_3474": [
-            "VT 1.2.2 Artificial Intelligence (expert systems, machine learning, robotics)"
           ],
           "http://edamontology.org/topic_3500": [
             "VT 1.5.29 Zoology"

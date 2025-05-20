@@ -18,7 +18,7 @@ import obographs
 import pydantic
 import pystow
 from more_click import verbose_option
-from obographs import GraphDocument
+from obographs import Graph, GraphDocument
 from tabulate import tabulate
 from tqdm import tqdm
 
@@ -326,12 +326,22 @@ def analyze_graph(graph: obographs.Graph, *, iri_filter: str | None = None) -> R
 
     return Results(
         graph_id=graph.id,
+        version=_get_version(graph),
         version_iri=graph.meta.version if graph.meta else None,
         xref_pack=node_xref_pack.finalize(),
         prov_pack=prov_xref_pack.finalize(),
         synonym_pack=syn_xref_pack.finalize(),
         prop_pack=node_prop_pack.finalize(),
     )
+
+
+def _get_version(graph: Graph) -> str | None:
+    if not graph.meta:
+        return None
+    for x in graph.meta.basicPropertyValues or []:
+        if x.pred == "http://www.w3.org/2002/07/owl#versionInfo" and x.val:
+            return x.val
+    return None
 
 
 class PrePack:
@@ -345,6 +355,18 @@ class PrePack:
         self.noncanonical_prefixes: defaultdict[str, dict[str, str]] = defaultdict(dict)
         self.malformed_curies: defaultdict[str, set[str]] = defaultdict(set)
         self.invalid_luids: defaultdict[str, set[str]] = defaultdict(set)
+
+    def is_empty(self) -> bool:
+        """Return if this pack is empty."""
+        return all(
+            not component
+            for component in (
+                self.unknown_prefixes,
+                self.noncanonical_prefixes,
+                self.malformed_curies,
+                self.invalid_luids,
+            )
+        )
 
     def aggregate_curie_issues(
         self,
@@ -364,8 +386,10 @@ class PrePack:
             track_non_curies=track_non_curies,
         )
 
-    def finalize(self) -> ResultPack:
+    def finalize(self) -> ResultPack | None:
         """Finalize the results pack."""
+        if self.is_empty():
+            return None
         return ResultPack(
             label=self.label,
             known_prefixes=self.known_prefixes,

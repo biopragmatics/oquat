@@ -528,3 +528,27 @@
 | BM:Tel-Cx-Cg   |        1 | [UBERON:0003027](http://purl.obolibrary.org/obo/UBERON_0003027) |
 | BM:Tel-Cx-FR   |        1 | [UBERON:0016525](http://purl.obolibrary.org/obo/UBERON_0016525) |
 
+## clm
+
+| curie        |   usages | nodes                                                                                                                            |
+|--------------|----------|----------------------------------------------------------------------------------------------------------------------------------|
+| BM:V         |        2 | [UBERON:0002925](http://purl.obolibrary.org/obo/UBERON_0002925), [UBERON:0007641](http://purl.obolibrary.org/obo/UBERON_0007641) |
+| BM:Pons-VII  |        1 | [UBERON:0000127](http://purl.obolibrary.org/obo/UBERON_0000127)                                                                  |
+| BM:Tel-Cx    |        1 | [UBERON:0000956](http://purl.obolibrary.org/obo/UBERON_0000956)                                                                  |
+| BM:Pons      |        1 | [UBERON:0000988](http://purl.obolibrary.org/obo/UBERON_0000988)                                                                  |
+| BM:Tel-Cx-M1 |        1 | [UBERON:0001384](http://purl.obolibrary.org/obo/UBERON_0001384)                                                                  |
+| BM:VN        |        1 | [UBERON:0001645](http://purl.obolibrary.org/obo/UBERON_0001645)                                                                  |
+| BM:Pons-VIIN |        1 | [UBERON:0001647](http://purl.obolibrary.org/obo/UBERON_0001647)                                                                  |
+| BM:MB        |        1 | [UBERON:0001891](http://purl.obolibrary.org/obo/UBERON_0001891)                                                                  |
+| BM:Tel       |        1 | [UBERON:0001893](http://purl.obolibrary.org/obo/UBERON_0001893)                                                                  |
+| BM:Die       |        1 | [UBERON:0001894](http://purl.obolibrary.org/obo/UBERON_0001894)                                                                  |
+| BM:Me        |        1 | [UBERON:0001896](http://purl.obolibrary.org/obo/UBERON_0001896)                                                                  |
+| BM:CB        |        1 | [UBERON:0002037](http://purl.obolibrary.org/obo/UBERON_0002037)                                                                  |
+| BM:CB-Cbx    |        1 | [UBERON:0002129](http://purl.obolibrary.org/obo/UBERON_0002129)                                                                  |
+| BM:Pons-LC   |        1 | [UBERON:0002148](http://purl.obolibrary.org/obo/UBERON_0002148)                                                                  |
+| BM:SpC       |        1 | [UBERON:0002240](http://purl.obolibrary.org/obo/UBERON_0002240)                                                                  |
+| BM:Tel-LV    |        1 | [UBERON:0002285](http://purl.obolibrary.org/obo/UBERON_0002285)                                                                  |
+| BM:Pons-4V   |        1 | [UBERON:0002422](http://purl.obolibrary.org/obo/UBERON_0002422)                                                                  |
+| BM:Tel-Cx-FR |        1 | [UBERON:0016525](http://purl.obolibrary.org/obo/UBERON_0016525)                                                                  |
+| BM:Tel-Cx-Te |        1 | [UBERON:0016538](http://purl.obolibrary.org/obo/UBERON_0016538)                                                                  |
+

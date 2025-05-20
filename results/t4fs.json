@@ -2,31 +2,24 @@
   "results": {
     "http://purl.obolibrary.org/obo/t4fs.json": {
       "graph_id": "http://purl.obolibrary.org/obo/t4fs.json",
-      "prov_pack": {
+      "prop_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "2020-12-06 00": {
+            "http://purl.obolibrary.org/obo/T4FS_0000555": "2020-12-06 00:00:00",
+            "http://purl.obolibrary.org/obo/T4FS_0000557": "2020-12-06 00:00:00"
+          },
+          "Laura Molloy, Celia van Gelder": {
+            "http://purl.obolibrary.org/obo/T4FS_0000548": "Laura Molloy, Celia van Gelder:https://docs.google.com/presentation/d/12oNBFix39ZtsLAR4tkqESBXxMU5rVg3cCKoEDG2oK-M/edit#slide=id.p5"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/t4fs/releases/2025-02-09/t4fs.json",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "2025-02-09",
+      "version_iri": "http://purl.obolibrary.org/obo/t4fs/releases/2025-02-09/t4fs.json"
     }
   }
 }

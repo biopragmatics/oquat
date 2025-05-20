@@ -2,23 +2,50 @@
   "results": {
     "http://purl.obolibrary.org/obo/mco.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/mco.owl",
-      "prov_pack": {
-        "invalid_luids": {},
+      "prop_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/MCO_0000016": [
+            "PMID: 9382703"
+          ],
+          "http://purl.obolibrary.org/obo/MCO_0000018": [
+            "PMID: 8552633"
+          ],
+          "http://purl.obolibrary.org/obo/MCO_0000020": [
+            "PMID: 201606"
+          ],
+          "http://purl.obolibrary.org/obo/MCO_0000021": [
+            "PMCID: PMC393752"
+          ],
+          "http://purl.obolibrary.org/obo/MCO_0000402": [
+            "PMID: 15535862"
+          ],
+          "http://purl.obolibrary.org/obo/MCO_0000403": [
+            "PMID: 21255366"
+          ],
+          "http://purl.obolibrary.org/obo/MCO_0000404": [
+            "PMID: 21255366"
+          ],
+          "http://purl.obolibrary.org/obo/MCO_0000664": [
+            "PMID: 22389370"
+          ],
+          "http://purl.obolibrary.org/obo/MCO_0000666": [
+            "PMID: 25177315"
+          ],
+          "http://purl.obolibrary.org/obo/MCO_0000668": [
+            "PMID: 25177315"
+          ]
+        },
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
-        "noncanonical_prefixes": {},
+        "noncanonical_prefixes": {
+          "PMCID": {
+            "http://purl.obolibrary.org/obo/MCO_0000021": "PMCID: PMC393752"
+          }
+        },
         "unknown_prefixes": {}
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/mco/releases/2019-05-15/mco.owl",
+      "version_iri": "http://purl.obolibrary.org/obo/mco/releases/2019-05-15/mco.owl",
       "xref_pack": {
         "invalid_luids": {},
         "known_prefixes": {},

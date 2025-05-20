@@ -153,3 +153,9 @@
 | J:83217 |        1 | [MP:0005111](http://purl.obolibrary.org/obo/MP_0005111)                                                                                                                                                                                                                                          |
 | J:84533 |        1 | [MP:0005323](http://purl.obolibrary.org/obo/MP_0005323)                                                                                                                                                                                                                                          |
 
+## clm
+
+| curie   |   usages | nodes                                                           |
+|---------|----------|-----------------------------------------------------------------|
+| J:97123 |        1 | [UBERON:0003604](http://purl.obolibrary.org/obo/UBERON_0003604) |
+

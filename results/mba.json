@@ -2,26 +2,3713 @@
   "results": {
     "http://purl.obolibrary.org/obo/mba.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/mba.owl",
-      "prov_pack": {
-        "invalid_luids": {},
+      "prop_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/MBA_1": [
+            "MBA:TMv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10": [
+            "MBA:SCig"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_100": [
+            "MBA:IPN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1000": [
+            "MBA:eps"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1001": [
+            "MBA:CUL5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1002": [
+            "MBA:AUDp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1003": [
+            "MBA:cpt"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1004": [
+            "MBA:PMv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1005": [
+            "MBA:AUDp6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1006": [
+            "MBA:SSp-tr1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1007": [
+            "MBA:SIM"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1008": [
+            "MBA:GENd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1009": [
+            "MBA:fiber_tracts"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_101": [
+            "MBA:VCO"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1010": [
+            "MBA:VISC4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1011": [
+            "MBA:AUDd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1012": [
+            "MBA:crt"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1014": [
+            "MBA:GENv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1015": [
+            "MBA:ACAd5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1016": [
+            "MBA:onl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1017": [
+            "MBA:AN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1018": [
+            "MBA:AUDv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1019": [
+            "MBA:cstc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_102": [
+            "MBA:nst"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1020": [
+            "MBA:PO"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1021": [
+            "MBA:MOs6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1022": [
+            "MBA:GPe"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1023": [
+            "MBA:AUDv5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1024": [
+            "MBA:grv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1025": [
+            "MBA:PRM"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1026": [
+            "MBA:SSp-ul6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1027": [
+            "MBA:AUDpo"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1028": [
+            "MBA:cstu"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1029": [
+            "MBA:POL"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_103": [
+            "MBA:PVHpm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1030": [
+            "MBA:SSp-ll1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1031": [
+            "MBA:GPi"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1032": [
+            "MBA:grv_of_CTX"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1033": [
+            "MBA:COPY"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1034": [
+            "MBA:TTd1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1035": [
+            "MBA:SSs4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1036": [
+            "MBA:cte"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1037": [
+            "MBA:POST"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1038": [
+            "MBA:SSp-bfd6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1039": [
+            "MBA:GR"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_104": [
+            "MBA:AId"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1040": [
+            "MBA:grv_of_CBX"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1041": [
+            "MBA:PFL"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1042": [
+            "MBA:TTd2"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1043": [
+            "MBA:tspc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1044": [
+            "MBA:PP"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1045": [
+            "MBA:ECT6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1046": [
+            "MBA:VISam6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1047": [
+            "MBA:SSp-bfd4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1048": [
+            "MBA:GRN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1049": [
+            "MBA:FL"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_105": [
+            "MBA:SOCm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1050": [
+            "MBA:TTd3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1051": [
+            "MBA:tspd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1052": [
+            "MBA:PPN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1053": [
+            "MBA:ACA2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1054": [
+            "MBA:ILA6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1055": [
+            "MBA:eg"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1056": [
+            "MBA:ANcr1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1057": [
+            "MBA:GU"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1058": [
+            "MBA:VISC5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1059": [
+            "MBA:TTd4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_106": [
+            "MBA:ISN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1060": [
+            "MBA:dtd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1061": [
+            "MBA:PPT"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1062": [
+            "MBA:SSp-bfd6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1063": [
+            "MBA:hf"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1064": [
+            "MBA:ANcr2"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1065": [
+            "MBA:HB"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1066": [
+            "MBA:VISam2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1067": [
+            "MBA:TTv1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10671": [
+            "MBA:ME"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10672": [
+            "MBA:SIMgr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10673": [
+            "MBA:SIMpu"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10674": [
+            "MBA:SIMmo"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10675": [
+            "MBA:ANcr1gr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10676": [
+            "MBA:ANcr1pu"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10677": [
+            "MBA:ANcr1mo"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10678": [
+            "MBA:ANcr2gr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10679": [
+            "MBA:ANcr2pu"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1068": [
+            "MBA:mfbst"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10680": [
+            "MBA:ANcr2mo"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10681": [
+            "MBA:PRMgr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10682": [
+            "MBA:PRMpu"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10683": [
+            "MBA:PRMmo"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10684": [
+            "MBA:COPYgr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10685": [
+            "MBA:COPYpu"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10686": [
+            "MBA:COPYmo"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10687": [
+            "MBA:PFLgr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10688": [
+            "MBA:PFLpu"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10689": [
+            "MBA:PFLmo"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1069": [
+            "MBA:PPY"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10690": [
+            "MBA:FLgr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10691": [
+            "MBA:FLpu"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10692": [
+            "MBA:FLmo"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10693": [
+            "MBA:PAR1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10694": [
+            "MBA:PAR2"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10695": [
+            "MBA:PAR3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10696": [
+            "MBA:POST1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10697": [
+            "MBA:POST2"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10698": [
+            "MBA:POST3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10699": [
+            "MBA:PRE1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_107": [
+            "MBA:MO1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1070": [
+            "MBA:SSp-bfd5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10700": [
+            "MBA:PRE2"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10701": [
+            "MBA:PRE3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10702": [
+            "MBA:DG-sgz"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10703": [
+            "MBA:DG-mo"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10704": [
+            "MBA:DG-po"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10705": [
+            "MBA:LINGgr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10706": [
+            "MBA:LINGpu"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10707": [
+            "MBA:LINGmo"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10708": [
+            "MBA:CENT2gr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10709": [
+            "MBA:CENT2pu"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1071": [
+            "MBA:rf"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10710": [
+            "MBA:CENT2mo"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10711": [
+            "MBA:CENT3gr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10712": [
+            "MBA:CENT3pu"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10713": [
+            "MBA:CENT3mo"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10714": [
+            "MBA:CUL4gr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10715": [
+            "MBA:CUL4pu"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10716": [
+            "MBA:CUL4mo"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10717": [
+            "MBA:CUL5gr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10718": [
+            "MBA:CUL5pu"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10719": [
+            "MBA:CUL5mo"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1072": [
+            "MBA:MGd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10720": [
+            "MBA:CUL4,_5gr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10721": [
+            "MBA:CUL4,_5pu"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10722": [
+            "MBA:CUL4,_5mo"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10723": [
+            "MBA:DECgr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10724": [
+            "MBA:DECpu"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10725": [
+            "MBA:DECmo"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10726": [
+            "MBA:FOTUgr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10727": [
+            "MBA:FOTUpu"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10728": [
+            "MBA:FOTUmo"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10729": [
+            "MBA:PYRgr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1073": [
+            "MBA:HEM"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10730": [
+            "MBA:PYRpu"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10731": [
+            "MBA:PYRmo"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10732": [
+            "MBA:UVUgr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10733": [
+            "MBA:UVUpu"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10734": [
+            "MBA:UVUmo"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10735": [
+            "MBA:NODgr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10736": [
+            "MBA:NODpu"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_10737": [
+            "MBA:NODmo"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1074": [
+            "MBA:VISal1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1075": [
+            "MBA:TTv2"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1076": [
+            "MBA:cvb"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1077": [
+            "MBA:PR"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1078": [
+            "MBA:ri"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1079": [
+            "MBA:MGv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_108": [
+            "MBA:chpl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1080": [
+            "MBA:HIP"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1081": [
+            "MBA:ILA6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1082": [
+            "MBA:TTv3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1083": [
+            "MBA:mfbse"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1084": [
+            "MBA:PRE"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1085": [
+            "MBA:MOs6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1086": [
+            "MBA:SSp-tr4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1087": [
+            "MBA:pce"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1088": [
+            "MBA:MGm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1089": [
+            "MBA:HPF"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_109": [
+            "MBA:ntt"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1090": [
+            "MBA:SSs5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1091": [
+            "MBA:CUL4,_5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1092": [
+            "MBA:em"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1093": [
+            "MBA:PRNc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1094": [
+            "MBA:SSp-ll4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1095": [
+            "MBA:pcf"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1096": [
+            "MBA:AMd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1097": [
+            "MBA:HY"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1098": [
+            "MBA:MDRNd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1099": [
+            "MBA:fxs"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_11": [
+            "MBA:plf"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_110": [
+            "MBA:PVHpv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1100": [
+            "MBA:PRT"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1101": [
+            "MBA:AId5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1102": [
+            "MBA:SSp-m6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1103": [
+            "MBA:pri"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1104": [
+            "MBA:AMv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1105": [
+            "MBA:IA"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1106": [
+            "MBA:VISC2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1107": [
+            "MBA:MDRNv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1108": [
+            "MBA:ccg"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1109": [
+            "MBA:PS"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_111": [
+            "MBA:AIp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1110": [
+            "MBA:SUMl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1111": [
+            "MBA:SSp-tr5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1112": [
+            "MBA:psf"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1113": [
+            "MBA:IAD"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1114": [
+            "MBA:VISal4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1116": [
+            "MBA:gVIIn"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1117": [
+            "MBA:P-sat"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1118": [
+            "MBA:SUMm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1119": [
+            "MBA:ppf"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_112": [
+            "MBA:CNlam"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1120": [
+            "MBA:IAM"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1121": [
+            "MBA:ENTl1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1123": [
+            "MBA:icp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1124": [
+            "MBA:PSCH"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1125": [
+            "MBA:ORBvl5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1126": [
+            "MBA:TMd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1127": [
+            "MBA:TEa2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1128": [
+            "MBA:SSp-ll5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1129": [
+            "MBA:IB"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_113": [
+            "MBA:SSp-ll2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1131": [
+            "MBA:iVIIn"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1132": [
+            "MBA:P-sen"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1133": [
+            "MBA:ENTmv5/6"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1139": [
+            "MBA:NLOT3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_114": [
+            "MBA:SOCl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1140": [
+            "MBA:TR1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1141": [
+            "MBA:TR2"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1142": [
+            "MBA:TR3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1143": [
+            "MBA:CBXgr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1144": [
+            "MBA:CBXmo"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_1145": [
+            "MBA:CBXpu"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_115": [
+            "MBA:IV"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_116": [
+            "MBA:chfl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_117": [
+            "MBA:och"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_118": [
+            "MBA:PVi"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_119": [
+            "MBA:AIv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_12": [
+            "MBA:IF"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_120": [
+            "MBA:AIp1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_121": [
+            "MBA:VISl6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_122": [
+            "MBA:POR"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_123": [
+            "MBA:KF"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_124": [
+            "MBA:IVF"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_125": [
+            "MBA:opt"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_126": [
+            "MBA:PVp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_127": [
+            "MBA:AM"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_128": [
+            "MBA:MRN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_129": [
+            "MBA:V3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_12993": [
+            "MBA:SS1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_12994": [
+            "MBA:SS2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_12995": [
+            "MBA:SS4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_12996": [
+            "MBA:SS5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_12997": [
+            "MBA:SS6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_12998": [
+            "MBA:SS6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_130": [
+            "MBA:CSm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_131": [
+            "MBA:LA"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_132": [
+            "MBA:PL6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_133": [
+            "MBA:PVpo"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_134": [
+            "MBA:ptf"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_135": [
+            "MBA:AMB"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_136": [
+            "MBA:IRN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_137": [
+            "MBA:CSl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_138": [
+            "MBA:LAT"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_139": [
+            "MBA:ENTl5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_14": [
+            "MBA:im"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_140": [
+            "MBA:AQ"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_141": [
+            "MBA:PVR"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_142": [
+            "MBA:pap"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_143": [
+            "MBA:AMBv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_144": [
+            "MBA:OT1-3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_145": [
+            "MBA:V4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_146": [
+            "MBA:PRNr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_147": [
+            "MBA:LC"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_148": [
+            "MBA:GU4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_149": [
+            "MBA:PVT"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_15": [
+            "MBA:PT"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_150": [
+            "MBA:pvbh"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_151": [
+            "MBA:AOB"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_152": [
+            "MBA:PIR1-3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_153": [
+            "MBA:V4r"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_154": [
+            "MBA:PHY"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_155": [
+            "MBA:LD"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_156": [
+            "MBA:AUDd6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_157": [
+            "MBA:PVZ"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_158": [
+            "MBA:pc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_159": [
+            "MBA:AON"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_16": [
+            "MBA:6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_160": [
+            "MBA:AON1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_161": [
+            "MBA:NIS"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_162": [
+            "MBA:LDT"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_163": [
+            "MBA:AIp2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_164": [
+            "MBA:c"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_165": [
+            "MBA:RAmb"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_166": [
+            "MBA:pmx"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_167": [
+            "MBA:AONd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_168": [
+            "MBA:AON2"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_169": [
+            "MBA:PRP"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_17": [
+            "MBA:SCiw"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_170": [
+            "MBA:LGd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_171": [
+            "MBA:PL1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_173": [
+            "MBA:RCH"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_174": [
+            "MBA:poc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_175": [
+            "MBA:AONe"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_177": [
+            "MBA:NR"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_178": [
+            "MBA:LGv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_179": [
+            "MBA:ACA6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_18": [
+            "MBA:nf"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_180": [
+            "MBA:GU2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_181": [
+            "MBA:RE"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_182": [
+            "MBA:php"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_182305689": [
+            "MBA:SSp-un"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_182305693": [
+            "MBA:SSp-un1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_182305697": [
+            "MBA:SSp-un2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_182305701": [
+            "MBA:SSp-un4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_182305705": [
+            "MBA:SSp-un5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_182305709": [
+            "MBA:SSp-un6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_182305713": [
+            "MBA:SSp-un6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_183": [
+            "MBA:AONl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_184": [
+            "MBA:FRP"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_185": [
+            "MBA:PPYd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_186": [
+            "MBA:LH"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_187": [
+            "MBA:GU5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_188": [
+            "MBA:AOBgl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_189": [
+            "MBA:RH"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_19": [
+            "MBA:IG"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_190": [
+            "MBA:py"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_191": [
+            "MBA:AONm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_192": [
+            "MBA:COAa1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_193": [
+            "MBA:PPYs"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_194": [
+            "MBA:LHA"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_195": [
+            "MBA:PL2"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_196": [
+            "MBA:AOBgr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_197": [
+            "MBA:RL"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_198": [
+            "MBA:pyd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_199": [
+            "MBA:AONpv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_2": [
+            "MBA:SSp-m6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_20": [
+            "MBA:ENTl2"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_200": [
+            "MBA:COAa2"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_201": [
+            "MBA:SSp-bfd2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_202": [
+            "MBA:MV"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_203": [
+            "MBA:LIN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_204": [
+            "MBA:AOBmi"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_205": [
+            "MBA:rstl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_206": [
+            "MBA:RM"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_207": [
+            "MBA:AP"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_208": [
+            "MBA:COAa3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_209": [
+            "MBA:LAV"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_21": [
+            "MBA:lotg"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_210": [
+            "MBA:LM"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_211": [
+            "MBA:ACAd2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_212": [
+            "MBA:MOBgl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_213": [
+            "MBA:rstm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_214": [
+            "MBA:RN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_215": [
+            "MBA:APN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_216": [
+            "MBA:COApl1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_217": [
+            "MBA:SUV"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_218": [
+            "MBA:LP"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_219": [
+            "MBA:MO2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_22": [
+            "MBA:PTLp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_220": [
+            "MBA:MOBgr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_221": [
+            "MBA:rrt"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_222": [
+            "MBA:RO"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_223": [
+            "MBA:ARH"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_224": [
+            "MBA:COApl2"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_225": [
+            "MBA:SPIV"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_226": [
+            "MBA:LPO"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_227": [
+            "MBA:ACA6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_228": [
+            "MBA:MOBipl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_229": [
+            "MBA:sV"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_23": [
+            "MBA:AAA"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_230": [
+            "MBA:RPA"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_231": [
+            "MBA:AT"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_232": [
+            "MBA:COApl3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_233": [
+            "MBA:VISal5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_234": [
+            "MBA:TEa4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_235": [
+            "MBA:LRN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_236": [
+            "MBA:MOBmi"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_237": [
+            "MBA:ts"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_238": [
+            "MBA:RPO"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_239": [
+            "MBA:ATN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_240": [
+            "MBA:COApm1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_241": [
+            "MBA:PTLp2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_242": [
+            "MBA:LS"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_243": [
+            "MBA:AUDd6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_244": [
+            "MBA:MOBopl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_245": [
+            "MBA:scrt"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_246": [
+            "MBA:RR"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_247": [
+            "MBA:AUD"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_248": [
+            "MBA:COApm2"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_249": [
+            "MBA:AUDpo6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_25": [
+            "MBA:sif"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_250": [
+            "MBA:LSc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_251": [
+            "MBA:AUDp2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_252": [
+            "MBA:AUDd5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_253": [
+            "MBA:shp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_254": [
+            "MBA:RSP"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_255": [
+            "MBA:AV"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_256": [
+            "MBA:COApm3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_257": [
+            "MBA:VISpm6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_258": [
+            "MBA:LSr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_259": [
+            "MBA:ENTmv1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_26": [
+            "MBA:SCdg"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_260": [
+            "MBA:NLOT1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_261": [
+            "MBA:sop"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_262": [
+            "MBA:RT"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_263": [
+            "MBA:AVP"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_264": [
+            "MBA:ORB1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_266": [
+            "MBA:LSv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_267": [
+            "MBA:DP6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_268": [
+            "MBA:NLOT2"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_269": [
+            "MBA:VISpl2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_27": [
+            "MBA:IGL"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_270": [
+            "MBA:srp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_271": [
+            "MBA:SAG"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_272": [
+            "MBA:AVPV"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_274": [
+            "MBA:RSPd6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_275": [
+            "MBA:LSX"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_276": [
+            "MBA:PIR1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_277": [
+            "MBA:stp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_278": [
+            "MBA:sAMY"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_279": [
+            "MBA:RSPagl6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_28": [
+            "MBA:ENTl6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_280": [
+            "MBA:B"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_281": [
+            "MBA:VISam1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_283": [
+            "MBA:LTN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_284": [
+            "MBA:PIR2"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_285": [
+            "MBA:step"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_286": [
+            "MBA:SCH"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_287": [
+            "MBA:BAC"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_288": [
+            "MBA:ORBvl2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_289": [
+            "MBA:TEa5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_29": [
+            "MBA:sttl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_290": [
+            "MBA:LZ"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_291": [
+            "MBA:PIR3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_292": [
+            "MBA:BA"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_293": [
+            "MBA:svp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_294": [
+            "MBA:SCm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_295": [
+            "MBA:BLA"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_296": [
+            "MBA:ACAv2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_297": [
+            "MBA:TTd1-4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_298": [
+            "MBA:MA"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_299": [
+            "MBA:MO5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_3": [
+            "MBA:sec"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_30": [
+            "MBA:PVa"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_300": [
+            "MBA:LGvl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_301": [
+            "MBA:st"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_302": [
+            "MBA:SCs"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_303": [
+            "MBA:BLAa"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_304": [
+            "MBA:PL2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_304325711": [
+            "MBA:retina"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_305": [
+            "MBA:VISp6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_306": [
+            "MBA:TTv1-3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_307": [
+            "MBA:MARN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_308": [
+            "MBA:PTLp6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_309": [
+            "MBA:snp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_31": [
+            "MBA:ACA"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_310": [
+            "MBA:SF"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_311": [
+            "MBA:BLAp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312": [
+            "MBA:ENTl4/5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312782546": [
+            "MBA:VISa"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312782550": [
+            "MBA:VISa1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312782554": [
+            "MBA:VISa2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312782558": [
+            "MBA:VISa4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312782562": [
+            "MBA:VISa5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312782566": [
+            "MBA:VISa6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312782570": [
+            "MBA:VISa6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312782574": [
+            "MBA:VISli"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312782578": [
+            "MBA:VISli1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312782582": [
+            "MBA:VISli2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312782586": [
+            "MBA:VISli4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312782590": [
+            "MBA:VISli5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312782594": [
+            "MBA:VISli6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312782598": [
+            "MBA:VISli6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312782604": [
+            "MBA:VISrl1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312782608": [
+            "MBA:VISrl2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312782612": [
+            "MBA:VISrl4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312782616": [
+            "MBA:VISrl5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312782620": [
+            "MBA:VISrl6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312782624": [
+            "MBA:VISrl6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312782628": [
+            "MBA:VISpor"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312782632": [
+            "MBA:VISpor1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312782636": [
+            "MBA:VISpor2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312782640": [
+            "MBA:VISpor4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312782644": [
+            "MBA:VISpor5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312782648": [
+            "MBA:VISpor6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_312782652": [
+            "MBA:VISpor6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_313": [
+            "MBA:MB"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_314": [
+            "MBA:AIp6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_315": [
+            "MBA:Isocortex"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_316": [
+            "MBA:LGvm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_317": [
+            "MBA:stf"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_318": [
+            "MBA:SG"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_319": [
+            "MBA:BMA"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_320": [
+            "MBA:MOp1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_321": [
+            "MBA:SubG"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_322": [
+            "MBA:SSp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_323": [
+            "MBA:MBmot"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_324": [
+            "MBA:ENTmv2"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_325": [
+            "MBA:SGN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_326": [
+            "MBA:scp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_327": [
+            "MBA:BMAa"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_328": [
+            "MBA:AId2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_329": [
+            "MBA:SSp-bfd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_33": [
+            "MBA:VISp6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_330": [
+            "MBA:RSPd6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_331": [
+            "MBA:MBO"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_332": [
+            "MBA:ASO"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_333": [
+            "MBA:SH"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_334": [
+            "MBA:BMAp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_335": [
+            "MBA:PERI6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_336": [
+            "MBA:csc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_337": [
+            "MBA:SSp-ll"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_338": [
+            "MBA:SFO"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_339": [
+            "MBA:MBsen"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_34": [
+            "MBA:icf"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_340": [
+            "MBA:PTLp6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_341": [
+            "MBA:smd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_342": [
+            "MBA:SI"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_343": [
+            "MBA:BS"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_344": [
+            "MBA:AIp5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_345": [
+            "MBA:SSp-m"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_346": [
+            "MBA:SSp2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_347": [
+            "MBA:SBPV"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_348": [
+            "MBA:MBsta"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_349": [
+            "MBA:sup"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_35": [
+            "MBA:III"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_350": [
+            "MBA:SLC"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_351": [
+            "MBA:BST"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_352": [
+            "MBA:ORB5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_353": [
+            "MBA:SSp-n"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_354": [
+            "MBA:MY"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_355": [
+            "MBA:AIp6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_356": [
+            "MBA:PST"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_357": [
+            "MBA:ttp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_358": [
+            "MBA:SLD"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_359": [
+            "MBA:BSTa"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_36": [
+            "MBA:GU1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_360": [
+            "MBA:DP2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_361": [
+            "MBA:SSp-tr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_362": [
+            "MBA:MD"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_363": [
+            "MBA:PL5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_364": [
+            "MBA:PSTN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_365": [
+            "MBA:tp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_366": [
+            "MBA:SMT"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_367": [
+            "MBA:BSTp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_368": [
+            "MBA:PERI6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_369": [
+            "MBA:SSp-ul"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_37": [
+            "MBA:lab"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_370": [
+            "MBA:MY-mot"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_371": [
+            "MBA:ENTmv3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_372": [
+            "MBA:ICB"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_373": [
+            "MBA:tct"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_374": [
+            "MBA:SNc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_375": [
+            "MBA:CA"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_376": [
+            "MBA:COApl1-3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_377": [
+            "MBA:VISpl6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_378": [
+            "MBA:SSs"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_379": [
+            "MBA:MY-sat"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_38": [
+            "MBA:PVH"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_380": [
+            "MBA:cuf"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_381": [
+            "MBA:SNr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_382": [
+            "MBA:CA1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_383": [
+            "MBA:COApm1-3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_384": [
+            "MBA:IVd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_385": [
+            "MBA:VISp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_386": [
+            "MBA:MY-sen"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_387": [
+            "MBA:ENTl5/6"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_388": [
+            "MBA:grf"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_389": [
+            "MBA:sttv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_39": [
+            "MBA:ACAd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_390": [
+            "MBA:SO"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_391": [
+            "MBA:CA1slm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_392": [
+            "MBA:NLOT1-3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_393": [
+            "MBA:VISpl6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_394": [
+            "MBA:VISam"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_395": [
+            "MBA:MDRN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_396": [
+            "MBA:iaf"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_397": [
+            "MBA:vtd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_398": [
+            "MBA:SOC"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_399": [
+            "MBA:CA1so"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_4": [
+            "MBA:IC"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_400": [
+            "MBA:PAA1-3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_401": [
+            "MBA:VISam4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_402": [
+            "MBA:VISal"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_403": [
+            "MBA:MEA"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_404": [
+            "MBA:oct"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_405": [
+            "MBA:vlt"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_406": [
+            "MBA:SPF"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_407": [
+            "MBA:CA1sp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_408": [
+            "MBA:PAA1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_409": [
+            "MBA:VISl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_41": [
+            "MBA:VISpm2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_410": [
+            "MBA:rct"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_411": [
+            "MBA:MEAad"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_412": [
+            "MBA:ORBl2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_413": [
+            "MBA:vVIIIn"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_414": [
+            "MBA:SPFm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_415": [
+            "MBA:CA1sr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_416": [
+            "MBA:PAA2"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_417": [
+            "MBA:VISrl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_418": [
+            "MBA:MEAav"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_419": [
+            "MBA:ENTmv4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_42": [
+            "MBA:SCdw"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_420": [
+            "MBA:db"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_421": [
+            "MBA:VISl1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_422": [
+            "MBA:SPFp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_423": [
+            "MBA:CA2"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_424": [
+            "MBA:PAA3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_425": [
+            "MBA:VISpl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_426": [
+            "MBA:MEApd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_427": [
+            "MBA:ECT2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_428": [
+            "MBA:mct"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_429": [
+            "MBA:SPVC"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_43": [
+            "MBA:apf"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_430": [
+            "MBA:RSPv2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_431": [
+            "MBA:CA2slm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_432": [
+            "MBA:NC"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_433": [
+            "MBA:VISam5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_434": [
+            "MBA:RSPd2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_435": [
+            "MBA:MEApv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_436": [
+            "MBA:fx"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_437": [
+            "MBA:SPVI"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_438": [
+            "MBA:CA2so"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_439": [
+            "MBA:PVHdp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_44": [
+            "MBA:ILA"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_440": [
+            "MBA:ORBl6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_441": [
+            "MBA:VISam6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_442": [
+            "MBA:RSPd1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_443": [
+            "MBA:dhc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_444": [
+            "MBA:MED"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_445": [
+            "MBA:SPVO"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_446": [
+            "MBA:CA2sp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_447": [
+            "MBA:PVHf"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_448": [
+            "MBA:ORBl1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_449": [
+            "MBA:vhc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_45": [
+            "MBA:SPVOrdm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_450": [
+            "MBA:SSp-ul1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_451": [
+            "MBA:BLAv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_452": [
+            "MBA:MEPO"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_453": [
+            "MBA:SS"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_454": [
+            "MBA:CA2sr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_455": [
+            "MBA:PVHlp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_456": [
+            "MBA:AUDpo6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_457": [
+            "MBA:VIS6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_458": [
+            "MBA:OT1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_459": [
+            "MBA:aolt"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_46": [
+            "MBA:mfbsma"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_460": [
+            "MBA:MEV"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_461": [
+            "MBA:SSp-tr6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_462": [
+            "MBA:SSN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_463": [
+            "MBA:CA3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_464": [
+            "MBA:PVHmpv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_465": [
+            "MBA:OT2"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_466": [
+            "MBA:alv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_467": [
+            "MBA:MEZ"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_468": [
+            "MBA:ENTm2a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_469": [
+            "MBA:VISpm6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_47": [
+            "MBA:PVHam"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_470": [
+            "MBA:STN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_471": [
+            "MBA:CA3slm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_472": [
+            "MBA:MEApd-a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_473": [
+            "MBA:OT3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_474": [
+            "MBA:ab"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_475": [
+            "MBA:MG"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_476": [
+            "MBA:ORB6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_477": [
+            "MBA:STR"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_478": [
+            "MBA:SSp-ll6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_479": [
+            "MBA:CA3slu"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_48": [
+            "MBA:ACAv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_480": [
+            "MBA:MEApd-b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_481": [
+            "MBA:isl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_482": [
+            "MBA:bic"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_483": [
+            "MBA:MH"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_484": [
+            "MBA:ORBm1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_485": [
+            "MBA:STRd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_486": [
+            "MBA:CA3so"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_487": [
+            "MBA:MEApd-c"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_488": [
+            "MBA:ORBl6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_489": [
+            "MBA:islm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_49": [
+            "MBA:ipf"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_490": [
+            "MBA:bct"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_491": [
+            "MBA:MM"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_492": [
+            "MBA:ORB2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_493": [
+            "MBA:STRv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_494": [
+            "MBA:SCig-a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_495": [
+            "MBA:CA3sp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_496": [
+            "MBA:DP1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_497": [
+            "MBA:VIS6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_498": [
+            "MBA:BSTam"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_499": [
+            "MBA:cct"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_50": [
+            "MBA:PRC"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_500": [
+            "MBA:MO"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_501": [
+            "MBA:VISpm4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_502": [
+            "MBA:SUB"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_503": [
+            "MBA:SCig-b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_504": [
+            "MBA:CA3sr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_505": [
+            "MBA:BSTdm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_506": [
+            "MBA:das"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_507": [
+            "MBA:MOB"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_508": [
+            "MBA:ENTm2b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_509": [
+            "MBA:SUBd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_51": [
+            "MBA:ILM"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_510": [
+            "MBA:SSp-ll6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_511": [
+            "MBA:SCig-c"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_512": [
+            "MBA:CB"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_513": [
+            "MBA:BSTfu"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_514": [
+            "MBA:dc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_515": [
+            "MBA:MPN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_516": [
+            "MBA:ORB6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_517": [
+            "MBA:TR1-3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_518": [
+            "MBA:SUBv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_519": [
+            "MBA:CBN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_52": [
+            "MBA:ENTl3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_520": [
+            "MBA:AUDv6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_521": [
+            "MBA:BSTmg"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_522": [
+            "MBA:dcm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_523": [
+            "MBA:MPO"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_524": [
+            "MBA:ORBm2"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_525": [
+            "MBA:SUM"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_526": [
+            "MBA:ENTm1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_527": [
+            "MBA:AUDd1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_528": [
+            "MBA:CBX"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_529": [
+            "MBA:BSTv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_53": [
+            "MBA:SPVOmdmd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_530": [
+            "MBA:df"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_531": [
+            "MBA:MPT"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_532": [
+            "MBA:PTLp1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_533": [
+            "MBA:VISpm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_534": [
+            "MBA:SUT"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_535": [
+            "MBA:DP2"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_536": [
+            "MBA:CEA"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_537": [
+            "MBA:BSTal"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_538": [
+            "MBA:lotd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_539": [
+            "MBA:MRNm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_54": [
+            "MBA:mfb"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_540": [
+            "MBA:PERI1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_541": [
+            "MBA:TEa"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_542": [
+            "MBA:RSPv1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_543": [
+            "MBA:ENTm2"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_544": [
+            "MBA:CEAc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_545": [
+            "MBA:RSPd4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_546": [
+            "MBA:BSTju"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_547": [
+            "MBA:dlf"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_548": [
+            "MBA:MRNmg"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_549": [
+            "MBA:TH"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_55": [
+            "MBA:PVHap"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_550": [
+            "MBA:ENTm5/6"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_551": [
+            "MBA:CEAl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_552": [
+            "MBA:PRNv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_553": [
+            "MBA:sctd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_554": [
+            "MBA:BSTov"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_555": [
+            "MBA:MRNp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_556": [
+            "MBA:ILA2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_557": [
+            "MBA:TM"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_558": [
+            "MBA:SSp-n1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_559": [
+            "MBA:CEAm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_56": [
+            "MBA:ACB"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_560": [
+            "MBA:CNspg"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_561": [
+            "MBA:VIS2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_562": [
+            "MBA:BSTrh"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_563": [
+            "MBA:dtt"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_564": [
+            "MBA:MS"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_565": [
+            "MBA:VISpm5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_566": [
+            "MBA:TR"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_567": [
+            "MBA:CH"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_568": [
+            "MBA:ACVI"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_569": [
+            "MBA:BSTd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_57": [
+            "MBA:pms"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_570": [
+            "MBA:dl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_571": [
+            "MBA:MTN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_572": [
+            "MBA:ACA1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_573": [
+            "MBA:VISl4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_574": [
+            "MBA:TRN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_575": [
+            "MBA:CL"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_576": [
+            "MBA:ACVII"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_577": [
+            "MBA:SSp-ul4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_578": [
+            "MBA:BSTpr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_579": [
+            "MBA:ec"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_58": [
+            "MBA:MT"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_580": [
+            "MBA:NB"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_581": [
+            "MBA:TRS"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_582": [
+            "MBA:ORBm2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_583": [
+            "MBA:CLA"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_584": [
+            "MBA:COApl1-2"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_585": [
+            "MBA:BSTif"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_586": [
+            "MBA:fpr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_587": [
+            "MBA:ND"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_588": [
+            "MBA:ACAv1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_589": [
+            "MBA:TT"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_59": [
+            "MBA:IMD"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_590": [
+            "MBA:RSPv6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_591": [
+            "MBA:CLI"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_592": [
+            "MBA:COApm1-2"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_593": [
+            "MBA:VISp1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_594": [
+            "MBA:BSTtr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_595": [
+            "MBA:fr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_596": [
+            "MBA:NDB"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_597": [
+            "MBA:TTd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_598": [
+            "MBA:AUDv6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_599": [
+            "MBA:CM"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_6": [
+            "MBA:int"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_60": [
+            "MBA:ENTl6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_600": [
+            "MBA:AUDd2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_601": [
+            "MBA:VISal6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_602": [
+            "MBA:BSTse"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_603": [
+            "MBA:fi"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_604": [
+            "MBA:NI"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_605": [
+            "MBA:TTv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_606": [
+            "MBA:RSPv2"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_607": [
+            "MBA:CN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_608": [
+            "MBA:ORBvl6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_609": [
+            "MBA:SPA"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_61": [
+            "MBA:SPVOmdmv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_610": [
+            "MBA:RSPd5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_611": [
+            "MBA:hbc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_612": [
+            "MBA:NLL"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_613": [
+            "MBA:VISl5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_614": [
+            "MBA:TU"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_615": [
+            "MBA:SNl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_616": [
+            "MBA:CUN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_617": [
+            "MBA:MDc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_618": [
+            "MBA:hc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_619": [
+            "MBA:NLOT"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_62": [
+            "MBA:mlf"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_620": [
+            "MBA:ORBm5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_621": [
+            "MBA:V"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_622": [
+            "MBA:RSPv6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_623": [
+            "MBA:CNU"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_624": [
+            "MBA:IPF"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_625": [
+            "MBA:SSp-ul5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_626": [
+            "MBA:MDl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_627": [
+            "MBA:hht"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_628": [
+            "MBA:NOT"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_629": [
+            "MBA:VAL"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_63": [
+            "MBA:PVHd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_630": [
+            "MBA:ORBl5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_631": [
+            "MBA:COA"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_632": [
+            "MBA:DG-sg"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_633": [
+            "MBA:cic"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_634": [
+            "MBA:NPC"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_635": [
+            "MBA:PTLp4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_636": [
+            "MBA:MDm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_637": [
+            "MBA:VENT"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_638": [
+            "MBA:GU6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_639": [
+            "MBA:COAa"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_64": [
+            "MBA:AD"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_640": [
+            "MBA:EV"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_641": [
+            "MBA:ias"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_642": [
+            "MBA:NTB"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_643": [
+            "MBA:AUDpo2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_644": [
+            "MBA:MO6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_645": [
+            "MBA:VERM"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_646": [
+            "MBA:DP5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_647": [
+            "MBA:COAp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_648": [
+            "MBA:MOp5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_649": [
+            "MBA:VISal6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_65": [
+            "MBA:pfs"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_650": [
+            "MBA:jrb"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_651": [
+            "MBA:NTS"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_652": [
+            "MBA:PVHpml"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_653": [
+            "MBA:VI"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_654": [
+            "MBA:SSp-n4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_655": [
+            "MBA:COApl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_656": [
+            "MBA:MOs1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_657": [
+            "MBA:SSp-m2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_658": [
+            "MBA:ll"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_659": [
+            "MBA:NTSce"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_66": [
+            "MBA:LT"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_660": [
+            "MBA:PVHpmm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_661": [
+            "MBA:VII"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_662": [
+            "MBA:GU6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_663": [
+            "MBA:COApm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_664": [
+            "MBA:ENTm3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_665": [
+            "MBA:lot"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_666": [
+            "MBA:NTSco"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_667": [
+            "MBA:FRP2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_668": [
+            "MBA:DMHa"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_669": [
+            "MBA:VIS"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_67": [
+            "MBA:INC"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_670": [
+            "MBA:SSp-tr2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_671": [
+            "MBA:RSPagl1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_672": [
+            "MBA:CP"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_673": [
+            "MBA:mp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_674": [
+            "MBA:NTSge"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_675": [
+            "MBA:AIv6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_676": [
+            "MBA:DMHp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_677": [
+            "MBA:VISC"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_678": [
+            "MBA:AUDd4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_679": [
+            "MBA:CS"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_68": [
+            "MBA:FRP1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_680": [
+            "MBA:ORBvl6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_681": [
+            "MBA:mtg"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_682": [
+            "MBA:NTSl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_683": [
+            "MBA:PTLp5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_684": [
+            "MBA:DMHv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_685": [
+            "MBA:VM"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_686": [
+            "MBA:SSp6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_687": [
+            "MBA:RSPv5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_688": [
+            "MBA:CTX"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_689": [
+            "MBA:VLPO"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_69": [
+            "MBA:SPVOvl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_690": [
+            "MBA:mtt"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_691": [
+            "MBA:NTSm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_692": [
+            "MBA:PERI5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_693": [
+            "MBA:VMH"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_694": [
+            "MBA:AIv2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_695": [
+            "MBA:CTXpl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_696": [
+            "MBA:AUDpo1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_697": [
+            "MBA:ml"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_698": [
+            "MBA:OLF"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_699": [
+            "MBA:AIv6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_7": [
+            "MBA:PSV"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_70": [
+            "MBA:mfbsm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_700": [
+            "MBA:AHNa"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_701": [
+            "MBA:VNC"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_702": [
+            "MBA:SSp-n5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_703": [
+            "MBA:CTXsp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_704": [
+            "MBA:AIv1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_705": [
+            "MBA:mtV"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_706": [
+            "MBA:OP"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_707": [
+            "MBA:ILA1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_708": [
+            "MBA:AHNc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_709": [
+            "MBA:VP"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_71": [
+            "MBA:PVHm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_710": [
+            "MBA:VIn"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_711": [
+            "MBA:CU"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_712": [
+            "MBA:ENTm4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_713": [
+            "MBA:per"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_714": [
+            "MBA:ORB"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_715": [
+            "MBA:ENTl2a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_716": [
+            "MBA:AHNd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_717": [
+            "MBA:XIn"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_718": [
+            "MBA:VPL"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_719": [
+            "MBA:SSp6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_72": [
+            "MBA:ADP"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_720": [
+            "MBA:DCN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_721": [
+            "MBA:VISp4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_722": [
+            "MBA:pvbt"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_723": [
+            "MBA:ORBl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_724": [
+            "MBA:AHNp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_725": [
+            "MBA:VPLpc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_726": [
+            "MBA:DG"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_727": [
+            "MBA:ENTm5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_728": [
+            "MBA:arb"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_729": [
+            "MBA:TEa6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_73": [
+            "MBA:VS"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_730": [
+            "MBA:PIS"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_731": [
+            "MBA:ORBm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_732": [
+            "MBA:Mmme"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_733": [
+            "MBA:VPM"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_734": [
+            "MBA:DGcr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_735": [
+            "MBA:AUDp1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_736": [
+            "MBA:ctb"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_737": [
+            "MBA:fxpo"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_738": [
+            "MBA:ORBv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_739": [
+            "MBA:ACA5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_74": [
+            "MBA:VISl6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_740": [
+            "MBA:MPNc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_741": [
+            "MBA:VPMpc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_742": [
+            "MBA:DGcr-mo"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_743": [
+            "MBA:ENTm6"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_744": [
+            "MBA:cbc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_745": [
+            "MBA:fxprg"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_746": [
+            "MBA:ORBvl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_747": [
+            "MBA:ILA2"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_748": [
+            "MBA:MPNl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_749": [
+            "MBA:VTA"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_75": [
+            "MBA:DT"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_750": [
+            "MBA:VISpl1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_751": [
+            "MBA:DGcr-po"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_752": [
+            "MBA:cbp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_753": [
+            "MBA:pm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_754": [
+            "MBA:OT"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_755": [
+            "MBA:AUDv2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_756": [
+            "MBA:MPNm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_757": [
+            "MBA:VTN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_758": [
+            "MBA:DGcr-sg"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_759": [
+            "MBA:AUDpo4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_76": [
+            "MBA:INV"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_760": [
+            "MBA:epsc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_761": [
+            "MBA:VMHa"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_762": [
+            "MBA:phpd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_763": [
+            "MBA:OV"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_764": [
+            "MBA:ENTl2b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_765": [
+            "MBA:x"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_766": [
+            "MBA:DGlb"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_767": [
+            "MBA:MOs5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_768": [
+            "MBA:mfbc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_769": [
+            "MBA:VMHc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_77": [
+            "MBA:SPVOcdm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_770": [
+            "MBA:phpl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_771": [
+            "MBA:P"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_772": [
+            "MBA:ACAv5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_773": [
+            "MBA:XII"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_774": [
+            "MBA:RSPagl5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_775": [
+            "MBA:DGlb-mo"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_776": [
+            "MBA:cc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_777": [
+            "MBA:VMHdm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_778": [
+            "MBA:VISp5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_779": [
+            "MBA:phpm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_78": [
+            "MBA:mcp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_780": [
+            "MBA:PA"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_781": [
+            "MBA:y"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_782": [
+            "MBA:DGlb-po"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_783": [
+            "MBA:AId6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_784": [
+            "MBA:cst"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_785": [
+            "MBA:VMHvl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_786": [
+            "MBA:TEa6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_787": [
+            "MBA:phpv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_788": [
+            "MBA:PAA"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_789": [
+            "MBA:z"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_79": [
+            "MBA:PVHmm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_790": [
+            "MBA:DGlb-sg"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_791": [
+            "MBA:AUDpo5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_792": [
+            "MBA:drt"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_793": [
+            "MBA:SSp1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_794": [
+            "MBA:sptV"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_795": [
+            "MBA:PAG"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_796": [
+            "MBA:A13"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_797": [
+            "MBA:ZI"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_798": [
+            "MBA:VIIn"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_799": [
+            "MBA:DGmb"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_8": [
+            "MBA:grey"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_80": [
+            "MBA:AHA"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_800": [
+            "MBA:AIv5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_801": [
+            "MBA:VIS1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_802": [
+            "MBA:sm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_803": [
+            "MBA:PAL"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_804": [
+            "MBA:FF"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_805": [
+            "MBA:VISpm1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_806": [
+            "MBA:SSs2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_807": [
+            "MBA:DGmb-mo"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_808": [
+            "MBA:IXn"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_809": [
+            "MBA:PALc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_81": [
+            "MBA:VL"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_810": [
+            "MBA:ACAv6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_811": [
+            "MBA:ICc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_812": [
+            "MBA:dscp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_813": [
+            "MBA:XIIn"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_814": [
+            "MBA:DP"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_815": [
+            "MBA:DGmb-po"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_816": [
+            "MBA:AUDp4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_817": [
+            "MBA:supa"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_818": [
+            "MBA:PALd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_819": [
+            "MBA:ACAv6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_82": [
+            "MBA:NLLd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_820": [
+            "MBA:ICd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_821": [
+            "MBA:VISp2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_822": [
+            "MBA:RHP"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_823": [
+            "MBA:DGmb-sg"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_824": [
+            "MBA:mfsbshy"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_825": [
+            "MBA:supd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_826": [
+            "MBA:PALm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_827": [
+            "MBA:ILA5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_828": [
+            "MBA:ICe"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_829": [
+            "MBA:SUBd-m"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_83": [
+            "MBA:IO"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_830": [
+            "MBA:DMH"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_831": [
+            "MBA:AId6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_832": [
+            "MBA:IIIn"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_833": [
+            "MBA:supv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_834": [
+            "MBA:SCzo"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_835": [
+            "MBA:PALv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_836": [
+            "MBA:ECT1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_837": [
+            "MBA:SUBd-sr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_838": [
+            "MBA:SSp-n2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_839": [
+            "MBA:DMX"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_84": [
+            "MBA:PL6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_840": [
+            "MBA:In"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_841": [
+            "MBA:tb"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_842": [
+            "MBA:SCsg"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_843": [
+            "MBA:PAR"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_844": [
+            "MBA:MOp6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_845": [
+            "MBA:SUBd-sp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_846": [
+            "MBA:DN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_847": [
+            "MBA:AUDp5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_848": [
+            "MBA:IIn"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_849": [
+            "MBA:VISC6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_85": [
+            "MBA:sct"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_850": [
+            "MBA:uf"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_851": [
+            "MBA:SCop"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_852": [
+            "MBA:PARN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_853": [
+            "MBA:SUBv-m"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_854": [
+            "MBA:SSp-ul2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_855": [
+            "MBA:rst"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_856": [
+            "MBA:DORpm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_857": [
+            "MBA:VISC6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_858": [
+            "MBA:vc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_859": [
+            "MBA:PAS"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_86": [
+            "MBA:mtc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_860": [
+            "MBA:PBlc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_861": [
+            "MBA:SUBv-sr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_862": [
+            "MBA:SSs6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_863": [
+            "MBA:rust"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_864": [
+            "MBA:DORsm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_865": [
+            "MBA:SSp4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_866": [
+            "MBA:sctv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_867": [
+            "MBA:PB"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_868": [
+            "MBA:PBld"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_869": [
+            "MBA:VISpl4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_87": [
+            "MBA:PVHmpd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_870": [
+            "MBA:SUBv-sp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_871": [
+            "MBA:sst"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_872": [
+            "MBA:DR"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_873": [
+            "MBA:SSs1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_874": [
+            "MBA:PBG"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_875": [
+            "MBA:PBle"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_876": [
+            "MBA:aot"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_877": [
+            "MBA:tsp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_878": [
+            "MBA:SSp-m1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_879": [
+            "MBA:RSPd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_88": [
+            "MBA:AHN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_880": [
+            "MBA:DTN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_881": [
+            "MBA:PBl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_882": [
+            "MBA:MOp6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_883": [
+            "MBA:PBls"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_884": [
+            "MBA:amc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_885": [
+            "MBA:tn"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_886": [
+            "MBA:RSPv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_887": [
+            "MBA:ECO"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_888": [
+            "MBA:PERI2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_889": [
+            "MBA:SSp-n6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_89": [
+            "MBA:RC"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_890": [
+            "MBA:PBm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_891": [
+            "MBA:PBlv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_892": [
+            "MBA:apd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_893": [
+            "MBA:SSs6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_894": [
+            "MBA:RSPagl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_895": [
+            "MBA:ECT"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_896": [
+            "MBA:lfbst"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_897": [
+            "MBA:VISC1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_898": [
+            "MBA:PCG"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_899": [
+            "MBA:PBme"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_9": [
+            "MBA:SSp-tr6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_90": [
+            "MBA:NLLh"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_900": [
+            "MBA:aco"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_901": [
+            "MBA:Vn"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_902": [
+            "MBA:VISpl5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_903": [
+            "MBA:ECU"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_904": [
+            "MBA:MSC"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_905": [
+            "MBA:VISal2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_906": [
+            "MBA:RSPagl6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_907": [
+            "MBA:PCN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_908": [
+            "MBA:act"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_909": [
+            "MBA:ENT"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_91": [
+            "MBA:IP"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_910": [
+            "MBA:ORBm6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_911": [
+            "MBA:IVn"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_912": [
+            "MBA:LING"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_913": [
+            "MBA:VIS4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_914": [
+            "MBA:PD"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_915": [
+            "MBA:PBmm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_916": [
+            "MBA:bsc"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_917": [
+            "MBA:Xn"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_918": [
+            "MBA:ENTl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_919": [
+            "MBA:ACAd6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_92": [
+            "MBA:ENTl4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_920": [
+            "MBA:CENT"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_921": [
+            "MBA:SSp5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_922": [
+            "MBA:PERI"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_923": [
+            "MBA:PBmv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_924": [
+            "MBA:cpd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_925": [
+            "MBA:vrt"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_926": [
+            "MBA:ENTm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_927": [
+            "MBA:ACAd6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_928": [
+            "MBA:CUL"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_929": [
+            "MBA:SSp-n6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_93": [
+            "MBA:moV"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_930": [
+            "MBA:PF"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_931": [
+            "MBA:PG"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_932": [
+            "MBA:cett"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_933": [
+            "MBA:VIIIn"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_934": [
+            "MBA:ENTmv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_935": [
+            "MBA:ACAd1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_936": [
+            "MBA:DEC"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_937": [
+            "MBA:VIS5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_938": [
+            "MBA:PGRN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_939": [
+            "MBA:AMBd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_94": [
+            "MBA:PVHp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_940": [
+            "MBA:cing"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_941": [
+            "MBA:vsp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_942": [
+            "MBA:EP"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_943": [
+            "MBA:MOp2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_944": [
+            "MBA:FOTU"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_945": [
+            "MBA:SSp-ul6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_946": [
+            "MBA:PH"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_947": [
+            "MBA:MO6b"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_948": [
+            "MBA:cVIIIn"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_949": [
+            "MBA:von"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_95": [
+            "MBA:AI"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_950": [
+            "MBA:SSp-m4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_951": [
+            "MBA:PYR"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_952": [
+            "MBA:EPd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_953": [
+            "MBA:PIN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_954": [
+            "MBA:AUDp6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_955": [
+            "MBA:LRNm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_956": [
+            "MBA:fa"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_957": [
+            "MBA:UVU"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_958": [
+            "MBA:EPI"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_959": [
+            "MBA:AUDv1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_96": [
+            "MBA:DCO"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_960": [
+            "MBA:cbf"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_961": [
+            "MBA:PIR"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_962": [
+            "MBA:MOs2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_963": [
+            "MBA:LRNp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_964": [
+            "MBA:ee"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_965": [
+            "MBA:RSPagl2/3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_966": [
+            "MBA:EPv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_967": [
+            "MBA:cm"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_968": [
+            "MBA:NOD"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_969": [
+            "MBA:ORBvl1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_97": [
+            "MBA:TEa1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_970": [
+            "MBA:PGRNd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_971": [
+            "MBA:fp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_972": [
+            "MBA:PL"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_973": [
+            "MBA:VISl23"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_974": [
+            "MBA:SSp-m5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_975": [
+            "MBA:EW"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_976": [
+            "MBA:CENT2"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_977": [
+            "MBA:ECT6a"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_978": [
+            "MBA:PGRNl"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_979": [
+            "MBA:ccr"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_98": [
+            "MBA:SEZ"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_980": [
+            "MBA:PMd"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_981": [
+            "MBA:SSp-bfd1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_982": [
+            "MBA:FC"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_983": [
+            "MBA:lfbs"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_984": [
+            "MBA:CENT3"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_985": [
+            "MBA:MOp"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_986": [
+            "MBA:ccs"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_987": [
+            "MBA:P-mot"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_988": [
+            "MBA:ECT5"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_989": [
+            "MBA:FN"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_99": [
+            "MBA:NLLv"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_990": [
+            "MBA:AUDv4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_991": [
+            "MBA:mfbs"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_992": [
+            "MBA:CUL4"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_993": [
+            "MBA:MOs"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_994": [
+            "MBA:cbt"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_995": [
+            "MBA:PMR"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_996": [
+            "MBA:AId1"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_997": [
+            "MBA:root"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_998": [
+            "MBA:FS"
+          ],
+          "http://purl.obolibrary.org/obo/MBA_999": [
+            "MBA:ENTl2/3"
+          ]
+        },
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}

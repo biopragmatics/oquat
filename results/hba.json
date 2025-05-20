@@ -2,26 +2,5465 @@
   "results": {
     "http://purl.obolibrary.org/obo/hba.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/hba.owl",
-      "prov_pack": {
-        "invalid_luids": {},
+      "prop_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/HBA_10142": [
+            "HBA:Pir"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_10143": [
+            "HBA:Pir"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_10144": [
+            "HBA:Pir"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_10145": [
+            "HBA:OlfT"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_10146": [
+            "HBA:OlfT"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_10147": [
+            "HBA:CGPo"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_10148": [
+            "HBA:CGPo"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_10149": [
+            "HBA:CGPo"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_10150": [
+            "HBA:mts"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_10151": [
+            "HBA:LTu"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_10152": [
+            "HBA:LTu"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12891": [
+            "HBA:DG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12892": [
+            "HBA:CA1"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12893": [
+            "HBA:CA2"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12894": [
+            "HBA:CA3"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12895": [
+            "HBA:CA4"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12896": [
+            "HBA:S"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12897": [
+            "HBA:GPe"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12898": [
+            "HBA:GPi"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12899": [
+            "HBA:BCd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12900": [
+            "HBA:HCd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12901": [
+            "HBA:TCd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12902": [
+            "HBA:AHA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12903": [
+            "HBA:AHN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12904": [
+            "HBA:LHA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12905": [
+            "HBA:PVH"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12906": [
+            "HBA:PVa"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12907": [
+            "HBA:SO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12908": [
+            "HBA:SCN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12909": [
+            "HBA:MB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12910": [
+            "HBA:PHA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12911": [
+            "HBA:SuM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12912": [
+            "HBA:TM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12913": [
+            "HBA:ARH"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12914": [
+            "HBA:DMH"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12915": [
+            "HBA:LTu"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12916": [
+            "HBA:ME"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12917": [
+            "HBA:PeF"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12918": [
+            "HBA:PVt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12919": [
+            "HBA:VMH"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12920": [
+            "HBA:DTA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12921": [
+            "HBA:ILc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12922": [
+            "HBA:LGd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12923": [
+            "HBA:DTL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12924": [
+            "HBA:DTLd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12925": [
+            "HBA:DTLv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12926": [
+            "HBA:MG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12927": [
+            "HBA:DTM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12928": [
+            "HBA:DTP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12929": [
+            "HBA:ILr"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12930": [
+            "HBA:CbH"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12931": [
+            "HBA:Cb-AL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12932": [
+            "HBA:Cb-I-II"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12933": [
+            "HBA:Cb-III"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12934": [
+            "HBA:Cb-IV"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12935": [
+            "HBA:Cb-V"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12936": [
+            "HBA:Cb-PL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12937": [
+            "HBA:Cb-VI"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12938": [
+            "HBA:Cb-Crus_I"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12939": [
+            "HBA:Cb-Crus_II"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12940": [
+            "HBA:Cb-VIIB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12941": [
+            "HBA:Cb-VIIIA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12942": [
+            "HBA:Cb-VIIIB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12943": [
+            "HBA:Cb-IX"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12944": [
+            "HBA:Cb-FNL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12945": [
+            "HBA:Cb-X"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12946": [
+            "HBA:Dt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12947": [
+            "HBA:Emb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12948": [
+            "HBA:Fas"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12949": [
+            "HBA:Glo"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12950": [
+            "HBA:ctg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12951": [
+            "HBA:ctg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12952": [
+            "HBA:ctg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12953": [
+            "HBA:fr"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12954": [
+            "HBA:fr"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12955": [
+            "HBA:fr"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12956": [
+            "HBA:ll"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12957": [
+            "HBA:ll"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12958": [
+            "HBA:ll"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12959": [
+            "HBA:ml"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12960": [
+            "HBA:ml"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12961": [
+            "HBA:ml"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12962": [
+            "HBA:py"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12963": [
+            "HBA:py"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12964": [
+            "HBA:py"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_12965": [
+            "HBA:pyx"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_13002": [
+            "HBA:SptN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_13003": [
+            "HBA:SI"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_13004": [
+            "HBA:LHM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_13005": [
+            "HBA:LHM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_13006": [
+            "HBA:LHM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_13007": [
+            "HBA:LHT"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_13008": [
+            "HBA:LHT"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_13009": [
+            "HBA:LHT"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504406": [
+            "HBA:OlfA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504410": [
+            "HBA:OlfA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504414": [
+            "HBA:OlfA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504424": [
+            "HBA:IG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504428": [
+            "HBA:IG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504432": [
+            "HBA:IG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504436": [
+            "HBA:ProS"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504440": [
+            "HBA:Sub"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504444": [
+            "HBA:ProS"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504448": [
+            "HBA:Sub"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504452": [
+            "HBA:AHiAm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504456": [
+            "HBA:AHiAp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504460": [
+            "HBA:AHiAml"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504464": [
+            "HBA:AHiAm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504468": [
+            "HBA:AHiAp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504472": [
+            "HBA:AHiAml"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504476": [
+            "HBA:AAA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504480": [
+            "HBA:AAA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504484": [
+            "HBA:AAAd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504488": [
+            "HBA:AAAv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504492": [
+            "HBA:AAA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504496": [
+            "HBA:AAAd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504500": [
+            "HBA:AAAv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504504": [
+            "HBA:BLAdl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504508": [
+            "HBA:BLAvl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504512": [
+            "HBA:BLAvm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504516": [
+            "HBA:BLAdl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504520": [
+            "HBA:BLAvl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504524": [
+            "HBA:BLAvm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504528": [
+            "HBA:BMAd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504534": [
+            "HBA:BMAdl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504538": [
+            "HBA:BMAm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504542": [
+            "HBA:BMAv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504550": [
+            "HBA:BMAd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504556": [
+            "HBA:BMAdl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504561": [
+            "HBA:BMAm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504565": [
+            "HBA:BMAv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504574": [
+            "HBA:CeAmd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504578": [
+            "HBA:CeAmv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504583": [
+            "HBA:CeAla"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504587": [
+            "HBA:CeAlca"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504591": [
+            "HBA:CeAlp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504596": [
+            "HBA:CeAlc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504600": [
+            "HBA:CeAmd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504604": [
+            "HBA:CeAmv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504608": [
+            "HBA:CeAla"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504612": [
+            "HBA:CeAlca"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504616": [
+            "HBA:CeAlp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504620": [
+            "HBA:CeAlc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504624": [
+            "HBA:COAad"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504628": [
+            "HBA:COAav"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504632": [
+            "HBA:COAam"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504636": [
+            "HBA:MAa"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504640": [
+            "HBA:MAp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504644": [
+            "HBA:MApd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504648": [
+            "HBA:MApv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504652": [
+            "HBA:MAm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504656": [
+            "HBA:COApd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504660": [
+            "HBA:COApv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504664": [
+            "HBA:COApm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504668": [
+            "HBA:COAad"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504672": [
+            "HBA:COAav"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504676": [
+            "HBA:COAam"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504680": [
+            "HBA:MAa"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504684": [
+            "HBA:MAp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504688": [
+            "HBA:MApd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504692": [
+            "HBA:MApv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504696": [
+            "HBA:MAm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504700": [
+            "HBA:COApd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504704": [
+            "HBA:COApv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504708": [
+            "HBA:COApm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504712": [
+            "HBA:LAd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504716": [
+            "HBA:LAda"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504722": [
+            "HBA:LAdl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504726": [
+            "HBA:LAdl-com"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504730": [
+            "HBA:LAi"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504734": [
+            "HBA:LAv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504740": [
+            "HBA:LAvm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504744": [
+            "HBA:LAvglo"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504748": [
+            "HBA:LAd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504752": [
+            "HBA:LAda"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504758": [
+            "HBA:LAdl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504762": [
+            "HBA:LAdl-com"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504766": [
+            "HBA:LAi"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504770": [
+            "HBA:LAv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504776": [
+            "HBA:LAvm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504780": [
+            "HBA:LAvglo"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504784": [
+            "HBA:PLAglo"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504788": [
+            "HBA:PLAglo"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504792": [
+            "HBA:IslC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504796": [
+            "HBA:IslC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504804": [
+            "HBA:MMb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504808": [
+            "HBA:MMb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504812": [
+            "HBA:VPLa"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504816": [
+            "HBA:VPLp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504820": [
+            "HBA:VPLa"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504824": [
+            "HBA:VPLp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504828": [
+            "HBA:MGd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504836": [
+            "HBA:MGd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504844": [
+            "HBA:MDl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504848": [
+            "HBA:MDl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504852": [
+            "HBA:isRt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504856": [
+            "HBA:isRt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504860": [
+            "HBA:isRt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504864": [
+            "HBA:DMTg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504868": [
+            "HBA:DMTg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504872": [
+            "HBA:DMTg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504876": [
+            "HBA:DTg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504880": [
+            "HBA:DTg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504884": [
+            "HBA:DTg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504888": [
+            "HBA:ILL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504892": [
+            "HBA:ILL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504896": [
+            "HBA:ILL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504906": [
+            "HBA:SPO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504910": [
+            "HBA:SPO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504914": [
+            "HBA:CGMe"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504918": [
+            "HBA:CGMe"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504922": [
+            "HBA:CGMe"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504926": [
+            "HBA:ECu"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504930": [
+            "HBA:ECu"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504934": [
+            "HBA:ECu"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504938": [
+            "HBA:BIO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504942": [
+            "HBA:BIO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504950": [
+            "HBA:RPRa"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504954": [
+            "HBA:RPRa"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504958": [
+            "HBA:RPRa"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504962": [
+            "HBA:rdcc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504966": [
+            "HBA:tap"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504970": [
+            "HBA:smc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504974": [
+            "HBA:ar"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504978": [
+            "HBA:ar"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504982": [
+            "HBA:ar"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504986": [
+            "HBA:amtg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504990": [
+            "HBA:amtg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504994": [
+            "HBA:amtg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265504998": [
+            "HBA:agb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505002": [
+            "HBA:agb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505006": [
+            "HBA:agb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505010": [
+            "HBA:ap"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505014": [
+            "HBA:ap"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505018": [
+            "HBA:ap"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505022": [
+            "HBA:bx"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505026": [
+            "HBA:bx"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505030": [
+            "HBA:bx"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505034": [
+            "HBA:comb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505038": [
+            "HBA:comb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505042": [
+            "HBA:comb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505046": [
+            "HBA:cor"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505050": [
+            "HBA:cor"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505054": [
+            "HBA:cor"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505058": [
+            "HBA:cbu"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505062": [
+            "HBA:cbu-sc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505066": [
+            "HBA:cbu-sc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505070": [
+            "HBA:cbu-sc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505074": [
+            "HBA:cbu-ic"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505078": [
+            "HBA:cbu-ic"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505082": [
+            "HBA:cbu-ic"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505086": [
+            "HBA:emlgp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505090": [
+            "HBA:emlgp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505094": [
+            "HBA:emlgp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505098": [
+            "HBA:emlth"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505102": [
+            "HBA:emlth"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505106": [
+            "HBA:emlth"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505110": [
+            "HBA:ithp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505114": [
+            "HBA:ithp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505118": [
+            "HBA:ithp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505122": [
+            "HBA:imlgp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505126": [
+            "HBA:imlgp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505130": [
+            "HBA:imlgp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505134": [
+            "HBA:imlth"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505138": [
+            "HBA:imlth"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505142": [
+            "HBA:imlth"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505146": [
+            "HBA:lls"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505150": [
+            "HBA:lls"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505154": [
+            "HBA:lls"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505158": [
+            "HBA:lef"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505166": [
+            "HBA:mp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505170": [
+            "HBA:mp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505174": [
+            "HBA:mp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505178": [
+            "HBA:mtg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505182": [
+            "HBA:mtg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505186": [
+            "HBA:mtg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505190": [
+            "HBA:mfb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505194": [
+            "HBA:mfb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505198": [
+            "HBA:mfb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505202": [
+            "HBA:mls"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505206": [
+            "HBA:mls"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505210": [
+            "HBA:mls"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505214": [
+            "HBA:or-lp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505218": [
+            "HBA:or-lp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505222": [
+            "HBA:or-lp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505226": [
+            "HBA:milf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505230": [
+            "HBA:milf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505234": [
+            "HBA:milf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505238": [
+            "HBA:orpt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505242": [
+            "HBA:orpt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505246": [
+            "HBA:orpt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505250": [
+            "HBA:perf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505254": [
+            "HBA:perf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505258": [
+            "HBA:perf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505262": [
+            "HBA:ponb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505266": [
+            "HBA:ponb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505270": [
+            "HBA:ponb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505274": [
+            "HBA:rthp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505278": [
+            "HBA:rthp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505282": [
+            "HBA:rthp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505286": [
+            "HBA:sst"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505290": [
+            "HBA:sst"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505294": [
+            "HBA:sste"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505298": [
+            "HBA:ssti"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505302": [
+            "HBA:sst"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505306": [
+            "HBA:sste"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505310": [
+            "HBA:ssti"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505314": [
+            "HBA:saf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505318": [
+            "HBA:saf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505322": [
+            "HBA:saf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505326": [
+            "HBA:szt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505330": [
+            "HBA:szt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505334": [
+            "HBA:szt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505338": [
+            "HBA:scf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505342": [
+            "HBA:scf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505346": [
+            "HBA:scf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505350": [
+            "HBA:sthf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505354": [
+            "HBA:sthf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505358": [
+            "HBA:sthf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505362": [
+            "HBA:sprs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505366": [
+            "HBA:sprs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505370": [
+            "HBA:sprs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505374": [
+            "HBA:thf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505382": [
+            "HBA:MESWM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505386": [
+            "HBA:bic"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505390": [
+            "HBA:bic"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505394": [
+            "HBA:bic"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505398": [
+            "HBA:bsc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505402": [
+            "HBA:bsc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505406": [
+            "HBA:bsc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505410": [
+            "HBA:ctg-m"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505414": [
+            "HBA:ctg-m"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505418": [
+            "HBA:ctg-m"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505422": [
+            "HBA:cpd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505426": [
+            "HBA:cpd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505430": [
+            "HBA:cpd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505434": [
+            "HBA:cmic"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505438": [
+            "HBA:cmic"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505442": [
+            "HBA:cmic"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505446": [
+            "HBA:cbu-m"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505450": [
+            "HBA:cbu-m"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505454": [
+            "HBA:cbu-m"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505458": [
+            "HBA:me5"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505462": [
+            "HBA:me5"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505466": [
+            "HBA:me5"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505470": [
+            "HBA:pncb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505474": [
+            "HBA:pncb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505478": [
+            "HBA:pncb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505482": [
+            "HBA:xscp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505486": [
+            "HBA:PoWM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505490": [
+            "HBA:cpn"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505494": [
+            "HBA:cpn"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505498": [
+            "HBA:cpn"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505502": [
+            "HBA:lfpn"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505506": [
+            "HBA:lfpn"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505510": [
+            "HBA:lfpn"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505514": [
+            "HBA:lot"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505518": [
+            "HBA:mot"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505522": [
+            "HBA:lot"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505526": [
+            "HBA:mot"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505530": [
+            "HBA:sox"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505534": [
+            "HBA:sox"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505538": [
+            "HBA:ami"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505542": [
+            "HBA:ami"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505546": [
+            "HBA:ami"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505550": [
+            "HBA:cuf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505554": [
+            "HBA:cuf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505558": [
+            "HBA:cuf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505562": [
+            "HBA:cbu-h"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505566": [
+            "HBA:cbu-h"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505570": [
+            "HBA:cbu-h"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505574": [
+            "HBA:csp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505578": [
+            "HBA:csp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505582": [
+            "HBA:csp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505586": [
+            "HBA:gr"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505590": [
+            "HBA:gr"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505594": [
+            "HBA:gr"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505598": [
+            "HBA:hio"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505602": [
+            "HBA:hio"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505606": [
+            "HBA:hio"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505610": [
+            "HBA:iaf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505614": [
+            "HBA:iaf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505618": [
+            "HBA:iaf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505622": [
+            "HBA:xml"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505626": [
+            "HBA:sol"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505630": [
+            "HBA:sol"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505634": [
+            "HBA:sol"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505638": [
+            "HBA:slh"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505642": [
+            "HBA:slh"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505646": [
+            "HBA:slh"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505650": [
+            "HBA:sp5"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505654": [
+            "HBA:sp5"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505658": [
+            "HBA:sp5"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505662": [
+            "HBA:tsp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505666": [
+            "HBA:tsp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505670": [
+            "HBA:tsp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505674": [
+            "HBA:vtg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505678": [
+            "HBA:vtg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505682": [
+            "HBA:vtg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505686": [
+            "HBA:veme"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505690": [
+            "HBA:veme"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505694": [
+            "HBA:veme"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505698": [
+            "HBA:MYs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505702": [
+            "HBA:aq"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_265505706": [
+            "HBA:SP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_272788859": [
+            "HBA:PnG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_272788863": [
+            "HBA:PnG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_272788867": [
+            "HBA:PnG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4005": [
+            "HBA:Br"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4006": [
+            "HBA:GM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4007": [
+            "HBA:Tel"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4008": [
+            "HBA:Cx"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4009": [
+            "HBA:FL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4010": [
+            "HBA:PrG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4011": [
+            "HBA:PrG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4012": [
+            "HBA:PrG-prc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4013": [
+            "HBA:PrG-sl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4014": [
+            "HBA:PrG-il"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4015": [
+            "HBA:PrG-cs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4016": [
+            "HBA:PrG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4017": [
+            "HBA:PrG-prc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4018": [
+            "HBA:PrG-sl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4019": [
+            "HBA:PrG-il"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4020": [
+            "HBA:PrG-cs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4021": [
+            "HBA:SFG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4022": [
+            "HBA:SFG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4023": [
+            "HBA:SFG-m"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4024": [
+            "HBA:SFG-l"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4025": [
+            "HBA:SFG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4026": [
+            "HBA:SFG-m"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4027": [
+            "HBA:SFG-l"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4028": [
+            "HBA:MFG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4029": [
+            "HBA:MFG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4030": [
+            "HBA:MFG-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4031": [
+            "HBA:MFG-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4032": [
+            "HBA:MFG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4033": [
+            "HBA:MFG-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4034": [
+            "HBA:MFG-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4035": [
+            "HBA:IFG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4036": [
+            "HBA:IFG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4037": [
+            "HBA:IFG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4038": [
+            "HBA:trIFG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4039": [
+            "HBA:trIFG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4040": [
+            "HBA:trIFG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4041": [
+            "HBA:opIFG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4042": [
+            "HBA:opIFG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4043": [
+            "HBA:opIFG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4044": [
+            "HBA:orIFG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4045": [
+            "HBA:orIFG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4046": [
+            "HBA:orIFG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4047": [
+            "HBA:GRe"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4048": [
+            "HBA:GRe"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4049": [
+            "HBA:GRe"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4050": [
+            "HBA:MOrG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4051": [
+            "HBA:MOrG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4052": [
+            "HBA:MOrG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4053": [
+            "HBA:AOrG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4054": [
+            "HBA:AOrG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4055": [
+            "HBA:AOrG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4056": [
+            "HBA:POrG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4057": [
+            "HBA:POrG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4058": [
+            "HBA:POrG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4059": [
+            "HBA:LOrG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4060": [
+            "HBA:LOrG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4061": [
+            "HBA:LOrG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4062": [
+            "HBA:SCG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4063": [
+            "HBA:SCG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4064": [
+            "HBA:SCG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4065": [
+            "HBA:PTG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4066": [
+            "HBA:PTG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4067": [
+            "HBA:PTG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4068": [
+            "HBA:PaOG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4069": [
+            "HBA:PaOG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4070": [
+            "HBA:PaOG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4071": [
+            "HBA:PCLa"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4072": [
+            "HBA:PCLa"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4073": [
+            "HBA:PCLa-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4074": [
+            "HBA:PCLa-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4075": [
+            "HBA:PCLa"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4076": [
+            "HBA:PCLa-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4077": [
+            "HBA:PCLa-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4078": [
+            "HBA:fro"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4079": [
+            "HBA:fro"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4080": [
+            "HBA:fro"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4084": [
+            "HBA:PL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4085": [
+            "HBA:PoG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4086": [
+            "HBA:PoG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4087": [
+            "HBA:PoG-cs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4088": [
+            "HBA:PoG-sl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4089": [
+            "HBA:PoG-il"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4090": [
+            "HBA:PoG-pcs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4091": [
+            "HBA:PoG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4092": [
+            "HBA:PoG-cs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4093": [
+            "HBA:PoG-sl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4094": [
+            "HBA:PoG-il"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4095": [
+            "HBA:PoG-pcs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4096": [
+            "HBA:SPL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4097": [
+            "HBA:SPL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4098": [
+            "HBA:SPL-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4099": [
+            "HBA:SPL-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4100": [
+            "HBA:SPL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4101": [
+            "HBA:SPL-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4102": [
+            "HBA:SPL-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4103": [
+            "HBA:IPL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4104": [
+            "HBA:SMG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4105": [
+            "HBA:SMG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4106": [
+            "HBA:SMG-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4107": [
+            "HBA:SMG-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4108": [
+            "HBA:SMG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4109": [
+            "HBA:SMG-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4110": [
+            "HBA:SMG-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4111": [
+            "HBA:AnG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4112": [
+            "HBA:AnG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4113": [
+            "HBA:AnG-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4114": [
+            "HBA:AnG-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4115": [
+            "HBA:AnG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4116": [
+            "HBA:AnG-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4117": [
+            "HBA:AnG-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4118": [
+            "HBA:PCu"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4119": [
+            "HBA:PCu"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4120": [
+            "HBA:Pcu-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4121": [
+            "HBA:Pcu-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4122": [
+            "HBA:PCu"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4123": [
+            "HBA:Pcu-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4124": [
+            "HBA:Pcu-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4125": [
+            "HBA:PCLp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4126": [
+            "HBA:PCLp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4127": [
+            "HBA:PCLp-l"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4128": [
+            "HBA:PCLp-cs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4129": [
+            "HBA:PCLp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4130": [
+            "HBA:PCLp-l"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4131": [
+            "HBA:PCLp-cs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4132": [
+            "HBA:TL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4133": [
+            "HBA:STG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4134": [
+            "HBA:STG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4135": [
+            "HBA:STG-l"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4136": [
+            "HBA:STG-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4137": [
+            "HBA:STG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4138": [
+            "HBA:STG-l"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4139": [
+            "HBA:STG-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4140": [
+            "HBA:MTG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4141": [
+            "HBA:MTG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4142": [
+            "HBA:MTG-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4143": [
+            "HBA:MTG-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4144": [
+            "HBA:MTG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4145": [
+            "HBA:MTG-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4146": [
+            "HBA:MTG-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4147": [
+            "HBA:ITG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4148": [
+            "HBA:ITG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4149": [
+            "HBA:ITG-its"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4150": [
+            "HBA:ITG-l"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4151": [
+            "HBA:ITG-mts"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4152": [
+            "HBA:ITG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4153": [
+            "HBA:ITG-its"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4154": [
+            "HBA:ITG-l"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4155": [
+            "HBA:ITG-mts"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4156": [
+            "HBA:FuG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4157": [
+            "HBA:FuG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4158": [
+            "HBA:FuG-its"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4159": [
+            "HBA:FuG-l"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4160": [
+            "HBA:FuG-cos"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4161": [
+            "HBA:FuG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4162": [
+            "HBA:FuG-its"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4163": [
+            "HBA:FuG-l"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4164": [
+            "HBA:FuG-cos"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4165": [
+            "HBA:HG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4166": [
+            "HBA:HG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4167": [
+            "HBA:HG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4168": [
+            "HBA:TG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4169": [
+            "HBA:TG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4170": [
+            "HBA:TG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4171": [
+            "HBA:PLT"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4172": [
+            "HBA:PLT"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4173": [
+            "HBA:PLT"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4174": [
+            "HBA:TP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4175": [
+            "HBA:TP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4176": [
+            "HBA:TP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4177": [
+            "HBA:PLP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4178": [
+            "HBA:PLP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4179": [
+            "HBA:PLP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4180": [
+            "HBA:OL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4181": [
+            "HBA:OP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4182": [
+            "HBA:OP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4183": [
+            "HBA:OP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4184": [
+            "HBA:Cun"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4185": [
+            "HBA:Cun"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4186": [
+            "HBA:Cun-pest"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4187": [
+            "HBA:Cun-str"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4188": [
+            "HBA:Cun"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4189": [
+            "HBA:Cun-pest"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4190": [
+            "HBA:Cun-str"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4191": [
+            "HBA:LiG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4192": [
+            "HBA:LiG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4193": [
+            "HBA:LiG-pest"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4194": [
+            "HBA:LiG-str"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4195": [
+            "HBA:LiG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4196": [
+            "HBA:LiG-pest"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4197": [
+            "HBA:LiG-str"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4198": [
+            "HBA:OTG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4199": [
+            "HBA:OTG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4200": [
+            "HBA:OTG-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4201": [
+            "HBA:OTG-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4202": [
+            "HBA:OTG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4203": [
+            "HBA:OTG-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4204": [
+            "HBA:OTG-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4205": [
+            "HBA:IOG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4206": [
+            "HBA:IOG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4207": [
+            "HBA:IOG-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4208": [
+            "HBA:IOG-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4209": [
+            "HBA:IOG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4210": [
+            "HBA:IOG-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4211": [
+            "HBA:IOG-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4212": [
+            "HBA:SOG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4213": [
+            "HBA:SOG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4214": [
+            "HBA:SOG-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4215": [
+            "HBA:SOG-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4216": [
+            "HBA:SOG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4217": [
+            "HBA:SOG-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4218": [
+            "HBA:SOG-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4219": [
+            "HBA:LL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4220": [
+            "HBA:CgG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4221": [
+            "HBA:CgGf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4222": [
+            "HBA:CgGf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4223": [
+            "HBA:CgGf-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4224": [
+            "HBA:CgGf-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4225": [
+            "HBA:CgGf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4226": [
+            "HBA:CgGf-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4227": [
+            "HBA:CgGf-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4228": [
+            "HBA:CgGp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4229": [
+            "HBA:CgGp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4230": [
+            "HBA:CgGp-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4231": [
+            "HBA:CgGp-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4232": [
+            "HBA:CgGp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4233": [
+            "HBA:CgGp-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4234": [
+            "HBA:CgGp-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4235": [
+            "HBA:CgGr"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4236": [
+            "HBA:CgGr"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4237": [
+            "HBA:CgGr-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4238": [
+            "HBA:CgGr-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4239": [
+            "HBA:CgGr"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4240": [
+            "HBA:CgGr-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4241": [
+            "HBA:CgGr-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4242": [
+            "HBA:PHG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4243": [
+            "HBA:PHG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4244": [
+            "HBA:PHG-l"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4245": [
+            "HBA:PHG-cos"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4246": [
+            "HBA:PHG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4247": [
+            "HBA:PHG-l"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4248": [
+            "HBA:PHG-cos"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4249": [
+            "HBA:HiF"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4251": [
+            "HBA:S"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4252": [
+            "HBA:PrS"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4253": [
+            "HBA:PaS"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4254": [
+            "HBA:CA1"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4255": [
+            "HBA:CA2"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4256": [
+            "HBA:CA3"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4257": [
+            "HBA:CA4"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4258": [
+            "HBA:DG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4260": [
+            "HBA:S"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4261": [
+            "HBA:PrS"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4262": [
+            "HBA:PaS"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4263": [
+            "HBA:CA1"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4264": [
+            "HBA:CA2"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4265": [
+            "HBA:CA3"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4266": [
+            "HBA:CA4"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4267": [
+            "HBA:DG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4268": [
+            "HBA:Ins"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4269": [
+            "HBA:LIG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4270": [
+            "HBA:LIG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4271": [
+            "HBA:LIG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4272": [
+            "HBA:SIG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4273": [
+            "HBA:SIG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4274": [
+            "HBA:SIG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4275": [
+            "HBA:CxN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4276": [
+            "HBA:BG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4277": [
+            "HBA:Str"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4278": [
+            "HBA:Cd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4280": [
+            "HBA:HCd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4281": [
+            "HBA:TCd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4282": [
+            "HBA:BCd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4284": [
+            "HBA:HCd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4285": [
+            "HBA:TCd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4286": [
+            "HBA:BCd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4287": [
+            "HBA:Pu"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4288": [
+            "HBA:Pu"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4289": [
+            "HBA:Pu"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4290": [
+            "HBA:Acb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4291": [
+            "HBA:Acb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4292": [
+            "HBA:Acb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4293": [
+            "HBA:GP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4295": [
+            "HBA:GPe"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4296": [
+            "HBA:GPi"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4298": [
+            "HBA:GPe"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4299": [
+            "HBA:GPi"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4300": [
+            "HBA:BF"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4301": [
+            "HBA:SptN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4302": [
+            "HBA:MS"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4303": [
+            "HBA:LS"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4304": [
+            "HBA:SptN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4305": [
+            "HBA:MS"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4306": [
+            "HBA:LS"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4307": [
+            "HBA:SI"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4308": [
+            "HBA:nbM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4309": [
+            "HBA:DB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4310": [
+            "HBA:DBv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4311": [
+            "HBA:DBh"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4312": [
+            "HBA:Nac"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4313": [
+            "HBA:BST"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4314": [
+            "HBA:SI"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4315": [
+            "HBA:nbM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4316": [
+            "HBA:DB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4317": [
+            "HBA:DBv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4318": [
+            "HBA:DBh"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4319": [
+            "HBA:Nac"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4320": [
+            "HBA:BST"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4321": [
+            "HBA:Cl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4322": [
+            "HBA:Cl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4323": [
+            "HBA:Cl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4324": [
+            "HBA:AO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4325": [
+            "HBA:AO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4326": [
+            "HBA:AO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4327": [
+            "HBA:Amg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4328": [
+            "HBA:ATZ"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4329": [
+            "HBA:ATZ"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4330": [
+            "HBA:AHiA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4335": [
+            "HBA:ATZ"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4336": [
+            "HBA:AHiA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4341": [
+            "HBA:BLA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4342": [
+            "HBA:BLA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4343": [
+            "HBA:BLAm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4344": [
+            "HBA:BLAi"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4345": [
+            "HBA:BLAp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4346": [
+            "HBA:BLA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4347": [
+            "HBA:BLAm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4348": [
+            "HBA:BLAi"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4349": [
+            "HBA:BLAp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4350": [
+            "HBA:BMA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4351": [
+            "HBA:BMA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4352": [
+            "HBA:BMAmc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4353": [
+            "HBA:BMApc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4354": [
+            "HBA:BMAvm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4355": [
+            "HBA:BMA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4356": [
+            "HBA:BMAmc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4357": [
+            "HBA:BMApc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4358": [
+            "HBA:BMAvm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4359": [
+            "HBA:CeA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4360": [
+            "HBA:CeA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4361": [
+            "HBA:CeAm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4362": [
+            "HBA:CeAl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4363": [
+            "HBA:CeA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4364": [
+            "HBA:CeAm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4365": [
+            "HBA:CeAl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4366": [
+            "HBA:COMA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4367": [
+            "HBA:COMA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4368": [
+            "HBA:COAa"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4369": [
+            "HBA:COAp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4370": [
+            "HBA:MA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4371": [
+            "HBA:COMA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4372": [
+            "HBA:COAa"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4373": [
+            "HBA:COAp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4374": [
+            "HBA:MA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4375": [
+            "HBA:IA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4376": [
+            "HBA:IA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4377": [
+            "HBA:IA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4378": [
+            "HBA:LA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4379": [
+            "HBA:LA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4380": [
+            "HBA:LAdm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4381": [
+            "HBA:LAvl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4382": [
+            "HBA:LA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4383": [
+            "HBA:LAdm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4384": [
+            "HBA:LAvl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4385": [
+            "HBA:NLOT"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4386": [
+            "HBA:NLOT"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4387": [
+            "HBA:NLOT"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4388": [
+            "HBA:PLA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4389": [
+            "HBA:PLA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4390": [
+            "HBA:PLA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4391": [
+            "HBA:DiE"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4392": [
+            "HBA:TH"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4393": [
+            "HBA:DT"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4395": [
+            "HBA:DTA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4396": [
+            "HBA:AM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4397": [
+            "HBA:AV"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4398": [
+            "HBA:AD"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4399": [
+            "HBA:LD"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4400": [
+            "HBA:DTM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4401": [
+            "HBA:MD"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4402": [
+            "HBA:MDp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4403": [
+            "HBA:MDm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4404": [
+            "HBA:MDd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4405": [
+            "HBA:Pt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4406": [
+            "HBA:Sm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4407": [
+            "HBA:MV"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4409": [
+            "HBA:DTLd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4410": [
+            "HBA:LP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4411": [
+            "HBA:Pla"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4412": [
+            "HBA:Plm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4413": [
+            "HBA:Pll"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4414": [
+            "HBA:Pli"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4415": [
+            "HBA:Plil"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4416": [
+            "HBA:Plim"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4417": [
+            "HBA:DTLv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4418": [
+            "HBA:VA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4419": [
+            "HBA:VAp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4420": [
+            "HBA:VAmc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4421": [
+            "HBA:VM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4422": [
+            "HBA:VLa"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4423": [
+            "HBA:VLp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4424": [
+            "HBA:VPM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4425": [
+            "HBA:VPL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4426": [
+            "HBA:VPI"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4427": [
+            "HBA:VMb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4428": [
+            "HBA:DTP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4429": [
+            "HBA:L"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4430": [
+            "HBA:SG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4431": [
+            "HBA:Po"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4432": [
+            "HBA:ILr"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4433": [
+            "HBA:Rh"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4434": [
+            "HBA:CL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4435": [
+            "HBA:Pc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4436": [
+            "HBA:CeM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4437": [
+            "HBA:ILc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4438": [
+            "HBA:CM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4439": [
+            "HBA:pf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4440": [
+            "HBA:LGd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4441": [
+            "HBA:LGdm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4442": [
+            "HBA:LGdp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4443": [
+            "HBA:LGds"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4444": [
+            "HBA:MG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4445": [
+            "HBA:MGv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4446": [
+            "HBA:MGad"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4447": [
+            "HBA:MGpd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4448": [
+            "HBA:MGmc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4450": [
+            "HBA:DTA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4451": [
+            "HBA:AM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4452": [
+            "HBA:AV"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4453": [
+            "HBA:AD"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4454": [
+            "HBA:LD"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4455": [
+            "HBA:DTM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4456": [
+            "HBA:MD"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4457": [
+            "HBA:MDp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4458": [
+            "HBA:MDm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4459": [
+            "HBA:MDd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4460": [
+            "HBA:Pt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4461": [
+            "HBA:Sm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4462": [
+            "HBA:MV"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4464": [
+            "HBA:DTLd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4465": [
+            "HBA:LP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4466": [
+            "HBA:Pla"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4467": [
+            "HBA:Plm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4468": [
+            "HBA:Pll"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4469": [
+            "HBA:Pli"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4470": [
+            "HBA:Plil"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4471": [
+            "HBA:Plim"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4472": [
+            "HBA:DTLv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4473": [
+            "HBA:VA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4474": [
+            "HBA:VAp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4475": [
+            "HBA:VAmc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4476": [
+            "HBA:VM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4477": [
+            "HBA:VLa"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4478": [
+            "HBA:VLp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4479": [
+            "HBA:VPM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4480": [
+            "HBA:VPL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4481": [
+            "HBA:VPI"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4482": [
+            "HBA:VMb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4483": [
+            "HBA:DTP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4484": [
+            "HBA:L"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4485": [
+            "HBA:SG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4486": [
+            "HBA:Po"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4487": [
+            "HBA:ILr"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4488": [
+            "HBA:Rh"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4489": [
+            "HBA:CL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4490": [
+            "HBA:Pc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4491": [
+            "HBA:CeM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4492": [
+            "HBA:ILc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4493": [
+            "HBA:CM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4494": [
+            "HBA:pf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4495": [
+            "HBA:LGd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4496": [
+            "HBA:LGdm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4497": [
+            "HBA:LGdp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4498": [
+            "HBA:LGds"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4499": [
+            "HBA:MG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4500": [
+            "HBA:MGv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4501": [
+            "HBA:MGad"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4502": [
+            "HBA:MGpd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4503": [
+            "HBA:MGmc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4504": [
+            "HBA:VT"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4505": [
+            "HBA:VT"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4506": [
+            "HBA:R"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4507": [
+            "HBA:ZI"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4508": [
+            "HBA:FF"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4509": [
+            "HBA:thf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4510": [
+            "HBA:lef"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4511": [
+            "HBA:VT"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4512": [
+            "HBA:R"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4513": [
+            "HBA:ZI"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4514": [
+            "HBA:FF"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4515": [
+            "HBA:thf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4516": [
+            "HBA:lef"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4517": [
+            "HBA:SbT"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4518": [
+            "HBA:Sb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4519": [
+            "HBA:Sb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4520": [
+            "HBA:ET"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4521": [
+            "HBA:Hb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4522": [
+            "HBA:Hb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4523": [
+            "HBA:Hm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4524": [
+            "HBA:Hl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4525": [
+            "HBA:Hlm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4526": [
+            "HBA:Hlp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4527": [
+            "HBA:Hb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4528": [
+            "HBA:Hm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4529": [
+            "HBA:Hl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4530": [
+            "HBA:Hlm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4531": [
+            "HBA:Hlp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4532": [
+            "HBA:PIN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4533": [
+            "HBA:Pa"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4534": [
+            "HBA:Pa"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4535": [
+            "HBA:PARA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4536": [
+            "HBA:PARP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4537": [
+            "HBA:Pa"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4538": [
+            "HBA:PARA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4539": [
+            "HBA:PARP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4540": [
+            "HBA:Hy"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4541": [
+            "HBA:PrOR"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4542": [
+            "HBA:PrOR"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4543": [
+            "HBA:MPA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4544": [
+            "HBA:MPO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4545": [
+            "HBA:MPOL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4546": [
+            "HBA:MPOM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4547": [
+            "HBA:MPOC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4548": [
+            "HBA:MnPO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4549": [
+            "HBA:PVpo"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4550": [
+            "HBA:AVPV"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4551": [
+            "HBA:DPV"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4552": [
+            "HBA:LPO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4553": [
+            "HBA:IMH"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4554": [
+            "HBA:IN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4555": [
+            "HBA:UN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4556": [
+            "HBA:PrOR"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4557": [
+            "HBA:MPA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4558": [
+            "HBA:MPO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4559": [
+            "HBA:MPOL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4560": [
+            "HBA:MPOM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4561": [
+            "HBA:MPOC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4562": [
+            "HBA:MnPO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4563": [
+            "HBA:PVpo"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4564": [
+            "HBA:AVPV"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4565": [
+            "HBA:DPV"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4566": [
+            "HBA:LPO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4567": [
+            "HBA:IMH"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4568": [
+            "HBA:IN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4569": [
+            "HBA:UN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4570": [
+            "HBA:AHR"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4572": [
+            "HBA:PVa"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4573": [
+            "HBA:PVH"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4574": [
+            "HBA:SPZ"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4575": [
+            "HBA:PVHd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4576": [
+            "HBA:PVHmpv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4577": [
+            "HBA:PVHdp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4578": [
+            "HBA:PVHlp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4579": [
+            "HBA:PVHf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4580": [
+            "HBA:PVHm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4581": [
+            "HBA:PVHam"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4582": [
+            "HBA:PVHmm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4583": [
+            "HBA:PVHpm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4584": [
+            "HBA:PVHpmm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4585": [
+            "HBA:PVHpml"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4586": [
+            "HBA:PVHp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4587": [
+            "HBA:PVHap"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4588": [
+            "HBA:PVHmpd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4589": [
+            "HBA:PVHpv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4590": [
+            "HBA:SCN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4591": [
+            "HBA:SCNd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4592": [
+            "HBA:SCNv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4593": [
+            "HBA:SO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4594": [
+            "HBA:SODL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4595": [
+            "HBA:SOVM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4596": [
+            "HBA:LHA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4597": [
+            "HBA:PalHy"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4598": [
+            "HBA:AHA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4599": [
+            "HBA:AHAA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4600": [
+            "HBA:AHC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4601": [
+            "HBA:AHN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4603": [
+            "HBA:PVa"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4604": [
+            "HBA:PVH"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4605": [
+            "HBA:SPZ"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4606": [
+            "HBA:PVHd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4607": [
+            "HBA:PVHmpv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4608": [
+            "HBA:PVHdp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4609": [
+            "HBA:PVHlp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4610": [
+            "HBA:PVHf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4611": [
+            "HBA:PVHm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4612": [
+            "HBA:PVHam"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4613": [
+            "HBA:PVHmm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4614": [
+            "HBA:PVHpm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4615": [
+            "HBA:PVHpmm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4616": [
+            "HBA:PVHpml"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4617": [
+            "HBA:PVHp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4618": [
+            "HBA:PVHap"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4619": [
+            "HBA:PVHmpd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4620": [
+            "HBA:PVHpv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4621": [
+            "HBA:SCN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4622": [
+            "HBA:SCNd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4623": [
+            "HBA:SCNv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4624": [
+            "HBA:SO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4625": [
+            "HBA:SODL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4626": [
+            "HBA:SOVM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4627": [
+            "HBA:LHA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4628": [
+            "HBA:PalHy"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4629": [
+            "HBA:AHA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4630": [
+            "HBA:AHAA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4631": [
+            "HBA:AHC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4632": [
+            "HBA:AHN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4633": [
+            "HBA:TubR"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4634": [
+            "HBA:Pit"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4636": [
+            "HBA:PVt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4637": [
+            "HBA:VMH"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4638": [
+            "HBA:VMHv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4639": [
+            "HBA:VMHd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4640": [
+            "HBA:VMHc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4641": [
+            "HBA:DMH"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4642": [
+            "HBA:DMC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4643": [
+            "HBA:DMD"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4644": [
+            "HBA:ARH"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4645": [
+            "HBA:ArcD"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4646": [
+            "HBA:ArcL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4647": [
+            "HBA:ArcM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4648": [
+            "HBA:PeF"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4649": [
+            "HBA:ME"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4651": [
+            "HBA:PVt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4652": [
+            "HBA:VMH"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4653": [
+            "HBA:VMHv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4654": [
+            "HBA:VMHd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4655": [
+            "HBA:VMHc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4656": [
+            "HBA:DMH"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4657": [
+            "HBA:DMC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4658": [
+            "HBA:DMD"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4659": [
+            "HBA:ARH"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4660": [
+            "HBA:ArcD"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4661": [
+            "HBA:ArcL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4662": [
+            "HBA:ArcM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4663": [
+            "HBA:PeF"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4664": [
+            "HBA:ME"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4665": [
+            "HBA:MamR"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4667": [
+            "HBA:TM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4668": [
+            "HBA:TMp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4669": [
+            "HBA:SuM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4670": [
+            "HBA:SuMM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4671": [
+            "HBA:MB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4672": [
+            "HBA:MM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4673": [
+            "HBA:MMl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4674": [
+            "HBA:MMm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4675": [
+            "HBA:LM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4676": [
+            "HBA:PMm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4677": [
+            "HBA:PMD"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4678": [
+            "HBA:PMV"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4679": [
+            "HBA:PHA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4681": [
+            "HBA:TM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4682": [
+            "HBA:TMp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4683": [
+            "HBA:SuM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4684": [
+            "HBA:SuMM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4685": [
+            "HBA:MB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4686": [
+            "HBA:MM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4687": [
+            "HBA:MMl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4688": [
+            "HBA:MMm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4689": [
+            "HBA:LM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4690": [
+            "HBA:PMm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4691": [
+            "HBA:PMD"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4692": [
+            "HBA:PMV"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4693": [
+            "HBA:PHA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4696": [
+            "HBA:Cb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4697": [
+            "HBA:CbCx"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4698": [
+            "HBA:Ve"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4699": [
+            "HBA:ALVCb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4700": [
+            "HBA:Ve-I-II"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4701": [
+            "HBA:Ve-III"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4702": [
+            "HBA:Ve-IV"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4703": [
+            "HBA:Ve-V"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4704": [
+            "HBA:PLVCb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4705": [
+            "HBA:Ve-VI"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4706": [
+            "HBA:Ve-VIIAf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4707": [
+            "HBA:Ve-VIIAt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4708": [
+            "HBA:Ve-VIIB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4709": [
+            "HBA:Ve-VIIIA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4710": [
+            "HBA:Ve-VIIIB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4711": [
+            "HBA:Ve-IX"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4712": [
+            "HBA:FNL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4713": [
+            "HBA:Ve-X"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4717": [
+            "HBA:PV-I-II"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4718": [
+            "HBA:PV-III"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4719": [
+            "HBA:PV-IV"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4720": [
+            "HBA:PV-V"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4722": [
+            "HBA:PV-VI"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4723": [
+            "HBA:PV-Crus_I"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4724": [
+            "HBA:PV-Crus_II"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4725": [
+            "HBA:PV-VIIB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4726": [
+            "HBA:PV-VIIIA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4727": [
+            "HBA:PV-VIIIB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4728": [
+            "HBA:PV-IX"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4730": [
+            "HBA:PV-X"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4733": [
+            "HBA:He-I-II"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4734": [
+            "HBA:He-III"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4735": [
+            "HBA:He-IV"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4736": [
+            "HBA:He-V"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4738": [
+            "HBA:He-VI"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4739": [
+            "HBA:He-Crus_I"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4740": [
+            "HBA:He-Crus_II"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4741": [
+            "HBA:He-VIIB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4742": [
+            "HBA:He-VIIIA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4743": [
+            "HBA:He-VIIIB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4744": [
+            "HBA:He-IX"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4746": [
+            "HBA:He-X"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4750": [
+            "HBA:PV-I-II"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4751": [
+            "HBA:PV-III"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4752": [
+            "HBA:PV-IV"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4753": [
+            "HBA:PV-V"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4755": [
+            "HBA:PV-VI"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4756": [
+            "HBA:PV-Crus_I"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4757": [
+            "HBA:PV-Crus_II"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4758": [
+            "HBA:PV-VIIB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4759": [
+            "HBA:PV-VIIIA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4760": [
+            "HBA:PV-VIIIB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4761": [
+            "HBA:PV-IX"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4763": [
+            "HBA:PV-X"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4766": [
+            "HBA:He-I-II"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4767": [
+            "HBA:He-III"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4768": [
+            "HBA:He-IV"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4769": [
+            "HBA:He-V"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4771": [
+            "HBA:He-VI"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4772": [
+            "HBA:He-Crus_I"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4773": [
+            "HBA:He-Crus_II"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4774": [
+            "HBA:He-VIIB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4775": [
+            "HBA:He-VIIIA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4776": [
+            "HBA:He-VIIIB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4777": [
+            "HBA:He-IX"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4779": [
+            "HBA:He-X"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4780": [
+            "HBA:CbN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4782": [
+            "HBA:Dt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4783": [
+            "HBA:Emb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4784": [
+            "HBA:Fas"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4785": [
+            "HBA:Glo"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4787": [
+            "HBA:Dt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4788": [
+            "HBA:Emb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4789": [
+            "HBA:Fas"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4790": [
+            "HBA:Glo"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4833": [
+            "HBA:MET"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4888": [
+            "HBA:FP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4889": [
+            "HBA:FP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4890": [
+            "HBA:FP-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4891": [
+            "HBA:FPi"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4892": [
+            "HBA:FPm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4893": [
+            "HBA:FP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4894": [
+            "HBA:FP-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4895": [
+            "HBA:FPi"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4896": [
+            "HBA:FPm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4897": [
+            "HBA:SRoG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4898": [
+            "HBA:SRoG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4899": [
+            "HBA:SRoG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4900": [
+            "HBA:IRoG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4901": [
+            "HBA:IRoG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4902": [
+            "HBA:IRoG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4903": [
+            "HBA:TP-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4904": [
+            "HBA:TP-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4905": [
+            "HBA:TP-m"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4906": [
+            "HBA:TP-s"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4907": [
+            "HBA:TP-i"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4908": [
+            "HBA:TP-m"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4909": [
+            "HBA:OPs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4910": [
+            "HBA:OPi"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4911": [
+            "HBA:OPl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4912": [
+            "HBA:OPs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4913": [
+            "HBA:OPi"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_4914": [
+            "HBA:OPl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9001": [
+            "HBA:MES"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9002": [
+            "HBA:MTg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9003": [
+            "HBA:CGMB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9004": [
+            "HBA:CGMB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9005": [
+            "HBA:CGMB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9012": [
+            "HBA:IP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9013": [
+            "HBA:IP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9014": [
+            "HBA:IP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9015": [
+            "HBA:ICjl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9016": [
+            "HBA:ICjl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9017": [
+            "HBA:ICjl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9018": [
+            "HBA:MBRF"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9019": [
+            "HBA:MBRF"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9020": [
+            "HBA:CnF"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9021": [
+            "HBA:PPTg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9022": [
+            "HBA:SubCn"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9023": [
+            "HBA:MBRF"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9024": [
+            "HBA:CnF"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9025": [
+            "HBA:PPTg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9026": [
+            "HBA:SubCn"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9027": [
+            "HBA:PCom"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9028": [
+            "HBA:PCom"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9029": [
+            "HBA:PCom"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9032": [
+            "HBA:AM3"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9033": [
+            "HBA:CC3"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9034": [
+            "HBA:C3"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9035": [
+            "HBA:D3"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9036": [
+            "HBA:I3"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9037": [
+            "HBA:M3"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9038": [
+            "HBA:V3"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9040": [
+            "HBA:AM3"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9041": [
+            "HBA:CC3"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9042": [
+            "HBA:C3"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9043": [
+            "HBA:D3"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9044": [
+            "HBA:I3"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9045": [
+            "HBA:M3"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9046": [
+            "HBA:V3"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9047": [
+            "HBA:Dk"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9048": [
+            "HBA:Dk"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9049": [
+            "HBA:Dk"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9050": [
+            "HBA:PPd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9051": [
+            "HBA:PPd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9052": [
+            "HBA:PPd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9053": [
+            "HBA:RN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9054": [
+            "HBA:RN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9055": [
+            "HBA:RMC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9056": [
+            "HBA:RPC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9057": [
+            "HBA:RN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9058": [
+            "HBA:RMC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9059": [
+            "HBA:RPC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9060": [
+            "HBA:RI"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9061": [
+            "HBA:RI"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9062": [
+            "HBA:RI"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9066": [
+            "HBA:VTA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9067": [
+            "HBA:VTA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9068": [
+            "HBA:VTA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9069": [
+            "HBA:VTg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9070": [
+            "HBA:VTg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9071": [
+            "HBA:VTg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9072": [
+            "HBA:SN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9073": [
+            "HBA:SN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9074": [
+            "HBA:SNC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9075": [
+            "HBA:SNR"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9076": [
+            "HBA:SN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9077": [
+            "HBA:SNC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9078": [
+            "HBA:SNR"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9079": [
+            "HBA:PTec"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9080": [
+            "HBA:OT"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9081": [
+            "HBA:OT"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9082": [
+            "HBA:OT"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9083": [
+            "HBA:PTA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9084": [
+            "HBA:PTA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9085": [
+            "HBA:PTA"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9086": [
+            "HBA:OPt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9087": [
+            "HBA:OPt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9088": [
+            "HBA:OPt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9089": [
+            "HBA:PPt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9090": [
+            "HBA:PPt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9091": [
+            "HBA:PPt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9092": [
+            "HBA:SLn"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9093": [
+            "HBA:SLn"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9094": [
+            "HBA:SLn"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9101": [
+            "HBA:Tec"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9102": [
+            "HBA:IC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9103": [
+            "HBA:IC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9104": [
+            "HBA:CIC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9105": [
+            "HBA:EIC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9106": [
+            "HBA:PCIC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9107": [
+            "HBA:IC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9108": [
+            "HBA:CIC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9109": [
+            "HBA:EIC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9110": [
+            "HBA:PCIC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9111": [
+            "HBA:PBG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9112": [
+            "HBA:PBG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9113": [
+            "HBA:PBG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9114": [
+            "HBA:SC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9115": [
+            "HBA:SC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9116": [
+            "HBA:StL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9117": [
+            "HBA:DpG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9118": [
+            "HBA:DpWh"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9119": [
+            "HBA:MGr"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9120": [
+            "HBA:MWh"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9121": [
+            "HBA:SuG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9122": [
+            "HBA:SuWh"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9123": [
+            "HBA:SC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9124": [
+            "HBA:StL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9125": [
+            "HBA:DpG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9126": [
+            "HBA:DpWh"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9127": [
+            "HBA:MGr"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9128": [
+            "HBA:MWh"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9129": [
+            "HBA:SuG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9130": [
+            "HBA:SuWh"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9131": [
+            "HBA:Pons"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9132": [
+            "HBA:Bpons"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9133": [
+            "HBA:Pn"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9135": [
+            "HBA:PTg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9139": [
+            "HBA:DLL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9140": [
+            "HBA:DLL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9141": [
+            "HBA:DLL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9145": [
+            "HBA:LPB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9146": [
+            "HBA:LPB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9147": [
+            "HBA:LPB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9148": [
+            "HBA:LC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9149": [
+            "HBA:LC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9150": [
+            "HBA:LC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9151": [
+            "HBA:MPB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9152": [
+            "HBA:MPB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9153": [
+            "HBA:MPB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9154": [
+            "HBA:SubC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9155": [
+            "HBA:SubC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9156": [
+            "HBA:SubC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9157": [
+            "HBA:RPn"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9158": [
+            "HBA:RPn"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9159": [
+            "HBA:RPn"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9160": [
+            "HBA:PPRF"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9161": [
+            "HBA:PRF"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9162": [
+            "HBA:PnC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9166": [
+            "HBA:PnO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9167": [
+            "HBA:RtTg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9169": [
+            "HBA:PRF"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9170": [
+            "HBA:PnC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9174": [
+            "HBA:PnO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9175": [
+            "HBA:RtTg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9177": [
+            "HBA:SOC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9178": [
+            "HBA:SOC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9179": [
+            "HBA:PeO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9180": [
+            "HBA:PrO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9181": [
+            "HBA:RO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9182": [
+            "HBA:SOl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9183": [
+            "HBA:LSO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9184": [
+            "HBA:MSO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9185": [
+            "HBA:Tz"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9186": [
+            "HBA:SOC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9187": [
+            "HBA:PeO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9188": [
+            "HBA:PrO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9189": [
+            "HBA:RO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9190": [
+            "HBA:SOl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9191": [
+            "HBA:LSO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9192": [
+            "HBA:MSO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9193": [
+            "HBA:Tz"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9194": [
+            "HBA:SuS"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9195": [
+            "HBA:SuS"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9196": [
+            "HBA:SuS"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9197": [
+            "HBA:tz"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9198": [
+            "HBA:tz"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9199": [
+            "HBA:tz"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9200": [
+            "HBA:VLL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9201": [
+            "HBA:VLL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9202": [
+            "HBA:VLL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9205": [
+            "HBA:Me5"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9206": [
+            "HBA:Mo5"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9207": [
+            "HBA:Pr5"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9212": [
+            "HBA:Me5"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9213": [
+            "HBA:Mo5"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9214": [
+            "HBA:Pr5"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9218": [
+            "HBA:WM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9219": [
+            "HBA:TELWM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9220": [
+            "HBA:TELCom"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9221": [
+            "HBA:ac"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9222": [
+            "HBA:cc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9223": [
+            "HBA:gcc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9224": [
+            "HBA:bcc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9225": [
+            "HBA:scc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9226": [
+            "HBA:rcc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9227": [
+            "HBA:hbc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9228": [
+            "HBA:hc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9229": [
+            "HBA:pc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9230": [
+            "HBA:TelTr"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9231": [
+            "HBA:arf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9232": [
+            "HBA:arf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9233": [
+            "HBA:arf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9234": [
+            "HBA:alv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9235": [
+            "HBA:alv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9236": [
+            "HBA:alv"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9237": [
+            "HBA:al"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9238": [
+            "HBA:al"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9239": [
+            "HBA:al"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9240": [
+            "HBA:cgb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9241": [
+            "HBA:cgb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9242": [
+            "HBA:cgb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9243": [
+            "HBA:ec"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9244": [
+            "HBA:ec"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9245": [
+            "HBA:ec"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9246": [
+            "HBA:exc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9247": [
+            "HBA:exc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9248": [
+            "HBA:exc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9249": [
+            "HBA:fx"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9250": [
+            "HBA:fx"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9251": [
+            "HBA:afx"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9252": [
+            "HBA:bfx"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9253": [
+            "HBA:fi"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9254": [
+            "HBA:pfx"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9255": [
+            "HBA:fx"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9256": [
+            "HBA:afx"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9257": [
+            "HBA:bfx"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9258": [
+            "HBA:fi"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9259": [
+            "HBA:pfx"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9260": [
+            "HBA:ilf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9261": [
+            "HBA:ilf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9262": [
+            "HBA:ilf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9263": [
+            "HBA:ic"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9264": [
+            "HBA:ic"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9265": [
+            "HBA:ic"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9266": [
+            "HBA:mtt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9267": [
+            "HBA:mtt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9268": [
+            "HBA:mtt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9269": [
+            "HBA:off"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9270": [
+            "HBA:off"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9271": [
+            "HBA:off"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9272": [
+            "HBA:ppf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9273": [
+            "HBA:ppf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9274": [
+            "HBA:ppf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9275": [
+            "HBA:sm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9276": [
+            "HBA:sm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9277": [
+            "HBA:sm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9278": [
+            "HBA:st"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9279": [
+            "HBA:st"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9280": [
+            "HBA:st"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9281": [
+            "HBA:slf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9282": [
+            "HBA:slf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9283": [
+            "HBA:slf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9284": [
+            "HBA:uf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9285": [
+            "HBA:uf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9286": [
+            "HBA:uf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9287": [
+            "HBA:METWM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9288": [
+            "HBA:CbWM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9289": [
+            "HBA:icp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9290": [
+            "HBA:icp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9291": [
+            "HBA:icp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9292": [
+            "HBA:mcp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9293": [
+            "HBA:mcp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9294": [
+            "HBA:mcp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9295": [
+            "HBA:scp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9296": [
+            "HBA:scp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9297": [
+            "HBA:scp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9298": [
+            "HBA:MYWM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9299": [
+            "HBA:CN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9300": [
+            "HBA:1n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9301": [
+            "HBA:1n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9302": [
+            "HBA:olf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9303": [
+            "HBA:Olf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9304": [
+            "HBA:1n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9305": [
+            "HBA:olf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9306": [
+            "HBA:Olf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9307": [
+            "HBA:2n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9308": [
+            "HBA:2n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9309": [
+            "HBA:opt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9310": [
+            "HBA:ox"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9311": [
+            "HBA:or"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9312": [
+            "HBA:2n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9313": [
+            "HBA:opt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9314": [
+            "HBA:ox"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9315": [
+            "HBA:or"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9316": [
+            "HBA:3n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9317": [
+            "HBA:3n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9318": [
+            "HBA:3n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9319": [
+            "HBA:4n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9320": [
+            "HBA:4n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9321": [
+            "HBA:4n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9322": [
+            "HBA:5n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9323": [
+            "HBA:5n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9324": [
+            "HBA:5n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9325": [
+            "HBA:6n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9326": [
+            "HBA:6n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9327": [
+            "HBA:6n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9328": [
+            "HBA:7n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9329": [
+            "HBA:7n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9330": [
+            "HBA:7n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9331": [
+            "HBA:8n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9332": [
+            "HBA:8n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9333": [
+            "HBA:8n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9334": [
+            "HBA:9n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9335": [
+            "HBA:9n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9336": [
+            "HBA:9n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9337": [
+            "HBA:10n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9338": [
+            "HBA:10n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9339": [
+            "HBA:10n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9340": [
+            "HBA:11nf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9341": [
+            "HBA:11nf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9342": [
+            "HBA:11nf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9343": [
+            "HBA:12n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9344": [
+            "HBA:12n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9345": [
+            "HBA:12n"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9346": [
+            "HBA:dlf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9347": [
+            "HBA:dlf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9348": [
+            "HBA:dlf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9349": [
+            "HBA:mlf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9350": [
+            "HBA:mlf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9351": [
+            "HBA:mlf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9352": [
+            "HBA:SS"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9353": [
+            "HBA:TELs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9354": [
+            "HBA:FLs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9355": [
+            "HBA:prcs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9356": [
+            "HBA:sfrs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9357": [
+            "HBA:ifs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9358": [
+            "HBA:infs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9359": [
+            "HBA:mfs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9360": [
+            "HBA:orbs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9361": [
+            "HBA:olfs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9362": [
+            "HBA:fros"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9363": [
+            "HBA:fms"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9364": [
+            "HBA:cgs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9365": [
+            "HBA:pcs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9366": [
+            "HBA:sros"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9367": [
+            "HBA:iros"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9368": [
+            "HBA:apos"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9369": [
+            "HBA:ppos"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9370": [
+            "HBA:PLs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9371": [
+            "HBA:pocs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9372": [
+            "HBA:itps"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9373": [
+            "HBA:pis"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9374": [
+            "HBA:sis"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9375": [
+            "HBA:sps"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9376": [
+            "HBA:sbps"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9377": [
+            "HBA:TLs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9378": [
+            "HBA:sts"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9379": [
+            "HBA:its"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9380": [
+            "HBA:cos"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9381": [
+            "HBA:phs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9382": [
+            "HBA:phr"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9383": [
+            "HBA:rhs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9384": [
+            "HBA:ans"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9385": [
+            "HBA:aoc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9386": [
+            "HBA:OLs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9387": [
+            "HBA:pon"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9388": [
+            "HBA:tocs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9389": [
+            "HBA:locs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9390": [
+            "HBA:lus"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9391": [
+            "HBA:ccs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9392": [
+            "HBA:pos"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9393": [
+            "HBA:LLs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9394": [
+            "HBA:his"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9395": [
+            "HBA:ssa"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9396": [
+            "HBA:us"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9397": [
+            "HBA:ILs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9398": [
+            "HBA:crs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9399": [
+            "HBA:cis"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9400": [
+            "HBA:SSmd"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9401": [
+            "HBA:lf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9402": [
+            "HBA:sf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9403": [
+            "HBA:cs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9404": [
+            "HBA:cas"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9405": [
+            "HBA:METs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9406": [
+            "HBA:Cbs"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9407": [
+            "HBA:prf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9408": [
+            "HBA:pcf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9409": [
+            "HBA:icf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9410": [
+            "HBA:prif"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9411": [
+            "HBA:spf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9412": [
+            "HBA:hf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9413": [
+            "HBA:apf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9414": [
+            "HBA:pbf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9415": [
+            "HBA:ibf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9416": [
+            "HBA:sfCb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9417": [
+            "HBA:plf"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9418": [
+            "HBA:Vent"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9419": [
+            "HBA:LV"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9420": [
+            "HBA:3V"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9421": [
+            "HBA:4V"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9422": [
+            "HBA:CC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9439": [
+            "HBA:CGMBdm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9440": [
+            "HBA:CGMBdl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9441": [
+            "HBA:CGMBl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9442": [
+            "HBA:CGMBvl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9443": [
+            "HBA:CGMBpl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9444": [
+            "HBA:CGMBdm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9445": [
+            "HBA:CGMBdl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9446": [
+            "HBA:CGMBl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9447": [
+            "HBA:CGMBvl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9448": [
+            "HBA:CGMBpl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9449": [
+            "HBA:EW"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9450": [
+            "HBA:EW"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9451": [
+            "HBA:EW"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9452": [
+            "HBA:LDTg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9453": [
+            "HBA:LDTg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9454": [
+            "HBA:LDTg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9455": [
+            "HBA:MBRa"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9456": [
+            "HBA:MBRa"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9457": [
+            "HBA:DR"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9458": [
+            "HBA:DRD"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9459": [
+            "HBA:DRI"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9460": [
+            "HBA:DRV"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9461": [
+            "HBA:DRrc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9462": [
+            "HBA:MnR"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9463": [
+            "HBA:MBRa"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9464": [
+            "HBA:DR"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9465": [
+            "HBA:DRD"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9466": [
+            "HBA:DRI"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9467": [
+            "HBA:DRV"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9468": [
+            "HBA:DRrc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9469": [
+            "HBA:MnR"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9470": [
+            "HBA:CLN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9471": [
+            "HBA:RL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9472": [
+            "HBA:IF"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9473": [
+            "HBA:PBP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9474": [
+            "HBA:PN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9475": [
+            "HBA:CLN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9476": [
+            "HBA:RL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9477": [
+            "HBA:IF"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9478": [
+            "HBA:PBP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9479": [
+            "HBA:PN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9480": [
+            "HBA:ICN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9481": [
+            "HBA:ICN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9482": [
+            "HBA:ICN"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9483": [
+            "HBA:BrC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9484": [
+            "HBA:BrC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9485": [
+            "HBA:BrC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9486": [
+            "HBA:Sag"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9487": [
+            "HBA:Sag"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9488": [
+            "HBA:Sag"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9489": [
+            "HBA:SCO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9490": [
+            "HBA:SCO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9491": [
+            "HBA:SCO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9492": [
+            "HBA:Pn"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9493": [
+            "HBA:Pn"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9494": [
+            "HBA:Acs7"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9495": [
+            "HBA:Acs7"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9496": [
+            "HBA:Acs7"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9497": [
+            "HBA:Acs5"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9498": [
+            "HBA:Acs5"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9499": [
+            "HBA:Acs5"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9500": [
+            "HBA:7M"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9501": [
+            "HBA:7L"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9502": [
+            "HBA:7I"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9503": [
+            "HBA:7vl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9504": [
+            "HBA:7VL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9505": [
+            "HBA:P7"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9506": [
+            "HBA:7M"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9507": [
+            "HBA:7L"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9508": [
+            "HBA:7I"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9509": [
+            "HBA:7vl"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9510": [
+            "HBA:7VL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9511": [
+            "HBA:P7"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9512": [
+            "HBA:MY"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9513": [
+            "HBA:ACu"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9514": [
+            "HBA:ACu"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9515": [
+            "HBA:ACu"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9516": [
+            "HBA:Amb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9517": [
+            "HBA:Amb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9518": [
+            "HBA:Amb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9519": [
+            "HBA:Arc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9520": [
+            "HBA:Arc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9521": [
+            "HBA:Arc"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9522": [
+            "HBA:AP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9523": [
+            "HBA:AP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9524": [
+            "HBA:AP"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9525": [
+            "HBA:CGS"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9526": [
+            "HBA:CGS"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9527": [
+            "HBA:CGS"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9528": [
+            "HBA:8Co"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9529": [
+            "HBA:8Co"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9530": [
+            "HBA:DCo"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9531": [
+            "HBA:VCo"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9532": [
+            "HBA:AVCo"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9533": [
+            "HBA:PVCo"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9534": [
+            "HBA:8Co"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9535": [
+            "HBA:DCo"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9536": [
+            "HBA:VCo"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9537": [
+            "HBA:AVCo"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9538": [
+            "HBA:PVCo"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9539": [
+            "HBA:CT"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9540": [
+            "HBA:CT"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9541": [
+            "HBA:CT"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9542": [
+            "HBA:Cu"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9543": [
+            "HBA:Cu"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9544": [
+            "HBA:Cu"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9548": [
+            "HBA:EL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9549": [
+            "HBA:EL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9550": [
+            "HBA:EL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9551": [
+            "HBA:EF"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9552": [
+            "HBA:EF"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9553": [
+            "HBA:EF"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9554": [
+            "HBA:Gr"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9555": [
+            "HBA:Gr"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9556": [
+            "HBA:Gr"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9560": [
+            "HBA:IO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9561": [
+            "HBA:IO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9562": [
+            "HBA:DIO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9563": [
+            "HBA:MIO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9564": [
+            "HBA:PrIO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9565": [
+            "HBA:IO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9566": [
+            "HBA:DIO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9567": [
+            "HBA:MIO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9568": [
+            "HBA:PrIO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9569": [
+            "HBA:IS"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9570": [
+            "HBA:IS"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9571": [
+            "HBA:IS"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9572": [
+            "HBA:In"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9573": [
+            "HBA:In"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9574": [
+            "HBA:In"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9575": [
+            "HBA:IFH"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9576": [
+            "HBA:IFH"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9577": [
+            "HBA:IFH"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9578": [
+            "HBA:IPo"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9579": [
+            "HBA:IPo"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9580": [
+            "HBA:IPo"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9581": [
+            "HBA:LPCu"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9582": [
+            "HBA:LPCu"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9583": [
+            "HBA:LPCu"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9584": [
+            "HBA:MPCu"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9585": [
+            "HBA:MPCu"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9586": [
+            "HBA:MPCu"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9587": [
+            "HBA:MeRF"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9588": [
+            "HBA:CMRt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9589": [
+            "HBA:CMRt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9590": [
+            "HBA:CRt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9591": [
+            "HBA:MRt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9592": [
+            "HBA:VRt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9593": [
+            "HBA:CMRt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9594": [
+            "HBA:CRt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9595": [
+            "HBA:MRt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9596": [
+            "HBA:VRt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9597": [
+            "HBA:GiRt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9598": [
+            "HBA:GiRt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9599": [
+            "HBA:Gia"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9600": [
+            "HBA:DPGi"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9601": [
+            "HBA:LPGi"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9602": [
+            "HBA:Gi"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9603": [
+            "HBA:GiV"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9604": [
+            "HBA:GiRt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9605": [
+            "HBA:Gia"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9606": [
+            "HBA:DPGi"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9607": [
+            "HBA:LPGi"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9608": [
+            "HBA:Gi"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9609": [
+            "HBA:GiV"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9611": [
+            "HBA:Irt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9612": [
+            "HBA:Irt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9613": [
+            "HBA:LMRt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9614": [
+            "HBA:LMRt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9615": [
+            "HBA:EO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9616": [
+            "HBA:LRt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9617": [
+            "HBA:LRtS5"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9618": [
+            "HBA:LRtPC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9619": [
+            "HBA:LMRt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9620": [
+            "HBA:EO"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9621": [
+            "HBA:LRt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9622": [
+            "HBA:LRtS5"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9623": [
+            "HBA:LRtPC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9624": [
+            "HBA:PCRt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9625": [
+            "HBA:PCRt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9626": [
+            "HBA:PCRt"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9627": [
+            "HBA:Ro"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9628": [
+            "HBA:Ro"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9629": [
+            "HBA:Ro"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9630": [
+            "HBA:Pa5"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9631": [
+            "HBA:Pa5"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9632": [
+            "HBA:Pa5"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9633": [
+            "HBA:Pe5"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9634": [
+            "HBA:Pe5"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9635": [
+            "HBA:Pe5"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9636": [
+            "HBA:PnB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9637": [
+            "HBA:PnB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9638": [
+            "HBA:PnB"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9639": [
+            "HBA:Pr"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9640": [
+            "HBA:Pr"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9641": [
+            "HBA:Pr"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9642": [
+            "HBA:RaM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9643": [
+            "HBA:RMg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9644": [
+            "HBA:RMg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9645": [
+            "HBA:RMg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9646": [
+            "HBA:ROb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9647": [
+            "HBA:ROb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9648": [
+            "HBA:ROb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9649": [
+            "HBA:RPa"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9650": [
+            "HBA:Ramb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9651": [
+            "HBA:Ramb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9652": [
+            "HBA:Ramb"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9653": [
+            "HBA:Sol"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9654": [
+            "HBA:Sol"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9655": [
+            "HBA:SolC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9656": [
+            "HBA:SolD"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9657": [
+            "HBA:SolDL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9658": [
+            "HBA:SolG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9659": [
+            "HBA:SolI"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9660": [
+            "HBA:SolIM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9661": [
+            "HBA:SolM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9662": [
+            "HBA:SolPaC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9663": [
+            "HBA:SolV"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9664": [
+            "HBA:SolVL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9665": [
+            "HBA:Sol"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9666": [
+            "HBA:SolC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9667": [
+            "HBA:SolD"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9668": [
+            "HBA:SolDL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9669": [
+            "HBA:SolG"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9670": [
+            "HBA:SolI"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9671": [
+            "HBA:SolIM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9672": [
+            "HBA:SolM"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9673": [
+            "HBA:SolPaC"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9674": [
+            "HBA:SolV"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9675": [
+            "HBA:SolVL"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9676": [
+            "HBA:Sp5"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9677": [
+            "HBA:Sp5"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9678": [
+            "HBA:Sp5I"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9679": [
+            "HBA:Sp5O"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9680": [
+            "HBA:Sp5C"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9681": [
+            "HBA:Sp5Cg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9682": [
+            "HBA:SP5Cm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9683": [
+            "HBA:SP5Cz"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9684": [
+            "HBA:Sp5"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9685": [
+            "HBA:Sp5I"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9686": [
+            "HBA:Sp5O"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9687": [
+            "HBA:Sp5C"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9688": [
+            "HBA:Sp5Cg"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9689": [
+            "HBA:SP5Cm"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9690": [
+            "HBA:SP5Cz"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9691": [
+            "HBA:Sge"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9692": [
+            "HBA:Sge"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9693": [
+            "HBA:Sge"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9694": [
+            "HBA:SSp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9695": [
+            "HBA:SSp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9696": [
+            "HBA:SSp"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9697": [
+            "HBA:8Ve"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9698": [
+            "HBA:8Ve"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9699": [
+            "HBA:LVe"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9700": [
+            "HBA:MVe"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9701": [
+            "HBA:SuVe"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9702": [
+            "HBA:SpVe"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9703": [
+            "HBA:8Ve"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9704": [
+            "HBA:LVe"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9705": [
+            "HBA:MVe"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9706": [
+            "HBA:SuVe"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9707": [
+            "HBA:SpVe"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9708": [
+            "HBA:CPLV"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9709": [
+            "HBA:CP3V"
+          ],
+          "http://purl.obolibrary.org/obo/HBA_9710": [
+            "HBA:CP4V"
+          ]
+        },
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}

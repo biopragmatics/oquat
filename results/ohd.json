@@ -2,23 +2,81 @@
   "results": {
     "http://purl.obolibrary.org/obo/ohd.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/ohd.owl",
-      "prov_pack": {
-        "invalid_luids": {},
+      "prop_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/OHD_0001026": [
+            "doi: 10.3390/jfb7030016"
+          ]
+        },
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "noncanonical_prefixes": {
+          "SCTID": {
+            "http://purl.obolibrary.org/obo/OHD_0000261": "SCTID:109750005"
+          }
+        },
+        "unknown_prefixes": {
+          " Titus Schleyer 3/4/2014": {
+            "http://purl.obolibrary.org/obo/OHD_0000031": " Titus Schleyer 3/4/2014: definition updated"
+          },
+          "A glass eye (see  http": {
+            "http://purl.obolibrary.org/obo/OHD_0000314": "A glass eye (see  http://en.wikipedia.org/wiki/Ocular_prosthesis)"
+          },
+          "A prothetic hand (see http": {
+            "http://purl.obolibrary.org/obo/OHD_0000314": "A prothetic hand (see http://bebionic.com)"
+          },
+          "PERSON": {
+            "http://purl.obolibrary.org/obo/OHD_0000002": "PERSON:Pedro Cott",
+            "http://purl.obolibrary.org/obo/OHD_0000003": "PERSON:Pedro Cott",
+            "http://purl.obolibrary.org/obo/OHD_0000004": "PERSON:Pedro Cott",
+            "http://purl.obolibrary.org/obo/OHD_0000005": "PERSON:Pedro Cott",
+            "http://purl.obolibrary.org/obo/OHD_0000006": "PERSON: Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/OHD_0000009": "PERSON:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/OHD_0000013": "PERSON: Bill Duncan",
+            "http://purl.obolibrary.org/obo/OHD_0000091": "PERSON: Bill Duncan",
+            "http://purl.obolibrary.org/obo/OHD_0000200": "PERSON: Bill Duncan"
+          },
+          "Person": {
+            "http://purl.obolibrary.org/obo/OHD_0000010": "Person:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/OHD_0000019": "Person:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/OHD_0000025": "Person:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/OHD_0000031": "Person:Bill Duncan"
+          },
+          "Titus Schleyer 1/1/2014": {
+            "http://purl.obolibrary.org/obo/OHD_0000037": "Titus Schleyer 1/1/2014: made definition clearer",
+            "http://purl.obolibrary.org/obo/OHD_0000091": "Titus Schleyer 1/1/2014: nice definition!",
+            "http://purl.obolibrary.org/obo/OHD_0000100": "Titus Schleyer 1/1/2014: slightly updated definition",
+            "http://purl.obolibrary.org/obo/OHD_0000189": "Titus Schleyer 1/1/2014: updated definition",
+            "http://purl.obolibrary.org/obo/OHD_0000191": "Titus Schleyer 1/1/2014: updated definition",
+            "http://purl.obolibrary.org/obo/OHD_0000198": "Titus Schleyer 1/1/2014: updated definition",
+            "http://purl.obolibrary.org/obo/OHD_0000203": "Titus Schleyer 1/1/2014: slightly updated definition"
+          },
+          "Titus Schleyer 1/14/14": {
+            "http://purl.obolibrary.org/obo/OHD_0000002": "Titus Schleyer 1/14/14: adapted definition slightly",
+            "http://purl.obolibrary.org/obo/OHD_0000009": "Titus Schleyer 1/14/14: adapted definition",
+            "http://purl.obolibrary.org/obo/OHD_0000013": "Titus Schleyer 1/14/14: adapted definition"
+          },
+          "Titus Schleyer 1/14/2014": {
+            "http://purl.obolibrary.org/obo/OHD_0000001": "Titus Schleyer 1/14/2014: updated definition",
+            "http://purl.obolibrary.org/obo/OHD_0000003": "Titus Schleyer 1/14/2014: adapted definition",
+            "http://purl.obolibrary.org/obo/OHD_0000006": "Titus Schleyer 1/14/2014: updated definition",
+            "http://purl.obolibrary.org/obo/OHD_0000021": "Titus Schleyer 1/14/2014: updated definition",
+            "http://purl.obolibrary.org/obo/OHD_0000033": "Titus Schleyer 1/14/2014: adapted definition"
+          },
+          "Titus Schleyer 3/13/2014": {
+            "http://purl.obolibrary.org/obo/OHD_0000034": "Titus Schleyer 3/13/2014: slightly updated definition"
+          },
+          "Titus Schleyer 3/14/2014": {
+            "http://purl.obolibrary.org/obo/OHD_0000004": "Titus Schleyer 3/14/2014: slightly edited definition"
+          },
+          "Titus Schleyer 3/4/2014": {
+            "http://purl.obolibrary.org/obo/OHD_0000005": "Titus Schleyer 3/4/2014: adapted definition"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/ohd/releases/2024-06-21/ohd.owl",
+      "version": "2024-06-21",
+      "version_iri": "http://purl.obolibrary.org/obo/ohd/releases/2024-06-21/ohd.owl",
       "xref_pack": {
         "invalid_luids": {},
         "known_prefixes": {},

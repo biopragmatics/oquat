@@ -2,31 +2,8 @@
   "results": {
     "https://w3id.org/aio/aio.json": {
       "graph_id": "https://w3id.org/aio/aio.json",
-      "prov_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Provenance Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "https://w3id.org/aio/releases/2024-11-11/aio.json",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "2024-11-11",
+      "version_iri": "https://w3id.org/aio/releases/2024-11-11/aio.json"
     }
   }
 }

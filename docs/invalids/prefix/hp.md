@@ -2,8 +2,16 @@
 
 This page summarize the different resources that reference `hp`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 5 resources,
+`^\d{7}$`. Of the 6 resources,
 1 variants on the standard prefix were found: ['HPO'].
+
+## `clm`: Cell Markers Ontology
+
+Identifiers for this prefix are given incorrectly in `clm`. See the [GitHub repository](https://github.com/Cellular-Semantics/CellMark).
+
+| external_xref   |   usages_count | usages                                                          |
+|-----------------|----------------|-----------------------------------------------------------------|
+| `HPO:pr`        |              1 | [UBERON:0035639](http://purl.obolibrary.org/obo/UBERON_0035639) |
 
 ## `covoc`: CoVoc Coronavirus Vocabulary
 

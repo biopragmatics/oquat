@@ -2,26 +2,17 @@
   "results": {
     "https://w3id.org/biolink/biolink-model.owl.ttl": {
       "graph_id": "https://w3id.org/biolink/biolink-model.owl.ttl",
-      "prov_pack": {
-        "invalid_luids": {},
+      "prop_pack": {
+        "invalid_luids": {
+          "https://w3id.org/biolink/vocab/GeneToDiseaseAssociation": [
+            "NCIT:R176 refers to the inverse relationship"
+          ],
+          "https://w3id.org/biolink/vocab/GeneToDiseaseOrPhenotypicFeatureAssociation": [
+            "NCIT:R176 refers to the inverse relationship"
+          ]
+        },
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}

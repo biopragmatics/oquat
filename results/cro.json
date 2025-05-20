@@ -2,23 +2,19 @@
   "results": {
     "http://purl.obolibrary.org/obo/cro.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/cro.owl",
-      "prov_pack": {
+      "prop_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "Similar to vivo": {
+            "http://purl.obolibrary.org/obo/CRO_0000007": "Similar to vivo:OutreachProviderRole?"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/cro/releases/2019-12-11/cro.owl",
+      "version_iri": "http://purl.obolibrary.org/obo/cro/releases/2019-12-11/cro.owl",
       "xref_pack": {
         "invalid_luids": {},
         "known_prefixes": {},

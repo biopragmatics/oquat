@@ -2,8 +2,16 @@
 
 This page summarize the different resources that reference `aao`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 2 resources,
+`^\d{7}$`. Of the 3 resources,
 1 variants on the standard prefix were found: ['AAO'].
+
+## `clm`: Cell Markers Ontology
+
+Identifiers for this prefix are given incorrectly in `clm`. See the [GitHub repository](https://github.com/Cellular-Semantics/CellMark).
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                              |
+|-----------------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `AAO:EJS`       |              5 | [UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961), [UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972), [UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977), [UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982), [UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) |
 
 ## `nif`
 

@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `nif.std`
 but use local unique identifiers that do not match the standard pattern of
-`^BAMSC\d+$`. Of the 10 resources,
+`^BAMSC\d+$`. Of the 11 resources,
 1 variants on the standard prefix were found: ['NIFSTD'].
 
 ## `bao`: BioAssay Ontology
@@ -23,6 +23,16 @@ Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repos
 | `NIFSTD:sao131261273`  |              2 | [CL:1001571](http://purl.obolibrary.org/obo/CL_1001571), [CL:1001571](http://purl.obolibrary.org/obo/CL_1001571) |
 | `NIFSTD:sao1415726815` |              1 | [CL:0000119](http://purl.obolibrary.org/obo/CL_0000119)                                                          |
 | `NIFSTD:sao862606388`  |              1 | [CL:0000598](http://purl.obolibrary.org/obo/CL_0000598)                                                          |
+
+## `clm`: Cell Markers Ontology
+
+Identifiers for this prefix are given incorrectly in `clm`. See the [GitHub repository](https://github.com/Cellular-Semantics/CellMark).
+
+| external_xref          |   usages_count | usages                                                          |
+|------------------------|----------------|-----------------------------------------------------------------|
+| `NIFSTD:sao1415726815` |              1 | [CL:0000119](http://purl.obolibrary.org/obo/CL_0000119)         |
+| `NIFSTD:FMAID_7191`    |              1 | [UBERON:0002104](http://purl.obolibrary.org/obo/UBERON_0002104) |
+| `NIFSTD:sao862606388`  |              1 | [CL:0000598](http://purl.obolibrary.org/obo/CL_0000598)         |
 
 ## `covoc`: CoVoc Coronavirus Vocabulary
 

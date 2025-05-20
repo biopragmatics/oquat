@@ -2,6 +2,18 @@
   "results": {
     "http://purl.obolibrary.org/obo/bto.json": {
       "graph_id": "http://purl.obolibrary.org/obo/bto.json",
+      "prop_pack": {
+        "invalid_luids": {},
+        "known_prefixes": {},
+        "label": "Node Properties",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "Misspelling": {
+            "http://purl.obolibrary.org/obo/BTO_0002584": "Misspelling: Occasionally CL-48."
+          }
+        }
+      },
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/BTO_0000046": [
@@ -4580,15 +4592,7 @@
           }
         }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/bto/releases/2021-10-26",
+      "version_iri": "http://purl.obolibrary.org/obo/bto/releases/2021-10-26",
       "xref_pack": {
         "invalid_luids": {},
         "known_prefixes": {},

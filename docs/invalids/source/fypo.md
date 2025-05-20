@@ -21,15 +21,13 @@ did not match the standard pattern `^\d{7}$`.
 
 ## `PMID`: PubMed
 
-Overall, there were 2 invalid
+Overall, there were 1 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry
 prefix [`pubmed`](https://bioregistry.io/pubmed)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                      |
 |-----------------|----------------|-------------------------------------------------------------|
-| `PMID:34805795
-PomBase:val`                 |              1 | [FYPO:0007907](http://purl.obolibrary.org/obo/FYPO_0007907) |
 | `PMID::8247131` |              1 | [FYPO:0001686](http://purl.obolibrary.org/obo/FYPO_0001686) |
 
 ## `PomBase`: PomBase

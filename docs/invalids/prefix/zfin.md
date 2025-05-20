@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `zfin`
 but use local unique identifiers that do not match the standard pattern of
-`^ZDB\-\w+\-\d+\-\d+$`. Of the 8 resources,
+`^ZDB\-\w+\-\d+\-\d+$`. Of the 9 resources,
 2 variants on the standard prefix were found: ['ZFIN', 'zfin'].
 
 ## `cl`: Cell Ontology
@@ -13,6 +13,16 @@ Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repos
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `ZFIN:CVS`      |              5 | [CL:0005023](http://purl.obolibrary.org/obo/CL_0005023), [CL:0005024](http://purl.obolibrary.org/obo/CL_0005024), [CL:0005025](http://purl.obolibrary.org/obo/CL_0005025), [CL:0011100](http://purl.obolibrary.org/obo/CL_0011100), [CL:0015000](http://purl.obolibrary.org/obo/CL_0015000) |
 | `ZFIN:YB`       |              1 | [CL:0011100](http://purl.obolibrary.org/obo/CL_0011100)                                                                                                                                                                                                                                     |
+
+## `clm`: Cell Markers Ontology
+
+Identifiers for this prefix are given incorrectly in `clm`. See the [GitHub repository](https://github.com/Cellular-Semantics/CellMark).
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                                   |
+|-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `ZFIN:curator`  |             35 | [UBERON:0000966](http://purl.obolibrary.org/obo/UBERON_0000966), [UBERON:0000991](http://purl.obolibrary.org/obo/UBERON_0000991), [UBERON:0001016](http://purl.obolibrary.org/obo/UBERON_0001016), [UBERON:0001081](http://purl.obolibrary.org/obo/UBERON_0001081), [UBERON:0001083](http://purl.obolibrary.org/obo/UBERON_0001083), ... |
+| `ZFIN:dsf`      |              1 | [GO:0044458](http://purl.obolibrary.org/obo/GO_0044458)                                                                                                                                                                                                                                                                                  |
+| `ZFIN:yb`       |              1 | [UBERON:0003066](http://purl.obolibrary.org/obo/UBERON_0003066)                                                                                                                                                                                                                                                                          |
 
 ## `go`: Gene Ontology
 

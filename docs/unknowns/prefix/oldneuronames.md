@@ -28,3 +28,9 @@
 | OldNeuroNames:2049637081  |        1 | [UBERON:0013545](http://purl.obolibrary.org/obo/UBERON_0013545) |
 | OldNeuroNames:2276        |        1 | [UBERON:0014284](http://purl.obolibrary.org/obo/UBERON_0014284) |
 
+## clm
+
+| curie             |   usages | nodes                                                           |
+|-------------------|----------|-----------------------------------------------------------------|
+| OldNeuroNames:754 |        1 | [UBERON:0001950](http://purl.obolibrary.org/obo/UBERON_0001950) |
+

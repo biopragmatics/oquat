@@ -2,30 +2,319 @@
   "results": {
     "http://vivoweb.org/ontology/core": {
       "graph_id": "http://vivoweb.org/ontology/core",
-      "prov_pack": {
+      "prop_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "A Cornell graduate field (http": {
+            "http://vivoweb.org/ontology/core#Program": "A Cornell graduate field (http://vivo.cornell.edu/index.jsp?home=65535&collection=820)"
+          },
+          "A sub property of identifier (http": {
+            "http://purl.org/ontology/bibo/sici": "A sub property of identifier (http://en.wikipedia.org/wiki/SICI)."
+          },
+          "AGROVOC http": {
+            "http://aims.fao.org/aos/geopolitical.owl#codeAGROVOC": "AGROVOC http://aims.fao.org/website/Search-AGROVOC/sub"
+          },
+          "Amazon standard identification number. Source": {
+            "http://purl.org/ontology/bibo/asin": "Amazon standard identification number. Source: http://en.wikipedia.org/wiki/Amazon_Standard_Identification_Number."
+          },
+          "DBpedia http": {
+            "http://aims.fao.org/aos/geopolitical.owl#codeDBPediaID": "DBpedia http://dbpedia.org/About"
+          },
+          "Definition found here": {
+            "http://vivoweb.org/ontology/core#Publisher": "Definition found here: http://dictionary.reference.com/browse/publisher"
+          },
+          "Definition from": {
+            "http://purl.org/ontology/bibo/uri": "Definition from: http://bibotools.googlecode.com/svn/bibo-ontology/trunk/doc/index.html"
+          },
+          "Definition from here": {
+            "http://purl.org/ontology/bibo/number": "Definition from here: http://bibotools.googlecode.com/svn/bibo-ontology/trunk/doc/index.html",
+            "http://vivoweb.org/ontology/core#FacultyMember": "Definition from here: http://research.carleton.ca/htr/defs.php."
+          },
+          "Definition http": {
+            "http://vivoweb.org/ontology/core#hrJobTitle": "Definition http://en.wikipedia.org/wiki/Job_title#Job_title."
+          },
+          "Definition take from": {
+            "http://vivoweb.org/ontology/core#Foundation": "Definition take from: http://dictionary.reference.com/browse/foundation.",
+            "http://vivoweb.org/ontology/core#GovernmentAgency": "Definition take from: http://en.wikipedia.org/wiki/Government_agency.",
+            "http://vivoweb.org/ontology/core#Hospital": "Definition take from: http://dictionary.reference.com/browse/hospital."
+          },
+          "Definition take from here": {
+            "http://vivoweb.org/ontology/core#School": "Definition take from here: http://dictionary.reference.com/browse/school.",
+            "http://vivoweb.org/ontology/core#StudentOrganization": "Definition take from here: http://en.wikipedia.org/wiki/Student_society"
+          },
+          "Definition taken from": {
+            "http://vivoweb.org/ontology/core#University": "Definition taken from: http://en.wikipedia.org/wiki/University"
+          },
+          "Definition taken from dictionary.com (http": {
+            "http://vivoweb.org/ontology/core#Campus": "Definition taken from dictionary.com (http://dictionary.reference.com/browse/campus)."
+          },
+          "Definiton from Bibo here": {
+            "http://purl.org/ontology/bibo/Hearing": "Definiton from Bibo here: http://bibotools.googlecode.com/svn/bibo-ontology/trunk/doc/index.html"
+          },
+          "FAO terminology http": {
+            "http://aims.fao.org/aos/geopolitical.owl#codeCurrency": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#codeFAOTERM": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameCurrencyAR": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameCurrencyEN": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameCurrencyES": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameCurrencyFR": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameCurrencyIT": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameCurrencyRU": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameCurrencyZH": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameListAR": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameListEN": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameListES": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameListFR": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameListIT": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameListRU": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameListZH": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameOfficialAR": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameOfficialEN": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameOfficialES": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameOfficialFR": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameOfficialIT": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameOfficialRU": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameOfficialZH": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameShortAR": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameShortEN": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameShortES": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameShortFR": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameShortIT": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameShortRU": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nameShortZH": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nationalityAR": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nationalityEN": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nationalityES": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nationalityFR": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nationalityIT": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nationalityRU": "FAO terminology http://www.fao.org/termportal/en/",
+            "http://aims.fao.org/aos/geopolitical.owl#nationalityZH": "FAO terminology http://www.fao.org/termportal/en/"
+          },
+          "FAOSTAT http": {
+            "http://aims.fao.org/aos/geopolitical.owl#agriculturalArea": "FAOSTAT http://faostat.fao.org/DesktopDefault.aspx?PageID=377&lang=en#ancor",
+            "http://aims.fao.org/aos/geopolitical.owl#codeFAOSTAT": "FAOSTAT http://faostat.fao.org",
+            "http://aims.fao.org/aos/geopolitical.owl#countryArea": "FAOSTAT http://faostat.fao.org/DesktopDefault.aspx?PageID=377&lang=en#ancor",
+            "http://aims.fao.org/aos/geopolitical.owl#landArea": "FAOSTAT http://faostat.fao.org/DesktopDefault.aspx?PageID=377&lang=en#ancor",
+            "http://aims.fao.org/aos/geopolitical.owl#population": "FAOSTAT http://faostat.fao.org/site/550/default.aspx"
+          },
+          "GROUP": {
+            "http://purl.obolibrary.org/obo/IAO_0000009": "GROUP: IAO",
+            "http://purl.obolibrary.org/obo/OBI_0000017": "GROUP:  Role branch",
+            "http://purl.obolibrary.org/obo/OBI_0100026": "GROUP: OBI Biomaterial Branch"
+          },
+          "Global Administrative Unit Layers http": {
+            "http://aims.fao.org/aos/geopolitical.owl#codeGAUL": "Global Administrative Unit Layers http://www.fao.org/geonetwork/srv/en/metadata.show?id=12691"
+          },
+          "Home page for Scopus": {
+            "http://vivoweb.org/ontology/core#scopusId": "Home page for Scopus: http://www.scopus.com/home.url"
+          },
+          "ISO 3166-1 http": {
+            "http://aims.fao.org/aos/geopolitical.owl#codeISO2": "ISO 3166-1 http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm"
+          },
+          "Merriam Webster (https": {
+            "http://vivoweb.org/ontology/core#AcademicDegree": "Merriam Webster (https://www.merriam-webster.com/dictionary/degree)",
+            "http://vivoweb.org/ontology/core#Award": "Merriam Webster (https://www.merriam-webster.com/dictionary/award)",
+            "http://vivoweb.org/ontology/core#Credential": "Merriam Webster (https://www.merriam-webster.com/dictionary/credential)",
+            "http://vivoweb.org/ontology/core#hasCollaborator": "Merriam Webster (https://www.merriam-webster.com/dictionary/collaborator)"
+          },
+          "OBI branch derived + wikipedia (http": {
+            "http://purl.obolibrary.org/obo/OBI_0000272": "OBI branch derived + wikipedia (http://en.wikipedia.org/wiki/Protocol_%28natural_sciences%29)"
+          },
+          "PERSON": {
+            "http://purl.obolibrary.org/obo/ARG_2000376": "PERSON: Michael Conlon",
+            "http://purl.obolibrary.org/obo/ERO_0000004": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000005": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000006": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000007": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000012": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0000014": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000015": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000016": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0000020": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000029": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000031": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000033": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000034": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000037": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000038": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000044": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000045": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000046": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000050": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000054": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000070": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000071": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000072": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000224": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0000225": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0000390": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000391": "PERSON: Matthew Brush",
+            "http://purl.obolibrary.org/obo/ERO_0000392": "PERSON: Matthew Brush",
+            "http://purl.obolibrary.org/obo/ERO_0000393": "PERSON: Matthew Brush",
+            "http://purl.obolibrary.org/obo/ERO_0000394": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0000395": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0000396": "PERSON: Matthew Brush",
+            "http://purl.obolibrary.org/obo/ERO_0000397": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000398": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000424": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000460": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000481": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000482": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000543": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000565": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0000572": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000595": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0000774": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000775": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000776": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0000777": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0000778": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0000779": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0000780": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0000783": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0000784": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0000785": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0000786": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0000787": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0000788": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0000789": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0000790": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0000914": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0000918": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0000919": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0001245": "PERSON: Nicole Vasilevsky",
+            "http://purl.obolibrary.org/obo/ERO_0001254": "PERSON: Matthew Brush",
+            "http://purl.obolibrary.org/obo/ERO_0001255": "PERSON: Matthew Brush",
+            "http://purl.obolibrary.org/obo/ERO_0001256": "PERSON: Matthew Brush",
+            "http://purl.obolibrary.org/obo/ERO_0001257": "PERSON: Matthew Brush",
+            "http://purl.obolibrary.org/obo/ERO_0001258": "PERSON: Matthew Brush",
+            "http://purl.obolibrary.org/obo/ERO_0001259": "PERSON: Matthew Brush",
+            "http://purl.obolibrary.org/obo/ERO_0001260": "PERSON: Matthew Brush",
+            "http://purl.obolibrary.org/obo/ERO_0001261": "PERSON: Matthew Brush",
+            "http://purl.obolibrary.org/obo/ERO_0001262": "PERSON: Matthew Brush",
+            "http://purl.obolibrary.org/obo/ERO_0001263": "PERSON: Matthew Brush",
+            "http://purl.obolibrary.org/obo/ERO_0001518": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0001520": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0001521": "PERSON: Melissa Haendel",
+            "http://purl.obolibrary.org/obo/ERO_0001716": "PERSON: Carlo Torniai",
+            "http://purl.obolibrary.org/obo/IAO_0000003": "PERSON: Melanie Courtot",
+            "http://purl.obolibrary.org/obo/IAO_0000005": "PERSON: Jennifer Fostel",
+            "http://purl.obolibrary.org/obo/IAO_0000027": "PERSON: Jonathan Rees",
+            "http://purl.obolibrary.org/obo/IAO_0000030": "PERSON: Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/IAO_0000032": "PERSON: Melanie Courtot",
+            "http://purl.obolibrary.org/obo/IAO_0000033": "PERSON: Bjoern Peters",
+            "http://purl.obolibrary.org/obo/IAO_0000300": "PERSON: Lawrence Hunter",
+            "http://purl.obolibrary.org/obo/OBI_0000293": "PERSON: Melanie Coutot",
+            "http://purl.obolibrary.org/obo/OBI_0000299": "PERSON: Melanie Courtot",
+            "http://purl.obolibrary.org/obo/OBI_0000312": "PERSON:Bjoern Peters",
+            "http://purl.obolibrary.org/obo/OBI_0000643": "PERSON: Alan Ruttenberg",
+            "http://purl.org/ontology/bibo/Document": "PERSON: Lawrence Hunter",
+            "http://vivoweb.org/ontology/core#AcademicDegree": "PERSON: Michael Conlon",
+            "http://vivoweb.org/ontology/core#Award": "PERSON: Michael Conlon",
+            "http://vivoweb.org/ontology/core#Credential": "PERSON: Michael Conlon",
+            "http://vivoweb.org/ontology/core#CurationProcess": "PERSON: Michael Conlon",
+            "http://vivoweb.org/ontology/core#DateTimeValuePrecision": "PERSON: Michael Conlon",
+            "http://vivoweb.org/ontology/core#hasCollaborator": "PERSON: Michael Conlon",
+            "http://xmlns.com/foaf/0.1/Agent": "PERSON: Scott Hoffmann",
+            "http://xmlns.com/foaf/0.1/Group": "PERSON: Scott Hoffmann",
+            "http://xmlns.com/foaf/0.1/Organization": "PERSON: Scott Hoffmann",
+            "http://xmlns.com/foaf/0.1/Person": "PERSON: Melissa Haendel"
+          },
+          "Person": {
+            "http://purl.obolibrary.org/obo/IAO_0000102": "Person:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/IAO_0000144": "Person:Alan Ruttenberg",
+            "http://purl.obolibrary.org/obo/IAO_0000417": "Person:Alan Ruttenberg",
+            "http://vivoweb.org/ontology/core#CollectionProcess": "Person: Michael Conlon"
+          },
+          "Public Definition source (http": {
+            "http://vivoweb.org/ontology/core#publisher": "Public Definition source (http://www.answers.com/topic/publisher).",
+            "http://vivoweb.org/ontology/core#publisherOf": "Public Definition source (http://www.answers.com/topic/publisher)."
+          },
+          "Short Definition take from http": {
+            "http://vivoweb.org/ontology/core#Center": "Short Definition take from http://www.thefreedictionary.com/center.",
+            "http://vivoweb.org/ontology/core#Continent": "Short Definition take from http://en.wiktionary.org/wiki/continent."
+          },
+          "Short definition obtained here": {
+            "http://vivoweb.org/ontology/core#GeopoliticalEntity": "Short definition obtained here: http://en.wiktionary.org/wiki/geopolitical_entity."
+          },
+          "Simona": {
+            "http://purl.org/net/OCRe/study_design.owl#Single_group_study": "Simona: to be reviewed"
+          },
+          "Source": {
+            "http://purl.org/ontology/bibo/lccn": "Source: http://en.wikipedia.org/wiki/Library_of_Congress_Control_Number."
+          },
+          "Source of the Short Definition": {
+            "http://vivoweb.org/ontology/core#StateOrProvince": "Source of the Short Definition: http://www.thefreedictionary.com/state."
+          },
+          "The public description source is": {
+            "http://purl.org/ontology/bibo/annotates": "The public description source is: http://bibotools.googlecode.com/svn/bibo-ontology/trunk/doc/index.html."
+          },
+          "UNDP - HDRO http": {
+            "http://aims.fao.org/aos/geopolitical.owl#HDI": "UNDP - HDRO http://hdrstats.undp.org/en/indicators/49806.html"
+          },
+          "United Nations Map Library http": {
+            "http://aims.fao.org/aos/geopolitical.owl#self_governing": "United Nations Map Library http://www.un.org/depts/dhl/maplib/countinfo.htm"
+          },
+          "United Nations Statistics Division http": {
+            "http://aims.fao.org/aos/geopolitical.owl#codeISO3": "United Nations Statistics Division http://unstats.un.org/unsd/methods/m49/m49alpha.htm",
+            "http://aims.fao.org/aos/geopolitical.owl#codeUN": "United Nations Statistics Division http://unstats.un.org/unsd/methods/m49/m49alpha.htm",
+            "http://aims.fao.org/aos/geopolitical.owl#isPredecessorOf": "United Nations Statistics Division http://unstats.un.org/unsd/methods/m49/m49chang.htm",
+            "http://aims.fao.org/aos/geopolitical.owl#isSuccessorOf": "United Nations Statistics Division http://unstats.un.org/unsd/methods/m49/m49chang.htm"
+          },
+          "United Nations cartographic maps http": {
+            "http://aims.fao.org/aos/geopolitical.owl#hasBorderWith": "United Nations cartographic maps http://www.un.org/Depts/Cartographic/map/profile/world00.pdf",
+            "http://aims.fao.org/aos/geopolitical.owl#isAdministeredBy": "United Nations cartographic maps http://www.un.org/Depts/Cartographic/map/profile/world00.pdf"
+          },
+          "United Nations statistics department http": {
+            "http://aims.fao.org/aos/geopolitical.owl#geographical_region": "United Nations statistics department http://unstats.un.org/unsd/methods/m49/m49regin.htm"
+          },
+          "Used information from this definition": {
+            "http://vivoweb.org/ontology/core#Library": "Used information from this definition: http://dictionary.reference.com/browse/library."
+          },
+          "WEB": {
+            "http://purl.obolibrary.org/obo/OBI_0100026": "WEB: http://en.wikipedia.org/wiki/Organism"
+          },
+          "World Bank http": {
+            "http://aims.fao.org/aos/geopolitical.owl#GDP": "World Bank http://data.worldbank.org/indicator/NY.GDP.MKTP.CD"
+          },
+          "core": {
+            "http://purl.org/ontology/bibo/Conference": "core:Seminar and bibo:Conference are very similar."
+          },
+          "definition from": {
+            "http://purl.org/ontology/bibo/locator": "definition from: http://bibotools.googlecode.com/svn/bibo-ontology/trunk/doc/index.html"
+          },
+          "definition modified from": {
+            "http://vivoweb.org/ontology/core#seatingCapacity": "definition modified from: source (http://en.wikipedia.org/wiki/Seating_capacity)."
+          },
+          "group": {
+            "http://purl.obolibrary.org/obo/IAO_0000013": "group:OBI",
+            "http://purl.obolibrary.org/obo/IAO_0000109": "group:OBI"
+          },
+          "person": {
+            "http://purl.obolibrary.org/obo/IAO_0000013": "person:Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/IAO_0000109": "person:Chris Stoeckert",
+            "http://purl.obolibrary.org/obo/IAO_0000136": "person:Alan Ruttenberg"
+          },
+          "see": {
+            "http://xmlns.com/foaf/0.1/Agent": "see: http://xmlns.com/foaf/spec/#term_Agent"
+          },
+          "see also core": {
+            "http://vivoweb.org/ontology/core#Certification": "see also core:Certificate"
+          },
+          "source": {
+            "http://purl.org/ontology/bibo/isbn13": "source: http://en.wikipedia.org/wiki/Isbn.",
+            "http://purl.org/ontology/bibo/issn": "source: http://en.wikipedia.org/wiki/Issn"
+          },
+          "source for public description": {
+            "http://purl.org/ontology/bibo/upc": "source for public description: http://en.wikipedia.org/wiki/Universal_Product_Code."
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "1.9.0-SNAPSHOT"
     }
   }
 }

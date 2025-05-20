@@ -231,7 +231,8 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "http://purl.obolibrary.org/obo/life-stages/releases/2025-01-23/components/mmusdv.owl",
+      "version": "2025-01-23",
+      "version_iri": "http://purl.obolibrary.org/obo/life-stages/releases/2025-01-23/components/mmusdv.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/MmusDv_0000003": [

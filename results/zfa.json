@@ -3171,7 +3171,8 @@
           }
         }
       },
-      "version": "http://purl.obolibrary.org/obo/zfa/releases/2025-01-28/zfa.json",
+      "version": "2025-01-28",
+      "version_iri": "http://purl.obolibrary.org/obo/zfa/releases/2025-01-28/zfa.json",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/ZFA_0005772": [

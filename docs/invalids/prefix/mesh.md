@@ -2,8 +2,38 @@
 
 This page summarize the different resources that reference `mesh`
 but use local unique identifiers that do not match the standard pattern of
-`^(C|D|M)\d{6,9}$`. Of the 19 resources,
+`^(C|D|M)\d{6,9}$`. Of the 20 resources,
 2 variants on the standard prefix were found: ['MESH', 'MeSH'].
+
+## `clm`: Cell Markers Ontology
+
+Identifiers for this prefix are given incorrectly in `clm`. See the [GitHub repository](https://github.com/Cellular-Semantics/CellMark).
+
+| external_xref                      |   usages_count | usages                                                          |
+|------------------------------------|----------------|-----------------------------------------------------------------|
+| `MESH:A03.734.414`                 |              1 | [UBERON:0000006](http://purl.obolibrary.org/obo/UBERON_0000006) |
+| `MESH:A07.231.114.056`             |              1 | [UBERON:0000947](http://purl.obolibrary.org/obo/UBERON_0000947) |
+| `MESH:A09.371.060.217`             |              1 | [UBERON:0000964](http://purl.obolibrary.org/obo/UBERON_0000964) |
+| `MESH:A10.165.114`                 |              1 | [UBERON:0001013](http://purl.obolibrary.org/obo/UBERON_0001013) |
+| `MESH:A09.371.060.067`             |              1 | [UBERON:0001766](http://purl.obolibrary.org/obo/UBERON_0001766) |
+| `MESH:A09.371.060.217.325`         |              1 | [UBERON:0001772](http://purl.obolibrary.org/obo/UBERON_0001772) |
+| `MESH:A09.371.060.217.228`         |              1 | [UBERON:0001777](http://purl.obolibrary.org/obo/UBERON_0001777) |
+| `MESH:A08.800.800.720`             |              1 | [UBERON:0001780](http://purl.obolibrary.org/obo/UBERON_0001780) |
+| `MESH:A09.371.060`                 |              1 | [UBERON:0001801](http://purl.obolibrary.org/obo/UBERON_0001801) |
+| `MESH:A07.231.432.952`             |              1 | [UBERON:0001979](http://purl.obolibrary.org/obo/UBERON_0001979) |
+| `MESH:A10.272.491`                 |              1 | [UBERON:0001986](http://purl.obolibrary.org/obo/UBERON_0001986) |
+| `MESH:A08.186.211.132.810.428.200` |              1 | [UBERON:0002037](http://purl.obolibrary.org/obo/UBERON_0002037) |
+| `MESH:A07.541.459`                 |              1 | [UBERON:0002099](http://purl.obolibrary.org/obo/UBERON_0002099) |
+| `MESH:A04.411.125`                 |              1 | [UBERON:0002185](http://purl.obolibrary.org/obo/UBERON_0002185) |
+| `MESH:A03.159.183.079`             |              1 | [UBERON:0003703](http://purl.obolibrary.org/obo/UBERON_0003703) |
+| `MESH:A03.159.183.158`             |              1 | [UBERON:0003704](http://purl.obolibrary.org/obo/UBERON_0003704) |
+| `MESH:A08.800.800.720.800`         |              1 | [UBERON:0003726](http://purl.obolibrary.org/obo/UBERON_0003726) |
+| `MESH:A04.760`                     |              1 | [UBERON:0004785](http://purl.obolibrary.org/obo/UBERON_0004785) |
+| `MESH:A07.231.114.565`             |              1 | [UBERON:0005616](http://purl.obolibrary.org/obo/UBERON_0005616) |
+| `MESH:A07.231.908.670.385`         |              1 | [UBERON:0005617](http://purl.obolibrary.org/obo/UBERON_0005617) |
+| `MESH:A12.207`                     |              1 | [UBERON:0006314](http://purl.obolibrary.org/obo/UBERON_0006314) |
+| `MESH:A07.231.432`                 |              1 | [UBERON:0010523](http://purl.obolibrary.org/obo/UBERON_0010523) |
+| `MESH:A08.663.542.122`             |              1 | [UBERON:0011925](http://purl.obolibrary.org/obo/UBERON_0011925) |
 
 ## `covoc`: CoVoc Coronavirus Vocabulary
 

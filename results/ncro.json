@@ -2,23 +2,24 @@
   "results": {
     "http://purl.obolibrary.org/obo/ncro.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/ncro.owl",
-      "prov_pack": {
+      "prop_pack": {
         "invalid_luids": {},
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "TODO": {
+            "http://purl.obolibrary.org/obo/NCRO_0004002": "TODO: Add axiom linking GO transcription"
+          },
+          "WEB": {
+            "http://purl.obolibrary.org/obo/NCRO_0004000": "WEB:https://en.wikipedia.org/w/index.php?title=Non-coding_RNA&oldid=688555892#Non-coding RNA",
+            "http://purl.obolibrary.org/obo/NCRO_0004004": "WEB:https://en.wikipedia.org/w/index.php?title=Long_non-coding_RNA&oldid=687562040#Long non-coding RNA",
+            "http://purl.obolibrary.org/obo/NCRO_0004005": "WEB:https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Small_interfering_RNA&id=685334024#Small_interfering_RNA"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/ncro/2015-12-10/ncro-combined.owl",
+      "version_iri": "http://purl.obolibrary.org/obo/ncro/2015-12-10/ncro-combined.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/NCRO_0002693": [

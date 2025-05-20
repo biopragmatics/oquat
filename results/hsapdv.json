@@ -318,7 +318,8 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "http://purl.obolibrary.org/obo/life-stages/releases/2025-01-23/components/hsapdv.owl",
+      "version": "2025-01-23",
+      "version_iri": "http://purl.obolibrary.org/obo/life-stages/releases/2025-01-23/components/hsapdv.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/HsapDv_0000003": [

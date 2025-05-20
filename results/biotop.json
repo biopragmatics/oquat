@@ -2,30 +2,43 @@
   "results": {
     "http://purl.org/biotop/biotop.owl": {
       "graph_id": "http://purl.org/biotop/biotop.owl",
-      "prov_pack": {
-        "invalid_luids": {},
+      "prop_pack": {
+        "invalid_luids": {
+          "http://purl.org/biotop/biotop.owl#Body": [
+            "FMAID:256135 Body"
+          ],
+          "http://purl.org/biotop/biotop.owl#OrganPart": [
+            "FMAID:82472 Cardinal organ part"
+          ],
+          "http://purl.org/biotop/biotop.owl#OrganSystem": [
+            "FMAID:7149 Organ system"
+          ],
+          "http://purl.org/biotop/biotop.owl#OrganSystemPart": [
+            "FMAID:67509  Organ system subdivistion"
+          ],
+          "http://purl.org/biotop/btl2.owl#Organism": [
+            "FMAID:256135 Body"
+          ]
+        },
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "noncanonical_prefixes": {
+          "FMAID": {
+            "http://purl.org/biotop/biotop.owl#Body": "FMAID:256135 Body",
+            "http://purl.org/biotop/biotop.owl#OrganPart": "FMAID:82472 Cardinal organ part",
+            "http://purl.org/biotop/biotop.owl#OrganSystem": "FMAID:7149 Organ system",
+            "http://purl.org/biotop/biotop.owl#OrganSystemPart": "FMAID:67509  Organ system subdivistion",
+            "http://purl.org/biotop/btl2.owl#Organism": "FMAID:256135 Body"
+          }
+        },
+        "unknown_prefixes": {
+          "former name": {
+            "http://purl.org/biotop/biotop.owl#PathologicalStructure": "former name: \"ill formed biological structure\""
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "Last modification\nApr 24, 2012 by Stefan Schulz"
     }
   }
 }

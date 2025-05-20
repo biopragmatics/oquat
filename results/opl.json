@@ -2,31 +2,54 @@
   "results": {
     "http://purl.obolibrary.org/obo/opl.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/opl.owl",
-      "prov_pack": {
-        "invalid_luids": {},
+      "prop_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/OPL_0000018": [
+            "Wikipedia: Trematode lifecycle stages"
+          ],
+          "http://purl.obolibrary.org/obo/OPL_0000033": [
+            "Wikipedia: Trypanosomatid"
+          ],
+          "http://purl.obolibrary.org/obo/OPL_0000042": [
+            "Wikipedia: Plasmodium falciparum biology"
+          ],
+          "http://purl.obolibrary.org/obo/OPL_0000070": [
+            "Wikipedia: Trematode lifecycle stages"
+          ],
+          "http://purl.obolibrary.org/obo/OPL_0000078": [
+            "PMID: 11006474"
+          ],
+          "http://purl.obolibrary.org/obo/OPL_0000089": [
+            "Wikipedia: Plasmodium falciparum biology"
+          ],
+          "http://purl.obolibrary.org/obo/OPL_0000137": [
+            "Wikipedia: Plasmodium falciparum biology"
+          ],
+          "http://purl.obolibrary.org/obo/OPL_0000155": [
+            "Wikipedia: Plasmodium falciparum"
+          ],
+          "http://purl.obolibrary.org/obo/OPL_0000161": [
+            "Wikipedia: Plasmodium falciparum biology"
+          ],
+          "http://purl.obolibrary.org/obo/OPL_0000173": [
+            "Wikipedia: Plasmodium"
+          ],
+          "http://purl.obolibrary.org/obo/OPL_0000199": [
+            "Wikipedia: Plasmodium falciparum biology"
+          ]
+        },
         "known_prefixes": {},
-        "label": "Provenance Xrefs",
+        "label": "Node Properties",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
+        "unknown_prefixes": {
+          "previous def was": {
+            "http://purl.obolibrary.org/obo/OPL_0000117": "previous def was: blood of human"
+          }
+        }
       },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "http://purl.obolibrary.org/obo/opl/2023-08-28/opl.owl",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version": "2023-08-28",
+      "version_iri": "http://purl.obolibrary.org/obo/opl/2023-08-28/opl.owl"
     }
   }
 }

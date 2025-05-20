@@ -2,6 +2,925 @@
   "results": {
     "http://www.ebi.ac.uk/efo/efo.owl": {
       "graph_id": "http://www.ebi.ac.uk/efo/efo.owl",
+      "prop_pack": {
+        "invalid_luids": {
+          "http://www.ebi.ac.uk/efo/EFO_0000371": [
+            "Wikipedia: http://en.wikipedia.org/wiki/Congenital_absence_of_the_vas_deferens"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0005913": [
+            "PMCID: PMC1240407"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006354": [
+            "PMID: 2045389"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006356": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006357": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006359": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006360": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006363": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006365": [
+            "PMID: 8169003"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006392": [
+            "PMID: 2543550"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006395": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006396": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006397": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006398": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006399": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006400": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006401": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006402": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006403": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006404": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006405": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006406": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006407": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006408": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006409": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006410": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006411": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006412": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006413": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006414": [
+            "PMID: 19523745"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006435": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006439": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006440": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006453": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006455": [
+            "PMID: 1913182"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006457": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006464": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006476": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006481": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006484": [
+            "PMID: 3095281"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006490": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006495": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006496": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006530": [
+            "PMID: 11920212"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006548": [
+            "PMID: 2253219"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006552": [
+            "PMID: 16266902"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006553": [
+            "PMID: 24327544"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006563": [
+            "PMID: 17547717"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006565": [
+            "PMID: 7839470"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006578": [
+            "PMID: 3962675"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006579": [
+            "PMID: 6177045"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006604": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006613": [
+            "PMID: 2479409"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006620": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006622": [
+            "PMID: 25485618"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006624": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006642": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006643": [
+            "PMID: 23401782"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006656": [
+            "PMID: 7521578"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006657": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006678": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006679": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006681": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006682": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006683": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006684": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006685": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006687": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006688": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006689": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006691": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006699": [
+            "PMID: 17060621"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006714": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006715": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006717": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006720": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006721": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006722": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006723": [
+            "PMCID: PMC370929"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006729": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006730": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006734": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006737": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006741": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006743": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006744": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006745": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006747": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006748": [
+            "PMID: 8221669"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006754": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006755": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006756": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006757": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006758": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006759": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006760": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006764": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006765": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006766": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006769": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006778": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006779": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0006780": [
+            "PMID: 25485619"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0008559": [
+            "KEGG:05142"
+          ]
+        },
+        "known_prefixes": {},
+        "label": "Node Properties",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {
+          "PMCID": {
+            "http://www.ebi.ac.uk/efo/EFO_0005913": "PMCID: PMC1240407",
+            "http://www.ebi.ac.uk/efo/EFO_0005914": "PMCID:PMC2259027",
+            "http://www.ebi.ac.uk/efo/EFO_0006723": "PMCID: PMC370929"
+          },
+          "SCTID": {
+            "http://www.ebi.ac.uk/efo/EFO_0009532": "SCTID:15241006",
+            "http://www.ebi.ac.uk/efo/EFO_0009533": "SCTID:70835005",
+            "http://www.ebi.ac.uk/efo/EFO_0009534": "SCTID:105997008",
+            "http://www.ebi.ac.uk/efo/EFO_0009535": "SCTID:83275001",
+            "http://www.ebi.ac.uk/efo/EFO_0009536": "SCTID:41446000",
+            "http://www.ebi.ac.uk/efo/EFO_0009537": "SCTID:69195002",
+            "http://www.ebi.ac.uk/efo/EFO_0009538": "SCTID:716723000",
+            "http://www.ebi.ac.uk/efo/EFO_0009540": "SCTID:57203004",
+            "http://www.ebi.ac.uk/efo/EFO_0009541": "SCTID:66579008",
+            "http://www.ebi.ac.uk/efo/EFO_0009542": "SCTID:18526009",
+            "http://www.ebi.ac.uk/efo/EFO_0009544": "SCTID:37657006",
+            "http://www.ebi.ac.uk/efo/EFO_0009545": "SCTID:28670008",
+            "http://www.ebi.ac.uk/efo/EFO_0009546": "SCTID:118941004",
+            "http://www.ebi.ac.uk/efo/EFO_0009547": "SCTID:60113004",
+            "http://www.ebi.ac.uk/efo/EFO_0009548": "SCTID:128134005",
+            "http://www.ebi.ac.uk/efo/EFO_0009549": "SCTID:310789003",
+            "http://www.ebi.ac.uk/efo/EFO_0009550": "SCTID:230461009",
+            "http://www.ebi.ac.uk/efo/EFO_0009551": "SCTID:368009",
+            "http://www.ebi.ac.uk/efo/EFO_0009552": "SCTID:70153002",
+            "http://www.ebi.ac.uk/efo/EFO_0009554": "SCTID:32230006",
+            "http://www.ebi.ac.uk/efo/EFO_0009555": "SCTID:363194005",
+            "http://www.ebi.ac.uk/efo/EFO_0009557": "SCTID:11851006",
+            "http://www.ebi.ac.uk/efo/EFO_0009558": "SCTID:128189008",
+            "http://www.ebi.ac.uk/efo/EFO_0009559": "SCTID:2231001",
+            "http://www.ebi.ac.uk/efo/EFO_0009560": "SCTID:3135009",
+            "http://www.ebi.ac.uk/efo/EFO_0009562": "SCTID:42345000",
+            "http://www.ebi.ac.uk/efo/EFO_0009563": "SCTID:238107002",
+            "http://www.ebi.ac.uk/efo/EFO_0009564": "SCTID:76267008",
+            "http://www.ebi.ac.uk/efo/EFO_0009565": "SCTID:85983004",
+            "http://www.ebi.ac.uk/efo/EFO_0009566": "SCTID:95568003",
+            "http://www.ebi.ac.uk/efo/EFO_0009569": "SCTID:64309007",
+            "http://www.ebi.ac.uk/efo/EFO_0009570": "SCTID:21426000",
+            "http://www.ebi.ac.uk/efo/EFO_0009571": "SCTID:7163005",
+            "http://www.ebi.ac.uk/efo/EFO_0009572": "SCTID:28783002",
+            "http://www.ebi.ac.uk/efo/EFO_0009650": "SCTID:237613005"
+          },
+          "SwissProt": {
+            "http://www.ebi.ac.uk/efo/EFO_0009914": "SwissProt:Q9HB96",
+            "http://www.ebi.ac.uk/efo/EFO_0009915": "SwissProt:Q9ULP9",
+            "http://www.ebi.ac.uk/efo/EFO_0009916": "SwissProt:Q9NP58"
+          }
+        },
+        "unknown_prefixes": {
+          " http": {
+            "http://www.ebi.ac.uk/efo/EFO_0005388": " http://bioinfoweb.com/CLDB-JIMT-1.htm"
+          },
+          "<WEB> http": {
+            "http://www.ebi.ac.uk/efo/EFO_0000748": "<WEB> http://en.wikipedia.org/wiki/ChIP-on-chip"
+          },
+          "CD9CM": {
+            "http://www.ebi.ac.uk/efo/EFO_0005801": "CD9CM:445"
+          },
+          "Chopra et al (1995) Differentiation 58": {
+            "http://www.ebi.ac.uk/efo/EFO_0006279": "Chopra et al (1995) Differentiation 58:241-251",
+            "http://www.ebi.ac.uk/efo/EFO_0006280": "Chopra et al (1995) Differentiation 58:241-251"
+          },
+          "Duplicate": {
+            "http://www.ebi.ac.uk/efo/EFO_0000210": "Duplicate: use EFO_0000208"
+          },
+          "Duplicate of EFO": {
+            "http://www.ebi.ac.uk/efo/EFO_0003845": "Duplicate of EFO:0004253 'nephrolithiasis'."
+          },
+          "Duplicate of http": {
+            "http://www.ebi.ac.uk/efo/EFO_0001669": "Duplicate of http://www.ebi.ac.uk/efo/EFO_0007328.",
+            "http://www.ebi.ac.uk/efo/EFO_0008716": "Duplicate of http://www.ebi.ac.uk/efo/EFO_0003752.",
+            "http://www.ebi.ac.uk/efo/EFO_0008717": "Duplicate of http://www.ebi.ac.uk/efo/EFO_0003752.",
+            "http://www.ebi.ac.uk/efo/EFO_0008917": "Duplicate of http://www.ebi.ac.uk/efo/EFO_0008918.",
+            "http://www.ebi.ac.uk/efo/EFO_0008940": "Duplicate of http://www.ebi.ac.uk/efo/EFO_0009809.",
+            "http://www.ebi.ac.uk/efo/EFO_0009207": "Duplicate of http://www.ebi.ac.uk/efo/EFO_0004541.",
+            "http://www.ebi.ac.uk/efo/EFO_1001405": "Duplicate of http://www.ebi.ac.uk/efo/EFO_0007452."
+          },
+          "Duplicate term, use http": {
+            "http://www.ebi.ac.uk/efo/EFO_0020060": "Duplicate term, use http://www.ebi.ac.uk/efo/EFO_0010354.",
+            "http://www.ebi.ac.uk/efo/EFO_0020061": "Duplicate term, use http://www.ebi.ac.uk/efo/EFO_0010355."
+          },
+          "Duplicate with": {
+            "http://www.ebi.ac.uk/efo/EFO_0005477": "Duplicate with: http://www.ebi.ac.uk/efo/EFO_0005719"
+          },
+          "Duplicated Use": {
+            "http://www.ebi.ac.uk/efo/EFO_0002517": "Duplicated Use: http://purl.obolibrary.org/obo/MONDO_0005184"
+          },
+          "Duplication of phenotype term. Use http": {
+            "http://www.ebi.ac.uk/efo/EFO_0008575": "Duplication of phenotype term. Use http://purl.obolibrary.org/obo/HP_0040188"
+          },
+          "Duplication with http": {
+            "http://www.ebi.ac.uk/efo/EFO_0000378": "Duplication with http://www.ebi.ac.uk/efo/EFO_0001645"
+          },
+          "Duplication, use http": {
+            "http://www.ebi.ac.uk/efo/EFO_0008166": "Duplication, use http://www.ebi.ac.uk/efo/EFO_0004812"
+          },
+          "Duplication. Use http": {
+            "http://www.ebi.ac.uk/efo/EFO_0007483": "Duplication. Use http://www.ebi.ac.uk/efo/EFO_1000052."
+          },
+          "ENCODE website <http": {
+            "http://www.ebi.ac.uk/efo/EFO_0002910": "ENCODE website <http://www.genome.gov/10005107>"
+          },
+          "Fiedler et al (2000) Cancer 88": {
+            "http://www.ebi.ac.uk/efo/EFO_0006307": "Fiedler et al (2000) Cancer 88:344-351"
+          },
+          "Meijer et al, http": {
+            "http://www.ebi.ac.uk/efo/EFO_0005018": "Meijer et al, http://genomebiology.com/2011/12/2/R16",
+            "http://www.ebi.ac.uk/efo/EFO_0005019": "Meijer et al, http://genomebiology.com/2011/12/2/R16"
+          },
+          "OntologyMappingImporter following DOID": {
+            "http://www.ebi.ac.uk/efo/EFO_0000169": "OntologyMappingImporter following DOID:1040",
+            "http://www.ebi.ac.uk/efo/EFO_0000525": "OntologyMappingImporter following DOID:253"
+          },
+          "OntologyMappingImporter following MAT": {
+            "http://www.ebi.ac.uk/efo/EFO_0000898": "OntologyMappingImporter following MAT:0000342",
+            "http://www.ebi.ac.uk/efo/EFO_0000951": "OntologyMappingImporter following MAT:0000278",
+            "http://www.ebi.ac.uk/efo/EFO_0000960": "OntologyMappingImporter following MAT:0000257",
+            "http://www.ebi.ac.uk/efo/EFO_0000971": "OntologyMappingImporter following MAT:0000165",
+            "http://www.ebi.ac.uk/efo/EFO_0001010": "OntologyMappingImporter following MAT:0000221",
+            "http://www.ebi.ac.uk/efo/EFO_0001018": "OntologyMappingImporter following MAT:0000225",
+            "http://www.ebi.ac.uk/efo/EFO_0001272": "OntologyMappingImporter following MAT:0000403"
+          },
+          "Replaced by HP": {
+            "http://www.ebi.ac.uk/efo/EFO_0002625": "Replaced by HP:0012864 'Abnormal sperm morphology'."
+          },
+          "Replaced by HP term. Use": {
+            "http://www.ebi.ac.uk/efo/EFO_0003784": "Replaced by HP term. Use: http://purl.obolibrary.org/obo/HP_0001000"
+          },
+          "Replaced by MONDO": {
+            "http://www.ebi.ac.uk/efo/EFO_1001049": "Replaced by MONDO:0003036 'mucoepidermoid carcinoma'."
+          },
+          "Replaced by OBA term http": {
+            "http://www.ebi.ac.uk/efo/EFO_0010787": "Replaced by OBA term http://purl.obolibrary.org/obo/OBA_2050349",
+            "http://www.ebi.ac.uk/efo/EFO_0021572": "Replaced by OBA term http://purl.obolibrary.org/obo/OBA_2050345",
+            "http://www.ebi.ac.uk/efo/EFO_0800624": "Replaced by OBA term http://purl.obolibrary.org/obo/OBA_2050345"
+          },
+          "Tha HapMap Project webpage <http": {
+            "http://www.ebi.ac.uk/efo/EFO_0002911": "Tha HapMap Project webpage <http://hapmap.ncbi.nlm.nih.gov>"
+          },
+          "Typo for, and duplicate of, http": {
+            "http://www.ebi.ac.uk/efo/EFO_1000615": "Typo for, and duplicate of, http://purl.obolibrary.org/obo/CL_0002601"
+          },
+          "Use ": {
+            "http://www.ebi.ac.uk/efo/EFO_0002114": "Use : EFO_0005725 label : BE(2)-C",
+            "http://www.ebi.ac.uk/efo/EFO_0003862": "Use : HP:0000726 label : dementia",
+            "http://www.ebi.ac.uk/efo/EFO_0004290": "Use : HP_0025095 label : Sneeze",
+            "http://www.ebi.ac.uk/efo/EFO_0006267": "Use : EFO_0006288 label : NF90-8"
+          },
+          "Use http": {
+            "http://www.ebi.ac.uk/efo/EFO_0000362": "Use http://www.ebi.ac.uk/efo/EFO_0000365 colorectal adenocarcinoma",
+            "http://www.ebi.ac.uk/efo/EFO_0000363": "Use http://www.ebi.ac.uk/efo/EFO_0000365 colorectal adenocarcinoma",
+            "http://www.ebi.ac.uk/efo/EFO_0000755": "Use http://www.ebi.ac.uk/efo/EFO_0000365 colorectal adenocarcinoma",
+            "http://www.ebi.ac.uk/efo/EFO_0001913": "Use http://purl.obolibrary.org/obo/UBERON_0004801 label: cervix epithelium",
+            "http://www.ebi.ac.uk/efo/EFO_0001923": "Use http://purl.obolibrary.org/obo/UBERON_0003679  label:mouth floor",
+            "http://www.ebi.ac.uk/efo/EFO_0002915": "Use http://www.ebi.ac.uk/efo/EFO_0000365 colorectal adenocarcinoma",
+            "http://www.ebi.ac.uk/efo/EFO_0004245": "Use http://purl.obolibrary.org/obo/UBERON_0001769"
+          },
+          "WEB": {
+            "http://www.ebi.ac.uk/efo/EFO_0001425": "WEB:http://en.wikipedia.org/wiki/Cardiomyopathy#Ischemic_cardiomyopathy"
+          },
+          "[BTO": {
+            "http://www.ebi.ac.uk/efo/EFO_0005236": "[BTO:0000946]"
+          },
+          "[PMID": {
+            "http://www.ebi.ac.uk/efo/EFO_0005234": "[PMID: 1316433] [CLO:0008425]"
+          },
+          "derived from wikipedia http": {
+            "http://www.ebi.ac.uk/efo/EFO_0004138": "derived from wikipedia http://en.wikipedia.org/wiki/Bundle_branch_block",
+            "http://www.ebi.ac.uk/efo/EFO_0004146": "derived from wikipedia http://en.wikipedia.org/wiki/Central_core_disease"
+          },
+          "duplicate class, use http": {
+            "http://www.ebi.ac.uk/efo/EFO_0004643": "duplicate class, use http://www.ebi.ac.uk/efo/EFO_0004723 instead"
+          },
+          "duplicate of Daudi http": {
+            "http://www.ebi.ac.uk/efo/EFO_0000172": "duplicate of Daudi http://www.ebi.ac.uk/efo/EFO_0002169"
+          },
+          "duplicate of class http": {
+            "http://www.ebi.ac.uk/efo/EFO_0000212": "duplicate of class http://www.ebi.ac.uk/efo/EFO_1000056",
+            "http://www.ebi.ac.uk/efo/EFO_0000492": "duplicate of class http://www.orpha.net/ORDO/Orphanet_79211",
+            "http://www.ebi.ac.uk/efo/EFO_0002512": "duplicate of class http://www.orpha.net/ORDO/Orphanet_683",
+            "http://www.ebi.ac.uk/efo/EFO_0002620": "duplicate of class http://www.ebi.ac.uk/efo/EFO_0008519",
+            "http://www.ebi.ac.uk/efo/EFO_0002631": "duplicate of class http://www.orpha.net/ORDO/Orphanet_247",
+            "http://www.ebi.ac.uk/efo/EFO_0003916": "duplicate of class http://www.orpha.net/ORDO/Orphanet_46724",
+            "http://www.ebi.ac.uk/efo/EFO_0004135": "duplicate of class http://purl.obolibrary.org/obo/MONDO_0007182",
+            "http://www.ebi.ac.uk/efo/EFO_0004146": "duplicate of class http://www.orpha.net/ORDO/Orphanet_597"
+          },
+          "duplicate of http": {
+            "http://www.ebi.ac.uk/efo/EFO_1000033": "duplicate of http://www.orpha.net/ORDO/Orphanet_2189",
+            "http://www.ebi.ac.uk/efo/EFO_1001251": "duplicate of http://www.orpha.net/ORDO/Orphanet_107"
+          },
+          "obsoletise antibiotic, replace by CHEBI": {
+            "http://www.ebi.ac.uk/efo/EFO_0001485": "obsoletise antibiotic, replace by CHEBI:33281"
+          },
+          "relationship loss": {
+            "http://www.ebi.ac.uk/efo/EFO_0003503": "relationship loss: subclass basibranchial element (TAO:0001914)[TAO]"
+          },
+          "use": {
+            "http://www.ebi.ac.uk/efo/EFO_0004218": "use: EFO_0007191 label: cannabis dependence",
+            "http://www.ebi.ac.uk/efo/EFO_1000031": "use: EFO_0000508 label: genetic disorder"
+          },
+          "use ": {
+            "http://www.ebi.ac.uk/efo/EFO_0000867": "use : http://purl.obolibrary.org/obo/UBERON_0002360 label : meninx",
+            "http://www.ebi.ac.uk/efo/EFO_0001165": "use : EFO_0006671 label : NCI-H209",
+            "http://www.ebi.ac.uk/efo/EFO_0001367": "use : http://purl.obolibrary.org/obo/UBERON_0000922 label : embryo",
+            "http://www.ebi.ac.uk/efo/EFO_0001925": "use : http://purl.obolibrary.org/obo/UBERON_0001828 label : gingiva",
+            "http://www.ebi.ac.uk/efo/EFO_0001949": "use : http://purl.obolibrary.org/obo/UBERON_0001015 label : musculature",
+            "http://www.ebi.ac.uk/efo/EFO_0002290": "use : EFO_0006691 label : NCI-H322T",
+            "http://www.ebi.ac.uk/efo/EFO_0002336": "use : EFO_0005721 label : SK-N-DZ",
+            "http://www.ebi.ac.uk/efo/EFO_0002387": "use : EFO_0006771 label : UM-UC-3",
+            "http://www.ebi.ac.uk/efo/EFO_0003426": "use : http://purl.obolibrary.org/obo/UBERON_0004880 label : chordamesoderm",
+            "http://www.ebi.ac.uk/efo/EFO_0003568": "use : http://purl.obolibrary.org/obo/UBERON_0001015 label : musculature",
+            "http://www.ebi.ac.uk/efo/EFO_0005905": "use : EFO_0006711 label : OCI-LY7",
+            "http://www.ebi.ac.uk/efo/EFO_0005908": "use : EFO_0006710 label : OCI-LY3",
+            "http://www.ebi.ac.uk/efo/EFO_0006413": "use : EFO_0006691 label : NCI-H322T",
+            "http://www.ebi.ac.uk/efo/EFO_0006464": "use : EFO_0006723 label : OVCA433",
+            "http://www.ebi.ac.uk/efo/EFO_0006567": "use : EFO_0006275 label : ES-E14TG2a",
+            "http://www.ebi.ac.uk/efo/EFO_0006731": "use : EFO_0005713 label : 8988T"
+          },
+          "use EFO": {
+            "http://www.ebi.ac.uk/efo/EFO_0002082": "use EFO:0001203 label : MCF-7"
+          },
+          "use EFO_0001254 label ": {
+            "http://www.ebi.ac.uk/efo/EFO_0002384": "use EFO_0001254 label : U266",
+            "http://www.ebi.ac.uk/efo/EFO_0005478": "use EFO_0001254 label : U266"
+          },
+          "use EFO_0005720 label ": {
+            "http://www.ebi.ac.uk/efo/EFO_0002080": "use EFO_0005720 label : SK-MEL-5"
+          },
+          "use EFO_1000020 label ": {
+            "http://www.ebi.ac.uk/efo/EFO_1000153": "use EFO_1000020 label : cecum adenocarcinoma"
+          },
+          "use http": {
+            "http://www.ebi.ac.uk/efo/EFO_0000170": "use http://purl.obolibrary.org/obo/UBERON_2000711 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000214": "use http://purl.obolibrary.org/obo/UBERON_0001416 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000226": "use http://purl.obolibrary.org/obo/ZFA_0000003 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000240": "use http://purl.obolibrary.org/obo/FBbt_10005249 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000241": "use http://purl.obolibrary.org/obo/FBbt_00005611 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000242": "use http://purl.obolibrary.org/obo/FBbt_00005646 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000245": "use http://purl.obolibrary.org/obo/FBbt_00005516 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000251": "use http://purl.obolibrary.org/obo/FBbt_00005422 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000256": "use http://purl.obolibrary.org/obo/UBERON_6005413 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000257": "use http://purl.obolibrary.org/obo/FBbt_00005510 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000259": "use http://purl.obolibrary.org/obo/FBbt_00000210 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000262": "use http://purl.obolibrary.org/obo/FBbt_00000444 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000268": "use http://purl.obolibrary.org/obo/FBbt_00005556 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000298": "use http://purl.obolibrary.org/obo/UBERON_0001474 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000307": "use http://purl.obolibrary.org/obo/UBERON_0002031 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000345": "use http://purl.obolibrary.org/obo/FBbt_00005072 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000356": "use http://purl.obolibrary.org/obo/UBERON_6005538 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000382": "use http://purl.obolibrary.org/obo/UBERON_0009853 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000417": "use http://purl.obolibrary.org/obo/UBERON_6005526 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000418": "use http://purl.obolibrary.org/obo/UBERON_6001791 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000419": "use http://purl.obolibrary.org/obo/UBERON_6005831 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000421": "use http://purl.obolibrary.org/obo/UBERON_6001779 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000422": "use http://purl.obolibrary.org/obo/FBbt_00005498 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000424": "use http://purl.obolibrary.org/obo/UBERON_4200173 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000426": "use http://purl.obolibrary.org/obo/FBbt_00017010 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000427": "use http://purl.obolibrary.org/obo/FBbt_00004011 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000438": "use http://purl.obolibrary.org/obo/FBbt_00005748 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000439": "use http://purl.obolibrary.org/obo/FBbt_00005568 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000440": "use http://purl.obolibrary.org/obo/UBERON_6001060 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000441": "use http://purl.obolibrary.org/obo/FBbt_00005662 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000442": "use http://purl.obolibrary.org/obo/FBbt_00005663 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000443": "use http://purl.obolibrary.org/obo/FBbt_00005508 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000444": "use http://purl.obolibrary.org/obo/FBbt_00005665 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000445": "use http://purl.obolibrary.org/obo/FBbt_00005667 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000446": "use http://purl.obolibrary.org/obo/FBbt_00005664 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000451": "use http://purl.obolibrary.org/obo/FBbt_00005745 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000452": "use http://purl.obolibrary.org/obo/FBbt_00005744 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000453": "use http://purl.obolibrary.org/obo/FBbt_00005614 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000454": "use http://purl.obolibrary.org/obo/FBbt_00005670 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000455": "use http://purl.obolibrary.org/obo/FBbt_00005612 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000456": "use http://purl.obolibrary.org/obo/FBbt_00005606 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000457": "use http://purl.obolibrary.org/obo/FBbt_00005616 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000458": "use http://purl.obolibrary.org/obo/FBbt_00005668 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000459": "use http://purl.obolibrary.org/obo/FBbt_00001433 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000460": "use http://purl.obolibrary.org/obo/FBbt_00017027 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000530": "use http://purl.obolibrary.org/obo/MA_0000191 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000803": "use http://purl.obolibrary.org/obo/UBERON_0001008 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000818": "use http://purl.obolibrary.org/obo/UBERON_0005396 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000839": "use http://purl.obolibrary.org/obo/UBERON_0001091 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000875": "use http://purl.obolibrary.org/obo/UBERON_0008897 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000877": "use http://purl.obolibrary.org/obo/MA_0002714 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000901": "use http://purl.obolibrary.org/obo/UBERON_0007134 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000921": "use http://purl.obolibrary.org/obo/UBERON_0024151 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000936": "use http://purl.obolibrary.org/obo/UBERON_6005054 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000939": "use http://purl.obolibrary.org/obo/UBERON_0002536 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000946": "use http://purl.obolibrary.org/obo/ZFA_0000407 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000947": "use http://purl.obolibrary.org/obo/ZFA_0000565 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000950": "use http://purl.obolibrary.org/obo/UBERON_4000170 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000958": "use http://purl.obolibrary.org/obo/UBERON_0001037 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000962": "use http://purl.obolibrary.org/obo/UBERON_0000014 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000973": "use http://purl.obolibrary.org/obo/UBERON_0000992",
+            "http://www.ebi.ac.uk/efo/EFO_0000978": "use http://purl.obolibrary.org/obo/UBERON_0000997 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000990": "use http://purl.obolibrary.org/obo/PO_0009013 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0000996": "use http://purl.obolibrary.org/obo/PO_0009015 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0001006": "use http://purl.obolibrary.org/obo/PO_0030027 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0001007": "use http://purl.obolibrary.org/obo/PO_0025075 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0001008": "use http://purl.obolibrary.org/obo/PO_0004542 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0001012": "use http://purl.obolibrary.org/obo/PO_0000256 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0001013": "use http://purl.obolibrary.org/obo/PO_0003023 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0001024": "use http://purl.obolibrary.org/obo/PO_0009046 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0001027": "use http://purl.obolibrary.org/obo/PO_0009033 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0001038": "use http://purl.obolibrary.org/obo/PO_0002000 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0001041": "use http://purl.obolibrary.org/obo/PO_0004518 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0001043": "use http://purl.obolibrary.org/obo/PO_0004532 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0001049": "use http://purl.obolibrary.org/obo/PO_0025355 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0001053": "use http://purl.obolibrary.org/obo/PO_0009073 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0001393": "use http://purl.obolibrary.org/obo/FMA_66762 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0001397": "use http://purl.obolibrary.org/obo/UBERON_0008337 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0001410": "use http://purl.obolibrary.org/obo/UBERON_0001460 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0001411": "use http://purl.obolibrary.org/obo/UBERON_0000978 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0001904": "use http://purl.obolibrary.org/obo/UBERON_0004064 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0001922": "use http://purl.obolibrary.org/obo/FBbt_00004914 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0001929": "use http://purl.obolibrary.org/obo/UBERON_0001464 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0001933": "use http://purl.obolibrary.org/obo/UBERON_6001778 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0001943": "use http://purl.obolibrary.org/obo/UBERON_0000376 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0001951": "use http://purl.obolibrary.org/obo/UBERON_0006088 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0001985": "use http://purl.obolibrary.org/obo/UBERON_0002299 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0002455": "use http://purl.obolibrary.org/obo/UBERON_0003882 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0002457": "use http://purl.obolibrary.org/obo/UBERON_0003884 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0002467": "use http://purl.obolibrary.org/obo/UBERON_0001384 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0002469": "use http://purl.obolibrary.org/obo/UBERON_0001930 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0002595": "use http://purl.obolibrary.org/obo/FMA_6670 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0002596": "use http://purl.obolibrary.org/obo/UBERON_0019189 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0002598": "use http://purl.obolibrary.org/obo/FMA_3884 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0002599": "use http://purl.obolibrary.org/obo/FMA_3906 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0002600": "use http://purl.obolibrary.org/obo/FMA_3832 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0002601": "use http://purl.obolibrary.org/obo/FMA_3866 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0002602": "use http://purl.obolibrary.org/obo/FMA_3897 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0002603": "use http://purl.obolibrary.org/obo/FMA_3804 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0002806": "use http://purl.obolibrary.org/obo/UBERON_0003693 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0002906": "use http://purl.obolibrary.org/obo/UBERON_0000468 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003051": "use http://purl.obolibrary.org/obo/FMA_24984 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003053": "use http://purl.obolibrary.org/obo/UBERON_0002386 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003065": "use http://purl.obolibrary.org/obo/UBERON_0002387 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003070": "use http://purl.obolibrary.org/obo/UBERON_0013691 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003087": "use http://purl.obolibrary.org/obo/UBERON_0002302 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003336": "use http://purl.obolibrary.org/obo/FBbt_00000109 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003337": "use http://purl.obolibrary.org/obo/FBbt_00000127 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003338": "use http://purl.obolibrary.org/obo/UBERON_6000186 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003339": "use http://purl.obolibrary.org/obo/FBbt_00000197 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003340": "use http://purl.obolibrary.org/obo/FBbt_00000447 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003341": "use http://purl.obolibrary.org/obo/UBERON_6001780 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003342": "use http://purl.obolibrary.org/obo/FBbt_00004202 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003343": "use http://purl.obolibrary.org/obo/FBbt_00004204 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003344": "use http://purl.obolibrary.org/obo/UBERON_6005037 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003345": "use http://purl.obolibrary.org/obo/FBbt_00005431 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003346": "use http://purl.obolibrary.org/obo/UBERON_6005434 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003347": "use http://purl.obolibrary.org/obo/FBbt_00005442 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003348": "use http://purl.obolibrary.org/obo/FBbt_00005466 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003349": "use http://purl.obolibrary.org/obo/FBbt_00005519 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003350": "use http://purl.obolibrary.org/obo/FBbt_00005523 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003351": "use http://purl.obolibrary.org/obo/FBbt_00005534 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003352": "use http://purl.obolibrary.org/obo/FBbt_00005535 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003353": "use http://purl.obolibrary.org/obo/FBbt_00005544 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003354": "use http://purl.obolibrary.org/obo/FBbt_00005545 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003355": "use http://purl.obolibrary.org/obo/FBbt_00005546 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003356": "use http://purl.obolibrary.org/obo/FBbt_00005548 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003357": "use http://purl.obolibrary.org/obo/FBbt_00005550 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003358": "use http://purl.obolibrary.org/obo/FBbt_00005551 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003359": "use http://purl.obolibrary.org/obo/FBbt_00005552 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003360": "use http://purl.obolibrary.org/obo/FBbt_00005834 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003361": "use http://purl.obolibrary.org/obo/FBbt_00007049 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003362": "use http://purl.obolibrary.org/obo/FBbt_00015256 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003363": "use http://purl.obolibrary.org/obo/FBbt_00017000 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003364": "use http://purl.obolibrary.org/obo/FBbt_00017003 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003365": "use http://purl.obolibrary.org/obo/FBbt_00017008 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003366": "use http://purl.obolibrary.org/obo/FBbt_00017011 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003367": "use http://purl.obolibrary.org/obo/FBbt_00017020 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003368": "use http://purl.obolibrary.org/obo/FBbt_00000441 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003369": "use http://purl.obolibrary.org/obo/FBbt_00000442 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003371": "use http://purl.obolibrary.org/obo/FBbt_00000461 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003372": "use http://purl.obolibrary.org/obo/UBERON_6001059 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003373": "use http://purl.obolibrary.org/obo/FBbt_00005067 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003374": "use http://purl.obolibrary.org/obo/FBbt_00005424 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003375": "use http://purl.obolibrary.org/obo/UBERON_6005425 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003376": "use http://purl.obolibrary.org/obo/FBbt_00005501 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003377": "use http://purl.obolibrary.org/obo/FBbt_00005504 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003378": "use http://purl.obolibrary.org/obo/FBbt_00005505 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003379": "use http://purl.obolibrary.org/obo/FBbt_00005506 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003380": "use http://purl.obolibrary.org/obo/FBbt_00005511 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003381": "use http://purl.obolibrary.org/obo/FBbt_00005512 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003382": "use http://purl.obolibrary.org/obo/FBbt_00005518 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003383": "use http://purl.obolibrary.org/obo/FBbt_00005528 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003384": "use http://purl.obolibrary.org/obo/UBERON_6005533 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003385": "use http://purl.obolibrary.org/obo/FBbt_00005536 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003386": "use http://purl.obolibrary.org/obo/FBbt_00005542 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003387": "use http://purl.obolibrary.org/obo/FBbt_00005565 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003388": "use http://purl.obolibrary.org/obo/FBbt_00005618 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003389": "use http://purl.obolibrary.org/obo/FBbt_00005630 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003390": "use http://purl.obolibrary.org/obo/FBbt_00005643 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003391": "use http://purl.obolibrary.org/obo/FBbt_00005822 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003392": "use http://purl.obolibrary.org/obo/FBbt_00016000 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003393": "use http://purl.obolibrary.org/obo/FBbt_00016001 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003394": "use http://purl.obolibrary.org/obo/FBbt_00001069 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003395": "use http://purl.obolibrary.org/obo/UBERON_6001722 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003396": "use http://purl.obolibrary.org/obo/FBbt_00001724 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003398": "use http://purl.obolibrary.org/obo/FBbt_00004784 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003399": "use http://purl.obolibrary.org/obo/FBbt_00004891 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003400": "use http://purl.obolibrary.org/obo/UBERON_6005436 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003401": "use http://purl.obolibrary.org/obo/FBbt_00005554 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003402": "use http://purl.obolibrary.org/obo/FBbt_00005566 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003403": "use http://purl.obolibrary.org/obo/FBbt_00001315 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003404": "use http://purl.obolibrary.org/obo/FBbt_00005571 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003405": "use http://purl.obolibrary.org/obo/FBbt_00005608 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003406": "use http://purl.obolibrary.org/obo/FBbt_00005609 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003407": "use http://purl.obolibrary.org/obo/FBbt_00005610 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003408": "use http://purl.obolibrary.org/obo/UBERON_6001734 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003409": "use http://purl.obolibrary.org/obo/FBbt_00005619 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003411": "use http://purl.obolibrary.org/obo/FBbt_00005669 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003412": "use http://purl.obolibrary.org/obo/FBbt_00005673 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003413": "use http://purl.obolibrary.org/obo/FBbt_00005675 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003414": "use http://purl.obolibrary.org/obo/FBbt_00005746 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003415": "use http://purl.obolibrary.org/obo/FBbt_00005749 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003416": "use http://purl.obolibrary.org/obo/FBbt_00005824 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003417": "use http://purl.obolibrary.org/obo/FBbt_00017009 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003418": "use http://purl.obolibrary.org/obo/FBbt_00017019 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003419": "use http://purl.obolibrary.org/obo/ZFA_0000023 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003422": "use http://purl.obolibrary.org/obo/UBERON_2000058 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003423": "use http://purl.obolibrary.org/obo/UBERON_0006240 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003425": "use http://purl.obolibrary.org/obo/UBERON_0007383 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003430": "use http://purl.obolibrary.org/obo/ZFA_0000141 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003431": "use http://purl.obolibrary.org/obo/UBERON_0006238 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003435": "use http://purl.obolibrary.org/obo/ZFA_0000265 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003436": "use http://purl.obolibrary.org/obo/UBERON_2000414 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003441": "use http://purl.obolibrary.org/obo/UBERON_0014371 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003442": "use http://purl.obolibrary.org/obo/UBERON_0006222 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003445": "use http://purl.obolibrary.org/obo/UBERON_2001156 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003456": "use http://purl.obolibrary.org/obo/UBERON_2001297 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003457": "use http://purl.obolibrary.org/obo/UBERON_2001298 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003458": "use http://purl.obolibrary.org/obo/UBERON_2001299 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003459": "use http://purl.obolibrary.org/obo/UBERON_2001300 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003461": "use http://purl.obolibrary.org/obo/UBERON_2001316 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003464": "use http://purl.obolibrary.org/obo/ZFA_0001369 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003465": "use http://purl.obolibrary.org/obo/ZFA_0001370 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003468": "use http://purl.obolibrary.org/obo/UBERON_0002531 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003469": "use http://purl.obolibrary.org/obo/ZFA_0001384 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003471": "use http://purl.obolibrary.org/obo/UBERON_2005103 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003474": "use http://purl.obolibrary.org/obo/UBERON_0002214 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003476": "use http://purl.obolibrary.org/obo/UBERON_2000033 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003477": "use http://purl.obolibrary.org/obo/UBERON_2000040 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003481": "use http://purl.obolibrary.org/obo/UBERON_2000072 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003482": "use http://purl.obolibrary.org/obo/UBERON_2000073 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003486": "use http://purl.obolibrary.org/obo/UBERON_2000083 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003487": "use http://purl.obolibrary.org/obo/ZFA_0000085 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003488": "use http://purl.obolibrary.org/obo/UBERON_2000090 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003490": "use http://purl.obolibrary.org/obo/UBERON_2000096 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003493": "use http://purl.obolibrary.org/obo/UBERON_2000120 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003495": "use http://purl.obolibrary.org/obo/UBERON_2000125 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003499": "use http://purl.obolibrary.org/obo/UBERON_2000136 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003501": "use http://purl.obolibrary.org/obo/UBERON_0002289 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003502": "use http://purl.obolibrary.org/obo/UBERON_2000164 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003504": "use http://purl.obolibrary.org/obo/UBERON_0000933 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003506": "use http://purl.obolibrary.org/obo/UBERON_2000175 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003509": "use http://purl.obolibrary.org/obo/UBERON_2000212 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003510": "use http://purl.obolibrary.org/obo/ZFA_0000226 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003511": "use http://purl.obolibrary.org/obo/UBERON_0011648 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003512": "use http://purl.obolibrary.org/obo/UBERON_2000240 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003514": "use http://purl.obolibrary.org/obo/UBERON_2000250 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003516": "use http://purl.obolibrary.org/obo/ZFA_0000257 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003517": "use http://purl.obolibrary.org/obo/UBERON_2000264 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003518": "use http://purl.obolibrary.org/obo/ZFA_0000281 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003519": "use http://purl.obolibrary.org/obo/UBERON_2000284 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003520": "use http://purl.obolibrary.org/obo/UBERON_2000291 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003521": "use http://purl.obolibrary.org/obo/UBERON_2000294 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003523": "use http://purl.obolibrary.org/obo/UBERON_2000309 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003527": "use http://purl.obolibrary.org/obo/UBERON_2000419 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003528": "use http://purl.obolibrary.org/obo/UBERON_2000422 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003529": "use http://purl.obolibrary.org/obo/UBERON_2000425 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003530": "use http://purl.obolibrary.org/obo/UBERON_0004744 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003531": "use http://purl.obolibrary.org/obo/UBERON_0001774 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003532": "use http://purl.obolibrary.org/obo/UBERON_2000475 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003533": "use http://purl.obolibrary.org/obo/UBERON_2000482 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003534": "use http://purl.obolibrary.org/obo/UBERON_0000203 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003535": "use http://purl.obolibrary.org/obo/UBERON_2000516 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003537": "use http://purl.obolibrary.org/obo/ZFA_0000541 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003538": "use http://purl.obolibrary.org/obo/UBERON_2000549 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003540": "use http://purl.obolibrary.org/obo/ZFA_0000563 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003541": "use http://purl.obolibrary.org/obo/UBERON_0003071 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003542": "use http://purl.obolibrary.org/obo/UBERON_0004746 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003543": "use http://purl.obolibrary.org/obo/UBERON_0002827 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003544": "use http://purl.obolibrary.org/obo/UBERON_2000599 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003545": "use http://purl.obolibrary.org/obo/UBERON_2000603 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003546": "use http://purl.obolibrary.org/obo/UBERON_2000610 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003547": "use http://purl.obolibrary.org/obo/UBERON_0006597 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003548": "use http://purl.obolibrary.org/obo/UBERON_2000627 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003549": "use http://purl.obolibrary.org/obo/UBERON_2000633 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003550": "use http://purl.obolibrary.org/obo/UBERON_2000645 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003552": "use http://purl.obolibrary.org/obo/UBERON_0011634 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003553": "use http://purl.obolibrary.org/obo/UBERON_2000657 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003556": "use http://purl.obolibrary.org/obo/ZFA_0000672 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003557": "use http://purl.obolibrary.org/obo/UBERON_2000674 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003559": "use http://purl.obolibrary.org/obo/ZFA_0000678 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003560": "use http://purl.obolibrary.org/obo/UBERON_2000692 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003561": "use http://purl.obolibrary.org/obo/UBERON_2000693 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003563": "use http://purl.obolibrary.org/obo/UBERON_2000712 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003564": "use http://purl.obolibrary.org/obo/UBERON_2000726 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003565": "use http://purl.obolibrary.org/obo/UBERON_2000728 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003566": "use http://purl.obolibrary.org/obo/UBERON_2000732 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003571": "use http://purl.obolibrary.org/obo/ZFA_0000778 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003575": "use http://purl.obolibrary.org/obo/UBERON_2000813 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003576": "use http://purl.obolibrary.org/obo/UBERON_2000814 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003578": "use http://purl.obolibrary.org/obo/ZFA_0000821 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003581": "use http://purl.obolibrary.org/obo/ZFA_0000841 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003582": "use http://purl.obolibrary.org/obo/UBERON_2000851 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003583": "use http://purl.obolibrary.org/obo/UBERON_2000857 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003585": "use http://purl.obolibrary.org/obo/UBERON_2000887 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003593": "use http://purl.obolibrary.org/obo/UBERON_2000940 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003598": "use http://purl.obolibrary.org/obo/ZFA_0000963 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003599": "use http://purl.obolibrary.org/obo/ZFA_0000972 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003600": "use http://purl.obolibrary.org/obo/ZFA_0000973 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003601": "use http://purl.obolibrary.org/obo/UBERON_2000975 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003603": "use http://purl.obolibrary.org/obo/UBERON_0006904 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003610": "use http://purl.obolibrary.org/obo/ZFA_0001047 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003611": "use http://purl.obolibrary.org/obo/UBERON_2001051 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003612": "use http://purl.obolibrary.org/obo/UBERON_2001053 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003613": "use http://purl.obolibrary.org/obo/UBERON_2001054 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003614": "use http://purl.obolibrary.org/obo/UBERON_2001059 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003616": "use http://purl.obolibrary.org/obo/UBERON_2001063 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003620": "use http://purl.obolibrary.org/obo/UBERON_2001073 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003621": "use http://purl.obolibrary.org/obo/UBERON_2001076 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003625": "use http://purl.obolibrary.org/obo/UBERON_2001089 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003626": "use http://purl.obolibrary.org/obo/ZFA_0001104 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003628": "use http://purl.obolibrary.org/obo/UBERON_0005170 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003630": "use http://purl.obolibrary.org/obo/UBERON_2001118 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003632": "use http://purl.obolibrary.org/obo/UBERON_2001129 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003638": "use http://purl.obolibrary.org/obo/UBERON_2001142 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003639": "use http://purl.obolibrary.org/obo/UBERON_2001143 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003640": "use http://purl.obolibrary.org/obo/UBERON_2001145 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003641": "use http://purl.obolibrary.org/obo/UBERON_2001157 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003642": "use http://purl.obolibrary.org/obo/UBERON_4000163 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003646": "use http://purl.obolibrary.org/obo/UBERON_2001200 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003648": "use http://purl.obolibrary.org/obo/ZFA_0001244 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003649": "use http://purl.obolibrary.org/obo/UBERON_2001256 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003650": "use http://purl.obolibrary.org/obo/UBERON_0005281 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003652": "use http://purl.obolibrary.org/obo/UBERON_2001263 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003654": "use http://purl.obolibrary.org/obo/UBERON_2001265 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003655": "use http://purl.obolibrary.org/obo/UBERON_2001266 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003656": "use http://purl.obolibrary.org/obo/UBERON_0002200 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003657": "use http://purl.obolibrary.org/obo/ZFA_0001269 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003660": "use http://purl.obolibrary.org/obo/ZFA_0001273 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003661": "use http://purl.obolibrary.org/obo/UBERON_2001279 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003662": "use http://purl.obolibrary.org/obo/UBERON_2001280 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003663": "use http://purl.obolibrary.org/obo/UBERON_2001281 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003664": "use http://purl.obolibrary.org/obo/UBERON_0014907 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003665": "use http://purl.obolibrary.org/obo/UBERON_2001286 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003670": "use http://purl.obolibrary.org/obo/UBERON_2001302 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003671": "use http://purl.obolibrary.org/obo/UBERON_2001303 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003672": "use http://purl.obolibrary.org/obo/UBERON_2001304 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003673": "use http://purl.obolibrary.org/obo/UBERON_2001305 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003675": "use http://purl.obolibrary.org/obo/UBERON_2001313 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003676": "use http://purl.obolibrary.org/obo/UBERON_2001314 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003679": "use http://purl.obolibrary.org/obo/UBERON_0015238 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003680": "use http://purl.obolibrary.org/obo/UBERON_2001378 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003681": "use http://purl.obolibrary.org/obo/ZFA_0001385 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003682": "use http://purl.obolibrary.org/obo/ZFA_0001389 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003683": "use http://purl.obolibrary.org/obo/UBERON_2001391 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003684": "use http://purl.obolibrary.org/obo/UBERON_0011153 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003687": "use http://purl.obolibrary.org/obo/UBERON_2001431 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003688": "use http://purl.obolibrary.org/obo/UBERON_0003306 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003691": "use http://purl.obolibrary.org/obo/UBERON_2001468 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003692": "use http://purl.obolibrary.org/obo/UBERON_2001471 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003693": "use http://purl.obolibrary.org/obo/ZFA_0001484 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003694": "use http://purl.obolibrary.org/obo/UBERON_0008896 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003696": "use http://purl.obolibrary.org/obo/UBERON_2005010 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003697": "use http://purl.obolibrary.org/obo/UBERON_2005017 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003698": "use http://purl.obolibrary.org/obo/UBERON_2005025 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003699": "use http://purl.obolibrary.org/obo/UBERON_0018549 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003700": "use http://purl.obolibrary.org/obo/UBERON_2005029 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003701": "use http://purl.obolibrary.org/obo/UBERON_2005034 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003702": "use http://purl.obolibrary.org/obo/UBERON_2005039 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003703": "use http://purl.obolibrary.org/obo/ZFA_0005040 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003706": "use http://purl.obolibrary.org/obo/UBERON_0004124 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003707": "use http://purl.obolibrary.org/obo/UBERON_2005073 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003708": "use http://purl.obolibrary.org/obo/UBERON_0014903 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003710": "use http://purl.obolibrary.org/obo/UBERON_2005117 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003711": "use http://purl.obolibrary.org/obo/ZFA_0009150 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003773": "use http://purl.obolibrary.org/obo/UBERON_6007435 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003842": "use http://purl.obolibrary.org/obo/UBERON_0003464 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0003887": "use http://purl.obolibrary.org/obo/HP_0004418 instead",
+            "http://www.ebi.ac.uk/efo/EFO_0003905": "use http://purl.obolibrary.org/obo/HP_0004936 instead",
+            "http://www.ebi.ac.uk/efo/EFO_0003909": "use http://purl.obolibrary.org/obo/UBERON_0002350 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0004258": "use http://purl.obolibrary.org/obo/FBbt_00001956 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0004564": "use http://purl.obolibrary.org/obo/UBERON_0035814 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0005096": "use http://purl.obolibrary.org/obo/UBERON_0003697 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0005097": "use http://purl.obolibrary.org/obo/UBERON_0002186 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0005102": "use http://purl.obolibrary.org/obo/PO_0009067 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0005103": "use http://purl.obolibrary.org/obo/UBERON_6001767 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0005104": "use http://purl.obolibrary.org/obo/FBbt_00001768 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0005883": "use http://purl.obolibrary.org/obo/UBERON_0006618 instead.",
+            "http://www.ebi.ac.uk/efo/EFO_0005884": "use http://purl.obolibrary.org/obo/UBERON_0002078 instead."
+          },
+          "web": {
+            "http://www.ebi.ac.uk/efo/EFO_0004135": "web:http://en.wikipedia.org/wiki/Machado%E2%80%93Joseph_disease",
+            "http://www.ebi.ac.uk/efo/EFO_0004143": "web: http://en.wikipedia.org/wiki/Carpal_tunnel_syndrome",
+            "http://www.ebi.ac.uk/efo/EFO_0004144": "web:http://en.wikipedia.org/wiki/Acatalasia"
+          }
+        }
+      },
       "prov_pack": {
         "invalid_luids": {
           "http://www.ebi.ac.uk/efo/EFO_0000405": [
@@ -4675,7 +5594,8 @@
           }
         }
       },
-      "version": "http://www.ebi.ac.uk/efo/releases/v3.78.0/efo.owl",
+      "version": "3.78.0",
+      "version_iri": "http://www.ebi.ac.uk/efo/releases/v3.78.0/efo.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://www.ebi.ac.uk/efo/EFO_0000095": [
@@ -4695,14 +5615,8 @@
           "http://www.ebi.ac.uk/efo/EFO_0000224": [
             "ICD10:C92.40"
           ],
-          "http://www.ebi.ac.uk/efo/EFO_0000228": [
-            "MEDGEN:122"
-          ],
           "http://www.ebi.ac.uk/efo/EFO_0000230": [
             "NIFSTD:birnlex_1581"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_0000232": [
-            "MEDGEN:125"
           ],
           "http://www.ebi.ac.uk/efo/EFO_0000249": [
             "NIFSTD:birnlex_2092"
@@ -4717,17 +5631,8 @@
           "http://www.ebi.ac.uk/efo/EFO_0000264": [
             "NIFSTD:birnlex_2110"
           ],
-          "http://www.ebi.ac.uk/efo/EFO_0000272": [
-            "MEDGEN:438"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_0000275": [
-            "MEDGEN:445"
-          ],
           "http://www.ebi.ac.uk/efo/EFO_0000289": [
             "NIFSTD:birnlex_12754"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_0000294": [
-            "MEDGEN:594"
           ],
           "http://www.ebi.ac.uk/efo/EFO_0000302": [
             "NIFSTD:birnlex_796"
@@ -4774,9 +5679,6 @@
             "ICD9:520-579.99",
             "ICD9:560-569.99",
             "ICD9:570-579.99"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_0000432": [
-            "MEDGEN:765"
           ],
           "http://www.ebi.ac.uk/efo/EFO_0000433": [
             "NIFSTD:birnlex_2052"
@@ -4843,9 +5745,6 @@
           "http://www.ebi.ac.uk/efo/EFO_0000658": [
             "NIFSTD:birnlex_12606"
           ],
-          "http://www.ebi.ac.uk/efo/EFO_0000673": [
-            "MEDGEN:764"
-          ],
           "http://www.ebi.ac.uk/efo/EFO_0000677": [
             "ICD9:290-299.99",
             "NIFSTD:birnlex_12669"
@@ -4856,9 +5755,6 @@
           ],
           "http://www.ebi.ac.uk/efo/EFO_0000679": [
             "NIFSTD:birnlex_203"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_0000681": [
-            "MEDGEN:766"
           ],
           "http://www.ebi.ac.uk/efo/EFO_0000684": [
             "ICD9:460-519.99",
@@ -4887,9 +5783,6 @@
           ],
           "http://www.ebi.ac.uk/efo/EFO_0000764": [
             "ICD9:042-042.99"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_0000765": [
-            "MEDGEN:99"
           ],
           "http://www.ebi.ac.uk/efo/EFO_0000768": [
             "ICD10:J84.112"
@@ -5072,9 +5965,6 @@
           "http://www.ebi.ac.uk/efo/EFO_0001663": [
             "KEGG:05215"
           ],
-          "http://www.ebi.ac.uk/efo/EFO_0001666": [
-            "MEDGEN:362"
-          ],
           "http://www.ebi.ac.uk/efo/EFO_0001715": [
             "NIFSTD:birnlex_2391",
             "NIFSTD:sao196989303"
@@ -5122,9 +6012,6 @@
           "http://www.ebi.ac.uk/efo/EFO_0002607": [
             "NIFSTD:birnlex_2117"
           ],
-          "http://www.ebi.ac.uk/efo/EFO_0002608": [
-            "MEDGEN:177"
-          ],
           "http://www.ebi.ac.uk/efo/EFO_0002624": [
             "NIFSTD:birnlex_12648"
           ],
@@ -5134,21 +6021,11 @@
           "http://www.ebi.ac.uk/efo/EFO_0003025": [
             "ICD10:C94.20"
           ],
-          "http://www.ebi.ac.uk/efo/EFO_0003033": [
-            "MEDGEN:482"
-          ],
           "http://www.ebi.ac.uk/efo/EFO_0003060": [
             "KEGG:05223"
           ],
           "http://www.ebi.ac.uk/efo/EFO_0003763": [
-            "ICD9:430-438.99",
-            "MEDGEN:858"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_0003764": [
-            "MEDGEN:853"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_0003835": [
-            "MEDGEN:360"
+            "ICD9:430-438.99"
           ],
           "http://www.ebi.ac.uk/efo/EFO_0003843": [
             "ICD9:338-338.99"
@@ -5168,12 +6045,6 @@
           "http://www.ebi.ac.uk/efo/EFO_0004122": [
             "MESH:DO16518"
           ],
-          "http://www.ebi.ac.uk/efo/EFO_0004126": [
-            "MEDGEN:138"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_0004192": [
-            "MEDGEN:213"
-          ],
           "http://www.ebi.ac.uk/efo/EFO_0004289": [
             "ICDO:981-983"
           ],
@@ -5192,9 +6063,6 @@
           "http://www.ebi.ac.uk/efo/EFO_0005512": [
             "ICD9:V86-V86.99"
           ],
-          "http://www.ebi.ac.uk/efo/EFO_0005529": [
-            "MEDGEN:868"
-          ],
           "http://www.ebi.ac.uk/efo/EFO_0005717": [
             "UMLS:CN204600"
           ],
@@ -5212,9 +6080,6 @@
           ],
           "http://www.ebi.ac.uk/efo/EFO_0005745": [
             "FBtc:FBtc0000191"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_0005769": [
-            "MEDGEN:714"
           ],
           "http://www.ebi.ac.uk/efo/EFO_0005783": [
             "UMLS:CN237663"
@@ -5240,41 +6105,8 @@
           "http://www.ebi.ac.uk/efo/EFO_0006738": [
             "ICD10:C90.30"
           ],
-          "http://www.ebi.ac.uk/efo/EFO_0006788": [
-            "MEDGEN:361"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_0007134": [
-            "MEDGEN:126"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_0007136": [
-            "MEDGEN:174"
-          ],
           "http://www.ebi.ac.uk/efo/EFO_0007149": [
             "ICD9:540-543.99"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_0007164": [
-            "MEDGEN:495"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_0007166": [
-            "MEDGEN:504"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_0007170": [
-            "MEDGEN:586"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_0007174": [
-            "MEDGEN:597"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_0007175": [
-            "MEDGEN:600"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_0007183": [
-            "MEDGEN:665"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_0007185": [
-            "MEDGEN:674"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_0007192": [
-            "MEDGEN:743"
           ],
           "http://www.ebi.ac.uk/efo/EFO_0007213": [
             "MedDRA:100MedDRA:10022"
@@ -5284,9 +6116,6 @@
           ],
           "http://www.ebi.ac.uk/efo/EFO_0007359": [
             "ICD10:C94.30"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_0007363": [
-            "MEDGEN:869"
           ],
           "http://www.ebi.ac.uk/efo/EFO_0007422": [
             "MESH:NoID"
@@ -5331,9 +6160,6 @@
           "http://www.ebi.ac.uk/efo/EFO_0009248": [
             "MedDRA:1005MedDRA:1006"
           ],
-          "http://www.ebi.ac.uk/efo/EFO_0009314": [
-            "MEDGEN:604"
-          ],
           "http://www.ebi.ac.uk/efo/EFO_0009380": [
             "ICD10:351.8"
           ],
@@ -5346,18 +6172,10 @@
             "ICD9:570-579.99"
           ],
           "http://www.ebi.ac.uk/efo/EFO_0009483": [
-            "ICD9:610-612.99",
-            "MEDGEN:652"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_0009530": [
-            "MEDGEN:358"
+            "ICD9:610-612.99"
           ],
           "http://www.ebi.ac.uk/efo/EFO_0009535": [
-            "ICD10:H53.30",
-            "MEDGEN:571"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_0009536": [
-            "MEDGEN:598"
+            "ICD10:H53.30"
           ],
           "http://www.ebi.ac.uk/efo/EFO_0009545": [
             "ICD10:I85.01"
@@ -5376,11 +6194,7 @@
             "ICD10:A69.22"
           ],
           "http://www.ebi.ac.uk/efo/EFO_0009657": [
-            "MEDGEN:114",
             "MedDRA:1000MedDRA:1002"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_0009660": [
-            "MEDGEN:359"
           ],
           "http://www.ebi.ac.uk/efo/EFO_0009709": [
             "ICDO:8000/6"
@@ -5404,7 +6218,14 @@
             "PMID: 31636452"
           ],
           "http://www.ebi.ac.uk/efo/EFO_0010642": [
-            "MedDRA:C1535926"
+            "MedDRA:C1535926",
+            "MedGen:C1535926"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0010643": [
+            "MedGen:C4748701"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0010647": [
+            "MedGen:C4288261"
           ],
           "http://www.ebi.ac.uk/efo/EFO_0010688": [
             "SNOMEDCT: 266417001"
@@ -5429,10 +6250,20 @@
             "PMID: 32355309"
           ],
           "http://www.ebi.ac.uk/efo/EFO_0010956": [
-            "DI:00917"
+            "DI:00917",
+            "MedGen:C1864399"
           ],
           "http://www.ebi.ac.uk/efo/EFO_0011061": [
             "MESH:Q000633"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0020026": [
+            "Medgen:C0339526"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0020027": [
+            "Medgen:C3887501"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0020031": [
+            "Medgen:C3150597"
           ],
           "http://www.ebi.ac.uk/efo/EFO_0020094": [
             "ICD11:8C62"
@@ -5482,8 +6313,17 @@
           "http://www.ebi.ac.uk/efo/EFO_0022786": [
             "PMID: 16537381"
           ],
+          "http://www.ebi.ac.uk/efo/EFO_0022837": [
+            "MEDGEN:C0002768"
+          ],
           "http://www.ebi.ac.uk/efo/EFO_0022844": [
             "MAXO:748"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0022911": [
+            "MedGen:C1333600"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0022913": [
+            "MedGen:C3502105"
           ],
           "http://www.ebi.ac.uk/efo/EFO_0700025": [
             "UMLS:CN229293"
@@ -5890,9 +6730,6 @@
           "http://www.ebi.ac.uk/efo/EFO_0803467": [
             "HMDB:0001934"
           ],
-          "http://www.ebi.ac.uk/efo/EFO_1000013": [
-            "MEDGEN:295"
-          ],
           "http://www.ebi.ac.uk/efo/EFO_1000015": [
             "UMLS:CN226945"
           ],
@@ -5910,9 +6747,6 @@
           ],
           "http://www.ebi.ac.uk/efo/EFO_1000068": [
             "ICD10:C95.00"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_1000123": [
-            "MEDGEN:918"
           ],
           "http://www.ebi.ac.uk/efo/EFO_1000129": [
             "UMLS:CN202866"
@@ -5950,38 +6784,17 @@
           "http://www.ebi.ac.uk/efo/EFO_1000576": [
             "UMLS:CN207411"
           ],
-          "http://www.ebi.ac.uk/efo/EFO_1000625": [
-            "MEDGEN:124"
-          ],
           "http://www.ebi.ac.uk/efo/EFO_1000627": [
             "ICD9:240-246.99"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_1000632": [
-            "MEDGEN:854"
           ],
           "http://www.ebi.ac.uk/efo/EFO_1000635": [
             "ICD10:D18.00"
           ],
-          "http://www.ebi.ac.uk/efo/EFO_1000641": [
-            "MEDGEN:284"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_1000660": [
-            "MEDGEN:54"
-          ],
           "http://www.ebi.ac.uk/efo/EFO_1000680": [
             "ORDO:Orphanet_46486"
           ],
-          "http://www.ebi.ac.uk/efo/EFO_1000782": [
-            "MEDGEN:229"
-          ],
           "http://www.ebi.ac.uk/efo/EFO_1000785": [
             "ICD10:C84.10"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_1000799": [
-            "MEDGEN:161"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_1000837": [
-            "MEDGEN:543"
           ],
           "http://www.ebi.ac.uk/efo/EFO_1000879": [
             "MedDRA:1001MedDRA:1007",
@@ -5992,9 +6805,6 @@
           ],
           "http://www.ebi.ac.uk/efo/EFO_1000956": [
             "ICD10:C91.40"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_1000985": [
-            "MEDGEN:296"
           ],
           "http://www.ebi.ac.uk/efo/EFO_1001008": [
             "ICD10:A81.81"
@@ -6008,15 +6818,11 @@
           "http://www.ebi.ac.uk/efo/EFO_1001052": [
             "ICD10:C92.30"
           ],
-          "http://www.ebi.ac.uk/efo/EFO_1001149": [
-            "MEDGEN:254"
-          ],
           "http://www.ebi.ac.uk/efo/EFO_1001160": [
             "ICD9:390-392.99"
           ],
           "http://www.ebi.ac.uk/efo/EFO_1001206": [
-            "ICD10:A52.02",
-            "MEDGEN:364"
+            "ICD10:A52.02"
           ],
           "http://www.ebi.ac.uk/efo/EFO_1001216": [
             "MESH:DO14076"
@@ -6029,12 +6835,6 @@
           ],
           "http://www.ebi.ac.uk/efo/EFO_1001267": [
             "ORDO:Orphanet_1457"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_1001269": [
-            "MEDGEN:389"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_1001272": [
-            "MEDGEN:484"
           ],
           "http://www.ebi.ac.uk/efo/EFO_1001293": [
             "ORDO:Orphanet_36205"
@@ -6078,9 +6878,6 @@
           "http://www.ebi.ac.uk/efo/EFO_1001388": [
             "ICD9:614-616.99"
           ],
-          "http://www.ebi.ac.uk/efo/EFO_1001424": [
-            "MEDGEN:297"
-          ],
           "http://www.ebi.ac.uk/efo/EFO_1001444": [
             "ORDO:Orphanet_3392"
           ],
@@ -6101,9 +6898,6 @@
           ],
           "http://www.ebi.ac.uk/efo/EFO_1001485": [
             "ORDO:Orphanet_963"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_1001754": [
-            "MEDGEN:49"
           ],
           "http://www.ebi.ac.uk/efo/EFO_1001794": [
             "ICD10:O43.01"
@@ -6159,12 +6953,6 @@
           "http://www.ebi.ac.uk/efo/EFO_1001857": [
             "ORDO:Orphanet_3287"
           ],
-          "http://www.ebi.ac.uk/efo/EFO_1001872": [
-            "MEDGEN:175"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_1001875": [
-            "MEDGEN:272"
-          ],
           "http://www.ebi.ac.uk/efo/EFO_1001897": [
             "ORDO:Orphanet_83467"
           ],
@@ -6198,9 +6986,6 @@
         "malformed_curies": {
           "http://www.ebi.ac.uk/efo/EFO_0020991": [
             "Quantification of ethanolamine in a sample."
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_0022561": [
-            "1HAEo- cells are SV40-transformed normal human airway epithelial cells."
           ]
         },
         "noncanonical_prefixes": {
@@ -9154,9 +9939,6 @@
         "unknown_prefixes": {
           "BilaDO": {
             "http://www.ebi.ac.uk/efo/EFO_0007725": "BilaDO:0000002"
-          },
-          "CRISP Thesaurus 2006, Term Number 2000-0386, http": {
-            "http://www.ebi.ac.uk/efo/EFO_0000228": "CRISP Thesaurus 2006, Term Number 2000-0386, http://crisp.cit.nih.gov/Thesaurus/00000107.htm Date accessed: 1st Novemeber 2007"
           },
           "Germplasm": {
             "http://www.ebi.ac.uk/efo/EFO_0001326": "Germplasm:4652085",

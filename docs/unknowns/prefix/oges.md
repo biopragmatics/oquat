@@ -50,3 +50,15 @@
 |-------------|----------|-----------------------------------------------------|
 | OGES:000022 |        1 | [EFO:0007725](http://www.ebi.ac.uk/efo/EFO_0007725) |
 
+## clm
+
+| curie       |   usages | nodes                                                           |
+|-------------|----------|-----------------------------------------------------------------|
+| OGES:000022 |        1 | [UBERON:0000068](http://purl.obolibrary.org/obo/UBERON_0000068) |
+| OGES:000024 |        1 | [UBERON:0000092](http://purl.obolibrary.org/obo/UBERON_0000092) |
+| OGES:000011 |        1 | [UBERON:0000104](http://purl.obolibrary.org/obo/UBERON_0000104) |
+| OGES:000020 |        1 | [UBERON:0000107](http://purl.obolibrary.org/obo/UBERON_0000107) |
+| OGES:000021 |        1 | [UBERON:0000108](http://purl.obolibrary.org/obo/UBERON_0000108) |
+| OGES:000019 |        1 | [UBERON:0000109](http://purl.obolibrary.org/obo/UBERON_0000109) |
+| OGES:000032 |        1 | [UBERON:0000111](http://purl.obolibrary.org/obo/UBERON_0000111) |
+

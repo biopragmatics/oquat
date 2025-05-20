@@ -2,6 +2,31 @@
   "results": {
     "http://purl.obolibrary.org/obo/aeo.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/aeo.owl",
+      "prop_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/AEO_0000094": [
+            "EHDAA2:0003094f"
+          ],
+          "http://purl.obolibrary.org/obo/AEO_0000204": [
+            "EHDAA2:003249"
+          ],
+          "http://purl.obolibrary.org/obo/AEO_0000211": [
+            "FBbt:0004003"
+          ]
+        },
+        "known_prefixes": {},
+        "label": "Node Properties",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {
+          "HDAA2": {
+            "http://purl.obolibrary.org/obo/AEO_0000196": "HDAA2:0003126",
+            "http://purl.obolibrary.org/obo/AEO_0000203": "HDAA2:0003248",
+            "http://purl.obolibrary.org/obo/AEO_0000210": "HDAA2:0003255",
+            "http://purl.obolibrary.org/obo/AEO_0000211": "HDAA2:0003256"
+          }
+        },
+        "unknown_prefixes": {}
+      },
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/AEO_0000013": [
@@ -407,15 +432,7 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "http://purl.obolibrary.org/obo/aeo/releases/2014-12-05/aeo.owl",
-      "xref_pack": {
-        "invalid_luids": {},
-        "known_prefixes": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
+      "version_iri": "http://purl.obolibrary.org/obo/aeo/releases/2014-12-05/aeo.owl"
     }
   }
 }
