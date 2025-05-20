@@ -26,6 +26,7 @@ logger = logging.getLogger(__name__)
 
 DOWNLOAD_BEFORE_PARSING = {"caloha", "genepio"}
 CACHE_MODULE = pystow.module("oquat", "data")
+TZ_RE = re.compile(r"\d{4}-\d{2}-\d{2}T\d{2}")
 
 
 def secho(s: str, fg=None) -> None:
@@ -111,8 +112,7 @@ class Results(pydantic.BaseModel):
     xref_pack: ResultPack | None = None
     prov_pack: ResultPack | None = None
     synonym_pack: ResultPack | None = None
-
-    # edge_pack: ResultPack
+    prop_pack: ResultPack | None = None
 
     def to_markdown(self) -> str:
         """Build a markdown string."""
@@ -123,12 +123,9 @@ class Results(pydantic.BaseModel):
             rows.append(f"Graph Identifier: {self.graph_id}")
         if self.version or self.version_iri:
             rows.append(f"Graph Version: {self.version}/{self.version_iri}")
-        if self.xref_pack:
-            rows.append(self.xref_pack.to_markdown())
-        if self.prov_pack:
-            rows.append(self.prov_pack.to_markdown())
-        if self.synonym_pack:
-            rows.append(self.synonym_pack.to_markdown())
+        for pack in [self.xref_pack, self.prov_pack, self.synonym_pack, self.prop_pack]:
+            if pack:
+                rows.append(pack.to_markdown())
         return "\n\n".join(rows).strip()
 
 
@@ -280,7 +277,7 @@ def analyze_graph(graph: obographs.Graph, *, iri_filter: str | None = None) -> R
     node_xref_pack = PrePack("Node Xrefs")
     prov_xref_pack = PrePack("Provenance Xrefs")
     syn_xref_pack = PrePack("Synonym Xrefs")
-    # edge_pack = PrePack("Edges")
+    node_prop_pack = PrePack("Node Properties")
 
     # if graph.id is None:
     #     # this is the URI for the ontology, e.g. "http://purl.obolibrary.org/obo/go.owl"
@@ -314,17 +311,16 @@ def analyze_graph(graph: obographs.Graph, *, iri_filter: str | None = None) -> R
                     track_non_curies=False,
                 )
 
-        # for prop in node_meta.get("basicPropertyValues", []):
-        #     pass
-
-    # for edge in tqdm(graph.edges, unit_scale=True, unit="edge", leave=False):
-    #     if iri_filter and not edge.sub.startswith(iri_filter):
-    #         continue
-    #     if edge.pred != "is_a":
-    #         secho(str(edge))
-    #     edge_pack.aggregate_curie_issues(edge.sub, edge.sub)
-    #     edge_pack.aggregate_curie_issues(edge.sub, edge.pred)
-    #     edge_pack.aggregate_curie_issues(edge.sub, edge.obj)
+        for prop in node_meta.basicPropertyValues or []:
+            node_prop_pack.aggregate_curie_issues(node_id=node_id, curie=prop.pred)
+            if prop.val:
+                node_prop_pack.aggregate_curie_issues(
+                    node_id=node_id,
+                    curie=prop.val,
+                    # A lot of times they stick random stuff
+                    # in here that aren't CURIEs
+                    track_non_curies=False,
+                )
 
     return Results(
         graph_id=graph.id,
@@ -332,7 +328,7 @@ def analyze_graph(graph: obographs.Graph, *, iri_filter: str | None = None) -> R
         xref_pack=node_xref_pack.finalize(),
         prov_pack=prov_xref_pack.finalize(),
         synonym_pack=syn_xref_pack.finalize(),
-        # edge_pack=edge_pack.finalize(),
+        prop_pack=node_prop_pack.finalize(),
     )
 
 
@@ -406,12 +402,19 @@ def _aggregate_curie_issues(
 ) -> None:
     if curie in SKIP_ISSUES:
         return
+
+    if "\n" in curie or curie.count(" ") > 5:
+        return
+
     # Check that the CURIE syntax is used properly
     try:
         prefix, identifier = curie.split(":", 1)
     except ValueError:
         if track_non_curies:
             malformed_curies[node_id].add(curie)
+        return
+
+    if TZ_RE.match(prefix):
         return
 
     # Disregard URIs
@@ -422,7 +425,11 @@ def _aggregate_curie_issues(
     norm_prefix = bioregistry.normalize_prefix(prefix)
     if norm_prefix is None:
         unknown_prefixes[prefix][node_id] = curie
-    elif norm_prefix.casefold() != prefix.casefold():
+        return
+
+    # known_prefixes[node_id][prefix].add(curie)
+
+    if norm_prefix.casefold() != prefix.casefold():
         if prefix not in NONCANONICAL_EXCEPTIONS:
             noncanonical_prefixes[prefix][node_id] = curie
 
